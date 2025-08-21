@@ -366,22 +366,27 @@
       };
     };
     function updateLoopCountDisplay() {
-      document.querySelectorAll('#fileListDiv li').forEach((li, idx) => {
-        const loopSpan = li.querySelector('.loop-count-span');
-        if (loopSpan) loopSpan.remove();
-        if (
-          playerState.isPlaying &&
-          idx === playerState.fileIdx &&
-          playerState.selectedFiles.length > 0
-        ) {
+      // Remove all existing loop count spans
+      document.querySelectorAll('#fileListDiv .loop-count-span').forEach(span => span.remove());
+      
+      // If playing, add loop count to the currently playing file
+      if (
+        playerState.isPlaying &&
+        playerState.selectedFiles.length > 0 &&
+        playerState.fileIdx < playerState.selectedFiles.length
+      ) {
+        const currentFile = playerState.selectedFiles[playerState.fileIdx].file;
+        const currentLi = document.querySelector(`#fileListDiv li[data-file-name="${currentFile}"]`);
+        
+        if (currentLi) {
           const span = document.createElement('span');
           span.className = 'loop-count-span';
           span.style.marginLeft = '10px';
           span.style.color = '#888';
           span.textContent = `(looping ${playerState.loopIdx} of ${playerState.loopCount})`;
-          li.appendChild(span);
+          currentLi.appendChild(span);
         }
-      });
+      }
     }
 
     // Call updateLoopCountDisplay whenever playback changes
