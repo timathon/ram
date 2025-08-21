@@ -3,11 +3,19 @@
 
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Audio Player</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
     }
 
     .section {
@@ -16,33 +24,165 @@
 
     .file-list {
       margin-left: 20px;
+      padding: 0;
+    }
+
+    .file-list li {
+      margin-bottom: 8px;
+      padding: 5px;
+      border-radius: 4px;
+      transition: background-color 0.2s;
+    }
+
+    .file-list li:hover {
+      background-color: #f0f0f0;
     }
 
     .controls {
-      margin-top: 20px;
+      margin: 20px 0;
+      text-align: center;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .controls button {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      background-color: #f5f5f5;
+      transition: background-color 0.2s;
+    }
+
+    .controls button:hover {
+      background-color: #e0e0e0;
     }
 
     label {
       margin-right: 10px;
+      display: inline-block;
     }
 
     .file-box {
       border: 1px solid #ccc;
-      padding: 10px;
-      margin-top: 15px;
+      padding: 15px;
+      margin: 15px 0;
       background: #f9f9f9;
       min-height: 40px;
+      border-radius: 4px;
     }
 
     .file-box-title {
       font-weight: bold;
-      margin-bottom: 8px;
+      margin-bottom: 12px;
       display: block;
+      font-size: 18px;
+    }
+
+    select, input[type="number"] {
+      padding: 8px;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+      font-size: 14px;
+    }
+
+    .dropdown-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      margin-bottom: 15px;
+      justify-content: center;
+    }
+
+    .dropdown-container > div {
+      display: flex;
+      flex-direction: column;
+      min-width: 150px;
+    }
+
+    .loop-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      margin: 15px 0;
+    }
+
+    .loop-container label {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    #audio {
+      width: 100%;
+      margin-top: 20px;
+      border-radius: 4px;
+    }
+
+    /* Responsive styles */
+    @media (max-width: 768px) {
+      body {
+        margin: 10px;
+        padding: 5px;
+      }
+
+      .dropdown-container {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
+      }
+
+      .dropdown-container > div {
+        min-width: auto;
+      }
+
+      .controls {
+        flex-direction: column;
+        gap: 15px;
+      }
+
+      .controls button {
+        width: 100%;
+        max-width: 300px;
+        padding: 12px;
+      }
+
+      .file-box {
+        padding: 10px;
+      }
+
+      .file-list {
+        margin-left: 10px;
+      }
+
+      select, input[type="number"] {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px; /* Prevents zoom on iOS */
+      }
+    }
+
+    @media (max-width: 480px) {
+      .file-list li {
+        padding: 8px 5px;
+      }
+
+      .controls button {
+        padding: 14px;
+        font-size: 18px;
+      }
+
+      .file-box-title {
+        font-size: 16px;
+        text-align: center;
+      }
     }
   </style>
-  <!-- Removed duplicate script block to fix redeclaration error -->
-
-<body>
   <h1>Audio Player</h1>
   <div id="sections"></div>
   <div class="controls">
@@ -102,30 +242,32 @@
       // Populate textbook dropdown
       const sectionsDiv = document.getElementById('sections');
       sectionsDiv.innerHTML = `
-        <div>
-          <label>Textbook:
+        <div class="dropdown-container">
+          <div>
+            <label for="textbookSelect">Textbook:</label>
             <select id="textbookSelect"></select>
-          </label>
-          <label>Unit:
+          </div>
+          <div>
+            <label for="unitSelect">Unit:</label>
             <select id="unitSelect"></select>
-          </label>
-          <label>Section:
+          </div>
+          <div>
+            <label for="sectionSelect">Section:</label>
             <select id="sectionSelect"></select>
-          </label>
+          </div>
         </div>
-        <div style="margin-top:10px;">
-          <label>
+        <div class="loop-container">
+          <label for="globalLoopCount">
             Loop count for all selected files:
-            <input type="number" min="1" value="1" id="globalLoopCount" style="width:50px;">
+            <input type="number" min="1" value="1" id="globalLoopCount" style="width:60px;">
           </label>
         </div>
         <div class="file-box">
-          <span class="file-box-title">Files:
+          <span class="file-box-title">Files:</span>
           <label style="margin-bottom:0 8px;">
             <input type="checkbox" id="selectAllFiles" checked>
             Select All
           </label>
-          </span>
           <ul id="fileListDiv" class="file-list"></ul>
         </div>
       `;
@@ -396,30 +538,32 @@
       // Populate textbook dropdown
       const sectionsDiv = document.getElementById('sections');
       sectionsDiv.innerHTML = `
-        <div>
-          <label>Textbook:
+        <div class="dropdown-container">
+          <div>
+            <label for="textbookSelect">Textbook:</label>
             <select id="textbookSelect"></select>
-          </label>
-          <label>Unit:
+          </div>
+          <div>
+            <label for="unitSelect">Unit:</label>
             <select id="unitSelect"></select>
-          </label>
-          <label>Section:
+          </div>
+          <div>
+            <label for="sectionSelect">Section:</label>
             <select id="sectionSelect"></select>
-          </label>
+          </div>
         </div>
-        <div style="margin-top:10px;">
-          <label>
+        <div class="loop-container">
+          <label for="globalLoopCount">
             Loop count for all selected files:
-            <input type="number" min="1" value="1" id="globalLoopCount" style="width:50px;">
+            <input type="number" min="1" value="1" id="globalLoopCount" style="width:60px;">
           </label>
         </div>
         <div class="file-box">
-          <span class="file-box-title">Files:
+          <span class="file-box-title">Files:</span>
           <label style="margin-bottom:0 8px;">
             <input type="checkbox" id="selectAllFiles" checked>
             Select All
           </label>
-          </span>
           <ul id="fileListDiv" class="file-list"></ul>
         </div>
       `;
