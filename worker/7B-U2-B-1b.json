@@ -1,0 +1,29 @@
+{
+  "text_id": "7B-U2-B-1b",
+  "sentences": [
+    [
+      "7B-U2-B-1b-01",
+      "A1",
+      "Dear Dr. Know,",
+      "000911_use2.93s-audio1.76s-seed3333-te0.3-tp0.7-tk20-textlen14-85406"
+    ],
+    [
+      "7B-U2-B-1b-02",
+      "A1",
+      "Help! There are too many rules in my life!",
+      "000915_use3.92s-audio2.38s-seed3333-te0.3-tp0.7-tk20-textlen42-59066"
+    ],
+    [
+      "7B-U2-B-1b-15",
+      "B1",
+      "Dear Alice,",
+      "000917_use1.27s-audio0.69s-seed6653-te0.3-tp0.7-tk20-textlen11-82284"
+    ],
+    [
+      "7B-U2-B-1b-16",
+      "B1",
+      "Yes, there are many rules in life!",
+      "000921_use3.59s-audio2.34s-seed6653-te0.3-tp0.7-tk20-textlen34-27563"
+    ]
+  ]
+}
