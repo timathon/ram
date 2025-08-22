@@ -46,6 +46,7 @@
       justify-content: center;
       align-items: center;
       gap: 10px;
+      padding: 10px 0;
     }
 
     .controls button {
@@ -56,6 +57,7 @@
       border-radius: 4px;
       background-color: #f5f5f5;
       transition: background-color 0.2s;
+      min-width: 120px;
     }
 
     .controls button:hover {
@@ -142,14 +144,16 @@
       }
 
       .controls {
-        flex-direction: column;
-        gap: 15px;
+        flex-direction: row;
+        gap: 10px;
+        flex-wrap: nowrap;
       }
 
       .controls button {
-        width: 100%;
-        max-width: 300px;
+        width: auto;
         padding: 12px;
+        min-width: 80px;
+        font-size: 14px;
       }
 
       .file-box {
@@ -172,9 +176,14 @@
         padding: 8px 5px;
       }
 
+      .controls {
+        flex-wrap: wrap;
+      }
+
       .controls button {
         padding: 14px;
-        font-size: 18px;
+        font-size: 16px;
+        min-width: 100px;
       }
 
       .file-box-title {
@@ -466,7 +475,6 @@
       const prevBtn = document.createElement('button');
       prevBtn.id = 'prevBtn';
       prevBtn.textContent = '<<';
-      prevBtn.style.margin = '0 10px';
       controlsDiv.appendChild(prevBtn);
 
       const nextBtn = document.createElement('button');
