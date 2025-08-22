@@ -649,9 +649,36 @@
       playerState.loopIdx = 1;
       playerState.isPlaying = true;
 
+      // Preload the second file if it exists
+      if (selectedFiles.length > 1) {
+        preloadAudio(selectedFiles[1]);
+      }
+
       playCurrent();
     }
     // (Removed duplicate event listener for globalLoopCount; already handled in buildUI)
+    // Preload audio file
+    function preloadAudio(fileObj) {
+      if (!fileObj) return;
+      
+      const { textbook, unit, section, file } = fileObj;
+      const preloadAudio = new Audio();
+      preloadAudio.src = `wav/${textbook}/${unit}/${section}/${file}`;
+      // Don't play, just load
+      preloadAudio.load();
+      
+      // Optional: Add event listeners for debugging
+      preloadAudio.oncanplaythrough = function() {
+        console.log(`Preloaded: ${file}`);
+      };
+      
+      preloadAudio.onerror = function() {
+        console.log(`Failed to preload: ${file}`);
+      };
+      
+      return preloadAudio;
+    }
+
     function playCurrent() {
       const audio = document.getElementById('audio');
       const files = playerState.selectedFiles;
@@ -666,6 +693,11 @@
       audio.play();
       playerState.loopIdx = 1;
       highlightPlayingFile(file);
+
+      // Preload the next file if it exists
+      if (idx + 1 < files.length) {
+        preloadAudio(files[idx + 1]);
+      }
 
       audio.onended = function () {
         if (!playerState.isPlaying) return;
