@@ -130,23 +130,9 @@
       border: 1px solid #ccc;
       font-size: 14px;
       /* Fix for flickering dropdowns on Windows browsers */
-      -webkit-appearance: none;
-      -moz-appearance: none;
-      appearance: none;
       background-color: white;
       position: relative;
       z-index: 1;
-      /* Ensure consistent dropdown arrow */
-      background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
-      background-repeat: no-repeat;
-      background-position: right 8px center;
-      background-size: 16px;
-      padding-right: 32px;
-    }
-    
-    /* Remove custom arrow for IE */
-    select::-ms-expand {
-      display: none;
     }
 
     input[type="number"] {
@@ -376,16 +362,23 @@
       function fixDropdownFlickering() {
         const allSelects = document.querySelectorAll('select');
         allSelects.forEach(select => {
-          // Prevent focus issues that cause flickering
+          // Track if we're handling a mousedown to prevent double events
+          let isMouseDown = false;
+          
           select.addEventListener('mousedown', function(e) {
-            // Prevent default focus behavior that can cause flickering
-            e.preventDefault();
-            this.focus();
+            isMouseDown = true;
+            // Small delay to ensure focus is properly set
+            setTimeout(() => {
+              isMouseDown = false;
+            }, 100);
           });
           
-          // Ensure consistent behavior across browsers
-          select.addEventListener('focus', function() {
-            this.setAttribute('data-focused', 'true');
+          select.addEventListener('focus', function(e) {
+            // Only set the focused attribute if we're not handling a mousedown
+            // This prevents flickering on Windows browsers
+            if (!isMouseDown) {
+              this.setAttribute('data-focused', 'true');
+            }
           });
           
           select.addEventListener('blur', function() {
