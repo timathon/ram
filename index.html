@@ -74,7 +74,6 @@
       padding: 15px;
       margin: 15px 0;
       background: #f9f9f9;
-      min-height: 40px;
       border-radius: 4px;
     }
 
@@ -83,6 +82,45 @@
       margin-bottom: 12px;
       display: block;
       font-size: 18px;
+    }
+
+    .file-list {
+      margin-left: 20px;
+      padding: 0;
+      max-height: 200px; /* Adjusted to show approximately 5 items (36px per item) */
+      overflow-y: auto;
+      border: 1px solid #ddd;
+      padding: 10px;
+      background: white;
+      border-radius: 4px;
+    }
+
+    .file-list li {
+      margin-bottom: 8px;
+      padding: 5px;
+      border-radius: 4px;
+      transition: background-color 0.2s;
+      list-style-type: none;
+      line-height: 1.4; /* Ensuring consistent line height */
+    }
+
+    /* Custom scrollbar styling */
+    .file-list::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    .file-list::-webkit-scrollbar-track {
+      background: #f1f1f1;
+      border-radius: 4px;
+    }
+
+    .file-list::-webkit-scrollbar-thumb {
+      background: #c1c1c1;
+      border-radius: 4px;
+    }
+
+    .file-list::-webkit-scrollbar-thumb:hover {
+      background: #a8a8a8;
     }
 
     select, input[type="number"] {
@@ -134,13 +172,19 @@
       }
 
       .dropdown-container {
-        flex-direction: column;
-        align-items: stretch;
+        flex-direction: row;
+        flex-wrap: wrap;
         gap: 10px;
       }
 
       .dropdown-container > div {
         min-width: auto;
+        flex: 1;
+        min-width: 120px;
+      }
+
+      .dropdown-container > div:nth-child(3) {
+        flex: 0 0 100%; /* Make section dropdown take full width */
       }
 
       .controls {
@@ -162,6 +206,7 @@
 
       .file-list {
         margin-left: 10px;
+        max-height: 180px; /* Slightly smaller on mobile */
       }
 
       select, input[type="number"] {
@@ -189,6 +234,14 @@
       .file-box-title {
         font-size: 16px;
         text-align: center;
+      }
+      
+      .file-list {
+        max-height: 150px; /* Even smaller on very small screens */
+      }
+      
+      .dropdown-container > div {
+        flex: 0 0 100%; /* Stack all dropdowns on very small screens */
       }
     }
   </style>
@@ -272,7 +325,7 @@
           </label>
         </div>
         <div class="file-box">
-          <span class="file-box-title">Files:</span>
+          <span class="file-box-title">Files: 0 of 0 selected</span>
           <label style="margin-bottom:0 8px;">
             <input type="checkbox" id="selectAllFiles" checked>
             Select All
@@ -404,6 +457,19 @@
         if (li.getAttribute('data-file-name') === fileName) {
           li.style.background = '#ffeeba';
           li.style.fontWeight = 'bold';
+          
+          // Scroll the file into view if it's not visible
+          const fileListDiv = document.getElementById('fileListDiv');
+          const fileRect = li.getBoundingClientRect();
+          const containerRect = fileListDiv.getBoundingClientRect();
+          
+          // Check if the element is outside the viewable area
+          if (fileRect.top < containerRect.top || fileRect.bottom > containerRect.bottom) {
+            // Scroll to the top of the element with some offset for better visibility
+            const container = document.getElementById('fileListDiv');
+            const scrollTop = li.offsetTop - container.offsetTop;
+            container.scrollTop = scrollTop;
+          }
         } else {
           li.style.background = '';
           li.style.fontWeight = '';
@@ -452,6 +518,13 @@
       const allCheckboxes = document.querySelectorAll('.file-checkbox');
       const checkedCheckboxes = document.querySelectorAll('.file-checkbox:checked');
       const selectAll = document.getElementById('selectAllFiles');
+      
+      // Update file counter for all file-box-title elements
+      const fileBoxTitles = document.querySelectorAll('.file-box-title');
+      fileBoxTitles.forEach(title => {
+        title.textContent = `Files: ${checkedCheckboxes.length} of ${allCheckboxes.length} selected`;
+      });
+      
       if (!selectAll) return;
       if (checkedCheckboxes.length === 0) {
         selectAll.checked = false;
@@ -572,7 +645,7 @@
           </label>
         </div>
         <div class="file-box">
-          <span class="file-box-title">Files:</span>
+          <span class="file-box-title">Files: 0 of 0 selected</span>
           <label style="margin-bottom:0 8px;">
             <input type="checkbox" id="selectAllFiles" checked>
             Select All
