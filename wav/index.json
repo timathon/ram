@@ -56,6 +56,42 @@
             "path": "A7B/U4/A7B-U4-B-1b/A7B-U4-B-1b_13.mp3"
           }
         ]
+      },
+      "A7B-U4-B-2a": {
+        "files": [
+          {
+            "name": "A7B-U4-B-2a_01.mp3",
+            "path": "A7B/U4/A7B-U4-B-2a/A7B-U4-B-2a_01.mp3"
+          },
+          {
+            "name": "A7B-U4-B-2a_02.mp3",
+            "path": "A7B/U4/A7B-U4-B-2a/A7B-U4-B-2a_02.mp3"
+          },
+          {
+            "name": "A7B-U4-B-2a_03.mp3",
+            "path": "A7B/U4/A7B-U4-B-2a/A7B-U4-B-2a_03.mp3"
+          },
+          {
+            "name": "A7B-U4-B-2a_04.mp3",
+            "path": "A7B/U4/A7B-U4-B-2a/A7B-U4-B-2a_04.mp3"
+          },
+          {
+            "name": "A7B-U4-B-2a_05.mp3",
+            "path": "A7B/U4/A7B-U4-B-2a/A7B-U4-B-2a_05.mp3"
+          },
+          {
+            "name": "A7B-U4-B-2a_06.mp3",
+            "path": "A7B/U4/A7B-U4-B-2a/A7B-U4-B-2a_06.mp3"
+          },
+          {
+            "name": "A7B-U4-B-2a_07.mp3",
+            "path": "A7B/U4/A7B-U4-B-2a/A7B-U4-B-2a_07.mp3"
+          },
+          {
+            "name": "A7B-U4-B-2a_08.mp3",
+            "path": "A7B/U4/A7B-U4-B-2a/A7B-U4-B-2a_08.mp3"
+          }
+        ]
       }
     }
   },
