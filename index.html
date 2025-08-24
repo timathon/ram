@@ -436,6 +436,8 @@
           playerState.selectedFiles = [];
           document.getElementById('audio').pause();
           document.getElementById('audio').src = '';
+          document.getElementById('playBtn').textContent = 'Play Selected';
+          stopPlayTimeTracking();
           updateUnits();
         });
       };
@@ -446,6 +448,8 @@
           playerState.selectedFiles = [];
           document.getElementById('audio').pause();
           document.getElementById('audio').src = '';
+          document.getElementById('playBtn').textContent = 'Play Selected';
+          stopPlayTimeTracking();
           updateSections();
         });
       };
@@ -456,6 +460,8 @@
           playerState.selectedFiles = [];
           document.getElementById('audio').pause();
           document.getElementById('audio').src = '';
+          document.getElementById('playBtn').textContent = 'Play Selected';
+          stopPlayTimeTracking();
           updateFiles();
         });
       };
@@ -587,6 +593,9 @@
       nextBtn.id = 'nextBtn';
       nextBtn.textContent = '>>';
       controlsDiv.appendChild(nextBtn);
+      
+      // Initialize daily play time tracking
+      loadDailyPlayTime();
     });
 
     // Helper to populate dropdowns
@@ -662,7 +671,92 @@
       loopCount: 1,
       fileIdx: 0,
       loopIdx: 1,
-      isPlaying: false
+      isPlaying: false,
+      playStartTime: null
+    }
+
+    // Play time tracking
+    let dailyPlayTime = {
+      date: new Date().toDateString(),
+      time: 0 // in seconds
+    };
+
+    // Load daily play time from localStorage
+    function loadDailyPlayTime() {
+      try {
+        const saved = localStorage.getItem('dailyPlayTime');
+        if (saved) {
+          const parsed = JSON.parse(saved);
+          // Reset if it's a new day
+          if (parsed.date !== new Date().toDateString()) {
+            dailyPlayTime = {
+              date: new Date().toDateString(),
+              time: 0
+            };
+          } else {
+            dailyPlayTime = parsed;
+          }
+        }
+      } catch (e) {
+        console.error('Error loading daily play time:', e);
+      }
+      updatePlayTimeDisplay();
+    }
+
+    // Save daily play time to localStorage
+    function saveDailyPlayTime() {
+      try {
+        localStorage.setItem('dailyPlayTime', JSON.stringify(dailyPlayTime));
+      } catch (e) {
+        console.error('Error saving daily play time:', e);
+      }
+    }
+
+    // Update the play time display
+    function updatePlayTimeDisplay() {
+      const hours = Math.floor(dailyPlayTime.time / 3600);
+      const minutes = Math.floor((dailyPlayTime.time % 3600) / 60);
+      const seconds = Math.floor(dailyPlayTime.time % 60);
+      
+      let timeString = '';
+      if (hours > 0) {
+        timeString = `${hours}h ${minutes}m ${seconds}s`;
+      } else if (minutes > 0) {
+        timeString = `${minutes}m ${seconds}s`;
+      } else {
+        timeString = `${seconds}s`;
+      }
+      
+      // Update display in controls area
+      let playTimeDisplay = document.getElementById('playTimeDisplay');
+      if (!playTimeDisplay) {
+        const controlsDiv = document.querySelector('.controls');
+        playTimeDisplay = document.createElement('div');
+        playTimeDisplay.id = 'playTimeDisplay';
+        playTimeDisplay.style.marginLeft = '15px';
+        playTimeDisplay.style.padding = '10px';
+        playTimeDisplay.style.backgroundColor = '#f0f0f0';
+        playTimeDisplay.style.borderRadius = '4px';
+        playTimeDisplay.style.fontWeight = 'bold';
+        controlsDiv.appendChild(playTimeDisplay);
+      }
+      playTimeDisplay.textContent = `Today: ${timeString}`;
+    }
+
+    // Start tracking play time
+    function startPlayTimeTracking() {
+      playerState.playStartTime = Date.now();
+    }
+
+    // Stop tracking play time and update total
+    function stopPlayTimeTracking() {
+      if (playerState.playStartTime) {
+        const elapsedSeconds = (Date.now() - playerState.playStartTime) / 1000;
+        dailyPlayTime.time += elapsedSeconds;
+        playerState.playStartTime = null;
+        saveDailyPlayTime();
+        updatePlayTimeDisplay();
+      }
     };
 
     // Play selected files with global loop count
@@ -691,6 +785,9 @@
       playerState.fileIdx = 0;
       playerState.loopIdx = 1;
       playerState.isPlaying = true;
+
+      // Start tracking play time
+      startPlayTimeTracking();
 
       // Preload the second file if it exists
       if (selectedFiles.length > 1) {
@@ -729,6 +826,7 @@
       if (idx < 0 || idx >= files.length) {
         playerState.isPlaying = false;
         highlightPlayingFile(null);
+        stopPlayTimeTracking(); // Stop tracking when playback finishes
         return;
       }
       const { textbook, unit, section, file } = files[idx];
@@ -754,10 +852,30 @@
           playCurrent();
         }
       };
+
+      // Stop tracking play time when audio is paused or stopped
+      audio.onpause = function() {
+        if (!playerState.isPlaying) {
+          stopPlayTimeTracking();
+        }
+      };
     }
 
     document.getElementById('playBtn').onclick = function () {
-      startPlayback();
+      const playBtn = document.getElementById('playBtn');
+      if (playerState.isPlaying) {
+        // Stop playback
+        const audio = document.getElementById('audio');
+        audio.pause();
+        playerState.isPlaying = false;
+        playBtn.textContent = 'Play Selected';
+        stopPlayTimeTracking();
+        highlightPlayingFile(null);
+      } else {
+        // Start playback
+        startPlayback();
+        playBtn.textContent = 'Stop';
+      }
     };
 
     // Next and Previous button handlers
