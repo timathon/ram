@@ -1,5 +1,73 @@
 {
   "A7B": {
+    "A7B-U5": {
+      "A7B-U5-A-3a3b3d": {
+        "files": [
+          {
+            "name": "A7B-U5-A-3a3b3d_01.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_01.mp3"
+          },
+          {
+            "name": "A7B-U5-A-3a3b3d_02.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_02.mp3"
+          },
+          {
+            "name": "A7B-U5-A-3a3b3d_03.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_03.mp3"
+          },
+          {
+            "name": "A7B-U5-A-3a3b3d_04.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_04.mp3"
+          },
+          {
+            "name": "A7B-U5-A-3a3b3d_05.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_05.mp3"
+          },
+          {
+            "name": "A7B-U5-A-3a3b3d_06.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_06.mp3"
+          },
+          {
+            "name": "A7B-U5-A-3a3b3d_07.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_07.mp3"
+          },
+          {
+            "name": "A7B-U5-A-3a3b3d_08.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_08.mp3"
+          },
+          {
+            "name": "A7B-U5-A-3a3b3d_09.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_09.mp3"
+          },
+          {
+            "name": "A7B-U5-A-3a3b3d_10.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_10.mp3"
+          },
+          {
+            "name": "A7B-U5-A-3a3b3d_11.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_11.mp3"
+          },
+          {
+            "name": "A7B-U5-A-3a3b3d_12.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_12.mp3"
+          },
+          {
+            "name": "A7B-U5-A-3a3b3d_13.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_13.mp3"
+          },
+          {
+            "name": "A7B-U5-A-3a3b3d_14.mp3",
+            "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d/A7B-U5-A-3a3b3d_14.mp3"
+          }
+        ]
+      },
+      "files": [
+        {
+          "name": "A7B-U5-A-3a3b3d.mp3",
+          "path": "A7B/A7B-U5/A7B-U5-A-3a3b3d.mp3"
+        }
+      ]
+    },
     "U4": {
       "A7B-U4-B-1b": {
         "files": [
@@ -410,6 +478,318 @@
           {
             "name": "A9-U6-B-2b_19.mp3",
             "path": "A9/U6/A9-U6-B-2b/A9-U6-B-2b_19.mp3"
+          }
+        ]
+      },
+      "A9-U6-JCB-Words and Expressions": {
+        "files": [
+          {
+            "name": "A9-U6-JCB-Words and Expressions_01.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_01.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_02.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_02.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_03.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_03.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_04.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_04.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_05.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_05.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_06.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_06.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_07.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_07.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_08.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_08.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_09.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_09.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_10.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_10.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_11.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_11.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_12.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_12.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_13.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_13.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_14.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_14.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_15.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_15.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_16.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_16.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_17.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_17.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_18.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_18.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_19.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_19.mp3"
+          },
+          {
+            "name": "A9-U6-JCB-Words and Expressions_20.mp3",
+            "path": "A9/U6/A9-U6-JCB-Words and Expressions/A9-U6-JCB-Words and Expressions_20.mp3"
+          }
+        ]
+      },
+      "A9-U6-SC": {
+        "files": [
+          {
+            "name": "A9-U6-SC_01.mp3",
+            "path": "A9/U6/A9-U6-SC/A9-U6-SC_01.mp3"
+          },
+          {
+            "name": "A9-U6-SC_02.mp3",
+            "path": "A9/U6/A9-U6-SC/A9-U6-SC_02.mp3"
+          },
+          {
+            "name": "A9-U6-SC_03.mp3",
+            "path": "A9/U6/A9-U6-SC/A9-U6-SC_03.mp3"
+          },
+          {
+            "name": "A9-U6-SC_04.mp3",
+            "path": "A9/U6/A9-U6-SC/A9-U6-SC_04.mp3"
+          },
+          {
+            "name": "A9-U6-SC_05.mp3",
+            "path": "A9/U6/A9-U6-SC/A9-U6-SC_05.mp3"
+          },
+          {
+            "name": "A9-U6-SC_06.mp3",
+            "path": "A9/U6/A9-U6-SC/A9-U6-SC_06.mp3"
+          },
+          {
+            "name": "A9-U6-SC_07.mp3",
+            "path": "A9/U6/A9-U6-SC/A9-U6-SC_07.mp3"
+          },
+          {
+            "name": "A9-U6-SC_08.mp3",
+            "path": "A9/U6/A9-U6-SC/A9-U6-SC_08.mp3"
+          },
+          {
+            "name": "A9-U6-SC_09.mp3",
+            "path": "A9/U6/A9-U6-SC/A9-U6-SC_09.mp3"
+          },
+          {
+            "name": "A9-U6-SC_10.mp3",
+            "path": "A9/U6/A9-U6-SC/A9-U6-SC_10.mp3"
+          },
+          {
+            "name": "A9-U6-SC_11.mp3",
+            "path": "A9/U6/A9-U6-SC/A9-U6-SC_11.mp3"
+          },
+          {
+            "name": "A9-U6-SC_12.mp3",
+            "path": "A9/U6/A9-U6-SC/A9-U6-SC_12.mp3"
+          }
+        ]
+      }
+    }
+  },
+  "T1": {
+    "U6": {
+      "T1-U6-Culture": {
+        "files": [
+          {
+            "name": "T1-U6-Culture_01.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_01.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_02.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_02.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_03.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_03.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_04.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_04.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_05.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_05.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_06.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_06.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_07.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_07.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_08.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_08.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_09.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_09.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_10.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_10.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_11.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_11.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_12.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_12.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_13.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_13.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_14.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_14.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_15.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_15.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_16.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_16.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_17.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_17.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_18.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_18.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_19.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_19.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_20.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_20.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_21.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_21.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_22.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_22.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_23.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_23.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_24.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_24.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_25.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_25.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_26.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_26.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_27.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_27.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_28.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_28.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_29.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_29.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_30.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_30.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_31.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_31.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_32.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_32.mp3"
+          },
+          {
+            "name": "T1-U6-Culture_33.mp3",
+            "path": "T1/U6/T1-U6-Culture/T1-U6-Culture_33.mp3"
+          }
+        ]
+      },
+      "T1-U6-Vocabulary": {
+        "files": [
+          {
+            "name": "T1-U6-Vocabulary_01.mp3",
+            "path": "T1/U6/T1-U6-Vocabulary/T1-U6-Vocabulary_01.mp3"
+          },
+          {
+            "name": "T1-U6-Vocabulary_02.mp3",
+            "path": "T1/U6/T1-U6-Vocabulary/T1-U6-Vocabulary_02.mp3"
+          },
+          {
+            "name": "T1-U6-Vocabulary_03.mp3",
+            "path": "T1/U6/T1-U6-Vocabulary/T1-U6-Vocabulary_03.mp3"
+          },
+          {
+            "name": "T1-U6-Vocabulary_04.mp3",
+            "path": "T1/U6/T1-U6-Vocabulary/T1-U6-Vocabulary_04.mp3"
+          },
+          {
+            "name": "T1-U6-Vocabulary_05.mp3",
+            "path": "T1/U6/T1-U6-Vocabulary/T1-U6-Vocabulary_05.mp3"
+          },
+          {
+            "name": "T1-U6-Vocabulary_06.mp3",
+            "path": "T1/U6/T1-U6-Vocabulary/T1-U6-Vocabulary_06.mp3"
+          },
+          {
+            "name": "T1-U6-Vocabulary_07.mp3",
+            "path": "T1/U6/T1-U6-Vocabulary/T1-U6-Vocabulary_07.mp3"
+          },
+          {
+            "name": "T1-U6-Vocabulary_08.mp3",
+            "path": "T1/U6/T1-U6-Vocabulary/T1-U6-Vocabulary_08.mp3"
           }
         ]
       }
