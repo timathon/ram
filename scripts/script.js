@@ -432,7 +432,7 @@ function stopPlayTimeTracking() {
 };
 
 // Play selected files with global loop count
-function startPlayback() {
+async function startPlayback() {
   const selectedFiles = [];
   document.querySelectorAll('.file-checkbox:checked').forEach(cb => {
     const file = cb.value;
@@ -470,28 +470,35 @@ function startPlayback() {
 }
 // (Removed duplicate event listener for globalLoopCount; already handled in buildUI)
 // Preload audio file
-function preloadAudio(fileObj) {
+async function preloadAudio(fileObj) {
   if (!fileObj) return;
 
   const { textbook, unit, section, file } = fileObj;
-  const preloadAudio = new Audio();
-  preloadAudio.src = `wav/${textbook}/${unit}/${section}/${file}`;
-  // Don't play, just load
-  preloadAudio.load();
-
-  // Optional: Add event listeners for debugging
-  preloadAudio.oncanplaythrough = function () {
-    console.log(`Preloaded: ${file}`);
-  };
-
-  preloadAudio.onerror = function () {
-    console.log(`Failed to preload: ${file}`);
-  };
-
-  return preloadAudio;
+  const audioUrl = `wav/${textbook}/${unit}/${section}/${file}`;
+  
+  // Check if file is in cache first
+  try {
+    const isCached = await window.audioCache.isAudioInCache(audioUrl);
+    if (isCached) {
+      console.log(`File already cached: ${file}`);
+      return;
+    }
+  } catch (error) {
+    console.error('Error checking cache status:', error);
+  }
+  
+  // If not cached, fetch and cache it
+  try {
+    const response = await fetch(audioUrl);
+    const arrayBuffer = await response.arrayBuffer();
+    await window.audioCache.saveAudioToCache(audioUrl, arrayBuffer);
+    console.log(`Preloaded and cached: ${file}`);
+  } catch (error) {
+    console.log(`Failed to preload: ${file}`, error);
+  }
 }
 
-function playCurrent() {
+async function playCurrent() {
   const audio = document.getElementById('audio');
   const files = playerState.selectedFiles;
   const idx = playerState.fileIdx;
@@ -502,7 +509,24 @@ function playCurrent() {
     return;
   }
   const { textbook, unit, section, file } = files[idx];
-  audio.src = `wav/${textbook}/${unit}/${section}/${file}`;
+  const audioUrl = `wav/${textbook}/${unit}/${section}/${file}`;
+  
+  // Check if file is in cache
+  try {
+    const cachedData = await window.audioCache.getAudioFromCache(audioUrl);
+    if (cachedData) {
+      console.log(`Playing from cache: ${file}`);
+      const blob = new Blob([cachedData], { type: 'audio/mpeg' });
+      audio.src = URL.createObjectURL(blob);
+    } else {
+      console.log(`Playing from network: ${file}`);
+      audio.src = audioUrl;
+    }
+  } catch (error) {
+    console.error('Error retrieving from cache, falling back to network:', error);
+    audio.src = audioUrl;
+  }
+  
   audio.play();
   playerState.loopIdx = 1;
   highlightPlayingFile(file);
@@ -531,9 +555,26 @@ function playCurrent() {
       stopPlayTimeTracking();
     }
   };
+  
+  // Save to cache after playing (if not already cached)
+  audio.onplay = async function() {
+    try {
+      const isCached = await window.audioCache.isAudioInCache(audioUrl);
+      if (!isCached) {
+        // Fetch and cache the file
+        fetch(audioUrl)
+          .then(response => response.arrayBuffer())
+          .then(arrayBuffer => window.audioCache.saveAudioToCache(audioUrl, arrayBuffer))
+          .then(() => console.log(`Saved to cache: ${file}`))
+          .catch(error => console.error('Error caching file:', error));
+      }
+    } catch (error) {
+      console.error('Error checking cache status:', error);
+    }
+  };
 }
 
-document.getElementById('playBtn').onclick = function () {
+document.getElementById('playBtn').onclick = async function () {
   const playBtn = document.getElementById('playBtn');
   if (playerState.isPlaying) {
     // Stop playback
@@ -545,7 +586,7 @@ document.getElementById('playBtn').onclick = function () {
     highlightPlayingFile(null);
   } else {
     // Start playback
-    startPlayback();
+    await startPlayback();
     playBtn.textContent = 'Stop';
   }
 };
