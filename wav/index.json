@@ -919,6 +919,78 @@
       }
     }
   },
+  "SHSEE": {
+    "SHSEE-2024": {
+      "SHSEE-2024-Reading-B": {
+        "files": [
+          {
+            "name": "SHSEE-2024-Reading-B_01.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_01.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_02.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_02.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_03.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_03.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_04.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_04.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_05.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_05.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_06.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_06.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_07.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_07.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_08.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_08.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_09.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_09.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_10.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_10.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_11.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_11.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_12.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_12.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_13.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_13.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_14.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_14.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_15.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_15.mp3"
+          },
+          {
+            "name": "SHSEE-2024-Reading-B_16.mp3",
+            "path": "SHSEE/SHSEE-2024/SHSEE-2024-Reading-B/SHSEE-2024-Reading-B_16.mp3"
+          }
+        ]
+      }
+    }
+  },
   "T1": {
     "T1-U6": {
       "T1-U6-Culture": {
