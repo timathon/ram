@@ -480,18 +480,26 @@ async function preloadAudio(fileObj) {
   try {
     const isCached = await window.audioCache.isAudioInCache(audioUrl);
     if (isCached) {
-      console.log(`File already cached: ${file}`);
-      return;
+      // Check if cached file is outdated
+      const isOutdated = await window.audioCache.isCachedFileOutdated(audioUrl);
+      if (!isOutdated) {
+        console.log(`File already cached and up-to-date: ${file}`);
+        return;
+      } else {
+        console.log(`File cached but outdated, will re-download: ${file}`);
+      }
     }
   } catch (error) {
     console.error('Error checking cache status:', error);
   }
   
-  // If not cached, fetch and cache it
+  // If not cached or outdated, fetch and cache it
   try {
     const response = await fetch(audioUrl);
     const arrayBuffer = await response.arrayBuffer();
-    await window.audioCache.saveAudioToCache(audioUrl, arrayBuffer);
+    const lastModified = response.headers.get('Last-Modified');
+    const lastModifiedTime = lastModified ? new Date(lastModified).getTime() : Date.now();
+    await window.audioCache.saveAudioToCache(audioUrl, arrayBuffer, lastModifiedTime);
     console.log(`Preloaded and cached: ${file}`);
   } catch (error) {
     console.log(`Failed to preload: ${file}`, error);
@@ -512,18 +520,28 @@ async function playCurrent() {
   const audioUrl = `wav/${textbook}/${unit}/${section}/${file}`;
   
   // Check if file is in cache
+  let useCached = false;
   try {
     const cachedData = await window.audioCache.getAudioFromCache(audioUrl);
     if (cachedData) {
-      console.log(`Playing from cache: ${file}`);
-      const blob = new Blob([cachedData], { type: 'audio/mpeg' });
-      audio.src = URL.createObjectURL(blob);
-    } else {
-      console.log(`Playing from network: ${file}`);
-      audio.src = audioUrl;
+      // Check if cached file is outdated
+      const isOutdated = await window.audioCache.isCachedFileOutdated(audioUrl);
+      if (!isOutdated) {
+        console.log(`Playing from cache: ${file}`);
+        const blob = new Blob([cachedData], { type: 'audio/mpeg' });
+        audio.src = URL.createObjectURL(blob);
+        useCached = true;
+      } else {
+        console.log(`Cached file outdated, will fetch updated version: ${file}`);
+      }
     }
   } catch (error) {
     console.error('Error retrieving from cache, falling back to network:', error);
+  }
+  
+  // If not using cached file, fetch from network
+  if (!useCached) {
+    console.log(`Playing from network: ${file}`);
     audio.src = audioUrl;
   }
   
@@ -556,15 +574,30 @@ async function playCurrent() {
     }
   };
   
-  // Save to cache after playing (if not already cached)
+  // Save to cache after playing (if not already cached or if outdated)
   audio.onplay = async function() {
     try {
       const isCached = await window.audioCache.isAudioInCache(audioUrl);
-      if (!isCached) {
+      let shouldCache = !isCached;
+      
+      if (isCached) {
+        // Check if cached file is outdated
+        const isOutdated = await window.audioCache.isCachedFileOutdated(audioUrl);
+        shouldCache = isOutdated;
+      }
+      
+      if (shouldCache) {
         // Fetch and cache the file
         fetch(audioUrl)
-          .then(response => response.arrayBuffer())
-          .then(arrayBuffer => window.audioCache.saveAudioToCache(audioUrl, arrayBuffer))
+          .then(response => {
+            const lastModified = response.headers.get('Last-Modified');
+            const lastModifiedTime = lastModified ? new Date(lastModified).getTime() : Date.now();
+            return response.arrayBuffer().then(arrayBuffer => ({
+              arrayBuffer,
+              lastModifiedTime
+            }));
+          })
+          .then(({arrayBuffer, lastModifiedTime}) => window.audioCache.saveAudioToCache(audioUrl, arrayBuffer, lastModifiedTime))
           .then(() => console.log(`Saved to cache: ${file}`))
           .catch(error => console.error('Error caching file:', error));
       }

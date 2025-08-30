@@ -1,6 +1,6 @@
 // IndexedDB setup for caching audio files
 const DB_NAME = 'AudioCache';
-const DB_VERSION = 1;
+const DB_VERSION = 2; // Updated version to handle the new structure
 const STORE_NAME = 'audioFiles';
 
 let db;
@@ -21,13 +21,20 @@ function openDB() {
       if (!db.objectStoreNames.contains(STORE_NAME)) {
         const store = db.createObjectStore(STORE_NAME, { keyPath: 'url' });
         store.createIndex('timestamp', 'timestamp', { unique: false });
+        store.createIndex('lastModified', 'lastModified', { unique: false });
+      } else if (event.oldVersion < 2) {
+        // Upgrade from version 1 to 2
+        const store = event.target.transaction.objectStore(STORE_NAME);
+        if (!store.indexNames.contains('lastModified')) {
+          store.createIndex('lastModified', 'lastModified', { unique: false });
+        }
       }
     };
   });
 }
 
-// Save audio file to cache
-async function saveAudioToCache(url, arrayBuffer) {
+// Save audio file to cache with last modified timestamp
+async function saveAudioToCache(url, arrayBuffer, lastModified = Date.now()) {
   if (!db) await openDB();
   
   return new Promise((resolve, reject) => {
@@ -37,7 +44,8 @@ async function saveAudioToCache(url, arrayBuffer) {
     const data = {
       url: url,
       data: arrayBuffer,
-      timestamp: Date.now()
+      timestamp: Date.now(),
+      lastModified: lastModified
     };
     
     const request = store.put(data);
@@ -80,6 +88,53 @@ async function isAudioInCache(url) {
   });
 }
 
+// Get cached file info including lastModified timestamp
+async function getCachedFileInfo(url) {
+  if (!db) await openDB();
+  
+  return new Promise((resolve, reject) => {
+    const transaction = db.transaction([STORE_NAME], 'readonly');
+    const store = transaction.objectStore(STORE_NAME);
+    
+    const request = store.get(url);
+    request.onsuccess = () => {
+      if (request.result) {
+        resolve({
+          lastModified: request.result.lastModified,
+          timestamp: request.result.timestamp
+        });
+      } else {
+        resolve(null);
+      }
+    };
+    request.onerror = () => reject(request.error);
+  });
+}
+
+// Check if cached file is outdated by comparing with server
+async function isCachedFileOutdated(url) {
+  try {
+    // Get cached file info
+    const cachedInfo = await getCachedFileInfo(url);
+    if (!cachedInfo) return true; // Not in cache, so it's "outdated"
+    
+    // Fetch file headers only to check last modified time
+    const headResponse = await fetch(url, { method: 'HEAD' });
+    const serverLastModified = headResponse.headers.get('Last-Modified');
+    
+    if (!serverLastModified) return true; // Can't determine server time, assume outdated
+    
+    const serverTime = new Date(serverLastModified).getTime();
+    const cachedTime = cachedInfo.lastModified;
+    
+    // File is outdated if server version is newer
+    return serverTime > cachedTime;
+  } catch (error) {
+    console.error('Error checking if file is outdated:', error);
+    return true; // Assume outdated if we can't check
+  }
+}
+
 // Initialize the database when the module loads
 openDB().catch(console.error);
 
@@ -87,5 +142,7 @@ openDB().catch(console.error);
 window.audioCache = {
   saveAudioToCache,
   getAudioFromCache,
-  isAudioInCache
+  isAudioInCache,
+  getCachedFileInfo,
+  isCachedFileOutdated
 };
