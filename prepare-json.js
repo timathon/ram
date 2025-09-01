@@ -18,12 +18,9 @@ function scanDir(dir, relPath = '') {
       // Recursively scan subdirectories
       result[item.name] = scanDir(itemPath, itemRelPath);
     } else if (item.isFile() && /\.(wav|mp3)$/i.test(item.name)) {
-      // Add file info
+      // Add file names directly to files array
       if (!result.files) result.files = [];
-      result.files.push({
-        name: item.name,
-        path: itemRelPath.replace(/\\/g, '/')
-      });
+      result.files.push(item.name);
     }
   });
 

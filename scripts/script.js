@@ -333,13 +333,13 @@ function updateFiles() {
     updateSelectAllCheckbox();
     return;
   }
-  files.forEach((fileObj, idx) => {
+  files.forEach((fileName, idx) => {
     const li = document.createElement('li');
-    li.setAttribute('data-file-name', fileObj.name); // For highlight
+    li.setAttribute('data-file-name', fileName); // For highlight
     li.innerHTML = `
           <label>
-            <input type="checkbox" class="file-checkbox" value="${fileObj.name}" checked>
-            ${fileObj.name}
+            <input type="checkbox" class="file-checkbox" value="${fileName}" checked>
+            ${fileName}
           </label>
         `;
     fileListDiv.appendChild(li);
