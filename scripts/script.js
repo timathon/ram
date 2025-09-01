@@ -326,7 +326,8 @@ function updateFiles() {
   const sectionSelect = document.getElementById('sectionSelect');
   const fileListDiv = document.getElementById('fileListDiv');
   let sectionObj = ((indexData[selectedTextbook] || {})[selectedUnit] || {})[selectedSection];
-  let files = (sectionObj && Array.isArray(sectionObj.files)) ? sectionObj.files : [];
+  // Updated to work with the new structure where files are directly in the section object
+  let files = (sectionObj && Array.isArray(sectionObj)) ? sectionObj : [];
   fileListDiv.innerHTML = '';
   if (files.length === 0) {
     fileListDiv.innerHTML = '<li>No files found for this section.</li>';
