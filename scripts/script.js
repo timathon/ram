@@ -8,11 +8,28 @@ let playerState = {
   playStartTime: null
 }
 
+// Global index data variable
+let indexData = {};
+
 // Play time tracking
 let dailyPlayTime = {
   date: new Date().toDateString(),
   time: 0 // in seconds
 };
+
+// Track which files are from Gitee vs local
+let fileSources = {};
+
+// Get the appropriate URL for a file based on its source
+function getFileUrl(textbook, unit, section, file, source) {
+  if (source === 'gitee') {
+    // Gitee URL format: https://gitee.com/timliu2117/temp/raw/master/uploads/{book}/{unit}/{section}/{file}
+    return `https://gitee.com/timliu2117/temp/raw/master/uploads/${textbook}/${unit}/${section}/${file}`;
+  } else {
+    // Local URL format: wav/{book}/{unit}/{section}/{file}
+    return `wav/${textbook}/${unit}/${section}/${file}`;
+  }
+}
 
 
 function buildUI() {
@@ -35,14 +52,17 @@ function buildUI() {
     });
   }
 
-  // Initial population
-  const textbooks = Object.keys(indexData);
-  if (textbooks.length === 0) {
-    document.getElementById('fileListDiv').innerHTML = '<li>No textbooks found in index.json.</li>';
+  // Initial population - get textbooks from both local and Gitee data
+  const localTextbooks = Object.keys(indexData.local || {});
+  const giteeTextbooks = Object.keys(indexData.gitee || {});
+  const allTextbooks = [...new Set([...localTextbooks, ...giteeTextbooks])]; // Merge and deduplicate
+  
+  if (allTextbooks.length === 0) {
+    document.getElementById('fileListDiv').innerHTML = '<li>No textbooks found in index data.</li>';
     return;
   }
-  populateDropdown(textbookSelect, textbooks);
-  selectedTextbook = textbooks[0];
+  populateDropdown(textbookSelect, allTextbooks);
+  selectedTextbook = allTextbooks[0];
 
   // Prevent dropdown flickering on Windows browsers
   // function fixDropdownFlickering() {
@@ -217,7 +237,8 @@ function updateSelectedFiles() {
       textbook: document.getElementById('textbookSelect').value,
       unit: document.getElementById('unitSelect').value,
       section: document.getElementById('sectionSelect').value,
-      file
+      file,
+      source: fileSources[file] || 'local' // Default to local if not specified
     });
   });
   playerState.selectedFiles = selectedFiles;
@@ -301,9 +322,14 @@ function updateUnits() {
   const unitSelect = document.getElementById('unitSelect');
   const sectionSelect = document.getElementById('sectionSelect');
   const fileListDiv = document.getElementById('fileListDiv');
-  const units = Object.keys(indexData[selectedTextbook] || {});
-  populateDropdown(unitSelect, units);
-  selectedUnit = units[0] || '';
+  
+  // Get units from both local and Gitee data
+  const localUnits = Object.keys((indexData.local || {})[selectedTextbook] || {});
+  const giteeUnits = Object.keys((indexData.gitee || {})[selectedTextbook] || {});
+  const allUnits = [...new Set([...localUnits, ...giteeUnits])]; // Merge and deduplicate
+  
+  populateDropdown(unitSelect, allUnits);
+  selectedUnit = allUnits[0] || '';
   updateSections();
 }
 
@@ -313,9 +339,14 @@ function updateSections() {
   const unitSelect = document.getElementById('unitSelect');
   const sectionSelect = document.getElementById('sectionSelect');
   const fileListDiv = document.getElementById('fileListDiv');
-  const sections = Object.keys((indexData[selectedTextbook] || {})[selectedUnit] || {});
-  populateDropdown(sectionSelect, sections);
-  selectedSection = sections[0] || '';
+  
+  // Get sections from both local and Gitee data
+  const localSections = Object.keys(((indexData.local || {})[selectedTextbook] || {})[selectedUnit] || {});
+  const giteeSections = Object.keys(((indexData.gitee || {})[selectedTextbook] || {})[selectedUnit] || {});
+  const allSections = [...new Set([...localSections, ...giteeSections])]; // Merge and deduplicate
+  
+  populateDropdown(sectionSelect, allSections);
+  selectedSection = allSections[0] || '';
   updateFiles();
 }
 
@@ -325,22 +356,55 @@ function updateFiles() {
   const unitSelect = document.getElementById('unitSelect');
   const sectionSelect = document.getElementById('sectionSelect');
   const fileListDiv = document.getElementById('fileListDiv');
-  let sectionObj = ((indexData[selectedTextbook] || {})[selectedUnit] || {})[selectedSection];
-  // Updated to work with the new structure where files are directly in the section object
-  let files = (sectionObj && Array.isArray(sectionObj)) ? sectionObj : [];
+  
+  // Clear file sources tracking
+  fileSources = {};
+  
+  // Get files from both local and Gitee data
+  let localFiles = ((indexData.local || {})[selectedTextbook] || {})[selectedUnit] || {};
+  localFiles = localFiles[selectedSection] || [];
+  
+  let giteeFiles = ((indexData.gitee || {})[selectedTextbook] || {})[selectedUnit] || {};
+  giteeFiles = giteeFiles[selectedSection] || [];
+  
+  // If localFiles or giteeFiles are objects (not arrays), extract the array
+  if (!Array.isArray(localFiles) && localFiles.files) {
+    localFiles = localFiles.files;
+  }
+  if (!Array.isArray(giteeFiles) && giteeFiles.files) {
+    giteeFiles = giteeFiles.files;
+  }
+  
+  // Ensure they are arrays
+  if (!Array.isArray(localFiles)) localFiles = [];
+  if (!Array.isArray(giteeFiles)) giteeFiles = [];
+  
+  // Track source for each file
+  localFiles.forEach(file => {
+    fileSources[file] = 'local';
+  });
+  giteeFiles.forEach(file => {
+    fileSources[file] = 'gitee';
+  });
+  
+  // Merge and deduplicate files
+  const allFiles = [...new Set([...localFiles, ...giteeFiles])];
+  
   fileListDiv.innerHTML = '';
-  if (files.length === 0) {
+  if (allFiles.length === 0) {
     fileListDiv.innerHTML = '<li>No files found for this section.</li>';
     updateSelectAllCheckbox();
     return;
   }
-  files.forEach((fileName, idx) => {
+  
+  allFiles.forEach((fileName, idx) => {
     const li = document.createElement('li');
     li.setAttribute('data-file-name', fileName); // For highlight
+    const source = fileSources[fileName] || 'local';
     li.innerHTML = `
           <label>
             <input type="checkbox" class="file-checkbox" value="${fileName}" checked>
-            ${fileName}
+            ${fileName} ${source === 'gitee' ? '<span style="color: #007bff; font-size: 0.8em;">(Gitee)</span>' : ''}
           </label>
         `;
     fileListDiv.appendChild(li);
@@ -433,6 +497,7 @@ function stopPlayTimeTracking() {
 };
 
 // Play selected files with global loop count
+// Play selected files with global loop count
 async function startPlayback() {
   const selectedFiles = [];
   document.querySelectorAll('.file-checkbox:checked').forEach(cb => {
@@ -441,7 +506,8 @@ async function startPlayback() {
       textbook: document.getElementById('textbookSelect').value,
       unit: document.getElementById('unitSelect').value,
       section: document.getElementById('sectionSelect').value,
-      file
+      file,
+      source: fileSources[file] || 'local' // Default to local if not specified
     });
   });
 
@@ -474,33 +540,31 @@ async function startPlayback() {
 async function preloadAudio(fileObj) {
   if (!fileObj) return;
 
-  const { textbook, unit, section, file } = fileObj;
-  const audioUrl = `wav/${textbook}/${unit}/${section}/${file}`;
+  const { textbook, unit, section, file, source } = fileObj;
+  const audioUrl = getFileUrl(textbook, unit, section, file, source);
+  
+  // For Gitee files, we can't cache them in the same way as local files
+  if (source === 'gitee') {
+    console.log(`Gitee file (not cached): ${file}`);
+    return;
+  }
   
   // Check if file is in cache first
   try {
     const isCached = await window.audioCache.isAudioInCache(audioUrl);
     if (isCached) {
-      // Check if cached file is outdated
-      const isOutdated = await window.audioCache.isCachedFileOutdated(audioUrl);
-      if (!isOutdated) {
-        console.log(`File already cached and up-to-date: ${file}`);
-        return;
-      } else {
-        console.log(`File cached but outdated, will re-download: ${file}`);
-      }
+      console.log(`File already cached: ${file}`);
+      return;
     }
   } catch (error) {
     console.error('Error checking cache status:', error);
   }
   
-  // If not cached or outdated, fetch and cache it
+  // If not cached, fetch and cache it
   try {
     const response = await fetch(audioUrl);
     const arrayBuffer = await response.arrayBuffer();
-    const lastModified = response.headers.get('Last-Modified');
-    const lastModifiedTime = lastModified ? new Date(lastModified).getTime() : Date.now();
-    await window.audioCache.saveAudioToCache(audioUrl, arrayBuffer, lastModifiedTime);
+    await window.audioCache.saveAudioToCache(audioUrl, arrayBuffer);
     console.log(`Preloaded and cached: ${file}`);
   } catch (error) {
     console.log(`Failed to preload: ${file}`, error);
@@ -517,33 +581,29 @@ async function playCurrent() {
     stopPlayTimeTracking(); // Stop tracking when playback finishes
     return;
   }
-  const { textbook, unit, section, file } = files[idx];
-  const audioUrl = `wav/${textbook}/${unit}/${section}/${file}`;
+  const { textbook, unit, section, file, source } = files[idx];
+  const audioUrl = getFileUrl(textbook, unit, section, file, source);
   
-  // Check if file is in cache
-  let useCached = false;
-  try {
-    const cachedData = await window.audioCache.getAudioFromCache(audioUrl);
-    if (cachedData) {
-      // Check if cached file is outdated
-      const isOutdated = await window.audioCache.isCachedFileOutdated(audioUrl);
-      if (!isOutdated) {
+  // For Gitee files, we can't use the cache
+  if (source === 'gitee') {
+    console.log(`Playing from Gitee: ${file}`);
+    audio.src = audioUrl;
+  } else {
+    // Check if file is in cache
+    try {
+      const cachedData = await window.audioCache.getAudioFromCache(audioUrl);
+      if (cachedData) {
         console.log(`Playing from cache: ${file}`);
         const blob = new Blob([cachedData], { type: 'audio/mpeg' });
         audio.src = URL.createObjectURL(blob);
-        useCached = true;
       } else {
-        console.log(`Cached file outdated, will fetch updated version: ${file}`);
+        console.log(`Playing from network: ${file}`);
+        audio.src = audioUrl;
       }
+    } catch (error) {
+      console.error('Error retrieving from cache, falling back to network:', error);
+      audio.src = audioUrl;
     }
-  } catch (error) {
-    console.error('Error retrieving from cache, falling back to network:', error);
-  }
-  
-  // If not using cached file, fetch from network
-  if (!useCached) {
-    console.log(`Playing from network: ${file}`);
-    audio.src = audioUrl;
   }
   
   audio.play();
@@ -575,35 +635,23 @@ async function playCurrent() {
     }
   };
   
-  // Save to cache after playing (if not already cached or if outdated)
+  // Save to cache after playing (if not already cached and is a local file)
   audio.onplay = async function() {
-    try {
-      const isCached = await window.audioCache.isAudioInCache(audioUrl);
-      let shouldCache = !isCached;
-      
-      if (isCached) {
-        // Check if cached file is outdated
-        const isOutdated = await window.audioCache.isCachedFileOutdated(audioUrl);
-        shouldCache = isOutdated;
+    // Only cache local files
+    if (source === 'local') {
+      try {
+        const isCached = await window.audioCache.isAudioInCache(audioUrl);
+        if (!isCached) {
+          // Fetch and cache the file
+          fetch(audioUrl)
+            .then(response => response.arrayBuffer())
+            .then(arrayBuffer => window.audioCache.saveAudioToCache(audioUrl, arrayBuffer))
+            .then(() => console.log(`Saved to cache: ${file}`))
+            .catch(error => console.error('Error caching file:', error));
+        }
+      } catch (error) {
+        console.error('Error checking cache status:', error);
       }
-      
-      if (shouldCache) {
-        // Fetch and cache the file
-        fetch(audioUrl)
-          .then(response => {
-            const lastModified = response.headers.get('Last-Modified');
-            const lastModifiedTime = lastModified ? new Date(lastModified).getTime() : Date.now();
-            return response.arrayBuffer().then(arrayBuffer => ({
-              arrayBuffer,
-              lastModifiedTime
-            }));
-          })
-          .then(({arrayBuffer, lastModifiedTime}) => window.audioCache.saveAudioToCache(audioUrl, arrayBuffer, lastModifiedTime))
-          .then(() => console.log(`Saved to cache: ${file}`))
-          .catch(error => console.error('Error caching file:', error));
-      }
-    } catch (error) {
-      console.error('Error checking cache status:', error);
     }
   };
 }
@@ -646,4 +694,10 @@ window.addEventListener('DOMContentLoaded', () => {
   };
 });
 
-buildUI();
+// Listen for index data loaded event
+window.addEventListener('indexDataLoaded', function(event) {
+  // Set the global indexData variable
+  indexData = event.detail;
+  // Build the UI with the loaded data
+  buildUI();
+});
