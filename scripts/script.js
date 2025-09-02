@@ -17,6 +17,22 @@ let dailyPlayTime = {
   time: 0 // in seconds
 };
 
+// Timer for tracking play time while audio is playing
+let playTimeTimer = null;
+let lastCheckTime = null;
+
+// Playback state for saving/restoring session
+let playbackState = {
+  textbook: null,
+  unit: null,
+  section: null,
+  selectedFiles: [],
+  currentFileIdx: 0,
+  currentTime: 0,
+  isPlaying: false,
+  loopCount: 1
+};
+
 // Track which files are from Gitee vs local
 let fileSources = {};
 
@@ -49,6 +65,7 @@ function buildUI() {
       const newLoopCount = parseInt(this.value) || 1;
       playerState.loopCount = newLoopCount;
       updateLoopCountDisplay();
+      savePlaybackState(); // Save state when loop count changes
     });
   }
 
@@ -145,6 +162,7 @@ buildUI = function () {
       document.getElementById('playBtn').textContent = 'Play Selected';
       stopPlayTimeTracking();
       updateUnits();
+      savePlaybackState(); // Save state when textbook changes
     });
   };
   unitSelect.onchange = function () {
@@ -157,6 +175,7 @@ buildUI = function () {
       document.getElementById('playBtn').textContent = 'Play Selected';
       stopPlayTimeTracking();
       updateSections();
+      savePlaybackState(); // Save state when unit changes
     });
   };
   sectionSelect.onchange = function () {
@@ -169,8 +188,17 @@ buildUI = function () {
       document.getElementById('playBtn').textContent = 'Play Selected';
       stopPlayTimeTracking();
       updateFiles();
+      savePlaybackState(); // Save state when section changes
     });
   };
+  
+  // Load and apply saved playback state after UI is built
+  const savedState = loadPlaybackState();
+  if (savedState) {
+    setTimeout(() => {
+      applyPlaybackState(savedState);
+    }, 100);
+  }
 };
 function updateLoopCountDisplay() {
   // Remove all existing loop count spans
@@ -243,6 +271,7 @@ function updateSelectedFiles() {
   });
   playerState.selectedFiles = selectedFiles;
   updateSelectAllCheckbox();
+  savePlaybackState(); // Save state when files are selected
 }
 
 // Remove restriction on unchecking last remaining file
@@ -418,6 +447,154 @@ function updateFiles() {
 
 
 
+// Save playback state to localStorage
+function savePlaybackState() {
+  try {
+    // Get current audio position
+    const audio = document.getElementById('audio');
+    const currentTime = audio ? audio.currentTime : 0;
+    
+    // Create playback state object
+    const state = {
+      textbook: selectedTextbook,
+      unit: selectedUnit,
+      section: selectedSection,
+      selectedFiles: playerState.selectedFiles,
+      currentFileIdx: playerState.fileIdx,
+      currentTime: currentTime,
+      isPlaying: playerState.isPlaying,
+      loopCount: playerState.loopCount,
+      date: new Date().toDateString() // For expiration check
+    };
+    
+    // Save to localStorage
+    localStorage.setItem('playbackState', JSON.stringify(state));
+  } catch (e) {
+    console.error('Error saving playback state:', e);
+  }
+}
+
+// Load playback state from localStorage
+function loadPlaybackState() {
+  try {
+    const saved = localStorage.getItem('playbackState');
+    if (saved) {
+      const state = JSON.parse(saved);
+      
+      // Check if it's from today
+      if (state.date === new Date().toDateString()) {
+        playbackState = state;
+        return state;
+      } else {
+        // Clear expired state
+        localStorage.removeItem('playbackState');
+      }
+    }
+  } catch (e) {
+    console.error('Error loading playback state:', e);
+  }
+  return null;
+}
+
+// Apply saved playback state to UI
+async function applyPlaybackState(state) {
+  if (!state) return;
+  
+  try {
+    // Set dropdown values
+    const textbookSelect = document.getElementById('textbookSelect');
+    const unitSelect = document.getElementById('unitSelect');
+    const sectionSelect = document.getElementById('sectionSelect');
+    const globalLoopCount = document.getElementById('globalLoopCount');
+    
+    // Set textbook
+    if (textbookSelect && Array.from(textbookSelect.options).some(option => option.value === state.textbook)) {
+      textbookSelect.value = state.textbook;
+      selectedTextbook = state.textbook;
+      updateUnits();
+      
+      // Wait a bit for units to populate
+      await new Promise(resolve => setTimeout(resolve, 100));
+      
+      // Set unit
+      if (unitSelect && Array.from(unitSelect.options).some(option => option.value === state.unit)) {
+        unitSelect.value = state.unit;
+        selectedUnit = state.unit;
+        updateSections();
+        
+        // Wait a bit for sections to populate
+        await new Promise(resolve => setTimeout(resolve, 100));
+        
+        // Set section
+        if (sectionSelect && Array.from(sectionSelect.options).some(option => option.value === state.section)) {
+          sectionSelect.value = state.section;
+          selectedSection = state.section;
+          updateFiles();
+          
+          // Wait a bit for files to populate
+          await new Promise(resolve => setTimeout(resolve, 100));
+          
+          // Restore selected files
+          if (state.selectedFiles && state.selectedFiles.length > 0) {
+            // Update checkboxes
+            document.querySelectorAll('.file-checkbox').forEach(checkbox => {
+              const fileName = checkbox.value;
+              const shouldBeChecked = state.selectedFiles.some(fileObj => fileObj.file === fileName);
+              checkbox.checked = shouldBeChecked;
+            });
+            
+            // Update player state
+            playerState.selectedFiles = state.selectedFiles;
+            playerState.fileIdx = state.currentFileIdx || 0;
+            playerState.loopCount = state.loopCount || 1;
+            playerState.isPlaying = state.isPlaying || false;
+            
+            // Update select all checkbox
+            updateSelectAllCheckbox();
+            
+            // Set loop count
+            if (globalLoopCount) {
+              globalLoopCount.value = playerState.loopCount;
+            }
+            
+            // If was playing, restore playback
+            if (state.isPlaying) {
+              // Wait for UI to update
+              await new Promise(resolve => setTimeout(resolve, 100));
+              
+              // Set the audio source and time
+              const audio = document.getElementById('audio');
+              if (audio && playerState.selectedFiles[playerState.fileIdx]) {
+                const fileObj = playerState.selectedFiles[playerState.fileIdx];
+                const audioUrl = getFileUrl(
+                  fileObj.textbook, 
+                  fileObj.unit, 
+                  fileObj.section, 
+                  fileObj.file, 
+                  fileObj.source
+                );
+                
+                // Set the audio source
+                audio.src = audioUrl;
+                audio.currentTime = state.currentTime || 0;
+                
+                // Update UI
+                document.getElementById('playBtn').textContent = 'Stop';
+                highlightPlayingFile(fileObj.file);
+                
+                // Start playback
+                // audio.play(); // Don't auto-play, let user click play
+              }
+            }
+          }
+        }
+      }
+    }
+  } catch (e) {
+    console.error('Error applying playback state:', e);
+  }
+}
+
 // Load daily play time from localStorage
 function loadDailyPlayTime() {
   try {
@@ -433,9 +610,20 @@ function loadDailyPlayTime() {
       } else {
         dailyPlayTime = parsed;
       }
+    } else {
+      // Initialize if no saved data
+      dailyPlayTime = {
+        date: new Date().toDateString(),
+        time: 0
+      };
     }
   } catch (e) {
     console.error('Error loading daily play time:', e);
+    // Initialize on error
+    dailyPlayTime = {
+      date: new Date().toDateString(),
+      time: 0
+    };
   }
   updatePlayTimeDisplay();
 }
@@ -455,13 +643,16 @@ function updatePlayTimeDisplay() {
   const minutes = Math.floor((dailyPlayTime.time % 3600) / 60);
   const seconds = Math.floor(dailyPlayTime.time % 60);
 
+  // Pad single digit seconds with a 0
+  const paddedSeconds = seconds < 10 ? `0${seconds}` : seconds;
+  const paddedMinutes = minutes < 10 ? `0${minutes}` : minutes;
+  const paddedHours = hours < 10 ? `0${hours}` : hours;
+
   let timeString = '';
   if (hours > 0) {
-    timeString = `${hours}h ${minutes}m ${seconds}s`;
-  } else if (minutes > 0) {
-    timeString = `${minutes}m ${seconds}s`;
+    timeString = `${paddedHours}:${paddedMinutes}:${paddedSeconds}`;
   } else {
-    timeString = `${seconds}s`;
+    timeString = `${paddedMinutes}:${paddedSeconds}`;
   }
 
   // Update display in controls area
@@ -521,21 +712,38 @@ function updatePlayTimeDisplay() {
   }
 }
 
-// Start tracking play time
+// Start tracking play time while audio is playing
 function startPlayTimeTracking() {
-  playerState.playStartTime = Date.now();
+  // Clear any existing timer
+  if (playTimeTimer) {
+    clearInterval(playTimeTimer);
+  }
+  
+  // Start a timer that updates play time every second while audio is playing
+  playTimeTimer = setInterval(() => {
+    // Only accumulate time if audio is actually playing
+    const audio = document.getElementById('audio');
+    if (audio && !audio.paused && !audio.ended) {
+      dailyPlayTime.time += 1; // Add 1 second
+      saveDailyPlayTime();
+      updatePlayTimeDisplay();
+    }
+  }, 1000); // Update every second
 }
 
-// Stop tracking play time and update total
+// Stop tracking play time
 function stopPlayTimeTracking() {
-  if (playerState.playStartTime) {
-    const elapsedSeconds = (Date.now() - playerState.playStartTime) / 1000;
-    dailyPlayTime.time += elapsedSeconds;
-    playerState.playStartTime = null;
-    saveDailyPlayTime();
-    updatePlayTimeDisplay();
+  // Clear the timer
+  if (playTimeTimer) {
+    clearInterval(playTimeTimer);
+    playTimeTimer = null;
   }
-};
+  lastCheckTime = null;
+  
+  // Save the final time
+  saveDailyPlayTime();
+  updatePlayTimeDisplay();
+}
 
 // Play selected files with global loop count
 // Play selected files with global loop count
@@ -576,7 +784,8 @@ async function startPlayback() {
   }
 
   // Start tracking play time
-  startPlayTimeTracking();
+  // Note: Actual time tracking starts when audio.onplay is triggered
+  loadDailyPlayTime(); // Ensure we have the latest time data
 
   // Preload the second file if it exists
   if (selectedFiles.length > 1) {
@@ -593,9 +802,9 @@ async function preloadAudio(fileObj) {
   const { textbook, unit, section, file, source } = fileObj;
   const audioUrl = getFileUrl(textbook, unit, section, file, source);
   
-  // For Gitee files, we can't cache them in the same way as local files
+  // For Gitee files, we can't cache them due to CORS restrictions
   if (source === 'gitee') {
-    console.log(`Gitee file (not cached): ${file}`);
+    console.log(`Gitee file (not cached due to CORS): ${file}`);
     return;
   }
   
@@ -629,12 +838,13 @@ async function playCurrent() {
     playerState.isPlaying = false;
     highlightPlayingFile(null);
     stopPlayTimeTracking(); // Stop tracking when playback finishes
+    savePlaybackState(); // Save state when playback finishes
     return;
   }
   const { textbook, unit, section, file, source } = files[idx];
   const audioUrl = getFileUrl(textbook, unit, section, file, source);
   
-  // For Gitee files, we can't use the cache
+  // For Gitee files, we can't use the cache due to CORS restrictions
   if (source === 'gitee') {
     console.log(`Playing from Gitee: ${file}`);
     audio.src = audioUrl;
@@ -679,6 +889,7 @@ async function playCurrent() {
   audio.play();
   playerState.loopIdx = 1;
   highlightPlayingFile(file);
+  savePlaybackState(); // Save state when starting to play a new file
 
   // Preload the next file if it exists
   if (idx + 1 < files.length) {
@@ -698,22 +909,19 @@ async function playCurrent() {
         audio.playbackRate = parseFloat(speedControl.value);
       }
       audio.play();
+      savePlaybackState(); // Save state when looping
     } else {
       playerState.fileIdx++;
       playCurrent();
     }
   };
 
-  // Stop tracking play time when audio is paused or stopped
-  audio.onpause = function () {
-    if (!playerState.isPlaying) {
-      stopPlayTimeTracking();
-    }
-  };
-  
-  // Save to cache after playing (if not already cached and is a local file)
+  // Start tracking play time when audio starts playing
   audio.onplay = async function() {
-    // Only cache local files
+    startPlayTimeTracking();
+    savePlaybackState(); // Save state when audio starts playing
+    
+    // Save to cache after playing (only for local files due to CORS restrictions on Gitee)
     if (source === 'local') {
       try {
         const isCached = await window.audioCache.isAudioInCache(audioUrl);
@@ -730,6 +938,22 @@ async function playCurrent() {
       }
     }
   };
+  
+  // Save state when audio is paused
+  audio.onpause = function () {
+    savePlaybackState(); // Save state when audio is paused
+    if (!playerState.isPlaying) {
+      stopPlayTimeTracking();
+    }
+  };
+  
+  // Save state periodically while audio is playing (every 5 seconds)
+  audio.ontimeupdate = function() {
+    // Save state every 5 seconds to capture current time
+    if (Math.floor(audio.currentTime) % 5 === 0) {
+      savePlaybackState();
+    }
+  };
 }
 
 document.getElementById('playBtn').onclick = async function () {
@@ -742,10 +966,12 @@ document.getElementById('playBtn').onclick = async function () {
     playBtn.textContent = 'Play Selected';
     stopPlayTimeTracking();
     highlightPlayingFile(null);
+    savePlaybackState(); // Save state when playback stops
   } else {
     // Start playback
     await startPlayback();
     playBtn.textContent = 'Stop';
+    savePlaybackState(); // Save state when playback starts
   }
 };
 
@@ -776,4 +1002,9 @@ window.addEventListener('indexDataLoaded', function(event) {
   indexData = event.detail;
   // Build the UI with the loaded data
   buildUI();
+});
+
+// Save playback state when page is about to be unloaded
+window.addEventListener('beforeunload', function() {
+  savePlaybackState();
 });

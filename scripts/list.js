@@ -2,8 +2,8 @@
     let localIndexData = {};
     let giteeIndexData = {};
     
-    // Load local index.json
-    const localPromise = fetch('wav/index.json')
+    // Load local index.json with cache busting
+    const localPromise = fetch(`wav/index.json?t=${Date.now()}`)
       .then(response => response.json())
       .then(data => {
         localIndexData = data;
@@ -17,12 +17,14 @@
       if (window.giteeWavList && typeof window.giteeWavList.scanAndGenerateList === 'function') {
         window.giteeWavList.scanAndGenerateList()
           .then(data => {
-            giteeIndexData = data;
+            // Even if data is empty due to rate limiting, we still resolve
+            giteeIndexData = data || {};
             resolve();
           })
           .catch(err => {
             console.error('Failed to load Gitee WAV list:', err);
-            resolve(); // Resolve anyway to not block the UI
+            // Resolve with empty object to not block the UI
+            resolve();
           });
       } else {
         resolve(); // Resolve immediately if giteeWavList is not available
@@ -51,7 +53,7 @@
       // In a more advanced implementation, we might merge them
       return {
         local: localData,
-        gitee: giteeData
+        gitee: giteeData && Object.keys(giteeData).length > 0 ? giteeData : {} // Only include non-empty gitee data
       };
     }
     

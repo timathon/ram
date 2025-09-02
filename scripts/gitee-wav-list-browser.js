@@ -81,9 +81,120 @@ function buildTreeStructure(files) {
 }
 
 /**
- * Main function to scan repo and generate list
+ * Load cached Gitee data if available and not expired
+ */
+function loadCachedGiteeData() {
+  try {
+    const cached = localStorage.getItem('giteeWavListCache');
+    if (cached) {
+      const data = JSON.parse(cached);
+      const now = Date.now();
+      // Cache expires after 6 hours (21600000 ms) to reduce API calls
+      if (now - data.timestamp < 21600000) {
+        console.log('Using cached Gitee file list');
+        return data.treeStructure;
+      } else {
+        console.log('Cached Gitee file list expired');
+        // Remove expired cache
+        localStorage.removeItem('giteeWavListCache');
+      }
+    }
+  } catch (e) {
+    console.error('Error loading cached Gitee data:', e);
+  }
+  return null;
+}
+
+/**
+ * Save Gitee data to cache
+ */
+function saveGiteeDataToCache(treeStructure) {
+  try {
+    const data = {
+      treeStructure: treeStructure,
+      timestamp: Date.now()
+    };
+    localStorage.setItem('giteeWavListCache', JSON.stringify(data));
+  } catch (e) {
+    console.error('Error saving Gitee data to cache:', e);
+  }
+}
+
+/**
+ * Check if we should skip Gitee API call (rate limiting protection)
+ */
+function shouldSkipGiteeApi() {
+  try {
+    const skipData = localStorage.getItem('giteeApiSkip');
+    if (skipData) {
+      const data = JSON.parse(skipData);
+      const now = Date.now();
+      // Skip API calls for 15 minutes after a rate limit error
+      if (now - data.timestamp < 900000) {
+        console.log('Skipping Gitee API call due to recent rate limit error');
+        return true;
+      } else {
+        // Clear skip flag
+        localStorage.removeItem('giteeApiSkip');
+      }
+    }
+  } catch (e) {
+    console.error('Error checking Gitee API skip flag:', e);
+  }
+  return false;
+}
+
+/**
+ * Set skip flag after rate limit error
+ */
+function setSkipGiteeApi() {
+  try {
+    const data = {
+      timestamp: Date.now()
+    };
+    localStorage.setItem('giteeApiSkip', JSON.stringify(data));
+  } catch (e) {
+    console.error('Error setting Gitee API skip flag:', e);
+  }
+}
+
+/**
+ * Load fallback Gitee data from local file
+ */
+async function loadFallbackGiteeData() {
+  try {
+    console.log('Loading fallback Gitee data from local file');
+    // Add cache-busting parameter to prevent browser caching
+    const timestamp = Date.now();
+    const response = await fetch(`wav/gitee-wav-list.json?t=${timestamp}`);
+    if (!response.ok) {
+      throw new Error(`Failed to load fallback Gitee data: ${response.status}`);
+    }
+    const data = await response.json();
+    console.log('Loaded fallback Gitee data successfully');
+    return data;
+  } catch (error) {
+    console.error('Error loading fallback Gitee data:', error.message);
+    return {};
+  }
+}
+
+/**
+ * Main function to scan repo and generate list with comprehensive rate limiting protection and fallback
  */
 async function scanAndGenerateList() {
+  // First, try to load from cache
+  const cachedData = loadCachedGiteeData();
+  if (cachedData) {
+    return cachedData;
+  }
+  
+  // Check if we should skip API call due to rate limiting
+  if (shouldSkipGiteeApi()) {
+    console.log('Skipping Gitee API call to avoid rate limiting, using fallback data');
+    return await loadFallbackGiteeData();
+  }
+  
   try {
     console.log('Scanning repository...');
     
@@ -91,6 +202,14 @@ async function scanAndGenerateList() {
     const treeUrl = `https://gitee.com/api/v5/repos/${CONFIG.owner}/${CONFIG.repo}/git/trees/${CONFIG.branch}?recursive=1`;
     
     const response = await fetch(treeUrl);
+    
+    // Check if we hit rate limit
+    if (response.status === 403) {
+      console.error('Gitee API rate limit exceeded. Using fallback data.');
+      setSkipGiteeApi();
+      return await loadFallbackGiteeData();
+    }
+    
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
@@ -103,6 +222,9 @@ async function scanAndGenerateList() {
     const treeStructure = buildTreeStructure(files);
     console.log('Built tree structure');
     
+    // Cache the result
+    saveGiteeDataToCache(treeStructure);
+    
     // Convert to JSON
     const jsonContent = JSON.stringify(treeStructure, null, 2);
     
@@ -113,7 +235,9 @@ async function scanAndGenerateList() {
     return treeStructure;
   } catch (error) {
     console.error('Error scanning and generating list:', error.message);
-    throw error;
+    // Fallback to local Gitee data file
+    console.log('Falling back to local Gitee data file');
+    return await loadFallbackGiteeData();
   }
 }
 
@@ -123,7 +247,11 @@ window.giteeWavList = {
   buildTreeStructure
 };
 
-// Run automatically when loaded
+// Run automatically when loaded (but with error handling)
 scanAndGenerateList()
   .then(() => console.log('Gitee WAV list generation completed'))
-  .catch(error => console.error('Gitee WAV list generation failed:', error));
+  .catch(error => {
+    console.error('Gitee WAV list generation failed:', error);
+    // Don't throw the error to prevent breaking the application
+    // The list.js file will handle this gracefully
+  });

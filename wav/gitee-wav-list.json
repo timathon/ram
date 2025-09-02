@@ -1,0 +1,61 @@
+{
+  "A9": {
+    "U1": {
+      "A-2d": [
+        "A9-U1-A-2d-01.aac",
+        "A9-U1-A-2d-02.aac",
+        "A9-U1-A-2d-03.aac",
+        "A9-U1-A-2d-04.aac",
+        "A9-U1-A-2d-05.aac",
+        "A9-U1-A-2d-06.aac",
+        "A9-U1-A-2d-07.aac",
+        "A9-U1-A-2d-08.aac",
+        "A9-U1-A-2d-09.aac",
+        "A9-U1-A-2d-10.aac",
+        "A9-U1-A-2d-summary.aac"
+      ],
+      "A-3a": [
+        "A9-U1-A-3a-01.aac",
+        "A9-U1-A-3a-02.aac",
+        "A9-U1-A-3a-03.aac",
+        "A9-U1-A-3a-04.aac",
+        "A9-U1-A-3a-05.aac",
+        "A9-U1-A-3a-06.aac",
+        "A9-U1-A-3a-07.aac",
+        "A9-U1-A-3a-08.aac",
+        "A9-U1-A-3a-09.aac",
+        "A9-U1-A-3a-10.aac",
+        "A9-U1-A-3a-11.aac",
+        "A9-U1-A-3a-13.aac",
+        "A9-U1-A-3a-summary.aac"
+      ]
+    },
+    "U5": {
+      "A-3a": [
+        "A9-U5-A-3a-12.aac",
+        "A9-U5-A-3a-13.aac"
+      ]
+    }
+  },
+  "t1": {
+    "u5": {
+      "reading": [
+        "t1-u5-reading-14.aac",
+        "t1-u5-reading-15.aac",
+        "t1-u5-reading-1756742135947.aac",
+        "t1-u5-reading-1756742145514.aac",
+        "t1-u5-reading-1756742157555.aac",
+        "t1-u5-reading-222.aac",
+        "t1-u5-reading-333.aac",
+        "t1-u5-reading-summary.aac"
+      ]
+    },
+    "u6": {
+      "reading": [
+        "t1-u6-reading-14.aac",
+        "t1-u6-reading-15.aac",
+        "t1-u6-reading-summary.aac"
+      ]
+    }
+  }
+}
