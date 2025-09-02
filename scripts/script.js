@@ -478,6 +478,47 @@ function updatePlayTimeDisplay() {
     controlsDiv.appendChild(playTimeDisplay);
   }
   playTimeDisplay.textContent = `Today: ${timeString}`;
+
+  // Add playback speed control after play time display
+  let speedControl = document.getElementById('speedControl');
+  if (!speedControl) {
+    const controlsDiv = document.querySelector('.controls');
+    speedControl = document.createElement('select');
+    speedControl.id = 'speedControl';
+    speedControl.style.marginLeft = '15px';
+    speedControl.style.padding = '8px';
+    speedControl.style.borderRadius = '4px';
+    speedControl.style.border = '1px solid #ccc';
+    speedControl.style.fontSize = '14px';
+    speedControl.style.backgroundColor = 'white';
+
+    // Add speed options
+    const speedOptions = [
+      { value: '0.5', text: '0.5x' },
+      { value: '0.75', text: '0.75x' },
+      { value: '1', text: '1x' },
+      { value: '1.25', text: '1.25x' },
+      { value: '1.5', text: '1.5x' }
+    ];
+
+    speedOptions.forEach(option => {
+      const opt = document.createElement('option');
+      opt.value = option.value;
+      opt.textContent = option.text;
+      speedControl.appendChild(opt);
+    });
+
+    // Set default value to 1x (for local files)
+    speedControl.value = '1';
+
+    controlsDiv.appendChild(speedControl);
+
+    // Add event listener to update playback speed
+    speedControl.addEventListener('change', function() {
+      const audio = document.getElementById('audio');
+      audio.playbackRate = parseFloat(this.value);
+    });
+  }
 }
 
 // Start tracking play time
@@ -524,6 +565,15 @@ async function startPlayback() {
   playerState.fileIdx = 0;
   playerState.loopIdx = 1;
   playerState.isPlaying = true;
+
+  // Set default playback speed based on file sources
+  const speedControl = document.getElementById('speedControl');
+  if (speedControl) {
+    // If any file is from Gitee, use 0.75x as default, otherwise use 1x
+    const hasGiteeFile = selectedFiles.some(fileObj => fileObj.source === 'gitee');
+    const defaultSpeed = hasGiteeFile ? 0.75 : 1;
+    speedControl.value = defaultSpeed;
+  }
 
   // Start tracking play time
   startPlayTimeTracking();
@@ -606,6 +656,26 @@ async function playCurrent() {
     }
   }
   
+  // Set playback speed based on file source
+  const speedControl = document.getElementById('speedControl');
+  if (speedControl) {
+    // For the first file in a playlist, set default speed based on source
+    // For subsequent files or loops, maintain user's selection unless it's the default
+    const defaultSpeed = (source === 'gitee') ? 0.75 : 1;
+    const userSpeed = parseFloat(speedControl.value);
+    
+    // If this is the first file (fileIdx = 0) and first loop (loopIdx = 1),
+    // set the default speed based on source
+    if (playerState.fileIdx === 0 && playerState.loopIdx === 1) {
+      // Set default speed based on source
+      audio.playbackRate = defaultSpeed;
+      speedControl.value = defaultSpeed;
+    } else {
+      // For subsequent files or loops, maintain user's selection
+      audio.playbackRate = userSpeed;
+    }
+  }
+  
   audio.play();
   playerState.loopIdx = 1;
   highlightPlayingFile(file);
@@ -621,6 +691,12 @@ async function playCurrent() {
       playerState.loopIdx++;
       updateLoopCountDisplay();
       audio.currentTime = 0;
+      // Set playback speed for looped playback
+      const speedControl = document.getElementById('speedControl');
+      if (speedControl) {
+        // For looping, maintain the current speed setting
+        audio.playbackRate = parseFloat(speedControl.value);
+      }
       audio.play();
     } else {
       playerState.fileIdx++;
