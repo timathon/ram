@@ -380,6 +380,11 @@ function updateSections() {
 }
 
 // Update files list
+// Helper function to remove file extension
+function removeFileExtension(filename) {
+  return filename.replace(/\.[^/.]+$/, "");
+}
+
 function updateFiles() {
   const textbookSelect = document.getElementById('textbookSelect');
   const unitSelect = document.getElementById('unitSelect');
@@ -430,10 +435,11 @@ function updateFiles() {
     const li = document.createElement('li');
     li.setAttribute('data-file-name', fileName); // For highlight
     const source = fileSources[fileName] || 'local';
+    const displayName = removeFileExtension(fileName);
     li.innerHTML = `
           <label>
             <input type="checkbox" class="file-checkbox" value="${fileName}" checked>
-            ${fileName} ${source === 'gitee' ? '<span style="color: #007bff; font-size: 0.8em;">(Gitee)</span>' : ''}
+            ${displayName} ${source === 'gitee' ? '<span style="color: #007bff; font-size: 0.8em;">(Gitee)</span>' : ''}
           </label>
         `;
     fileListDiv.appendChild(li);
