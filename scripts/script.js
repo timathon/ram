@@ -436,10 +436,12 @@ function updateFiles() {
     li.setAttribute('data-file-name', fileName); // For highlight
     const source = fileSources[fileName] || 'local';
     const displayName = removeFileExtension(fileName);
+    // Use different color for Gitee files instead of label
+    const fileColor = source === 'gitee' ? '#4B0082' : '#000000'; // Dark purple for Gitee, black for local
     li.innerHTML = `
           <label>
             <input type="checkbox" class="file-checkbox" value="${fileName}" checked>
-            ${displayName} ${source === 'gitee' ? '<span style="color: #007bff; font-size: 0.8em;">(Gitee)</span>' : ''}
+            <span style="color: ${fileColor};">${displayName}</span>
           </label>
         `;
     fileListDiv.appendChild(li);
