@@ -8,8 +8,10 @@ let playerState = {
   playStartTime: null
 }
 
-// Global index data variable
-let indexData = {};
+// Global index data variables (will be set by list.js)
+// These are declared in list.js and set through the indexDataLoaded event
+// var indexData; // Current index data
+// var indexOldData; // Old index data for default speed determination
 
 // Play time tracking
 let dailyPlayTime = {
@@ -33,27 +35,14 @@ let playbackState = {
   loopCount: 1
 };
 
-// Track which files are from Gitee vs local
-let fileSources = {};
-
-// Get the appropriate URL for a file based on its source
-function getFileUrl(textbook, unit, section, file, source) {
-  if (source === 'gitee') {
-    // Gitee URL format: https://gitee.com/timliu2117/temp/raw/master/uploads/{book}/{unit}/{section}/{file}
-    return `https://gitee.com/timliu2117/temp/raw/master/uploads/${textbook}/${unit}/${section}/${file}`;
-  } else {
-    // Local URL format: wav/{book}/{unit}/{section}/{file}
-    return `wav/${textbook}/${unit}/${section}/${file}`;
-  }
+// Get the appropriate URL for a file (always local now)
+function getFileUrl(textbook, unit, section, file) {
+  // Local URL format: wav/{book}/{unit}/{section}/{file}
+  return `wav/${textbook}/${unit}/${section}/${file}`;
 }
-
 
 function buildUI() {
   // Populate textbook dropdown
-  // const sectionsDiv = document.getElementById('sections');
-  // sectionsDiv.innerHTML = `
-  // `;
-
   const textbookSelect = document.getElementById('textbookSelect');
   const unitSelect = document.getElementById('unitSelect');
   const sectionSelect = document.getElementById('sectionSelect');
@@ -69,10 +58,8 @@ function buildUI() {
     });
   }
 
-  // Initial population - get textbooks from both local and Gitee data
-  const localTextbooks = Object.keys(indexData.local || {});
-  const giteeTextbooks = Object.keys(indexData.gitee || {});
-  const allTextbooks = [...new Set([...localTextbooks, ...giteeTextbooks])]; // Merge and deduplicate
+  // Initial population - get textbooks from local data only
+  const allTextbooks = Object.keys(indexData || {});
   
   if (allTextbooks.length === 0) {
     document.getElementById('fileListDiv').innerHTML = '<li>No textbooks found in index data.</li>';
@@ -80,38 +67,6 @@ function buildUI() {
   }
   populateDropdown(textbookSelect, allTextbooks);
   selectedTextbook = allTextbooks[0];
-
-  // Prevent dropdown flickering on Windows browsers
-  // function fixDropdownFlickering() {
-  //   const allSelects = document.querySelectorAll('select');
-  //   allSelects.forEach(select => {
-  //     // Track if we're handling a mousedown to prevent double events
-  //     let isMouseDown = false;
-
-  //     select.addEventListener('mousedown', function (e) {
-  //       isMouseDown = true;
-  //       // Small delay to ensure focus is properly set
-  //       setTimeout(() => {
-  //         isMouseDown = false;
-  //       }, 100);
-  //     });
-
-  //     select.addEventListener('focus', function (e) {
-  //       // Only set the focused attribute if we're not handling a mousedown
-  //       // This prevents flickering on Windows browsers
-  //       if (!isMouseDown) {
-  //         this.setAttribute('data-focused', 'true');
-  //       }
-  //     });
-
-  //     select.addEventListener('blur', function () {
-  //       this.removeAttribute('data-focused');
-  //     });
-  //   });
-  // }
-
-  // Call the fix after the UI is built
-  // fixDropdownFlickering();
 
   textbookSelect.onchange = function () {
     selectedTextbook = this.value;
@@ -198,8 +153,9 @@ buildUI = function () {
     setTimeout(() => {
       applyPlaybackState(savedState);
     }, 100);
-  }
-};
+  };
+}
+
 function updateLoopCountDisplay() {
   // Remove all existing loop count spans
   document.querySelectorAll('#fileListDiv .loop-count-span').forEach(span => span.remove());
@@ -251,11 +207,6 @@ function highlightPlayingFile(fileName) {
   updateLoopCountDisplay();
 }
 
-
-
-
-
-
 // Update selected files immediately when checkboxes change
 function updateSelectedFiles() {
   const selectedFiles = [];
@@ -265,8 +216,7 @@ function updateSelectedFiles() {
       textbook: document.getElementById('textbookSelect').value,
       unit: document.getElementById('unitSelect').value,
       section: document.getElementById('sectionSelect').value,
-      file,
-      source: fileSources[file] || 'local' // Default to local if not specified
+      file
     });
   });
   playerState.selectedFiles = selectedFiles;
@@ -352,10 +302,8 @@ function updateUnits() {
   const sectionSelect = document.getElementById('sectionSelect');
   const fileListDiv = document.getElementById('fileListDiv');
   
-  // Get units from both local and Gitee data
-  const localUnits = Object.keys((indexData.local || {})[selectedTextbook] || {});
-  const giteeUnits = Object.keys((indexData.gitee || {})[selectedTextbook] || {});
-  const allUnits = [...new Set([...localUnits, ...giteeUnits])]; // Merge and deduplicate
+  // Get units from local data only
+  const allUnits = Object.keys((indexData || {})[selectedTextbook] || {});
   
   populateDropdown(unitSelect, allUnits);
   selectedUnit = allUnits[0] || '';
@@ -369,10 +317,8 @@ function updateSections() {
   const sectionSelect = document.getElementById('sectionSelect');
   const fileListDiv = document.getElementById('fileListDiv');
   
-  // Get sections from both local and Gitee data
-  const localSections = Object.keys(((indexData.local || {})[selectedTextbook] || {})[selectedUnit] || {});
-  const giteeSections = Object.keys(((indexData.gitee || {})[selectedTextbook] || {})[selectedUnit] || {});
-  const allSections = [...new Set([...localSections, ...giteeSections])]; // Merge and deduplicate
+  // Get sections from local data only
+  const allSections = Object.keys(((indexData || {})[selectedTextbook] || {})[selectedUnit] || {});
   
   populateDropdown(sectionSelect, allSections);
   selectedSection = allSections[0] || '';
@@ -385,59 +331,54 @@ function removeFileExtension(filename) {
   return filename.replace(/\.[^/.]+$/, "");
 }
 
+// Helper function to check if a file is in the old index
+function isFileInOldIndex(textbook, unit, section, fileName) {
+  try {
+    const sectionData = ((indexOldData || {})[textbook] || {})[unit] || {};
+    const files = sectionData[section] || [];
+    
+    // If files is an object (not array), extract the array
+    const fileArray = Array.isArray(files) ? files : (files.files || []);
+    
+    // Check if the file exists in the array
+    return fileArray.includes(fileName);
+  } catch (e) {
+    console.error('Error checking if file is in old index:', e);
+    return false;
+  }
+}
+
 function updateFiles() {
   const textbookSelect = document.getElementById('textbookSelect');
   const unitSelect = document.getElementById('unitSelect');
   const sectionSelect = document.getElementById('sectionSelect');
   const fileListDiv = document.getElementById('fileListDiv');
   
-  // Clear file sources tracking
-  fileSources = {};
+  // Get files from local data only
+  let files = ((indexData || {})[selectedTextbook] || {})[selectedUnit] || {};
+  files = files[selectedSection] || [];
   
-  // Get files from both local and Gitee data
-  let localFiles = ((indexData.local || {})[selectedTextbook] || {})[selectedUnit] || {};
-  localFiles = localFiles[selectedSection] || [];
-  
-  let giteeFiles = ((indexData.gitee || {})[selectedTextbook] || {})[selectedUnit] || {};
-  giteeFiles = giteeFiles[selectedSection] || [];
-  
-  // If localFiles or giteeFiles are objects (not arrays), extract the array
-  if (!Array.isArray(localFiles) && localFiles.files) {
-    localFiles = localFiles.files;
-  }
-  if (!Array.isArray(giteeFiles) && giteeFiles.files) {
-    giteeFiles = giteeFiles.files;
+  // If files is an object (not array), extract the array
+  if (!Array.isArray(files) && files.files) {
+    files = files.files;
   }
   
-  // Ensure they are arrays
-  if (!Array.isArray(localFiles)) localFiles = [];
-  if (!Array.isArray(giteeFiles)) giteeFiles = [];
-  
-  // Track source for each file
-  localFiles.forEach(file => {
-    fileSources[file] = 'local';
-  });
-  giteeFiles.forEach(file => {
-    fileSources[file] = 'gitee';
-  });
-  
-  // Merge and deduplicate files
-  const allFiles = [...new Set([...localFiles, ...giteeFiles])];
+  // Ensure it's an array
+  if (!Array.isArray(files)) files = [];
   
   fileListDiv.innerHTML = '';
-  if (allFiles.length === 0) {
+  if (files.length === 0) {
     fileListDiv.innerHTML = '<li>No files found for this section.</li>';
     updateSelectAllCheckbox();
     return;
   }
   
-  allFiles.forEach((fileName, idx) => {
+  files.forEach((fileName, idx) => {
     const li = document.createElement('li');
     li.setAttribute('data-file-name', fileName); // For highlight
-    const source = fileSources[fileName] || 'local';
     const displayName = removeFileExtension(fileName);
-    // Use different color for Gitee files instead of label
-    const fileColor = source === 'gitee' ? '#4B0082' : '#000000'; // Dark purple for Gitee, black for local
+    // All files are local now
+    const fileColor = '#000000'; // Black for local files
     li.innerHTML = `
           <label>
             <input type="checkbox" class="file-checkbox" value="${fileName}" checked>
@@ -448,12 +389,6 @@ function updateFiles() {
   });
   updateSelectAllCheckbox();
 }
-
-// Build UI for textbook -> unit -> section -> files structure
-// Build UI for textbook -> unit -> section -> files structure
-
-
-
 
 // Save playback state to localStorage
 function savePlaybackState() {
@@ -578,8 +513,7 @@ async function applyPlaybackState(state) {
                   fileObj.textbook, 
                   fileObj.unit, 
                   fileObj.section, 
-                  fileObj.file, 
-                  fileObj.source
+                  fileObj.file
                 );
                 
                 // Set the audio source
@@ -717,7 +651,7 @@ function updatePlayTimeDisplay() {
       speedControl.appendChild(opt);
     });
 
-    // Set default value to 1x (for local files)
+    // Set default value to 1x
     speedControl.value = '1';
 
     infoContainer.appendChild(speedControl);
@@ -764,7 +698,6 @@ function stopPlayTimeTracking() {
 }
 
 // Play selected files with global loop count
-// Play selected files with global loop count
 async function startPlayback() {
   const selectedFiles = [];
   document.querySelectorAll('.file-checkbox:checked').forEach(cb => {
@@ -773,8 +706,7 @@ async function startPlayback() {
       textbook: document.getElementById('textbookSelect').value,
       unit: document.getElementById('unitSelect').value,
       section: document.getElementById('sectionSelect').value,
-      file,
-      source: fileSources[file] || 'local' // Default to local if not specified
+      file
     });
   });
 
@@ -792,12 +724,19 @@ async function startPlayback() {
   playerState.loopIdx = 1;
   playerState.isPlaying = true;
 
-  // Set default playback speed based on file sources
+  // Set default playback speed based on file origin
+  // Default to 0.75x for all files
+  // Except when playing only files from index-old.json, then use 1x
   const speedControl = document.getElementById('speedControl');
   if (speedControl) {
-    // If any file is from Gitee, use 0.75x as default, otherwise use 1x
-    const hasGiteeFile = selectedFiles.some(fileObj => fileObj.source === 'gitee');
-    const defaultSpeed = hasGiteeFile ? 0.75 : 1;
+    // Check if all selected files are in the old index (and there's at least one file)
+    const allOldFiles = selectedFiles.length > 0 && selectedFiles.every(fileObj => 
+      isFileInOldIndex(fileObj.textbook, fileObj.unit, fileObj.section, fileObj.file)
+    );
+    
+    // Set default speed: 1x only if ALL files are in old index (pure old content),
+    // otherwise 0.75x (default for mixed or new content)
+    const defaultSpeed = allOldFiles ? 1 : 0.75;
     speedControl.value = defaultSpeed;
   }
 
@@ -812,19 +751,13 @@ async function startPlayback() {
 
   playCurrent();
 }
-// (Removed duplicate event listener for globalLoopCount; already handled in buildUI)
+
 // Preload audio file
 async function preloadAudio(fileObj) {
   if (!fileObj) return;
 
-  const { textbook, unit, section, file, source } = fileObj;
-  const audioUrl = getFileUrl(textbook, unit, section, file, source);
-  
-  // For Gitee files, we can't cache them due to CORS restrictions
-  if (source === 'gitee') {
-    console.log(`Gitee file (not cached due to CORS): ${file}`);
-    return;
-  }
+  const { textbook, unit, section, file } = fileObj;
+  const audioUrl = getFileUrl(textbook, unit, section, file);
   
   // Check if file is in cache first
   try {
@@ -859,49 +792,29 @@ async function playCurrent() {
     savePlaybackState(); // Save state when playback finishes
     return;
   }
-  const { textbook, unit, section, file, source } = files[idx];
-  const audioUrl = getFileUrl(textbook, unit, section, file, source);
+  const { textbook, unit, section, file } = files[idx];
+  const audioUrl = getFileUrl(textbook, unit, section, file);
   
-  // For Gitee files, we can't use the cache due to CORS restrictions
-  if (source === 'gitee') {
-    console.log(`Playing from Gitee: ${file}`);
-    audio.src = audioUrl;
-  } else {
-    // Check if file is in cache
-    try {
-      const cachedData = await window.audioCache.getAudioFromCache(audioUrl);
-      if (cachedData) {
-        console.log(`Playing from cache: ${file}`);
-        const blob = new Blob([cachedData], { type: 'audio/mpeg' });
-        audio.src = URL.createObjectURL(blob);
-      } else {
-        console.log(`Playing from network: ${file}`);
-        audio.src = audioUrl;
-      }
-    } catch (error) {
-      console.error('Error retrieving from cache, falling back to network:', error);
+  // Check if file is in cache
+  try {
+    const cachedData = await window.audioCache.getAudioFromCache(audioUrl);
+    if (cachedData) {
+      console.log(`Playing from cache: ${file}`);
+      const blob = new Blob([cachedData], { type: 'audio/mpeg' });
+      audio.src = URL.createObjectURL(blob);
+    } else {
+      console.log(`Playing from network: ${file}`);
       audio.src = audioUrl;
     }
+  } catch (error) {
+    console.error('Error retrieving from cache, falling back to network:', error);
+    audio.src = audioUrl;
   }
   
-  // Set playback speed based on file source
+  // Set playback speed to user's selection
   const speedControl = document.getElementById('speedControl');
   if (speedControl) {
-    // For the first file in a playlist, set default speed based on source
-    // For subsequent files or loops, maintain user's selection unless it's the default
-    const defaultSpeed = (source === 'gitee') ? 0.75 : 1;
-    const userSpeed = parseFloat(speedControl.value);
-    
-    // If this is the first file (fileIdx = 0) and first loop (loopIdx = 1),
-    // set the default speed based on source
-    if (playerState.fileIdx === 0 && playerState.loopIdx === 1) {
-      // Set default speed based on source
-      audio.playbackRate = defaultSpeed;
-      speedControl.value = defaultSpeed;
-    } else {
-      // For subsequent files or loops, maintain user's selection
-      audio.playbackRate = userSpeed;
-    }
+    audio.playbackRate = parseFloat(speedControl.value);
   }
   
   audio.play();
@@ -939,21 +852,19 @@ async function playCurrent() {
     startPlayTimeTracking();
     savePlaybackState(); // Save state when audio starts playing
     
-    // Save to cache after playing (only for local files due to CORS restrictions on Gitee)
-    if (source === 'local') {
-      try {
-        const isCached = await window.audioCache.isAudioInCache(audioUrl);
-        if (!isCached) {
-          // Fetch and cache the file
-          fetch(audioUrl)
-            .then(response => response.arrayBuffer())
-            .then(arrayBuffer => window.audioCache.saveAudioToCache(audioUrl, arrayBuffer))
-            .then(() => console.log(`Saved to cache: ${file}`))
-            .catch(error => console.error('Error caching file:', error));
-        }
-      } catch (error) {
-        console.error('Error checking cache status:', error);
+    // Save to cache after playing
+    try {
+      const isCached = await window.audioCache.isAudioInCache(audioUrl);
+      if (!isCached) {
+        // Fetch and cache the file
+        fetch(audioUrl)
+          .then(response => response.arrayBuffer())
+          .then(arrayBuffer => window.audioCache.saveAudioToCache(audioUrl, arrayBuffer))
+          .then(() => console.log(`Saved to cache: ${file}`))
+          .catch(error => console.error('Error caching file:', error));
       }
+    } catch (error) {
+      console.error('Error checking cache status:', error);
     }
   };
   
@@ -1016,8 +927,9 @@ window.addEventListener('DOMContentLoaded', () => {
 
 // Listen for index data loaded event
 window.addEventListener('indexDataLoaded', function(event) {
-  // Set the global indexData variable
-  indexData = event.detail;
+  // Set the global indexData variables
+  indexData = event.detail.current || event.detail;
+  indexOldData = event.detail.old || {};
   // Build the UI with the loaded data
   buildUI();
 });
@@ -1031,54 +943,12 @@ async function reloadJsonData() {
   refreshBtn.disabled = true;
   
   try {
-    // Clear cache by removing cached data
-    localStorage.removeItem('giteeWavListCache');
-    localStorage.removeItem('giteeApiSkip');
-    
-    // Reload both local index.json and Gitee WAV list
-    let localIndexData = {};
-    let giteeIndexData = {};
-    
-    // Load local index.json with cache busting
-    const localPromise = fetch(`wav/index.json?t=${Date.now()}`)
-      .then(response => response.json())
-      .then(data => {
-        localIndexData = data;
-      })
-      .catch(err => {
-        console.error('Failed to load local wav/index.json:', err);
-      });
-    
-    // Load Gitee WAV list (if giteeWavList is available)
-    const giteePromise = new Promise((resolve) => {
-      if (window.giteeWavList && typeof window.giteeWavList.scanAndGenerateList === 'function') {
-        window.giteeWavList.scanAndGenerateList()
-          .then(data => {
-            // Even if data is empty due to rate limiting, we still resolve
-            giteeIndexData = data || {};
-            resolve();
-          })
-          .catch(err => {
-            console.error('Failed to load Gitee WAV list:', err);
-            // Resolve with empty object to not block the UI
-            resolve();
-          });
-      } else {
-        resolve(); // Resolve immediately if giteeWavList is not available
-      }
-    });
-    
-    // Wait for both to complete
-    await Promise.all([localPromise, giteePromise]);
-    
-    // Merge the data, with Gitee data taking precedence
-    const newIndexData = {
-      local: localIndexData,
-      gitee: giteeIndexData && Object.keys(giteeIndexData).length > 0 ? giteeIndexData : {} // Only include non-empty gitee data
-    };
+    // Reload local index.json with cache busting
+    const response = await fetch(`wav/index.json?t=${Date.now()}`);
+    const localIndexData = await response.json();
     
     // Update global indexData variable
-    indexData = newIndexData;
+    indexData = localIndexData;
     
     // Rebuild the UI with the new data
     buildUI();

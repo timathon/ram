@@ -19,7 +19,7 @@ function scanDir(dir) {
     if (item.isDirectory()) {
       // Recursively scan subdirectories
       subdirs[item.name] = scanDir(itemPath);
-    } else if (item.isFile() && /\.(wav|mp3)$/i.test(item.name)) {
+    } else if (item.isFile() && /\.(wav|mp3|aac)$/i.test(item.name)) {
       // Collect file names
       files.push(item.name);
     }
