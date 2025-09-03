@@ -907,6 +907,82 @@ async function cacheAudioAfterPlayback(audioUrl, fileName) {
   }
 }
 
+// Function to refresh the currently playing file
+async function refreshCurrentFile() {
+  // Check if we're currently playing a file
+  if (!playerState.isPlaying || playerState.selectedFiles.length === 0) {
+    console.log('No file is currently playing');
+    return;
+  }
+
+  const audio = document.getElementById('audio');
+  const files = playerState.selectedFiles;
+  const idx = playerState.fileIdx;
+  
+  if (idx < 0 || idx >= files.length) {
+    console.log('Invalid file index');
+    return;
+  }
+  
+  const { textbook, unit, section, file } = files[idx];
+  const audioUrl = getFileUrl(textbook, unit, section, file);
+  
+  // Show loading indicator on the refresh button
+  const refreshFileBtn = document.getElementById('refreshFileBtn');
+  const originalText = refreshFileBtn.textContent;
+  refreshFileBtn.textContent = '...';
+  refreshFileBtn.disabled = true;
+  
+  try {
+    // Reset the audio source to force a re-download
+    console.log(`Refreshing file: ${file}`);
+    audio.src = '';
+    audio.src = audioUrl;
+    
+    // Set playback speed to user's selection
+    const speedControl = document.getElementById('speedControl');
+    if (speedControl) {
+      audio.playbackRate = parseFloat(speedControl.value);
+    }
+    
+    // Always play the audio after refresh
+    await audio.play();
+    
+    // Update cache with the fresh file in the background
+    updateCacheAfterRefresh(audioUrl, file);
+    
+    console.log(`File refreshed and playing: ${file}`);
+  } catch (error) {
+    console.error('Error refreshing file:', error);
+    alert('Failed to refresh the file. Please try again.');
+  } finally {
+    // Restore button
+    refreshFileBtn.textContent = originalText;
+    refreshFileBtn.disabled = false;
+  }
+}
+
+// Function to update cache after refreshing a file
+async function updateCacheAfterRefresh(audioUrl, fileName) {
+  try {
+    // Fetch and cache the file in the background (non-blocking)
+    setTimeout(async () => {
+      try {
+        const response = await fetch(audioUrl);
+        if (response.ok) {
+          const arrayBuffer = await response.arrayBuffer();
+          await window.audioCache.saveAudioToCache(audioUrl, arrayBuffer);
+          console.log(`Cache updated with fresh file: ${fileName}`);
+        }
+      } catch (error) {
+        console.error('Error updating cache after refresh:', error);
+      }
+    }, 1000); // 1 second delay to ensure playback has started
+  } catch (error) {
+    console.error('Error initiating cache update:', error);
+  }
+}
+
 document.getElementById('playBtn').onclick = async function () {
   const playBtn = document.getElementById('playBtn');
   if (playerState.isPlaying) {
@@ -991,6 +1067,12 @@ window.addEventListener('DOMContentLoaded', function() {
   const refreshBtn = document.getElementById('refreshBtn');
   if (refreshBtn) {
     refreshBtn.addEventListener('click', reloadJsonData);
+  }
+  
+  // Add event listener for refresh file button
+  const refreshFileBtn = document.getElementById('refreshFileBtn');
+  if (refreshFileBtn) {
+    refreshFileBtn.addEventListener('click', refreshCurrentFile);
   }
 });
 
