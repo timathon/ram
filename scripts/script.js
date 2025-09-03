@@ -187,6 +187,9 @@ function highlightPlayingFile(fileName) {
       li.style.background = '#ffeeba';
       li.style.fontWeight = 'bold';
 
+      // Add refresh button to the currently playing file
+      addRefreshButtonToFile(li, fileName);
+
       // Scroll the file into view if it's not visible
       const fileListDiv = document.getElementById('fileListDiv');
       const fileRect = li.getBoundingClientRect();
@@ -202,9 +205,123 @@ function highlightPlayingFile(fileName) {
     } else {
       li.style.background = '';
       li.style.fontWeight = '';
+      
+      // Remove refresh button from non-playing files
+      const existingRefreshBtn = li.querySelector('.refresh-file-btn');
+      if (existingRefreshBtn) {
+        existingRefreshBtn.remove();
+      }
     }
   });
   updateLoopCountDisplay();
+}
+
+// Function to add refresh button to a file list item
+function addRefreshButtonToFile(li, fileName) {
+  // Check if refresh button already exists
+  if (li.querySelector('.refresh-file-btn')) {
+    return;
+  }
+
+  // Create refresh button
+  const refreshBtn = document.createElement('button');
+  refreshBtn.className = 'refresh-file-btn';
+  refreshBtn.title = 'Refresh this file';
+  refreshBtn.textContent = '↻';
+  refreshBtn.style.marginLeft = '10px';
+  refreshBtn.style.padding = '2px 6px';
+  refreshBtn.style.fontSize = '12px';
+  refreshBtn.style.cursor = 'pointer';
+  refreshBtn.style.border = '1px solid #ccc';
+  refreshBtn.style.borderRadius = '4px';
+  refreshBtn.style.backgroundColor = '#f5f5f5';
+  refreshBtn.style.transition = 'background-color 0.2s';
+  
+  // Add hover effect
+  refreshBtn.addEventListener('mouseenter', function() {
+    this.style.backgroundColor = '#e0e0e0';
+  });
+  refreshBtn.addEventListener('mouseleave', function() {
+    this.style.backgroundColor = '#f5f5f5';
+  });
+  
+  // Add click event
+  refreshBtn.addEventListener('click', function(e) {
+    e.stopPropagation(); // Prevent checkbox from being toggled
+    refreshSpecificFile(fileName);
+  });
+  
+  // Add button to list item
+  li.appendChild(refreshBtn);
+}
+
+// Function to refresh a specific file
+async function refreshSpecificFile(fileName) {
+  // Check if we're currently playing a file
+  if (!playerState.isPlaying || playerState.selectedFiles.length === 0) {
+    console.log('No file is currently playing');
+    return;
+  }
+
+  const files = playerState.selectedFiles;
+  const idx = playerState.fileIdx;
+  
+  if (idx < 0 || idx >= files.length) {
+    console.log('Invalid file index');
+    return;
+  }
+  
+  // Check if this is the currently playing file
+  const currentFile = files[idx];
+  if (currentFile.file !== fileName) {
+    console.log('This is not the currently playing file');
+    return;
+  }
+  
+  const { textbook, unit, section, file } = currentFile;
+  const audioUrl = getFileUrl(textbook, unit, section, file);
+  const audio = document.getElementById('audio');
+  
+  // Find the refresh button for this file
+  const li = document.querySelector(`#fileListDiv li[data-file-name="${fileName}"]`);
+  const refreshBtn = li ? li.querySelector('.refresh-file-btn') : null;
+  
+  // Show loading indicator on the refresh button
+  const originalText = refreshBtn ? refreshBtn.textContent : '↻';
+  if (refreshBtn) {
+    refreshBtn.textContent = '...';
+    refreshBtn.disabled = true;
+  }
+  
+  try {
+    // Reset the audio source to force a re-download
+    console.log(`Refreshing file: ${file}`);
+    audio.src = '';
+    audio.src = audioUrl;
+    
+    // Set playback speed to user's selection
+    const speedControl = document.getElementById('speedControl');
+    if (speedControl) {
+      audio.playbackRate = parseFloat(speedControl.value);
+    }
+    
+    // Always play the audio after refresh
+    await audio.play();
+    
+    // Update cache with the fresh file in the background
+    updateCacheAfterRefresh(audioUrl, file);
+    
+    console.log(`File refreshed and playing: ${file}`);
+  } catch (error) {
+    console.error('Error refreshing file:', error);
+    alert('Failed to refresh the file. Please try again.');
+  } finally {
+    // Restore button
+    if (refreshBtn) {
+      refreshBtn.textContent = originalText;
+      refreshBtn.disabled = false;
+    }
+  }
 }
 
 // Update selected files immediately when checkboxes change
@@ -908,60 +1025,6 @@ async function cacheAudioAfterPlayback(audioUrl, fileName) {
 }
 
 // Function to refresh the currently playing file
-async function refreshCurrentFile() {
-  // Check if we're currently playing a file
-  if (!playerState.isPlaying || playerState.selectedFiles.length === 0) {
-    console.log('No file is currently playing');
-    return;
-  }
-
-  const audio = document.getElementById('audio');
-  const files = playerState.selectedFiles;
-  const idx = playerState.fileIdx;
-  
-  if (idx < 0 || idx >= files.length) {
-    console.log('Invalid file index');
-    return;
-  }
-  
-  const { textbook, unit, section, file } = files[idx];
-  const audioUrl = getFileUrl(textbook, unit, section, file);
-  
-  // Show loading indicator on the refresh button
-  const refreshFileBtn = document.getElementById('refreshFileBtn');
-  const originalText = refreshFileBtn.textContent;
-  refreshFileBtn.textContent = '...';
-  refreshFileBtn.disabled = true;
-  
-  try {
-    // Reset the audio source to force a re-download
-    console.log(`Refreshing file: ${file}`);
-    audio.src = '';
-    audio.src = audioUrl;
-    
-    // Set playback speed to user's selection
-    const speedControl = document.getElementById('speedControl');
-    if (speedControl) {
-      audio.playbackRate = parseFloat(speedControl.value);
-    }
-    
-    // Always play the audio after refresh
-    await audio.play();
-    
-    // Update cache with the fresh file in the background
-    updateCacheAfterRefresh(audioUrl, file);
-    
-    console.log(`File refreshed and playing: ${file}`);
-  } catch (error) {
-    console.error('Error refreshing file:', error);
-    alert('Failed to refresh the file. Please try again.');
-  } finally {
-    // Restore button
-    refreshFileBtn.textContent = originalText;
-    refreshFileBtn.disabled = false;
-  }
-}
-
 // Function to update cache after refreshing a file
 async function updateCacheAfterRefresh(audioUrl, fileName) {
   try {
@@ -1069,11 +1132,7 @@ window.addEventListener('DOMContentLoaded', function() {
     refreshBtn.addEventListener('click', reloadJsonData);
   }
   
-  // Add event listener for refresh file button
-  const refreshFileBtn = document.getElementById('refreshFileBtn');
-  if (refreshFileBtn) {
-    refreshFileBtn.addEventListener('click', refreshCurrentFile);
-  }
+  
 });
 
 // Save playback state when page is about to be unloaded
