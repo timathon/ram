@@ -2,6 +2,14 @@
     let localIndexData = {};
     let giteeIndexData = {};
     
+    // Clear Gitee cache to ensure fresh data on page load
+    try {
+      localStorage.removeItem('giteeWavListCache');
+      localStorage.removeItem('giteeApiSkip');
+    } catch (e) {
+      console.error('Error clearing Gitee cache:', e);
+    }
+    
     // Load local index.json with cache busting
     const localPromise = fetch(`wav/index.json?t=${Date.now()}`)
       .then(response => response.json())
