@@ -753,6 +753,7 @@ async function startPlayback() {
 }
 
 // Preload audio file
+// Preload audio file (lightweight version for better streaming)
 async function preloadAudio(fileObj) {
   if (!fileObj) return;
 
@@ -770,15 +771,36 @@ async function preloadAudio(fileObj) {
     console.error('Error checking cache status:', error);
   }
   
-  // If not cached, fetch and cache it
+  // For preloading, we just check if the file exists without downloading it completely
+  // This is more efficient for streaming scenarios
   try {
-    const response = await fetch(audioUrl);
-    const arrayBuffer = await response.arrayBuffer();
-    await window.audioCache.saveAudioToCache(audioUrl, arrayBuffer);
-    console.log(`Preloaded and cached: ${file}`);
+    const response = await fetch(audioUrl, { method: 'HEAD' });
+    if (response.ok) {
+      console.log(`File available for streaming: ${file}`);
+      // Optionally, we can start a background fetch to cache the file
+      // but we don't block the UI or playback for it
+      preloadAndCacheInBackground(audioUrl, file);
+    }
   } catch (error) {
-    console.log(`Failed to preload: ${file}`, error);
+    console.log(`File not available for streaming: ${file}`, error);
   }
+}
+
+// Background caching without blocking playback
+async function preloadAndCacheInBackground(audioUrl, fileName) {
+  // Add a delay before caching to prioritize current playback
+  setTimeout(async () => {
+    try {
+      const response = await fetch(audioUrl);
+      if (response.ok) {
+        const arrayBuffer = await response.arrayBuffer();
+        await window.audioCache.saveAudioToCache(audioUrl, arrayBuffer);
+        console.log(`Preloaded and cached in background: ${fileName}`);
+      }
+    } catch (error) {
+      console.log(`Failed to preload in background: ${fileName}`, error);
+    }
+  }, 5000); // 5 second delay to prioritize current playback
 }
 
 async function playCurrent() {
@@ -795,21 +817,10 @@ async function playCurrent() {
   const { textbook, unit, section, file } = files[idx];
   const audioUrl = getFileUrl(textbook, unit, section, file);
   
-  // Check if file is in cache
-  try {
-    const cachedData = await window.audioCache.getAudioFromCache(audioUrl);
-    if (cachedData) {
-      console.log(`Playing from cache: ${file}`);
-      const blob = new Blob([cachedData], { type: 'audio/mpeg' });
-      audio.src = URL.createObjectURL(blob);
-    } else {
-      console.log(`Playing from network: ${file}`);
-      audio.src = audioUrl;
-    }
-  } catch (error) {
-    console.error('Error retrieving from cache, falling back to network:', error);
-    audio.src = audioUrl;
-  }
+  // Set the audio source directly for streaming playback
+  // This allows the browser to stream the file without waiting for complete download
+  console.log(`Playing from network (streaming): ${file}`);
+  audio.src = audioUrl;
   
   // Set playback speed to user's selection
   const speedControl = document.getElementById('speedControl');
@@ -852,20 +863,8 @@ async function playCurrent() {
     startPlayTimeTracking();
     savePlaybackState(); // Save state when audio starts playing
     
-    // Save to cache after playing
-    try {
-      const isCached = await window.audioCache.isAudioInCache(audioUrl);
-      if (!isCached) {
-        // Fetch and cache the file
-        fetch(audioUrl)
-          .then(response => response.arrayBuffer())
-          .then(arrayBuffer => window.audioCache.saveAudioToCache(audioUrl, arrayBuffer))
-          .then(() => console.log(`Saved to cache: ${file}`))
-          .catch(error => console.error('Error caching file:', error));
-      }
-    } catch (error) {
-      console.error('Error checking cache status:', error);
-    }
+    // Save to cache after playing (non-blocking)
+    cacheAudioAfterPlayback(audioUrl, file);
   };
   
   // Save state when audio is paused
@@ -883,6 +882,29 @@ async function playCurrent() {
       savePlaybackState();
     }
   };
+}
+
+// Non-blocking cache function that runs after playback starts
+async function cacheAudioAfterPlayback(audioUrl, fileName) {
+  try {
+    const isCached = await window.audioCache.isAudioInCache(audioUrl);
+    if (!isCached) {
+      // Fetch and cache the file in the background (non-blocking)
+      // We use a small delay to ensure playback has started
+      setTimeout(async () => {
+        try {
+          const response = await fetch(audioUrl);
+          const arrayBuffer = await response.arrayBuffer();
+          await window.audioCache.saveAudioToCache(audioUrl, arrayBuffer);
+          console.log(`Saved to cache: ${fileName}`);
+        } catch (error) {
+          console.error('Error caching file:', error);
+        }
+      }, 1000); // 1 second delay to ensure playback has started
+    }
+  } catch (error) {
+    console.error('Error checking cache status:', error);
+  }
 }
 
 document.getElementById('playBtn').onclick = async function () {

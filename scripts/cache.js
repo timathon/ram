@@ -5,6 +5,19 @@ const STORE_NAME = 'audioFiles';
 
 let db;
 
+// Helper function to determine MIME type based on file extension
+function getMimeTypeFromExtension(fileName) {
+  const ext = fileName.split('.').pop().toLowerCase();
+  const mimeTypes = {
+    'mp3': 'audio/mpeg',
+    'aac': 'audio/aac',
+    'wav': 'audio/wav',
+    'ogg': 'audio/ogg',
+    'm4a': 'audio/mp4'
+  };
+  return mimeTypes[ext] || 'audio/mpeg'; // default to mp3
+}
+
 // Open IndexedDB connection
 function openDB() {
   return new Promise((resolve, reject) => {
@@ -33,7 +46,7 @@ function openDB() {
   });
 }
 
-// Save audio file to cache with last modified timestamp
+// Save audio file to cache with last modified timestamp and MIME type
 async function saveAudioToCache(url, arrayBuffer, lastModified = Date.now()) {
   if (!db) await openDB();
   
@@ -41,11 +54,16 @@ async function saveAudioToCache(url, arrayBuffer, lastModified = Date.now()) {
     const transaction = db.transaction([STORE_NAME], 'readwrite');
     const store = transaction.objectStore(STORE_NAME);
     
+    // Extract filename from URL for MIME type detection
+    const fileName = url.split('/').pop();
+    const mimeType = getMimeTypeFromExtension(fileName);
+    
     const data = {
       url: url,
       data: arrayBuffer,
       timestamp: Date.now(),
-      lastModified: lastModified
+      lastModified: lastModified,
+      mimeType: mimeType // Store MIME type for proper playback
     };
     
     const request = store.put(data);
@@ -65,7 +83,7 @@ async function getAudioFromCache(url) {
     const request = store.get(url);
     request.onsuccess = () => {
       if (request.result) {
-        resolve(request.result.data);
+        resolve(request.result);
       } else {
         resolve(null);
       }
@@ -101,7 +119,8 @@ async function getCachedFileInfo(url) {
       if (request.result) {
         resolve({
           lastModified: request.result.lastModified,
-          timestamp: request.result.timestamp
+          timestamp: request.result.timestamp,
+          mimeType: request.result.mimeType
         });
       } else {
         resolve(null);
