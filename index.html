@@ -137,6 +137,26 @@
       z-index: 1;
     }
 
+    #refreshBtn {
+      padding: 8px 12px;
+      font-size: 16px;
+      cursor: pointer;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      background-color: #f5f5f5;
+      transition: background-color 0.2s;
+      min-width: auto;
+    }
+
+    #refreshBtn:hover {
+      background-color: #e0e0e0;
+    }
+
+    #refreshBtn:disabled {
+      background-color: #e0e0e0;
+      cursor: not-allowed;
+    }
+
     input[type="number"] {
       padding: 8px;
       border-radius: 4px;
@@ -217,13 +237,18 @@
         }
       }
 
-
-
       .controls button {
         width: auto;
         padding: 12px;
         min-width: 80px;
         font-size: 14px;
+      }
+
+      #infoContainer {
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-left: 0;
       }
 
       .file-box {
@@ -244,6 +269,20 @@
         /* Prevents zoom on iOS */
       }
     }
+
+    /* Ensure info container elements stay together on mobile */
+    @media (max-width: 480px) {
+      #infoContainer {
+        width: 100%;
+        justify-content: space-between;
+      }
+      
+      #playTimeDisplay,
+      #speedControl {
+        flex: 1;
+        min-width: 120px;
+      }
+    }
   </style>
   <h1>Pitter-Patter Player</h1>
   <div id="sections">
@@ -260,7 +299,10 @@
         <div style="display: flex; gap: 15px; align-items: end; flex-wrap: wrap;">
           <div>
             <label for="sectionSelect">Section:</label>
-            <select id="sectionSelect"></select>
+            <div style="display: flex; align-items: center; gap: 10px;">
+              <select id="sectionSelect"></select>
+              <button id="refreshBtn" title="Refresh file lists">↻</button>
+            </div>
           </div>
           <div>
             <label for="globalLoopCount">Loop:</label>

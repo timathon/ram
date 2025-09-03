@@ -663,28 +663,38 @@ function updatePlayTimeDisplay() {
     timeString = `${paddedMinutes}:${paddedSeconds}`;
   }
 
+  // Create a container for play time and speed control to keep them together
+  let infoContainer = document.getElementById('infoContainer');
+  if (!infoContainer) {
+    const controlsDiv = document.querySelector('.controls');
+    infoContainer = document.createElement('div');
+    infoContainer.id = 'infoContainer';
+    infoContainer.style.display = 'flex';
+    infoContainer.style.alignItems = 'center';
+    infoContainer.style.flexWrap = 'wrap';
+    infoContainer.style.gap = '15px';
+    infoContainer.style.marginLeft = '15px';
+    controlsDiv.appendChild(infoContainer);
+  }
+
   // Update display in controls area
   let playTimeDisplay = document.getElementById('playTimeDisplay');
   if (!playTimeDisplay) {
-    const controlsDiv = document.querySelector('.controls');
     playTimeDisplay = document.createElement('div');
     playTimeDisplay.id = 'playTimeDisplay';
-    playTimeDisplay.style.marginLeft = '15px';
     playTimeDisplay.style.padding = '10px';
     playTimeDisplay.style.backgroundColor = '#f0f0f0';
     playTimeDisplay.style.borderRadius = '4px';
     playTimeDisplay.style.fontWeight = 'bold';
-    controlsDiv.appendChild(playTimeDisplay);
+    infoContainer.appendChild(playTimeDisplay);
   }
   playTimeDisplay.textContent = `Today: ${timeString}`;
 
   // Add playback speed control after play time display
   let speedControl = document.getElementById('speedControl');
   if (!speedControl) {
-    const controlsDiv = document.querySelector('.controls');
     speedControl = document.createElement('select');
     speedControl.id = 'speedControl';
-    speedControl.style.marginLeft = '15px';
     speedControl.style.padding = '8px';
     speedControl.style.borderRadius = '4px';
     speedControl.style.border = '1px solid #ccc';
@@ -710,7 +720,7 @@ function updatePlayTimeDisplay() {
     // Set default value to 1x (for local files)
     speedControl.value = '1';
 
-    controlsDiv.appendChild(speedControl);
+    infoContainer.appendChild(speedControl);
 
     // Add event listener to update playback speed
     speedControl.addEventListener('change', function() {
@@ -1010,6 +1020,86 @@ window.addEventListener('indexDataLoaded', function(event) {
   indexData = event.detail;
   // Build the UI with the loaded data
   buildUI();
+});
+
+// Function to reload JSON data
+async function reloadJsonData() {
+  // Show loading indicator
+  const refreshBtn = document.getElementById('refreshBtn');
+  const originalText = refreshBtn.textContent;
+  refreshBtn.textContent = '...';
+  refreshBtn.disabled = true;
+  
+  try {
+    // Clear cache by removing cached data
+    localStorage.removeItem('giteeWavListCache');
+    localStorage.removeItem('giteeApiSkip');
+    
+    // Reload both local index.json and Gitee WAV list
+    let localIndexData = {};
+    let giteeIndexData = {};
+    
+    // Load local index.json with cache busting
+    const localPromise = fetch(`wav/index.json?t=${Date.now()}`)
+      .then(response => response.json())
+      .then(data => {
+        localIndexData = data;
+      })
+      .catch(err => {
+        console.error('Failed to load local wav/index.json:', err);
+      });
+    
+    // Load Gitee WAV list (if giteeWavList is available)
+    const giteePromise = new Promise((resolve) => {
+      if (window.giteeWavList && typeof window.giteeWavList.scanAndGenerateList === 'function') {
+        window.giteeWavList.scanAndGenerateList()
+          .then(data => {
+            // Even if data is empty due to rate limiting, we still resolve
+            giteeIndexData = data || {};
+            resolve();
+          })
+          .catch(err => {
+            console.error('Failed to load Gitee WAV list:', err);
+            // Resolve with empty object to not block the UI
+            resolve();
+          });
+      } else {
+        resolve(); // Resolve immediately if giteeWavList is not available
+      }
+    });
+    
+    // Wait for both to complete
+    await Promise.all([localPromise, giteePromise]);
+    
+    // Merge the data, with Gitee data taking precedence
+    const newIndexData = {
+      local: localIndexData,
+      gitee: giteeIndexData && Object.keys(giteeIndexData).length > 0 ? giteeIndexData : {} // Only include non-empty gitee data
+    };
+    
+    // Update global indexData variable
+    indexData = newIndexData;
+    
+    // Rebuild the UI with the new data
+    buildUI();
+    
+    console.log('JSON data reloaded successfully');
+  } catch (error) {
+    console.error('Error reloading JSON data:', error);
+    alert('Failed to reload file lists. Please try again.');
+  } finally {
+    // Restore button
+    refreshBtn.textContent = originalText;
+    refreshBtn.disabled = false;
+  }
+}
+
+// Add event listener for refresh button
+window.addEventListener('DOMContentLoaded', function() {
+  const refreshBtn = document.getElementById('refreshBtn');
+  if (refreshBtn) {
+    refreshBtn.addEventListener('click', reloadJsonData);
+  }
 });
 
 // Save playback state when page is about to be unloaded
