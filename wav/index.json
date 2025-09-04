@@ -106,9 +106,6 @@
         "A9-U1-A-3a-13.mp3",
         "A9-U1-A-3a-summary.mp3"
       ],
-      "A-8": [
-        "A9-U1-A-2d-01.mp3"
-      ],
       "B-2b": [
         "A9-U1-B-2b-01.mp3",
         "A9-U1-B-2b-02.mp3",
@@ -133,6 +130,23 @@
         "A9-U1-B-2b-21.mp3",
         "A9-U1-B-2b-22.mp3",
         "A9-U1-B-2b-summary.mp3"
+      ],
+      "SC": [
+        "A9-U1-SC-01.mp3",
+        "A9-U1-SC-02.mp3",
+        "A9-U1-SC-03.mp3",
+        "A9-U1-SC-04.mp3",
+        "A9-U1-SC-05.mp3",
+        "A9-U1-SC-06.mp3",
+        "A9-U1-SC-07.mp3",
+        "A9-U1-SC-08.mp3",
+        "A9-U1-SC-09.mp3",
+        "A9-U1-SC-10.mp3",
+        "A9-U1-SC-11.mp3",
+        "A9-U1-SC-12.mp3",
+        "A9-U1-SC-13.mp3",
+        "A9-U1-SC-14.mp3",
+        "A9-U1-SC-15.mp3"
       ]
     },
     "U6": {
