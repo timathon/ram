@@ -378,31 +378,36 @@ async function refreshSpecificFile(fileName) {
       setPlaybackSpeed(audio);
       audio.play();
     } else {
-      // For non-cached files, start playing immediately from local file
-      // while background operations happen
-      console.log(`Refreshing from local file: ${file}`);
-      const audioUrl = localAudioUrl;
-      
-      // Set the audio source and play immediately
-      audio.src = '';
-      audio.src = audioUrl;
-      setPlaybackSpeed(audio);
-      
-      // Play the audio (don't await, let it happen asynchronously)
-      audio.play().catch(error => {
-        console.error('Error playing audio:', error);
-      });
-      
-      // Now do the background operations
+      // For non-cached files, try to play from Gitee API first
       try {
-        // Try to fetch from Gitee API and cache the response
+        console.log(`Refreshing from Gitee API: ${file}`);
         const giteeBlob = await fetchFromGiteeApi(textbook, unit, section, file);
-        // If successful, we could potentially switch to the Gitee version
-        // but for now, we'll just cache the local file
+        
+        // Play from Gitee blob immediately
+        const audioUrl = URL.createObjectURL(giteeBlob);
+        audio.src = '';
+        audio.src = audioUrl;
+        setPlaybackSpeed(audio);
+        audio.play();
+        
+        // Cache the local file in background for future use
         cacheLocalFileForPlayback(textbook, unit, section, file);
       } catch (giteeError) {
-        // If Gitee API fails, just cache the local file
-        console.log(`Gitee API failed, caching local file: ${file}`, giteeError);
+        // If Gitee API fails, fallback to local file
+        console.log(`Gitee API failed, fallback to local file: ${file}`, giteeError);
+        const audioUrl = localAudioUrl;
+        
+        // Set the audio source and play immediately
+        audio.src = '';
+        audio.src = audioUrl;
+        setPlaybackSpeed(audio);
+        
+        // Play the audio (don't await, let it happen asynchronously)
+        audio.play().catch(error => {
+          console.error('Error playing audio:', error);
+        });
+        
+        // Cache the local file in background
         cacheLocalFileForPlayback(textbook, unit, section, file);
       }
     }
@@ -1051,34 +1056,42 @@ async function playCurrent() {
       highlightPlayingFile(file);
       savePlaybackState();
     } else {
-      // For non-cached files, start playing immediately from local file
-      // while background operations happen
-      console.log(`Playing from local file: ${file}`);
-      const audioUrl = localAudioUrl;
-      
-      // Set the audio source and play immediately
-      audio.src = audioUrl;
-      setPlaybackSpeed(audio);
-      
-      // Play the audio (don't await, let it happen asynchronously)
-      audio.play().catch(error => {
-        console.error('Error playing audio:', error);
-      });
-      
-      playerState.loopIdx = 1;
-      highlightPlayingFile(file);
-      savePlaybackState();
-      
-      // Now do the background operations
+      // For non-cached files, try to play from Gitee API first
       try {
-        // Try to fetch from Gitee API and cache the response
+        console.log(`Playing from Gitee API: ${file}`);
         const giteeBlob = await fetchFromGiteeApi(textbook, unit, section, file);
-        // If successful, we could potentially switch to the Gitee version
-        // but for now, we'll just cache the local file
+        
+        // Play from Gitee blob immediately
+        const audioUrl = URL.createObjectURL(giteeBlob);
+        audio.src = audioUrl;
+        setPlaybackSpeed(audio);
+        audio.play();
+        
+        playerState.loopIdx = 1;
+        highlightPlayingFile(file);
+        savePlaybackState();
+        
+        // Cache the local file in background for future use
         cacheLocalFileForPlayback(textbook, unit, section, file);
       } catch (giteeError) {
-        // If Gitee API fails, just cache the local file
-        console.log(`Gitee API failed, caching local file: ${file}`, giteeError);
+        // If Gitee API fails, fallback to local file
+        console.log(`Gitee API failed, fallback to local file: ${file}`, giteeError);
+        const audioUrl = localAudioUrl;
+        
+        // Set the audio source and play immediately
+        audio.src = audioUrl;
+        setPlaybackSpeed(audio);
+        
+        // Play the audio (don't await, let it happen asynchronously)
+        audio.play().catch(error => {
+          console.error('Error playing audio:', error);
+        });
+        
+        playerState.loopIdx = 1;
+        highlightPlayingFile(file);
+        savePlaybackState();
+        
+        // Cache the local file in background
         cacheLocalFileForPlayback(textbook, unit, section, file);
       }
     }
