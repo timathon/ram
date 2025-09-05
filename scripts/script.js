@@ -837,23 +837,19 @@ async function preloadAudio(fileObj) {
     console.error('Error checking cache status:', error);
   }
   
-  // Try to preload from Gitee API and cache the Gitee blob
+  // Cache the local file
   try {
-    console.log(`Preloading from Gitee API: ${file}`);
-    const giteeBlob = await fetchFromGiteeApi(textbook, unit, section, file);
-    
-    // Cache the Gitee blob for future use
-    try {
-      const arrayBuffer = await new Response(giteeBlob).arrayBuffer();
+    console.log(`Preloading from local file: ${file}`);
+    const response = await fetch(localAudioUrl);
+    if (response.ok) {
+      const arrayBuffer = await response.arrayBuffer();
       await window.audioCache.saveAudioToCache(localAudioUrl, arrayBuffer);
-      console.log(`Preloaded and cached Gitee blob: ${file}`);
-    } catch (cacheError) {
-      console.error('Error caching Gitee blob:', cacheError);
+      console.log(`Preloaded and cached local file: ${file}`);
+    } else {
+      console.log(`Failed to preload local file: ${file} (Status: ${response.status})`);
     }
-  } catch (giteeError) {
-    console.log(`Gitee API failed for preload: ${file}`, giteeError);
-    // Don't preload from local file anymore
-    console.log(`Not preloading from local file: ${file}`);
+  } catch (error) {
+    console.error('Error preloading local file:', error);
   }
 }
 
