@@ -255,9 +255,6 @@ function highlightPlayingFile(fileName) {
       li.style.background = '#ffeeba';
       li.style.fontWeight = 'bold';
 
-      // Add refresh button to the currently playing file
-      addRefreshButtonToFile(li, fileName);
-
       // Scroll the file into view if it's not visible
       const fileListDiv = document.getElementById('fileListDiv');
       const fileRect = li.getBoundingClientRect();
@@ -273,157 +270,14 @@ function highlightPlayingFile(fileName) {
     } else {
       li.style.background = '';
       li.style.fontWeight = '';
-      
-      // Remove refresh button from non-playing files
-      const existingRefreshBtn = li.querySelector('.refresh-file-btn');
-      if (existingRefreshBtn) {
-        existingRefreshBtn.remove();
-      }
     }
   });
   updateLoopCountDisplay();
 }
 
-// Function to add refresh button to a file list item
-function addRefreshButtonToFile(li, fileName) {
-  // Check if refresh button already exists
-  if (li.querySelector('.refresh-file-btn')) {
-    return;
-  }
 
-  // Create refresh button
-  const refreshBtn = document.createElement('button');
-  refreshBtn.className = 'refresh-file-btn';
-  refreshBtn.title = 'Refresh this file';
-  refreshBtn.textContent = '↻';
-  refreshBtn.style.marginLeft = '10px';
-  refreshBtn.style.padding = '2px 6px';
-  refreshBtn.style.fontSize = '12px';
-  refreshBtn.style.cursor = 'pointer';
-  refreshBtn.style.border = '1px solid #ccc';
-  refreshBtn.style.borderRadius = '4px';
-  refreshBtn.style.backgroundColor = '#f5f5f5';
-  refreshBtn.style.transition = 'background-color 0.2s';
-  
-  // Add hover effect
-  refreshBtn.addEventListener('mouseenter', function() {
-    this.style.backgroundColor = '#e0e0e0';
-  });
-  refreshBtn.addEventListener('mouseleave', function() {
-    this.style.backgroundColor = '#f5f5f5';
-  });
-  
-  // Add click event
-  refreshBtn.addEventListener('click', function(e) {
-    e.stopPropagation(); // Prevent checkbox from being toggled
-    refreshSpecificFile(fileName);
-  });
-  
-  // Add button to list item
-  li.appendChild(refreshBtn);
-}
 
-// Function to refresh a specific file
-async function refreshSpecificFile(fileName) {
-  // Check if we're currently playing a file
-  if (!playerState.isPlaying || playerState.selectedFiles.length === 0) {
-    console.log('No file is currently playing');
-    return;
-  }
 
-  const files = playerState.selectedFiles;
-  const idx = playerState.fileIdx;
-  
-  if (idx < 0 || idx >= files.length) {
-    console.log('Invalid file index');
-    return;
-  }
-  
-  // Check if this is the currently playing file
-  const currentFile = files[idx];
-  if (currentFile.file !== fileName) {
-    console.log('This is not the currently playing file');
-    return;
-  }
-  
-  const { textbook, unit, section, file } = currentFile;
-  const localAudioUrl = getFileUrl(textbook, unit, section, file, 'local');
-  const audio = document.getElementById('audio');
-  
-  // Find the refresh button for this file
-  const li = document.querySelector(`#fileListDiv li[data-file-name="${fileName}"]`);
-  const refreshBtn = li ? li.querySelector('.refresh-file-btn') : null;
-  
-  // Show loading indicator on the refresh button
-  const originalText = refreshBtn ? refreshBtn.textContent : '↻';
-  if (refreshBtn) {
-    refreshBtn.textContent = '...';
-    refreshBtn.disabled = true;
-  }
-  
-  try {
-    // First check if file is in cache
-    const isCached = await window.audioCache.isAudioInCache(localAudioUrl);
-    
-    if (isCached) {
-      // Play from cache immediately
-      console.log(`Refreshing from cache: ${file}`);
-      const cachedFile = await window.audioCache.getAudioFromCache(localAudioUrl);
-      const blob = new Blob([cachedFile.data], { type: cachedFile.mimeType });
-      const audioUrl = URL.createObjectURL(blob);
-      
-      // Set the audio source and play immediately
-      audio.src = '';
-      audio.src = audioUrl;
-      setPlaybackSpeed(audio);
-      audio.play();
-    } else {
-      // For non-cached files, try to play from Gitee API first
-      try {
-        console.log(`Refreshing from Gitee API: ${file}`);
-        const giteeBlob = await fetchFromGiteeApi(textbook, unit, section, file);
-        
-        // Play from Gitee blob immediately
-        const audioUrl = URL.createObjectURL(giteeBlob);
-        audio.src = '';
-        audio.src = audioUrl;
-        setPlaybackSpeed(audio);
-        audio.play();
-        
-        // Cache the local file in background for future use
-        cacheLocalFileForPlayback(textbook, unit, section, file);
-      } catch (giteeError) {
-        // If Gitee API fails, fallback to local file
-        console.log(`Gitee API failed, fallback to local file: ${file}`, giteeError);
-        const audioUrl = localAudioUrl;
-        
-        // Set the audio source and play immediately
-        audio.src = '';
-        audio.src = audioUrl;
-        setPlaybackSpeed(audio);
-        
-        // Play the audio (don't await, let it happen asynchronously)
-        audio.play().catch(error => {
-          console.error('Error playing audio:', error);
-        });
-        
-        // Cache the local file in background
-        cacheLocalFileForPlayback(textbook, unit, section, file);
-      }
-    }
-    
-    console.log(`File refreshed and playing: ${file}`);
-  } catch (error) {
-    console.error('Error refreshing file:', error);
-    alert('Failed to refresh the file. Please try again.');
-  } finally {
-    // Restore button
-    if (refreshBtn) {
-      refreshBtn.textContent = originalText;
-      refreshBtn.disabled = false;
-    }
-  }
-}
 
 // Update selected files immediately when checkboxes change
 function updateSelectedFiles() {
@@ -962,11 +816,6 @@ async function startPlayback() {
   // Note: Actual time tracking starts when audio.onplay is triggered
   loadDailyPlayTime(); // Ensure we have the latest time data
 
-  // Preload the second file if it exists
-  if (selectedFiles.length > 1) {
-    preloadAudio(selectedFiles[1]);
-  }
-
   playCurrent();
 }
 
@@ -988,37 +837,77 @@ async function preloadAudio(fileObj) {
     console.error('Error checking cache status:', error);
   }
   
-  // Cache the local file for next playback
-  cacheLocalFileForPreload(textbook, unit, section, file);
-}
-
-// Function to cache local file for preload
-async function cacheLocalFileForPreload(textbook, unit, section, file) {
+  // Try to preload from Gitee API and cache the Gitee blob
   try {
-    // Add a delay before caching to prioritize current playback
-    setTimeout(async () => {
-      try {
-        const localAudioUrl = getFileUrl(textbook, unit, section, file, 'local');
-        const isCached = await window.audioCache.isAudioInCache(localAudioUrl);
-        
-        if (!isCached) {
-          const response = await fetch(localAudioUrl);
-          if (response.ok) {
-            const arrayBuffer = await response.arrayBuffer();
-            await window.audioCache.saveAudioToCache(localAudioUrl, arrayBuffer);
-            console.log(`Preloaded and cached local file: ${file}`);
-          } else {
-            console.log(`Failed to preload local file: ${file} (Status: ${response.status})`);
-          }
-        }
-      } catch (error) {
-        console.log(`Failed to preload local file: ${file}`, error);
-      }
-    }, 5000); // 5 second delay to prioritize current playback
-  } catch (error) {
-    console.error('Error initiating preload cache:', error);
+    console.log(`Preloading from Gitee API: ${file}`);
+    const giteeBlob = await fetchFromGiteeApi(textbook, unit, section, file);
+    
+    // Cache the Gitee blob for future use
+    try {
+      const arrayBuffer = await new Response(giteeBlob).arrayBuffer();
+      await window.audioCache.saveAudioToCache(localAudioUrl, arrayBuffer);
+      console.log(`Preloaded and cached Gitee blob: ${file}`);
+    } catch (cacheError) {
+      console.error('Error caching Gitee blob:', cacheError);
+    }
+  } catch (giteeError) {
+    console.log(`Gitee API failed for preload: ${file}`, giteeError);
+    // Don't preload from local file anymore
+    console.log(`Not preloading from local file: ${file}`);
   }
 }
+
+// Cache the next two files from local files
+async function cacheNextTwoFiles() {
+  const files = playerState.selectedFiles;
+  const currentIdx = playerState.fileIdx;
+  
+  // Cache the next file
+  if (currentIdx + 1 < files.length) {
+    cacheNextFileFromLocal(files[currentIdx + 1]);
+  }
+  
+  // Cache the file after next
+  if (currentIdx + 2 < files.length) {
+    cacheNextFileFromLocal(files[currentIdx + 2]);
+  }
+}
+
+// Cache a single file from local storage
+async function cacheNextFileFromLocal(fileObj) {
+  if (!fileObj) return;
+
+  const { textbook, unit, section, file } = fileObj;
+  const localAudioUrl = getFileUrl(textbook, unit, section, file, 'local');
+  
+  // Check if file is already in cache
+  try {
+    const isCached = await window.audioCache.isAudioInCache(localAudioUrl);
+    if (isCached) {
+      console.log(`File already cached: ${file}`);
+      return;
+    }
+  } catch (error) {
+    console.error('Error checking cache status:', error);
+  }
+  
+  // Cache the local file
+  try {
+    console.log(`Caching local file: ${file}`);
+    const response = await fetch(localAudioUrl);
+    if (response.ok) {
+      const arrayBuffer = await response.arrayBuffer();
+      await window.audioCache.saveAudioToCache(localAudioUrl, arrayBuffer);
+      console.log(`Cached local file: ${file}`);
+    } else {
+      console.log(`Failed to cache local file: ${file} (Status: ${response.status})`);
+    }
+  } catch (error) {
+    console.error('Error caching local file:', error);
+  }
+}
+
+
 
 async function playCurrent() {
   const audio = document.getElementById('audio');
@@ -1071,8 +960,14 @@ async function playCurrent() {
         highlightPlayingFile(file);
         savePlaybackState();
         
-        // Cache the local file in background for future use
-        cacheLocalFileForPlayback(textbook, unit, section, file);
+        // Cache the Gitee blob for future use
+        try {
+          const arrayBuffer = await new Response(giteeBlob).arrayBuffer();
+          await window.audioCache.saveAudioToCache(localAudioUrl, arrayBuffer);
+          console.log(`Cached Gitee blob: ${file}`);
+        } catch (cacheError) {
+          console.error('Error caching Gitee blob:', cacheError);
+        }
       } catch (giteeError) {
         // If Gitee API fails, fallback to local file
         console.log(`Gitee API failed, fallback to local file: ${file}`, giteeError);
@@ -1091,8 +986,8 @@ async function playCurrent() {
         highlightPlayingFile(file);
         savePlaybackState();
         
-        // Cache the local file in background
-        cacheLocalFileForPlayback(textbook, unit, section, file);
+        // Don't cache from local file anymore
+        console.log(`Not caching from local file: ${file}`);
       }
     }
     
@@ -1100,6 +995,9 @@ async function playCurrent() {
     if (idx + 1 < files.length) {
       preloadAudio(files[idx + 1]);
     }
+    
+    // Cache the next two files from local files
+    cacheNextTwoFiles();
   } catch (error) {
     console.error('Error playing file:', error);
     // Fallback to local file if all else fails
@@ -1116,6 +1014,9 @@ async function playCurrent() {
     if (idx + 1 < files.length) {
       preloadAudio(files[idx + 1]);
     }
+    
+    // Cache the next two files from local files
+    cacheNextTwoFiles();
   }
 
   // Set up event handlers
@@ -1174,33 +1075,7 @@ function setupAudioEventHandlers(audio, textbook, unit, section, file) {
 
 
 
-// Function to cache local file in background
-async function cacheLocalFileForPlayback(textbook, unit, section, file) {
-  try {
-    // Small delay to prioritize playback
-    setTimeout(async () => {
-      try {
-        const localAudioUrl = getFileUrl(textbook, unit, section, file, 'local');
-        const isCached = await window.audioCache.isAudioInCache(localAudioUrl);
-        
-        if (!isCached) {
-          const response = await fetch(localAudioUrl);
-          if (response.ok) {
-            const arrayBuffer = await response.arrayBuffer();
-            await window.audioCache.saveAudioToCache(localAudioUrl, arrayBuffer);
-            console.log(`Cached local file: ${file}`);
-          } else {
-            console.log(`Failed to cache local file: ${file} (Status: ${response.status})`);
-          }
-        }
-      } catch (error) {
-        console.error('Error caching local file:', error);
-      }
-    }, 2000); // 2 second delay to prioritize playback
-  } catch (error) {
-    console.error('Error initiating local file cache:', error);
-  }
-}
+
 
 
 
@@ -1260,46 +1135,6 @@ window.addEventListener('indexDataLoaded', function(event) {
   indexOldData = event.detail.old || {};
   // Build the UI with the loaded data
   buildUI();
-});
-
-// Function to reload JSON data
-async function reloadJsonData() {
-  // Show loading indicator
-  const refreshBtn = document.getElementById('refreshBtn');
-  const originalText = refreshBtn.textContent;
-  refreshBtn.textContent = '...';
-  refreshBtn.disabled = true;
-  
-  try {
-    // Reload local index.json with cache busting
-    const response = await fetch(`wav/index.json?t=${Date.now()}`);
-    const localIndexData = await response.json();
-    
-    // Update global indexData variable
-    indexData = localIndexData;
-    
-    // Rebuild the UI with the new data
-    buildUI();
-    
-    console.log('JSON data reloaded successfully');
-  } catch (error) {
-    console.error('Error reloading JSON data:', error);
-    alert('Failed to reload file lists. Please try again.');
-  } finally {
-    // Restore button
-    refreshBtn.textContent = originalText;
-    refreshBtn.disabled = false;
-  }
-}
-
-// Add event listener for refresh button
-window.addEventListener('DOMContentLoaded', function() {
-  const refreshBtn = document.getElementById('refreshBtn');
-  if (refreshBtn) {
-    refreshBtn.addEventListener('click', reloadJsonData);
-  }
-  
-  
 });
 
 // Save playback state when page is about to be unloaded
