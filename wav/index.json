@@ -586,7 +586,7 @@
   },
   "T1": {
     "U6": {
-      "Culture": [
+      "P62-Culture": [
         "T1-U6-Culture-01.mp3",
         "T1-U6-Culture-02.mp3",
         "T1-U6-Culture-03.mp3",
@@ -615,6 +615,18 @@
         "T1-U6-Culture-26.mp3",
         "T1-U6-Culture-summary.mp3"
       ],
+      "P65-TY-1": [
+        "T1-U6-P65-TY-1-01.mp3",
+        "T1-U6-P65-TY-1-02.mp3",
+        "T1-U6-P65-TY-1-03.mp3",
+        "T1-U6-P65-TY-1-04.mp3",
+        "T1-U6-P65-TY-1-05.mp3",
+        "T1-U6-P65-TY-1-06.mp3",
+        "T1-U6-P65-TY-1-07.mp3",
+        "T1-U6-P65-TY-1-08.mp3",
+        "T1-U6-P65-TY-1-09.mp3",
+        "T1-U6-P65-TY-1-10.mp3"
+      ],
       "Vocabulary": [
         "T1-U6-Vocabulary_01.mp3",
         "T1-U6-Vocabulary_02.mp3",
@@ -624,6 +636,28 @@
         "T1-U6-Vocabulary_06.mp3",
         "T1-U6-Vocabulary_07.mp3",
         "T1-U6-Vocabulary_08.mp3"
+      ],
+      "WB-P58-Reading": [
+        "T1-U6-WB-P58-Reading-01.mp3",
+        "T1-U6-WB-P58-Reading-02.mp3",
+        "T1-U6-WB-P58-Reading-03.mp3",
+        "T1-U6-WB-P58-Reading-04.mp3",
+        "T1-U6-WB-P58-Reading-05.mp3",
+        "T1-U6-WB-P58-Reading-06.mp3",
+        "T1-U6-WB-P58-Reading-07.mp3",
+        "T1-U6-WB-P58-Reading-08.mp3",
+        "T1-U6-WB-P58-Reading-09.mp3",
+        "T1-U6-WB-P58-Reading-10.mp3",
+        "T1-U6-WB-P58-Reading-11.mp3",
+        "T1-U6-WB-P58-Reading-12.mp3",
+        "T1-U6-WB-P58-Reading-13.mp3",
+        "T1-U6-WB-P58-Reading-14.mp3",
+        "T1-U6-WB-P58-Reading-15.mp3",
+        "T1-U6-WB-P58-Reading-16.mp3",
+        "T1-U6-WB-P58-Reading-17.mp3",
+        "T1-U6-WB-P58-Reading-18.mp3",
+        "T1-U6-WB-P58-Reading-19.mp3",
+        "T1-U6-WB-P58-Reading-summary.mp3"
       ]
     }
   }
