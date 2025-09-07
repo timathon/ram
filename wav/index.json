@@ -39,6 +39,43 @@
     }
   },
   "A7A": {
+    "U1": {
+      "A-2a": [
+        "A7A-U1-A-2a-01.mp3",
+        "A7A-U1-A-2a-02.mp3",
+        "A7A-U1-A-2a-03.mp3",
+        "A7A-U1-A-2a-04.mp3",
+        "A7A-U1-A-2a-05.mp3",
+        "A7A-U1-A-2a-06.mp3",
+        "A7A-U1-A-2a-07.mp3",
+        "A7A-U1-A-2a-08.mp3",
+        "A7A-U1-A-2a-09.mp3",
+        "A7A-U1-A-2a-10.mp3",
+        "A7A-U1-A-2a-11.mp3",
+        "A7A-U1-A-2a-summary.mp3"
+      ],
+      "B-1b": [
+        "A7A-U1-B-1b-01.mp3",
+        "A7A-U1-B-1b-02.mp3",
+        "A7A-U1-B-1b-03.mp3",
+        "A7A-U1-B-1b-04.mp3",
+        "A7A-U1-B-1b-05.mp3",
+        "A7A-U1-B-1b-06.mp3",
+        "A7A-U1-B-1b-07.mp3",
+        "A7A-U1-B-1b-08.mp3",
+        "A7A-U1-B-1b-09.mp3",
+        "A7A-U1-B-1b-summary.mp3"
+      ],
+      "JCB-Writing": [
+        "A7A-U1-JCB-Writing-01.mp3",
+        "A7A-U1-JCB-Writing-02.mp3",
+        "A7A-U1-JCB-Writing-03.mp3",
+        "A7A-U1-JCB-Writing-04.mp3",
+        "A7A-U1-JCB-Writing-05.mp3",
+        "A7A-U1-JCB-Writing-06.mp3",
+        "A7A-U1-JCB-Writing-summary.mp3"
+      ]
+    },
     "U3": {
       "A-1a": [
         "A7A-U3-A-1a-01.mp3",
