@@ -1,0 +1,156 @@
+行号1  
+A letter from your stomach  
+来自你胃的一封信  
+A letter from your stomach  
+问题:  
+"信"用英语怎么说？ 五，四，三，二，一。letter <prosody rate="slow"><say-as interpret-as="spell-out">L E T T E R</say-as></prosody>  
+"胃"用英语怎么说？ 五，四，三，二，一。stomach <prosody rate="slow"><say-as interpret-as="spell-out">S T O M A C H</say-as></prosody>  
+原文: A letter from your stomach  
+作用: 这一行是信的标题，引入主题。  
+
+行号2  
+Dear Sally,  
+亲爱的Sally，  
+Dear Sally,  
+作用: 信的称呼，开始对话。  
+
+行号3  
+That's enough! This is a bad day for me again!  
+够了！这对我来说又是糟糕的一天！  
+That's enough! This is a bad day for me again!  
+问题:  
+"足够"用英语怎么说？ 五，四，三，二，一。enough <prosody rate="slow"><say-as interpret-as="spell-out">E N O U G H</say-as></prosody>  
+"糟糕的一天"用英语怎么说？ 五，四，三，二，一。a bad day 
+原文: That's enough! This is a bad day for me again!  
+作用: 表达胃的不满情绪，强调糟糕的一天。  
+
+行号4  
+Every morning, you need a good breakfast.  
+每天早上，你需要一顿好的早餐。  
+Every morning, you need a good breakfast.  
+问题:  
+"需要"用英语怎么说？ 五，极四，三，二，一。need <prosody rate="slow"><say-as interpret-as="spell-out">N E E D</say-as></prosody>  
+"早餐"用英语怎么说？ 五，四，三，二，一。breakfast <极prosody rate="slow"><say-as interpret-as="spell-out">B R E A K F A S T</say-as></prosody>  
+原文: Every morning, you need a good breakfast.  
+作用: 提出早餐的重要性。  
+
+行号5  
+Let's have bread, milk, eggs, fruit and vegetables.  
+让我们吃面包、牛奶、鸡蛋、水果和蔬菜。  
+Let's have bread, milk, eggs, fruit and vegetables.  
+问题:  
+"面包"用英语怎么说？ 五，四，三，二，一。bread <prosody rate="slow"><say-as interpret-as="spell-out">B R E A D</say-as></prosody>  
+"蔬菜"用英语怎么说？ 五，四，三，二，一。vegetables  
+原文: Let's have bread, milk, eggs, fruit and vegetables.  
+作用: 建议健康的早餐食物。  
+
+行号6  
+Just a few biscuits are not enough! I often feel hungry all morning.  
+仅仅几块饼干是不够的！我经常整个早上都感到饥饿。  
+Just a few biscuits are not enough! I often feel hungry all morning.  
+问题:  
+"饼干"用英语怎么说？ 五，四，三，二，一。biscuit <prosody rate="slow"><say-as interpret-as="spell-out">B I S C U I T</say-as></prosody>
+"感到"用英语怎么说？ 五，四，三，二，一。feel <prosody rate="slow"><say-as interpret-as="spell-out">F E E L</say-as></prosody>  
+"饥饿"用英语怎么说？ 五，四，三，二，一。hungry <prosody rate="slow"><say-as interpret-as="spell-out">H U N G R Y</say-as></prosody>  
+"整个早上"用英语怎么说？ 五，四，三，二，一。all morning
+原文: Just a few biscuits are not enough! I often feel hungry all morning.  
+作用: 说明饼干不足导致饥饿。  
+
+行号7  
+Then you often eat too much for lunch.  
+然后你经常午餐吃太多。  
+Then you often eat too much for lunch.  
+问题:  
+"吃太多"用英语怎么说？ 五，四，三，二，一。eat too much  
+"午餐吃太多"用英语怎么说？ 五，四，三，二，一。eat too much for lunch
+原文: Then you often eat too much for lunch.  
+作用: 描述午餐过量的问题。  
+
+行号8  
+You have a lot of meat, but no vegetables and no fruit.  
+你吃很多肉，但没有蔬菜和水果。  
+You have a lot of meat, but no vegetables and no fruit.  
+问题:  
+"吃很多肉"用英语怎么说？ 五，四，三，二，一。have a lot of meat
+"没有蔬菜"用英语怎么说？ 五，四，三，二，一。no vegetables
+原文: You have a极 lot of meat, but no vegetables and no fruit.  
+作用: 指出饮食不均衡，缺乏蔬果。  
+
+行号9  
+I get too heavy. This makes you sleepy in the afternoon.  
+我变得太重了。这让你在下午感到困倦。  
+I get too heavy. This makes you sleepy in the afternoon.  
+问题:  
+"变得太重"用英语怎么说？ 五，四，三，二，一。get too heavy
+"使你困倦"用英语怎么说？ 五，四，三，二，一。make you sleepy
+"在下午"用英语怎么说？ 五，四，三，二，一。in the afternoon
+原文: I get too heavy. This makes you sleepy in the afternoon.  
+作用: 解释过量饮食的后果，体重增加和下午困倦。  
+
+行号10  
+And you always eat dinner too fast so you can go and play.  
+而且你总是吃晚餐太快，这样你可以去玩。  
+And you always eat dinner too fast so you can go and play.  
+问题:  
+"太快"用英语怎么说？ 五，四，三，二，一。too fast <prosody rate="slow"><say-as interpret-as="spell-out">T O O  F A S T</say-as></prosody>
+"这样"用英语怎么说？ 五，四，三，二，一。so <prosody rate="slow"><say-as interpret-as="spell-out">S O</say-as></prosody>
+"去玩"用英语怎么说？ 五，四，三，二，一。go and play
+原文: And you always eat dinner too fast so you can go and play.  
+作用: 描述晚餐吃得太快的原因和行为。  
+
+行号11  
+You should eat slowly.  
+你应该慢慢吃。  
+You should eat slowly.  
+问题:  
+"应该"用英语怎么说？ 五，四，三，二，一。should <prosody rate="slow"><say-as interpret-as="spell-out">S H O U L D</say-as></prosody>  
+"慢慢地"用英语怎么说？ 五，四，三，二，一。slowly <prosody rate="slow"><say-as interpret-as="spell-out">S L O W L Y</say-as></prosody>  
+原文: You should eat slowly.  
+作用: 给出建议，要慢慢吃。  
+
+行号12  
+I have to work hard for a long time after dinner. I'm so tired.  
+晚餐后我不得不努力工作很长时间。我很累。  
+I have to work hard for a long time after dinner. I'm so tired.  
+问题:  
+"必须"用英语怎么说？ 五，四，三，二，一。have to  
+"努力工作"用英语怎么说？ 五，四，三，二，一。work hard
+"累的"用英语怎么说？ 五，四，三，二，一。tired <prosody rate="slow"><say-as interpret-as="spell-out">T I R E D</say-as></prosody>  
+原文: I have to work hard for a long time after dinner. I'm so tired.  
+作用: 表达胃的疲劳，强调消化工作的辛苦。  
+
+行号13  
+Sally, please make some changes.  
+Sally，请做出一些改变。  
+Sally, please make some changes.  
+问题:  
+"做"用英语怎么说？ 五，四，三，二，一。make <prosody rate="slow"><say-as interpret-as="spell-out">M A K E</say-as></prosody>  
+"改变"用英语怎么说？ 五，四，三，二，一。changes <prosody rate="slow"><say-as interpret-as="spell-out">C H A N G E S</say-as></prosody>
+"做出一些改变"用英语怎么说？ 五，四，三，二，一。make some changes
+原文: Sally, please make some changes.  
+作用: 直接请求改变。  
+
+行号14  
+Help me stay healthy. Then you are healthy, too.  
+帮助我保持健康。那么你也会健康。  
+Help me stay healthy. Then you are healthy, too.  
+问题:  
+"保持"用英语怎么说？ 五，四，三，二，一。stay <prosody rate="slow"><say-as interpret-as="spell-out">S T A Y</say-as></prosody>  
+"健康"用英语怎么说？ 五，四，三，二，一。healthy <prosody rate="slow"><say-as interpret-as="spell-out">H E A L T H Y</say-as></prosody>  
+"帮助我保持健康"用英语怎么说？ 五，四，三，二，一。Help me stay healthy
+原文: Help me stay healthy. Then you are healthy, too.  
+作用: 说明健康的好处，鼓励行动。  
+
+行号15  
+With love, Your stomach  
+爱你的，你的胃  
+With love, Your stomach  
+问题:  
+"带着关爱"用英语怎么说？ 五，四，三，二，一。with love
+"胃"用英语怎么说？ 五，四，三，二，一。stomach <prosody rate="slow"><say-as interpret-as="spell-out">S T O M A C H</say-as></prosody>  
+原文: With love, Your stomach  
+作用: 信的结束语，签名。  
+
+总结全文  
+胃通过信告诉Sally要改善饮食习惯，吃健康早餐、均衡午餐、慢食晚餐，以保持健康。  
+The stomach tells Sally to improve eating habits by having a healthy breakfast, balanced lunch, and eating dinner slowly to stay healthy.
