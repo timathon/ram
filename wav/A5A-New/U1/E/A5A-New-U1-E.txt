@@ -1,0 +1,55 @@
+行号1  
+Name a kind of food that starts with “r”. Answer: Rice.  
+说出一种以“r”开头的食物。答案：米饭。  
+Name a kind of food that starts with “r”. Answer: Rice.  
+问题:  
+"说出"用英语怎么说？ 五，四，三，二，一。Name <prosody rate="slow"><say-as interpret-as="spell-out">N A M E</say-as></prosody>  
+"以...开头"用英语怎么说？ 五，四，三，二，一。start with  
+Name a kind of food that starts with “r”. Answer: Rice.  
+
+行号2  
+Name two kinds of meat. Answer: Beef and chicken.  
+说出两种肉类。答案：牛肉和鸡肉。  
+Name two kinds of meat. Answer: Beef and chicken.  
+问题:  
+"肉类"用英语怎么说？ 五，四，三，二，一。meat <prosody rate="slow"><say-as interpret-as="spell-out">M E A T</say-as></prosody>  
+"牛肉"用英语怎么说？ 五，四，三，二，一。beef <prosody rate="slow"><say-as interpret-as="spell-out">B E E F</say-as></prosody>  
+"鸡肉"用英语怎么说？ 五，四，三，二，一。chicken <prosody rate="slow"><say-as interpret-as="spell-out">C H I C K E N</say-as></prosody>  
+Name two kinds of meat. Answer: Beef and chicken.  
+
+行号3  
+How often do you drink milk? Answer: I drink milk every day.  
+你多久喝一次牛奶？答案：我每天喝牛奶。  
+How often do you drink milk? Answer: I drink milk every day.  
+问题:  
+"喝"用英语怎么说？ 五，四，三，二，一。drink <prosody rate="slow"><say-as interpret-as="spell-out">D R I N K</say-as></prosody>  
+"多久一次"用英语怎么说？ 五，四，三，二，一。how often  
+"每天"用英语怎么说？ 五，四，三，二，一。every day  
+How often do you drink milk? Answer: I drink milk every day.  
+
+行号4  
+Name one yellow fruit and one red fruit. Answer: Yellow fruit: Banana. Red fruit: Apple.  
+说出一种黄色水果和一种红色水果。答案：黄色水果：香蕉。红色水果：苹果。  
+Name one yellow fruit and one red fruit. Answer: Yellow fruit: Banana. Red fruit: Apple.  
+问题:  
+"水果"用英语怎么说？ 五，四，三，二，一。fruit <prosody rate="slow"><say-as interpret-as="spell-out">F R U I T</say-as></prosody>  
+Name one yellow fruit and one red fruit. Answer: Yellow fruit: Banana. Red fruit: Apple.  
+
+行号5  
+Talk about snacks. Use “don’t” and “should”. Answer: Don't eat too many snacks like chips and chocolate. We should choose healthy snacks like fruits or nuts.  
+谈论零食。使用“don’t”和“should”。答案：不要吃太多零食如薯片和巧克力。我们应该选择健康零食如水果或坚果。  
+Talk about snacks. Use “don’t” and “should”. Answer: Don't eat too many snacks like chips and chocolate. We should choose healthy snacks like fruits or nuts.  
+问题:  
+"零食"用英语怎么说？ 五，四，三，二，一。snack <prosody rate="slow"><say-as interpret-as="spell-out">S N A C K</say-as></prosody>
+"选择"用英语怎么说？ 五，四，三，二，一。choose <prosody rate="slow"><say-as interpret-as="spell-out">C H O O S E</say-as></prosody>  
+"谈论"用英语怎么说？ 五，四，三，二，一。talk <prosody rate="slow"><say-as interpret-as="spell-out">T A L K</say-as></prosody>  
+Talk about snacks. Use “don’t” and “should”. Answer: Don't eat too many snacks like chips and chocolate. We should choose healthy snacks like fruits or nuts.  
+
+行号6  
+What vegetables do you like? Answer: I like carrots and broccoli.  
+你喜欢什么蔬菜？答案：我喜欢胡萝卜和西兰花。  
+What vegetables do you like? Answer: I like carrots and broccoli.  
+问题:  
+"胡萝卜"用英语怎么说？ 五，四，三，二，一。carrot <prosody rate="slow"><say-as interpret-as="spell-out">C A R R O T</say-as></prosody> 
+"西兰花"用英语怎么说？ 五，四，三，二，一。broccoli <prosody rate="slow"><say-as interpret-as="spell-out">B R O C C O L I</say-as></prosody> 
+What vegetables do you like? Answer: I like carrots and broccoli.

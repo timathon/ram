@@ -1,0 +1,44 @@
+行号1  
+Want to eat right? Remember three words: Go, slow, whoa!  
+想要正确饮食吗？记住三个词：走, 慢, 停！  
+Want to eat right? Remember three words: Go, slow, whoa!  
+问题:  
+"正确饮食"用英语怎么说？ 五，四，三，二，一。eat right
+"记住"用英语怎么说？ 五，四，三，二，一。remember <prosody rate="slow"><say-as interpret-as="spell-out">R E M E M B E R</say-as></prosody>  
+原文: Want to eat right? Remember three words: Go, slow, whoa!  
+作用: 这一行引入了健康饮食的主题，并提出了三个关键词作为指导原则。
+
+行号2  
+Tomatoes, grapes and oats, They help us to grow, So we can go, go, go!  
+西红柿、葡萄和燕麦，它们帮助我们成长，所以我们可以Go, go, go！  
+Tomatoes, grapes and oats, They help us to grow, So we can go, go, go!  
+问题:  
+"燕麦"用英语怎么说？ 五，四，三，二，一。oats <prosody rate="slow"><say-as interpret-as="spell-out">O A T S</say-as></prosody>  
+"成长"用英语怎么说？ 五，四，三，二，一。grow <prosody rate="slow"><say-as interpret-as="spell-out">G R O W</say-as></prosody>  
+原文: Tomatoes, grapes and oats, They help us to grow, So we can go, go, go!  
+作用: 这一行列举了属于Go类的食物，并说明它们促进成长和提供能量。
+
+行号3  
+Biscuits, juice and nuts? Don’t take too much. Be slow, slow, slow!  
+饼干、果汁和坚果？不要吃太多。要Slow, slow, slow！  
+Biscuits, juice and nuts? Don’t take too much. Be slow, slow, slow!  
+问题:  
+"饼干"用英语怎么说？ 五，四，三，二，一。biscuit <prosody rate="slow"><say-as interpret-as="spell-out">B I S C U I T</say-as></prosody>  
+"吃太多"用英语怎么说？ 五，四，三，二，一。take too much
+原文: Biscuits, juice and nuts? Don’t take too much. Be slow, slow, slow!  
+作用: 这一行介绍了Slow类食物，建议适量食用以避免过度摄入。
+
+行号4  
+Chips, candies and cakes? They make our body slow, So whoa! Say no!  
+薯片、糖果和蛋糕？它们让我们的身体变慢，所以Whoa！说不！  
+Chips, candies and cakes? They make our body slow, So whoa! Say no!  
+问题:  
+"让"用英语怎么说？ 五，四，三，二，一。make <prosody rate="slow"><say-as interpret-as="spell-out">M A K E</say-as></prosody>  
+"慢"用英语怎么说？ 五，四，三，二，一。slow <prosody rate="slow"><say-as interpret-as="spell-out">S L O W</say-as></prosody>  
+"说不"用英语怎么说？ 五，四，三，二，一。say no  
+原文: Chips, candies and cakes? They make our body slow, So whoa! Say no!  
+作用: 这一行介绍了Whoa类食物，警告它们对身体的负面影响，并建议坚决拒绝。
+
+总结全文  
+文章通过Go、Slow、Whoa三个分类指导健康饮食，鼓励多吃有益食物、适量食用中性食物、避免有害食物。  
+The article uses three categories—Go, Slow, Whoa—to guide healthy eating, encouraging consumption of beneficial foods, moderate intake of neutral foods, and avoidance of harmful foods.

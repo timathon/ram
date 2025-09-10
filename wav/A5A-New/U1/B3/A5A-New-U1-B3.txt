@@ -1,0 +1,51 @@
+行号1  
+Dear stomach, I’m sorry that you feel sad.  
+亲爱的胃，我很抱歉你感到悲伤。  
+Dear stomach, I’m sorry that you feel sad.  
+问题:  
+"胃"用英语怎么说？ 五，四，三，二，一。stomach <prosody rate="slow"><say-as interpret-as="spell-out">S T O M A C H</say-as></prosody>  
+"感到"用英语怎么说？ 五，四，三，二，一。feel <prosody rate="slow"><say-as interpret-as="spell-out">F E E L</say-as></prosody>  
+Dear stomach, I’m sorry that you feel sad.  
+
+行号2  
+I should have bread, milk, eggs, fruit and vegetables for breakfast.  
+我应该早餐吃面包、牛奶、鸡蛋、水果和蔬菜。  
+I should have bread, milk, eggs, fruit and vegetables for breakfast.  
+问题:  
+"应该"用英语怎么说？ 五，四，三，二，一。should <prosody rate="slow"><say-as interpret-as="spell-out">S H O U L D</say-as></prosody>  
+"早餐"用英语怎么说？ 五，四，三，二，一。breakfast <prosody rate="slow"><say-as interpret-as="spell-out">B R E A K F A S T</say-as></prosody>  
+I should have bread, milk, eggs, fruit and vegetables for breakfast.  
+
+行号3
+I should eat less meat and more vegetables and fruit for lunch.  
+我应该午餐少吃肉，多吃蔬菜和水果。  
+I should eat less meat and more vegetables and fruit for lunch.  
+问题:  
+"少吃"用英语怎么说？ 五，四，三，二，一。eat less  
+"多吃"用英语怎么说？ 五，四，三，二，一。eat more  
+"午餐"用英语怎么说？ 五，四，三，二，一。lunch <prosody rate="slow"><say-as interpret-as="spell-out">L U N C H</say-as></prosody>  
+I should eat less meat and more vegetables and fruit for lunch.  
+
+行号4
+And for dinner, I should eat slowly.  
+而对于晚餐，我应该慢慢吃。  
+And for dinner, I should eat slowly.  
+问题:  
+"慢慢吃"用英语怎么说？ 五，四，三，二，一。eat slowly  
+"晚餐"用英语怎么说？ 五，四，三，二，一。dinner <prosody rate="slow"><say-as interpret-as="spell-out">D I N N E R</say-as></prosody>  
+And for dinner, I should eat slowly.  
+
+行号5
+I hope we can stay healthy together.  
+我希望我们能一起保持健康。  
+I hope we can stay healthy together.  
+问题:  
+"希望"用英语怎么说？ 五，四，三，二，一。hope <prosody rate="slow"><say-as interpret-as="spell-out">H O P E</say-as></prosody>  
+"保持健康"用英语怎么说？ 五，四，三，二，一。stay healthy  
+"一起"用英语怎么说？ 五，四，三，二，一。together <prosody rate="slow"><say-as interpret-as="spell-out">T O G E T H E R</say-as></prosody>  
+I hope we can stay healthy together.  
+
+行号6
+With love, Sally 
+带着爱， 莎莉  
+With love, Sally
