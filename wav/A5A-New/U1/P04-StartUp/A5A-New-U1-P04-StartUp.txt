@@ -1,0 +1,112 @@
+行号1  
+Title: Sam's vegetables  
+萨姆的蔬菜  
+Sam's vegetables  
+问题:  
+"蔬菜"用英语怎么说？ 五，四，三，二，一。vegetables <prosody rate="slow"><say-as interpret-as="spell-out">V E G E T A B L E S</say-as></prosody>  
+原文: Sam's vegetables  
+
+行号2  
+Question: Where are the Smart family?  
+Smart一家在哪里？  
+Where are the Smart family?  
+问题:  
+"一家人"用英语怎么说？ 五，四，三，二，一。family <prosody rate="slow"><say-as interpret-as="spell-out">F A M I L Y</say-as></prosody>  
+原文: Where are the Smart family?  
+
+行号3  
+Picture 1: Restaurant. Wow! There is so much food.  
+图片1：餐厅。哇！有这么多食物。  
+Restaurant. Wow! There is so much food.  
+问题:  
+"这么多"用英语怎么说？ 五，四，三，二，一。so much  
+原文: Restaurant. Wow! There is so much food.  
+
+行号4  
+Picture 2: What do you want to eat?  
+图片2：你想吃什么？  
+Picture 2: What do you want to eat?  
+
+
+行号5  
+I want noodles in soup, salad and beef.  
+我想要汤面、沙拉和牛肉。  
+I want noodles in soup, salad and beef.  
+问题:  
+"汤面"用英语怎么说？ 五，四，三，二，一。noodles in soup  
+"牛肉"用英语怎么说？ 五，四，三，二，一。beef <prosody rate="slow"><say-as interpret-as="spell-out">B E E F</say-as></prosody>  
+原文: I want noodles in soup, salad and beef.  
+
+行号6  
+I want chicken and beef.  
+我想要鸡肉和牛肉。  
+I want chicken and beef.  
+问题:  
+"鸡肉"用英语怎么说？ 五，四，三，二，一。chicken <prosody rate="slow"><say-as interpret-as="spell-out">C H I C K E N</say-as></prosody>  
+原文: I want chicken and beef.  
+
+行号7  
+Picture 3: I want an apple and milk, too!  
+图片3：我也想要一个苹果和牛奶！  
+Picture 3: I want an apple and milk, too!  
+
+行号8  
+I like cake and cola.  
+我喜欢蛋糕和可乐。  
+I like cake and cola.  
+
+行号9  
+Don't take too much! We should eat all the food on our plates.  
+不要拿太多！我们应该吃掉盘子里的所有食物。  
+Don't take too much! We should eat all the food on our plates.  
+问题:  
+"拿"用英语怎么说？ 五，四，三，二，一。take <prosody rate="slow"><say-as interpret-as="spell-out">T A K E</say-as></prosody>  
+"应该"用英语怎么说？ 五，四，三，二，一。should <prosody rate="slow"><say-as interpret-as="spell-out">S H O U L D</say-as></prosody>  
+"所有食物"用英语怎么说？ 五，四，三，二，一。all the food
+原文: Don't take too much! We should eat all the food on our plates.  
+
+行号10  
+Picture 4: Sam, look at your plate. You should have some vegetables.  
+图片4：萨姆，看看你的盘子。你应该吃一些蔬菜。  
+Picture 4: Sam, look at your plate. You should have some vegetables.  
+问题:  
+"吃"用英语怎么说？ 五，四，三，二，一。have <prosody rate="slow"><say-as interpret-as="spell-out">H A V E</say-as></prosody>  
+原文: Picture 4: Sam, look at your plate. You should have some vegetables.  
+
+行号11  
+OK. Let me go and get some.  
+好的。让我去拿一些。  
+OK. Let me go and get some.  
+问题:  
+"让"用英语怎么说？ 五，四，三，二，一。let <prosody rate="slow"><say-as interpret-as="spell-out">L E T</say-as></prosody>  
+"去拿"用英语怎么说？ 五，四，三，二，一。go and get 
+原文: OK. Let me go and get some.  
+
+行号12  
+Picture 5: What vegetables have you got now?  
+图片5：你现在有什么蔬菜？  
+Picture 5: What vegetables have you got now?  
+问题:  
+"有"用英语怎么说？ 五，四，三，二，一。have got 
+原文: Picture 5: What vegetables have you got now?  
+
+行号13  
+Potatoes, a lot of potatoes.  
+土豆，很多土豆。  
+Potatoes, a lot of potatoes.  
+问题:  
+"很多"用英语怎么说？ 五，四，三，二，一。a lot of  
+原文: Potatoes, a lot of potatoes.  
+
+行号14  
+Oh, Sam!!! Those are chips!  
+哦，萨姆！！！那些是薯条！  
+Oh, Sam!!! Those are chips!  
+问题:  
+"那些"用英语怎么说？ 五，四，三，二，一。those <prosody rate="slow"><say-as interpret-as="spell-out">T H O S E</say-as></prosody>  
+"薯条"用英语怎么说？ 五，四，三，二，一。chips <prosody rate="slow"><say-as interpret-as="spell-out">C H I P S</say-as></prosody>  
+原文: Oh, Sam!!! Those are chips!  
+
+总结全文  
+萨姆在餐厅被要求吃蔬菜，但他拿了薯条而不是蔬菜。  
+Sam was asked to eat vegetables at the restaurant, but he got chips instead.

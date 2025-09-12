@@ -1,0 +1,64 @@
+行号1
+This is a classroom in the UK.  
+这是英国的一间教室。  
+This is a classroom in the UK.  
+问题:  
+"英国"用英语怎么说？ 五，四，三，二，一。the UK  
+原文: This is a classroom in the UK.  
+
+行号2  
+There are many things in the room.  
+房间里有很多东西。  
+There are many things in the room.  
+问题:  
+"很多东西"用英语怎么说？ 五，四，三，二，一。many things  
+原文: There are many things in the room.  
+
+行号3  
+There’s a screen on the wall.  
+墙上有一块屏幕。  
+There’s a screen on the wall.  
+问题:  
+"屏幕"用英语怎么说？ 五，四，三，二，一。screen <prosody rate="slow"><say-as interpret-as="spell-out">S C R E E N</say-as></prosody>  
+"在墙上"用英语怎么说？ 五，四，三，二，一。on the wall  
+原文: There’s a screen on the wall.  
+
+行号4  
+A whiteboard is next to the screen.  
+屏幕旁边有一块白板。  
+A whiteboard is next to the screen.  
+问题:  
+"白板"用英语怎么说？ 五，四，三，二，一。whiteboard <prosody rate="slow"><say-as interpret-as="spell-out">W H I T E B O A R D</say-as></prosody>  
+"旁边"用英语怎么说？ 五，四，三，二，一。next to  
+原文: A whiteboard is next to the screen.  
+
+行号5  
+There are some bookcases across from the whiteboard.  
+白板对面有一些书架。  
+There are some bookcases across from the whiteboard.  
+问题:  
+"书架"用英语怎么说？ 五，四，三，二，一。bookcase <prosody rate="slow"><say-as interpret-as="spell-out">B O O K C A S E</say-as></prosody>  
+"对面"用英语怎么说？ 五，四，三，二，一。across from  
+原文: There are some bookcases across from the whiteboard.  
+
+行号6  
+The teacher’s desk is in the corner, in front of a window.  
+老师的桌子在角落，窗户前面。  
+The teacher’s desk is in the corner, in front of a window.  
+问题:  
+"老师的桌子"用英语怎么说？ 五，四，三，二，一。teacher’s desk  
+"在角落"用英语怎么说？ 五，四，三，二，一。in the corner  
+原文: The teacher’s desk is in the corner, in front of a window.  
+
+行号7  
+Students sit on chairs at long tables, but today there aren’t any students.  
+学生们坐在长桌旁的椅子上，但今天没有学生。  
+Students sit on chairs at long tables, but today there aren’t any students.  
+问题:  
+"长桌"用英语怎么说？ 五，四，三，二，一。long tables  
+原文: Students sit on chairs at long tables, but today there aren’t any students.  
+
+总结全文  
+这段文字详细描述了一间英国教室的布局和设施，包括屏幕、白板、书架、教师桌和学生桌椅，并特别指出当天没有学生在场。  
+The text provides a detailed description of a UK classroom's layout and facilities, including a screen, whiteboard, bookcases, teacher's desk, and student seating, with emphasis on the absence of students that day.  
+

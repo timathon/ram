@@ -1,0 +1,84 @@
+行号1  
+We should eat carrots. They’re good for our eyes.  
+我们应该吃胡萝卜。它们对我们的眼睛有好处。  
+We should eat carrots. They’re good for our eyes.  
+问题:  
+"胡萝卜"用英语怎么说？ 五，四，三，二，一。carrot <prosody rate="slow"><say-as interpret-as="spell-out">C A R R O T</say-as></prosody>  
+"眼睛"用英语怎么说？ 五，四，三，二，一。eye <prosody rate="slow"><say-as interpret-as="spell-out">E Y E</say-as></prosody>  
+We should eat carrots. They’re good for our eyes.  
+
+行号2  
+We should drink milk. It’s good for our bones.  
+我们应该喝牛奶。它对我们的骨骼有好处。  
+We should drink milk. It’s good for our bones.  
+问题:  
+"喝"用英语怎么说？ 五，四，三，二，一。drink <prosody rate="slow"><say-as interpret-as="spell-out">D R I N K</say-as></prosody>  
+"骨骼"用英语怎么说？ 五，四，三，二，一。bone <prosody rate="slow"><say-as interpret-as="spell-out">B O N E</say-as></prosody>  
+We should drink milk. It’s good for our bones.  
+
+行号3  
+We should eat walnuts. They’re good for our brain.  
+我们应该吃核桃。它们对我们的大脑有好处。  
+We should eat walnuts. They’re good for our brain.  
+问题:  
+"核桃"用英语怎么说？ 五，四，三，二，一。walnut <prosody rate="slow"><say-as interpret-as="spell-out">W A L N U T</say-as></prosody>  
+"大脑"用英语怎么说？ 五，四，三，二，一。brain <prosody rate="slow"><say-as interpret-as="spell-out">B R A I N</say-as></prosody>  
+We should eat walnuts. They’re good for our brain.  
+
+行号4  
+We should eat chicken and meat. They’re good for our muscles.  
+我们应该吃鸡肉和肉类。它们对我们的肌肉有好处。  
+We should eat chicken and meat. They’re good for our muscles.  
+问题:  
+"鸡肉"用英语怎么说？ 五，四，三，二，一。chicken <prosody rate="slow"><say-as interpret-as="spell-out">C H I C K E N</say-as></prosody>  
+"肉类"用英语怎么说？ 五，四，三，二，一。meat <prosody rate="slow"><say-as interpret-as="spell-out">M E A T</say-as></prosody>  
+"肌肉"用英语怎么说？ 五，四，三，二，一。muscle <prosody rate="slow"><say-as interpret-as="spell-out">M U S C L E</say-as></prosody>  
+We should eat chicken and meat. They’re good for our muscles.  
+
+行号5  
+We should eat sweet potatoes. They’re good for our skin.  
+我们应该吃红薯。它们对我们的皮肤有好处。  
+We should eat sweet potatoes. They’re good for our skin.  
+问题:  
+"红薯"用英语怎么说？ 五，四，三，二，一。sweet potatoes  
+"皮肤"用英语怎么说？ 五，四，三，二，一。skin <prosody rate="slow"><say-as interpret-as="spell-out">S K I N</say-as></prosody>  
+We should eat sweet potatoes. They’re good for our skin.  
+
+行号6  
+We should eat eggs. They’re good for our hair.  
+我们应该吃鸡蛋。它们对我们的头发有好处。  
+We should eat eggs. They’re good for our hair.  
+问题:  
+"头发"用英语怎么说？ 五，四，三，二，一。hair <prosody rate="slow"><say-as interpret-as="spell-out">H A I R</say-as></prosody>  
+We should eat eggs. They’re good for our hair.  
+
+行号7  
+We should eat oats. They’re good for our heart.  
+我们应该吃燕麦。它们对我们的心脏有好处。  
+We should eat oats. They’re good for our heart.  
+问题:  
+"燕麦"用英语怎么说？ 五，四，三，二，一。oats  
+"心脏"用英语怎么说？ 五，四，三，二，一。heart <prosody rate="slow"><say-as interpret-as="spell-out">H E A R T</say-as></prosody>  
+We should eat oats. They’re good for our heart.  
+
+行号8  
+We should eat spinach. They’re good for our lungs.  
+我们应该吃菠菜。它们对我们的肺部有好处。  
+We should eat spinach. They’re good for our lungs.  
+问题:  
+"菠菜"用英语怎么说？ 五，四，三，二，一。spinach <prosody rate="slow"><say-as interpret-as="spell-out">S P I N A C H</say-as></prosody>  
+"肺部"用英语怎么说？ 五，四，三，二，一。lung <prosody rate="slow"><say-as interpret-as="spell-out">L U N G</say-as></prosody>  
+We should eat spinach. They’re good for our lungs.  
+
+行号9  
+We should eat cheese. They’re good for our teeth.  
+我们应该吃奶酪。它们对我们的牙齿有好处。  
+We should eat cheese. They’re good for our teeth.  
+问题:  
+"奶酪"用英语怎么说？ 五，四，三，二，一。cheese <prosody rate="slow"><say-as interpret-as="spell-out">C H E E S E</say-as></prosody>  
+"牙齿"用英语怎么说？ 五，四，三，二，一。tooth <prosody rate="slow"><say-as interpret-as="spell-out">T O O T H</say-as></prosody>  
+We should eat cheese. They’re good for our teeth.  
+
+总结全文  
+我们应该吃各种食物来保持身体健康。  
+We should eat various foods to maintain our health.

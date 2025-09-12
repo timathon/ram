@@ -1,0 +1,44 @@
+行号3  
+Is there a whiteboard in your classroom? Yes, there is. / No, there isn’t.  
+你的教室里有白板吗？是的，有。/ 不，没有。  
+Is there a whiteboard in your classroom? Yes, there is. / No, there isn’t.  
+问题:  
+"白板"用英语怎么说？ 五，四，三，二，一。whiteboard <prosody rate="slow"><say-as interpret-as="spell-out">W H I T E B O A R D</say-as></prosody>  
+Is there a whiteboard in your classroom? Yes, there is. / No, there isn’t.  
+
+行号4  
+Are there any lockers? Yes, there are. / No, there aren’t.  
+有储物柜吗？是的，有。/ 不，没有。  
+Are there any lockers? Yes, there are. / No, there aren’t.  
+问题:  
+"储物柜"用英语怎么说？ 五，四，三，二，一。locker <prosody rate="slow"><say-as interpret-as="spell-out">L O C K E R</say-as></prosody>  
+Are there any lockers? Yes, there are. / No, there aren’t.  
+
+行号5  
+There is a teachers’ building across from the school hall.  
+有一个教师楼在学校大厅对面。  
+There is a teachers’ building across from the school hall.  
+问题:  
+"教师楼"用英语怎么说？ 五，四，三，二，一。teachers’ building  
+"在...对面"用英语怎么说？ 五，四，三，二，一。across from  
+"学校大厅"用英语怎么说？ 五，四，三，二，一。school hall  
+There is a teachers’ building across from the school hall.  
+
+行号6  
+There is a student centre between the library and the gym.  
+有一个学生中心在图书馆和体育馆之间。  
+There is a student centre between the library and the gym.  
+问题:  
+"学生中心"用英语怎么说？ 五，四，三，二，一。student centre  
+"在...之间"用英语怎么说？ 五，四，三，二，一。between <prosody rate="slow"><say-as interpret-as="spell-out">B E T W E E N</say-as></prosody>  
+"体育馆"用英语怎么说？ 五，四，三，二，一。gym <prosody rate="slow"><say-as interpret-as="spell-out">G Y M</say-as></prosody>  
+There is a student centre between the library and the gym.  
+
+行号7  
+There are some trees in front of the sports field.  
+有一些树在运动场前面。  
+There are some trees in front of the sports field.  
+问题:  
+"在...前面"用英语怎么说？ 五，四，三，二，一。in front of  
+"运动场"用英语怎么说？ 五，四，三，二，一。sports field  
+There are some trees in front of the sports field.
