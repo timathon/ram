@@ -1,0 +1,116 @@
+行号1  
+This is Fun Times Park, the biggest amusement park in our city!  
+这是欢乐时光公园，我们城市最大的游乐园！  
+This is Fun Times Park, the biggest amusement park in our city!  
+问题:  
+"欢乐时光"用英语怎么说？ 五，四，三，二，一。fun times
+"游乐园"用英语怎么说？ 五，四，三，二，一。amusement park  
+原文: This is Fun Times Park, the biggest amusement park in our city!  
+作用: 这一行引入了游乐园的场景，描述了公园的基本信息，为对话设定背景。  
+
+行号2  
+I'm excited to try the rides!  
+我很兴奋尝试这些游乐设施！  
+I'm excited to try the rides!  
+问题:  
+"兴奋"用英语怎么说？ 五，四，三，二，一。excited <prosody rate="slow"><say-as interpret-as="spell-out">E X C I T E D</say-as></prosody>  
+"尝试"用英语怎么说？ 五，四，三，二，一。try <prosody rate="slow"><say-as interpret-as="spell-out">T R Y</say-as></prosody>  
+"游乐设施"用英语怎么说？ 五，四，三，二，一。ride <prosody rate="slow"><say-as interpret-as="spell-out">R I D E</say-as></prosody>
+原文: I'm excited to try the rides!  
+作用: 这一行表达了说话者的兴奋情绪，并提到游乐设施，推动对话向前发展。  
+
+行号3  
+What should we start with? There's Space World, Water World, Animal World...  
+我们应该从什么开始？有太空世界、水世界、动物世界...  
+What should we start with? There's Space World, Water World, Animal World...  
+问题:  
+"从...开始"用英语怎么说？ 五，四，三，二，一。start with  
+原文: What should we start with? There's Space World, Water World, Animal World...  
+作用: 这一行提出了问题并列出选项，引导对话走向决策点。  
+
+行号4  
+Before we decide, could you first tell me where the restrooms are?  
+在我们决定之前，你能先告诉我洗手间在哪里吗？  
+Before we decide, could you first tell me where the restrooms are?  
+问题:  
+"在...之前"用英语怎么说？ 五，四，三，二，一。before <prosody rate="slow"><say-as interpret-as="spell-out">B E F O R E</say-as></prosody>
+"决定"用英语怎么说？ 五，四，三，二，一。decide <prosody rate="slow"><say-as interpret-as="spell-out">D E C I D E</say-as></prosody>  
+"洗手间"用英语怎么说？ 五，四，三，二，一。restroom <prosody rate="slow"><say-as interpret-as="spell-out">R E S T R O O M</say-as></prosody>
+原文: Before we decide, could you first tell me where the restrooms are?  
+作用: 这一行转折对话主题，引入洗手间的问题，成为后续误解的起点。  
+
+行号5  
+Pardon? Restroom? You want to rest? But we haven't even started yet!  
+什么？洗手间？你想休息？但我们甚至还没开始呢！  
+Pardon? Restroom? You want to rest? But we haven't even started yet!  
+问题:  
+"原谅"用英语怎么说？ 五，四，三，二，一。pardon <prosody rate="slow"><say-as interpret-as="spell-out">P A R D O N</say-as></prosody>
+"休息"用英语怎么说？ 五，四，三，二，一。rest <prosody rate="slow"><say-as interpret-as="spell-out">R E S T</say-as></prosody>  
+"甚至还没开始"用英语怎么说？ 五，四，三，二，一。haven't even started
+原文: Pardon? Restroom? You want to rest? But we haven't even started yet!  
+作用: 这一行展示了误解，对方将“restroom”误认为“休息”，增加了幽默和冲突。  
+
+行号6  
+Oh no, I don't mean that. I mean... you know, a washroom or bathroom.  
+哦不，我不是那个意思。我的意思是...你知道，洗手间或浴室。  
+Oh no, I don't mean that. I mean... you know, a washroom or bathroom.  
+问题:  
+"意思"用英语怎么说？ 五，四，三，二，一。mean <prosody rate="slow"><say-as interpret-as="spell-out">M E A N</say-as></prosody>  
+"洗手间"用英语怎么说？ 五，四，三，二，一。washroom  
+"浴室"用英语怎么说？ 五，四，三，二，一。bathroom  
+原文: Oh no, I don't mean that. I mean... you know, a washroom or bathroom.  
+作用: 这一行澄清误解，提供替代词汇，推进对话 towards resolution。  
+
+行号7  
+Hmm... so you mean... the toilet?  
+嗯...所以你的意思是...厕所？  
+Hmm... so you mean... the toilet?  
+问题:  
+"意思是"用英语怎么说？ 五，四，三，二，一。mean <prosody rate="slow"><say-as interpret-as="spell-out">M E A N</say-as></prosody>  
+"厕所"用英语怎么说？ 五，四，三，二，一。toilet <prosody rate="slow"><say-as interpret-as="spell-out">T O I L E T</say-as></prosody>  
+原文: Hmm... so you mean... the toilet?  
+作用: 这一行进一步确认含义，使用更直接的词汇“toilet”，减少歧义。  
+
+行号8  
+Yes! Sorry, maybe people in China don't often use the word "restroom" when they speak English.  
+是的！抱歉，也许中国人在说英语时不常用“restroom”这个词。  
+Yes! Sorry, maybe people in China don't often use the word "restroom" when they speak English.  
+问题:  
+"说英语"用英语怎么说？ 五，四，三，二，一。speak English  
+原文: Yes! Sorry, maybe people in China don't often use the word "restroom" when they speak English.  
+作用: 这一行道歉并解释文化语言差异，增强对话的教育意义。  
+
+行号9  
+That's right. In China, we normally say "toilet" or "washroom" in English. Anyway, they're over there.  
+没错。在中国，我们通常用英语说“toilet”或“washroom”。不管怎样，它们在那里。  
+That's right. In China, we normally say "toilet" or "washroom" in English. Anyway, they're over there.  
+问题:  
+"通常地"用英语怎么说？ 五，四，三，二，一。normally <prosody rate="slow"><say-as interpret-as="spell-out">N O R M A L L Y</say-as></prosody>  
+"不管怎样"用英语怎么说？ 五，四，三，二，一。anyway
+"在那里"用英语怎么说？ 五，四，三，二，一。over there  
+原文: That's right. In China, we normally say "toilet" or "washroom" in English. Anyway, they're over there.  
+作用: 这一行确认信息并提供位置指示，解决初始问题并结束误解。  
+
+行号10  
+OK. I'll be quick!  
+好的。我会很快！  
+OK. I'll be quick!  
+问题:  
+"很快的"用英语怎么说？ 五，四，三，二，一。quick <prosody rate="slow"><say-as interpret-as="spell-out">Q U I C K</say-as></prosody>  
+原文: OK. I'll be quick!  
+作用: 这一行表示同意和行动意图，显示对话的实用结果。  
+
+行号11  
+No problem. You don't need to rush!  
+没问题。你不需要匆忙！  
+No problem. You don't need to rush!  
+问题:  
+"没问题"用英语怎么说？ 五，四，三，二，一。no problem
+"需要"用英语怎么说？ 五，四，三，二，一。need <prosody rate="slow"><say-as interpret-as="spell-out">N E E D</say-as></prosody>  
+"匆忙"用英语怎么说？ 五，四，三，二，一。rush <prosody rate="slow"><say-as interpret-as="spell-out">R U S H</say-as></prosody>  
+原文: No problem. You don't need to rush!  
+作用: 这一行提供安慰和放松的回应，结束对话 on a friendly note。  
+
+总结全文  
+在游乐园对话中，双方讨论了“restroom”一词的使用差异，最终指向洗手间位置。  
+In the amusement park conversation, they discussed the usage difference of the word "restroom" and eventually pointed out the location of the restroom.

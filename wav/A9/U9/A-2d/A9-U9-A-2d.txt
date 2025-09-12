@@ -1,0 +1,77 @@
+行号1  
+What are you doing this weekend, Scott?  
+斯科特，你这个周末在做什么？  
+What are you doing this weekend, Scott?  
+作用: 这一行是对话的开头，询问周末计划，引入话题。  
+
+行号2  
+Not much. I suppose I’ll just listen to this new CD I bought.  
+没什么。我想我只是会听我买的新CD。  
+Not much. I suppose I’ll just listen to this new CD I bought.  
+问题:  
+"没什么"用英语怎么说？ 五，四，三，二，一。not much  
+"料想"用英语怎么说？ 五，四，三，二，一。suppose <prosody rate="slow"><say-as interpret-as="spell-out">S U P P O S E</say-as></prosody>
+原文：Not much. I suppose I’ll just listen to this new CD I bought.  
+作用: 回应询问，表达计划，提到CD。  
+
+行号3  
+Oh, what CD is this?  
+哦，这是什么CD？  
+Oh, what CD is this?  
+作用: 表示好奇，追问CD详情。  
+
+行号4  
+Well, it’s all music. There’s no singing. I like smooth music that helps me relax after a long week at work.  
+嗯，全是音乐。没有唱歌。我喜欢舒缓的音乐，帮助我在漫长的一周工作后放松。  
+Well, it’s all music. There’s no singing. I like smooth music that helps me relax after a long week at work.  
+作用: 描述CD内容，表达个人喜好和原因。  
+
+行号5  
+Sounds nice. Well, if you have spare time, do you want to watch a movie with me? The director is really famous.  
+听起来不错。嗯，如果你有空闲时间，你想和我一起看电影吗？导演真的很著名。  
+Sounds nice. Well, if you have spare time, do you want to watch a movie with me? The director is really famous.  
+问题:  
+"空闲时间"用英语怎么说？ 五，四，三，二，一。spare time
+"看电影"用英语怎么说？ 五，四，三，二，一。watch a movie  
+"导演"用英语怎么说？ 五，四，三，二，一。director <prosody rate="slow"><say-as interpret-as="spell-out">D I R E C T O R</say-as></prosody>  
+原文：Sounds nice. Well, if you have spare time, do you want to watch a movie with me? The director is really famous.  
+作用: 表达兴趣，提出邀请，提到电影导演。  
+
+行号6  
+Hmm, depends which movie. I only like movies that are funny. I just want to laugh and not think too much. You know what I mean?  
+嗯，看哪部电影。我只喜欢搞笑的电影。我只是想笑而不想太多。你明白我的意思吗？  
+Hmm, depends which movie. I only like movies that are funny. I just want to laugh and not think too much. You know what I mean?  
+问题:  
+"取决于"用英语怎么说？ 五，四，三，二，一。depend on (注意：因为是聊天语境，课文中这句省略了介词on，但完整表达应为depend on)
+"笑"用英语怎么说？ 五，四，三，二，一。laugh <prosody rate="slow"><say-as interpret-as="spell-out">L A U G H</say-as></prosody>  
+原文：Hmm, depends which movie. I only like movies that are funny. I just want to laugh and not think too much. You know what I mean?  
+作用: 表达电影偏好，强调只想娱乐。  
+
+行号7  
+Oh, in that case, I’ll ask someone who likes serious movies.  
+哦，那样的话，我会问喜欢严肃电影的人。  
+Oh, in that case, I’ll ask someone who likes serious movies.  
+问题:  
+"那样的话"用英语怎么说？ 五，四，三，二，一。in that case  
+"严肃"用英语怎么说？ 五，四，三，二，一。serious <prosody rate="slow"><say-as interpret-as="spell-out">S E R I O U S</say-as></prosody>  
+原文：Oh, in that case, I’ll ask someone who likes serious movies.  
+作用: 回应偏好，决定找其他人。  
+
+行号8  
+What’s the movie about?  
+电影是关于什么的？  
+What’s the movie about?  
+作用: 追问电影内容。  
+
+行号9  
+It’s about World War II. I prefer movies that give me something to think about.  
+是关于第二次世界大战的。我更喜欢给我一些思考的电影。  
+It’s about World War II. I prefer movies that give me something to think about.  
+问题:  
+"更喜欢"用英语怎么说？ 五，四，三，二，一。prefer <prosody rate="slow"><say-as interpret-as="spell-out">P R E F E R</say-as></prosody>  
+原文：It’s about World War II. I prefer movies that give me something to think about.  
+作用: 回答电影主题，表达个人电影偏好。  
+
+总结全文  
+这段对话中，斯科特和对方讨论周末计划，斯科特想听音乐放松，对方邀请看电影，但偏好不同，斯科特喜欢搞笑电影，而对方喜欢严肃电影。  
+In this dialogue, Scott and the other person discuss weekend plans; Scott wants to listen to music to relax, while the other invites him to watch a movie, but they have different preferences, with Scott liking funny movies and the other preferring serious ones.

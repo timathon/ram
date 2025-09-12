@@ -1,0 +1,194 @@
+行号1  
+Fun Times Park — Always a Fun Time!  
+欢乐时光公园——总是欢乐时光！  
+Fun Times Park — Always a Fun Time!  
+问题:  
+"欢乐时光"用英语怎么说？ 五，四，三，二，一。fun times  
+原文: Fun Times Park — Always a Fun Time!  
+作用: 这一行是文章的标题或开场白，设定场景为欢乐时光公园。
+
+行号2  
+Alice and He Wei are in Space World.  
+爱丽丝和何伟在太空世界。  
+Alice and He Wei are in Space World.  
+问题:  
+"太空世界"用英语怎么说？ 五，四，三，二，一。space world 
+原文: Alice and He Wei are in Space World.  
+作用: 介绍人物和他们的当前位置。
+
+行号3  
+I wonder where we should go next.  
+我想知道我们接下来应该去哪里。  
+I wonder where we should go next.  
+问题:  
+"想知道"用英语怎么说？ 五，四，三，二，一。wonder <prosody rate="slow"><say-as interpret-as="spell-out">W O N D E R</say-as></prosody>  
+"应该"用英语怎么说？ 五，四，三，二，一。should <prosody rate="slow"><say-as interpret-as="spell-out">S H O U L D</say-as></prosody>  
+"接下来"用英语怎么说？ 五，四，三，二，一。next
+原文: I wonder where we should go next.  
+作用: 表达人物对下一步行动的 uncertainty 和思考。
+
+行号4  
+How about that new ride over there?  
+那边的那个新设施怎么样？  
+How about that new ride over there?  
+问题:  
+"设施"用英语怎么说？ 五，四，三，二，一。ride <prosody rate="slow"><say-as interpret-as="spell-out">R I D E</say-as></prosody>
+原文: How about that new ride over there?  
+作用: 提出建议或询问关于新设施的意见。
+
+行号5  
+Well ... it looks scary.  
+嗯……它看起来吓人。  
+Well ... it looks scary.  
+问题:  
+"吓人的"用英语怎么说？ 五，四，三，二，一。scary <prosody rate="slow"><say-as interpret-as="spell-out">S C A R Y</say-as></prosody>  
+原文: Well ... it looks scary.  
+作用: 表达人物对设施的恐惧或担忧情绪。
+
+行号6  
+Come on! I promise it'll be exciting! If you're scared, just shout or hold my hand.  
+来吧！我保证它会很刺激！如果你害怕，就喊出来或抓住我的手。  
+Come on! I promise it'll be exciting! If you're scared, just shout or hold my hand.  
+问题:  
+"保证"用英语怎么说？ 五，四，三，二，一。promise <prosody rate="slow"><say-as interpret-as="spell-out">P R O M I S E</say-as></prosody>  
+"刺激"用英语怎么说？ 五，四，三，二，一。exciting  
+"抓住"用英语怎么说？ 五，四，三，二，一。hold <prosody rate="slow"><say-as interpret-as="spell-out">H O L D</say-as></prosody>  
+原文: Come on! I promise it'll be exciting! If you're scared, just shout or hold my hand.  
+作用: 鼓励对方并提供安慰措施，推动情节发展。
+
+行号7  
+After the ride ...  
+在乘坐之后...  
+After the ride ...  
+问题:  
+"乘坐"用英语怎么说？ 五，四，三，二，一。ride <prosody rate="slow"><say-as interpret-as="spell-out">R I D E</say-as></prosody>  
+原文: After the ride ...  
+作用: 表示时间过渡，表明事件发生后。
+
+行号8  
+You were right! That was fun! I was scared at first, but shouting did help.  
+你是对的！那很有趣！我起初很害怕，但喊出来确实有帮助。  
+You were right! That was fun! I was scared at first, but shouting did help.  
+问题:  
+"有趣"用英语怎么说？ 五，四，三，二，一。fun <prosody rate="slow"><say-as interpret-as="spell-out">F U N</say-as></prosody>  
+"帮助"用英语怎么说？ 五，四，三，二，一。help <prosody rate="slow"><say-as interpret-as="spell-out">H E L P</say-as></prosody>  
+原文: You were right! That was fun! I was scared at first, but shouting did help.  
+作用: 表达人物情绪转变和体验的积极结果。
+
+行号9  
+See, that wasn't so bad, right? You never know until you try something.  
+看，那并不那么糟，对吧？你只有尝试了才知道。  
+See, that wasn't so bad, right? You never know until you try something.  
+问题:  
+"尝试"用英语怎么说？ 五，四，三，二，一。try <prosody rate="slow"><say-as interpret-as="spell-out">T R Y</say-as></prosody>  
+"直到"用英语怎么说？ 五，四，三，二，一。until <prosody rate="slow"><say-as interpret-as="spell-out">U N T I L</say-as></prosody>  
+原文: See, that wasn't so bad, right? You never know until you try something.  
+作用: 总结经验教训，强调尝试的重要性。
+
+行号10  
+Yes, I'm so glad I tried it!  
+是的，我很高兴我尝试了它！  
+Yes, I'm so glad I tried it!  
+问题:  
+"高兴"用英语怎么说？ 五，四，三，二，一。glad <prosody rate="slow"><say-as interpret-as="spell-out">G L A D</say-as></prosody>  
+原文: Yes, I'm so glad I tried it!  
+作用: 表达人物的满意和积极情绪。
+
+行号11  
+Do you want to go to Water World now?  
+你现在想去水世界吗？  
+Do you want to go to Water World now?  
+作用: 提出下一个行动建议，推动故事发展。
+
+行号12  
+Sure, but I'm getting hungry. Do you know where we can get some good food quickly?  
+当然，但我饿了。你知道哪里可以快速吃到好食物吗？  
+Sure, but I'm getting hungry. Do you know where we can get some good food quickly?  
+问题:  
+"饿"用英语怎么说？ 五，四，三，二，一。hungry <prosody rate="slow"><say-as interpret-as="spell-out">H U N G R Y</say-as></prosody>  
+"快速地"用英语怎么说？ 五，四，三，二，一。quickly <prosody rate="slow"><say-as interpret-as="spell-out">Q U I C K L Y</say-as></prosody>  
+原文: Sure, but I'm getting hungry. Do you know where we can get some good food quickly?  
+作用: 引入饥饿感并询问用餐选择，过渡到下一场景。
+
+行号13  
+Of course! I suggest Water City Restaurant in Water World. It serves delicious food.  
+当然！我建议水世界的水城餐厅。它提供美味的食物。  
+Of course! I suggest Water City Restaurant in Water World. It serves delicious food.  
+问题:  
+"建议"用英语怎么说？ 五，四，三，二，一。suggest <prosody rate="slow"><say-as interpret-as="spell-out">S U G G E S T</say-as></prosody>  
+"提供"用英语怎么说？ 五，四，三，二，一。serves  
+"美味"用英语怎么说？ 五，四，三，二，一。delicious <prosody rate="slow"><say-as interpret-as="spell-out">D E L I C I O U S</say-as></prosody>  
+原文: Of course! I suggest Water City Restaurant in Water World. It serves delicious food.  
+作用: 提供解决方案并描述餐厅特点。
+
+行号14  
+Great! Let's go!  
+太棒了！我们走吧！  
+Great! Let's go!  
+作用: 表达同意并决定行动，推动情节。
+
+行号15  
+On their way to Water City Restaurant, Alice and He Wei pass by Uncle Bob's.  
+在去水城餐厅的路上，爱丽丝和何伟经过鲍勃叔叔的餐厅。  
+On their way to Water City Restaurant, Alice and He Wei pass by Uncle Bob's.  
+问题:  
+"在路上"用英语怎么说？ 五，四，三，二，一。on their way  
+"经过"用英语怎么说？ 五，四，三，二，一。pass by  
+原文: On their way to Water City Restaurant, Alice and He Wei pass by Uncle Bob's.  
+作用: 描述移动过程并引入新地点。
+
+行号16  
+Look! This restaurant looks interesting. The sign says a rock band plays here every evening.  
+看！这家餐厅看起来有趣。招牌说一个摇滚乐队每晚在这里演奏。  
+Look! This restaurant looks interesting. The sign says a rock band plays here every evening.  
+问题:  
+"招牌"用英语怎么说？ 五，四，三，二，一。sign <prosody rate="slow"><say-as interpret-as="spell-out">S I G N</say-as></prosody>  
+"乐队"用英语怎么说？ 五，四，三，二，一。band <prosody rate="slow"><say-as interpret-as="spell-out">B A N D</say-as></prosody>
+原文: Look! This restaurant looks interesting. The sign says a rock band plays here every evening.  
+作用: 发现并描述餐厅的特色，吸引注意力。
+
+行号17  
+Why don't we come back here for dinner later? Let's ask what time the band starts playing.  
+我们为什么不晚点回来这里吃晚餐？让我们问问乐队什么时候开始演奏。  
+Why don't we come back here for dinner later? Let's ask what time the band starts playing.  
+问题:  
+"回来"用英语怎么说？ 五，四，三，二，一。come back  
+原文: Why don't we come back here for dinner later? Let's ask what time the band starts playing.  
+作用: 提出新计划并决定获取信息，推动故事。
+
+行号18  
+Alice and He Wei walk up to a staff person at the door.  
+爱丽丝和何伟走向门口的一位工作人员。  
+Alice and He Wei walk up to a staff person at the door.  
+问题:  
+"走向"用英语怎么说？ 五，四，三，二，一。walk up to  
+"工作人员"用英语怎么说？ 五，四，三，二，一。staff person  
+"在门口"用英语怎么说？ 五，四，三，二，一。at the door  
+原文: Alice and He Wei walk up to a staff person at the door.  
+作用: 描述行动，为询问信息做准备。
+
+行号19  
+Excuse me, could you tell us when the band starts playing this evening?  
+打扰一下，你能告诉我们乐队今晚什么时候开始演奏吗？  
+Excuse me, could you tell us when the band starts playing this evening?  
+作用: 礼貌地询问信息，展示人物互动。
+
+行号20  
+Eight o'clock. The restaurant is always busy at that time, so come a little earlier to get a table.  
+八点钟。餐厅在那个时间总是很忙，所以早点来占个桌子。  
+Eight o'clock. The restaurant is always busy at that time, so come a little earlier to get a table.  
+问题:  
+"早点"用英语怎么说？ 五，四，三，二，一。a little earlier  
+"占个桌子"用英语怎么说？ 五，四，三，二，一。get a table  
+原文: Eight o'clock. The restaurant is always busy at that time, so come a little earlier to get a table.  
+作用: 提供关键信息和建议，解决用餐计划。
+
+行号21  
+OK. Thank you!  
+好的。谢谢你！  
+OK. Thank you!  
+作用: 表达感谢和接受信息，结束对话。
+
+总结全文  
+爱丽丝和何伟在乐园中克服恐惧享受游乐设施，随后计划用餐并得知餐厅有乐队表演需提前占位。  
+Alice and He Wei overcome fear to enjoy the ride, then plan for dinner and learn about the band show requiring early arrival.

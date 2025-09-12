@@ -1,0 +1,212 @@
+行号1  
+Could You Please ...?  
+你能请...吗？  
+原文: Could You Please ...?  
+作用: 这一行是文章的标题，引入礼貌请求的主题。
+
+行号2  
+When you visit a foreign country, it is important to know how to ask for help politely.  
+当你访问外国时，知道如何礼貌地寻求帮助是很重要的。  
+原文: When you visit a foreign country, it is important to know how to ask for help politely.  
+问题:  
+"寻求帮助"用英语怎么说？ 五，四，三，二，一。ask for help  
+"礼貌地"用英语怎么说？ 五，四，三，二，一。politely <prosody rate="slow"><say-as interpret-as="spell-out">P O L I T E L Y</say-as></prosody>  
+原文: When you visit a foreign country, it is important to know how to ask for help politely.  
+作用: 这一行阐述了在外国礼貌请求帮助的重要性。
+
+行号3  
+For example, you may ask "Where are the restrooms?" or "Could you please tell me where the restrooms are?"  
+例如，你可能会问“洗手间在哪里？”或“你能请告诉我洗手间在哪里吗？”  
+原文: For example, you may ask "Where are the restrooms?" or "Could you please tell me where the restrooms are?"  
+问题:  
+"洗手间"用英语怎么说？ 五，四，三，二，一。restroom <prosody rate="slow"><say-as interpret-as="spell-out">R E S T R O O M</say-as></prosody>  
+原文: For example, you may ask "Where are the restrooms?" or "Could you please tell me where the restrooms are?"  
+作用: 这一行提供具体例子，对比直接和礼貌的请求方式。
+
+行号4  
+These are similar requests for directions.  
+这些是类似的问路请求。  
+原文: These are similar requests for directions.  
+问题:  
+"请求"用英语怎么说？ 五，四，三，二，一。requests <prosody rate="slow"><say-as interpret-as="spell-out">R E Q U E S T S</say-as></prosody>  
+"方向"用英语怎么说？ 五，四，三，二，一。directions <prosody rate="slow"><say-as interpret-as="spell-out">D I R E C T I O N S</say-as></prosody>  
+原文: These are similar requests for directions.  
+作用: 这一行指出两个例子的相似性，强调都是问路的请求。
+
+行号5  
+Both are correct, but the first one sounds less polite.  
+两者都正确，但第一个听起来不太礼貌。  
+原文: Both are correct, but the first one sounds less polite.  
+问题:  
+"正确"用英语怎么说？ 五，四，三，二，一。correct <prosody rate="slow"><say-as interpret-as="spell-out">C O R R E C T</say-as></prosody>  
+"听起来"用英语怎么说？ 五，四，三，二，一。sound <prosody rate="slow"><say-as interpret-as="spell-out">S O U N D</say-as></prosody>  
+"不太礼貌"用英语怎么说？ 五，四，三，二，一。less polite
+原文: Both are correct, but the first one sounds less polite.  
+作用: 这一行比较两个请求的礼貌程度，引出直接问题的不礼貌性。
+
+行号6  
+That is because it is a very direct question.  
+那是因为它是一个非常直接的问题。  
+原文: That is because it is a very direct question.  
+问题:  
+"直接"用英语怎么说？ 五，四，三，二，一。direct <prosody rate="slow"><say-as interpret-as="spell-out">D I R E C T</say-as></prosody>  
+原文: That is because it is a very direct question.  
+作用: 这一行解释原因，强调直接问题导致不礼貌。
+
+行号7  
+It is not enough to just ask a question correctly.  
+仅仅正确地问一个问题是不够的。  
+原文: It is not enough to just ask a question correctly.  
+问题:  
+"正确地"用英语怎么说？ 五，四，三，二，一。correctly <prosody rate="slow"><say-as interpret-as="spell-out">C O R R E C T L Y</say-as></prosody>  
+原文: It is not enough to just ask a question correctly.  
+作用: 这一行强调 beyond correctness, 需要礼貌。
+
+行号8  
+We also need to learn how to be polite when we ask for help.  
+我们还需要学习在寻求帮助时如何礼貌。  
+原文: We also need to learn how to be polite when we ask for help.  
+问题:  
+"寻求帮助"用英语怎么说？ 五，四，三，二，一。ask for help  
+原文: We also need to learn how to be polite when we ask for help.  
+作用: 这一行进一步强调学习礼貌的重要性。
+
+行号9  
+Good speakers change the way they speak in different situations.  
+好的说话者在不同情境下改变他们说话的方式。  
+原文: Good speakers change the way they speak in different situations.  
+问题:  
+"改变"用英语怎么说？ 五，四，三，二，一。change <prosody rate="slow"><say-as interpret-as="spell-out">C H A N G E</say-as></prosody>  
+"情境"用英语怎么说？ 五，四，三，二，一。situation <prosody rate="slow"><say-as interpret-as="spell-out">S I T U A T I O N</say-as></prosody>  
+原文: Good speakers change the way they speak in different situations.  
+作用: 这一行介绍说话者适应不同情境的概念。
+
+行号10  
+The expressions they use might depend on whom they are speaking to or how well they know each other.  
+他们使用的表达可能取决于他们在对谁说话或他们彼此了解的程度。  
+原文: The expressions they use might depend on whom they are speaking to or how well they know each other.  
+问题:  
+"表达"用英语怎么说？ 五，四，三，二，一。expressions <prosody rate="slow"><say-as interpret-as="spell-out">E X P R E S S I O N S</say-as></prosody>  
+"取决于"用英语怎么说？ 五，四，三，二，一。depend on  
+"对谁说话"用英语怎么说？ 五，四，三，二，一。speaking to  
+原文: The expressions they use might depend on whom they are speaking to or how well they know each other.  
+作用: 这一行解释表达方式的选择基于听众和关系。
+
+行号11  
+It is all right to ask your classmates direct questions because you know them well.  
+向同学直接提问是可以的，因为你很了解他们。  
+原文: It is all right to ask your classmates direct questions because you know them well.  
+问题:  
+"同学"用英语怎么说？ 五，四，三，二，一。classmates <prosody rate="slow"><say-as interpret-as="spell-out">C L A S S M A T E S</say-as></prosody>  
+"直接问题"用英语怎么说？ 五，四，三，二，一。direct questions  
+原文: It is all right to ask your classmates direct questions because you know them well.  
+作用: 这一行提供例子，说明在熟悉关系中使用直接问题的可接受性。
+
+行号12  
+However, if you say to your teacher, "When is the school trip?", this might sound impolite.  
+然而，如果你对老师说“学校旅行是什么时候？”，这可能听起来不礼貌。  
+原文: However, if you say to your teacher, "When is the school trip?", this might sound impolite.  
+问题:  
+"不礼貌"用英语怎么说？ 五，四，三，二，一。impolite <prosody rate="slow"><say-as interpret-as="spell-out">I M P O L I T E</say-as></prosody>  
+原文: However, if you say to your teacher, "When is the school trip?", this might sound impolite.  
+作用: 这一行对比展示对老师使用直接问题的不礼貌性。
+
+行号13  
+But if you say, "Excuse me, Mr. West. Do you know when the school trip is?", this will sound much more polite.  
+但如果你说“打扰一下，West先生。你知道学校旅行是什么时候吗？”，这会听起来礼貌得多。  
+原文: But if you say, "Excuse me, Mr. West. Do you know when the school trip is?", this will sound much more polite.  
+问题:  
+"礼貌得多"用英语怎么说？ 五，四，三，二，一。much more polite  
+原文: But if you say, "Excuse me, Mr. West. Do you know when the school trip is?", this will sound much more polite.  
+作用: 这一行提供礼貌请求的例子，强调其效果。
+
+行号14  
+Usually polite questions are longer.  
+通常礼貌问题更长。  
+原文: Usually polite questions are longer.  
+问题:  
+"更长"用英语怎么说？ 五，四，三，二，一。longer <prosody rate="slow"><say-as interpret-as="spell-out">L O N G E R</say-as></prosody>  
+原文: Usually polite questions are longer.  
+作用: 这一行指出礼貌问题的长度特征。
+
+行号15  
+They include expressions such as "Could you please ...?" or "May I ask ...?"  
+它们包括表达如“你能请...吗？”或“我可以问...吗？”  
+原文: They include expressions such as "Could you please ...?" or "May I ask ...?"  
+问题:  
+"包括"用英语怎么说？ 五，四，三，二，一。include <prosody rate="slow"><say-as interpret-as="spell-out">I N C L U D E</say-as></prosody>  
+"表达"用英语怎么说？ 五，四，三，二，一。expression <prosody rate="slow"><say-as interpret-as="spell-out">E X P R E S S I O N</say-as></prosody>  
+原文: They include expressions such as "Could you please ...?" or "May I ask ...?"  
+作用: 这一行列举常见的礼貌表达方式。
+
+行号16  
+It sounds more polite to say, "Peter, could you please tell me your e-mail address?" than "Peter, tell me your e-mail address."  
+说“Peter，你能请告诉我你的电子邮件地址吗？”比“Peter，告诉我你的电子邮件地址。”听起来更礼貌。  
+原文: It sounds more polite to say, "Peter, could you please tell me your e-mail address?" than "Peter, tell me your e-mail address."  
+问题:  
+"电子邮件地址"用英语怎么说？ 五，四，三，二，一。e-mail address  
+原文: It sounds more polite to say, "Peter, could you please tell me your e-mail address?" than "Peter, tell me your e-mail address."  
+作用: 这一行通过具体例子比较礼貌和直接请求的差异。
+
+行号17  
+Sometimes we even need to spend time leading into a request.  
+有时我们甚至需要花时间引入一个请求。  
+原文: Sometimes we even need to spend time leading into a request.  
+问题:  
+"花时间"用英语怎么说？ 五，四，三，二，一。spend time  
+"引入"用英语怎么说？ 五，四，三，二，一。lead into  
+原文: Sometimes we even need to spend time leading into a request.  
+作用: 这一行介绍引入请求的概念，为下一行做铺垫。
+
+行号18  
+For example, we might first say to a stranger, "Excuse me, I wonder if you can help me" or "I'm sorry to trouble you, but ..." before asking for help.  
+例如，我们可能首先对陌生人说“打扰一下，我想知道你是否能帮助我”或“抱歉打扰你，但是...”在寻求帮助之前。  
+原文: For example, we might first say to a stranger, "Excuse me, I wonder if you can help me" or "I'm sorry to trouble you, but ..." before asking for help.  
+问题:  
+"陌生人"用英语怎么说？ 五，四，三，二，一。stranger <prosody rate="slow"><say-as interpret-as="spell-out">S T R A N G E R</say-as></prosody>  
+"抱歉打扰你"用英语怎么说？ 五，四，三，二，一。sorry to trouble you  
+原文: For example, we might first say to a stranger, "Excuse me, I wonder if you can help me" or "I'm sorry to trouble you, but ..." before asking for help.  
+作用: 这一行提供引入请求的具体例子，增强礼貌性。
+
+行号19  
+It might seem more difficult to speak politely than directly.  
+礼貌地说话可能看起来比直接说话更困难。  
+原文: It might seem more difficult to speak politely than directly.  
+问题:  
+"看起来"用英语怎么说？ 五，四，三，二，一。seem <prosody rate="slow"><say-as interpret-as="spell-out">S E E M</say-as></prosody>  
+"直接地"用英语怎么说？ 五，四，三，二，一。directly <prosody rate="slow"><say-as interpret-as="spell-out">D I R E C T L Y</say-as></prosody>  
+原文: It might seem more difficult to speak politely than directly.  
+作用: 这一行承认礼貌说话的挑战性。
+
+行号20  
+However, it is important to learn how to use the right language in different situations.  
+然而，学习在不同情境下使用正确的语言是很重要的。  
+原文: However, it is important to learn how to use the right language in different situations.  
+问题:  
+"正确的语言"用英语怎么说？ 五，四，三，二，一。right language  
+原文: However, it is important to learn how to use the right language in different situations.  
+作用: 这一行重申学习适应语言的重要性。
+
+行号21  
+This will help you communicate better with other people.  
+这将帮助你更好地与他人沟通。  
+原文: This will help you communicate better with other people.  
+问题:  
+"沟通"用英语怎么说？ 五，四，三，二，一。communicate <prosody rate="slow"><say-as interpret-as="spell-out">C O M M U N I C A T E</say-as></prosody>  
+原文: This will help you communicate better with other people.  
+作用: 这一行说明礼貌请求的益处，改善沟通。
+
+行号22  
+In different situations, you need to choose and use suitable language based on cultural knowledge.  
+在不同情境下，你需要基于文化知识选择和使用合适的语言。  
+原文: In different situations, you need to choose and use suitable language based on cultural knowledge.  
+问题:  
+"选择"用英语怎么说？ 五，四，三，二，一。choose <prosody rate="slow"><say-as interpret-as="spell-out">C H O O S E</say-as></prosody>  
+"合适的语言"用英语怎么说？ 五，四，三，二，一。suitable language
+"基于"用英语怎么说？ 五，四，三，二，一。based on  
+原文: In different situations, you need to choose and use suitable language based on cultural knowledge.  
+作用: 这一行总结全文，强调文化知识在语言选择中的角色。
+
+总结全文  
+文章强调了在不同情境下使用礼貌语言请求帮助的重要性，包括使用更长表达、引入请求和基于文化知识选择语言。  
+The article emphasizes the importance of using polite language to ask for help in different situations, including using longer expressions, leading into requests, and choosing language based on cultural knowledge.
