@@ -1,23 +1,25 @@
 // UI functions for the Pitter-Patter Player
 
-// Selected values
-let selectedTextbook = '';
-let selectedUnit = '';
-let selectedSection = '';
+// Selected values - consolidated into one state object
+let selectedValues = {
+  textbook: '',
+  unit: '',
+  section: ''
+};
 
 // Set selected values (needed for other modules to update these)
 window.setSelectedValues = function(textbook, unit, section) {
-  selectedTextbook = textbook;
-  selectedUnit = unit;
-  selectedSection = section;
+  selectedValues.textbook = textbook;
+  selectedValues.unit = unit;
+  selectedValues.section = section;
 };
 
 // Get selected values
 window.getSelectedValues = function() {
   return {
-    textbook: selectedTextbook,
-    unit: selectedUnit,
-    section: selectedSection
+    textbook: selectedValues.textbook,
+    unit: selectedValues.unit,
+    section: selectedValues.section
   };
 };
 
@@ -52,18 +54,18 @@ function buildUI() {
     return;
   }
   populateDropdown(textbookSelect, allTextbooks);
-  selectedTextbook = allTextbooks[0];
+  selectedValues.textbook = allTextbooks[0];
 
   textbookSelect.onchange = function () {
-    selectedTextbook = this.value;
+    selectedValues.textbook = this.value;
     updateUnits();
   };
   unitSelect.onchange = function () {
-    selectedUnit = this.value;
+    selectedValues.unit = this.value;
     updateSections();
   };
   sectionSelect.onchange = function () {
-    selectedSection = this.value;
+    selectedValues.section = this.value;
     updateFiles();
   };
 
@@ -81,7 +83,7 @@ buildUI = function () {
 
   textbookSelect.onchange = function () {
     window.ui.confirmDropdownChange(() => {
-      selectedTextbook = this.value;
+      selectedValues.textbook = this.value;
       getPlayerState().isPlaying = false;
       getPlayerState().selectedFiles = [];
       document.getElementById('audio').pause();
@@ -90,11 +92,14 @@ buildUI = function () {
       window.state.stopPlayTimeTracking();
       updateUnits();
       window.state.savePlaybackState(); // Save state when textbook changes
+      
+      // Log the change with full context
+      console.log('Changed to:', selectedValues.textbook, selectedValues.unit, selectedValues.section);
     });
   };
   unitSelect.onchange = function () {
     window.ui.confirmDropdownChange(() => {
-      selectedUnit = this.value;
+      selectedValues.unit = this.value;
       getPlayerState().isPlaying = false;
       getPlayerState().selectedFiles = [];
       document.getElementById('audio').pause();
@@ -103,11 +108,14 @@ buildUI = function () {
       window.state.stopPlayTimeTracking();
       updateSections();
       window.state.savePlaybackState(); // Save state when unit changes
+      
+      // Log the change with full context
+      console.log('Changed to:', selectedValues.textbook, selectedValues.unit, selectedValues.section);
     });
   };
   sectionSelect.onchange = function () {
     window.ui.confirmDropdownChange(() => {
-      selectedSection = this.value;
+      selectedValues.section = this.value;
       getPlayerState().isPlaying = false;
       getPlayerState().selectedFiles = [];
       document.getElementById('audio').pause();
@@ -116,15 +124,27 @@ buildUI = function () {
       window.state.stopPlayTimeTracking();
       updateFiles();
       window.state.savePlaybackState(); // Save state when section changes
+      
+      // Log the change with full context
+      console.log('Changed to:', selectedValues.textbook, selectedValues.unit, selectedValues.section);
     });
   };
   
   // Load and apply saved playback state after UI is built
   const savedState = window.state.loadPlaybackState();
   if (savedState) {
-    setTimeout(() => {
-      window.state.applyPlaybackState(savedState);
+    setTimeout(async () => {
+      await window.state.applyPlaybackState(savedState);
+      // Log selected values after state has been fully restored
+      setTimeout(() => {
+        console.log('Initial selection:', selectedValues.textbook, selectedValues.unit, selectedValues.section);
+      }, 150);
     }, 100);
+  } else {
+    // Log initial selected values if no saved state
+    setTimeout(() => {
+      console.log('Initial selection:', selectedValues.textbook, selectedValues.unit, selectedValues.section);
+    }, 150);
   };
 };
 
@@ -255,10 +275,10 @@ function updateUnits() {
   const fileListDiv = document.getElementById('fileListDiv');
   
   // Get units from local data only
-  const allUnits = Object.keys((window.indexData || {})[selectedTextbook] || {});
+  const allUnits = Object.keys((window.indexData || {})[selectedValues.textbook] || {});
   
   populateDropdown(unitSelect, allUnits);
-  selectedUnit = allUnits[0] || '';
+  selectedValues.unit = allUnits[0] || '';
   updateSections();
 }
 
@@ -270,10 +290,10 @@ function updateSections() {
   const fileListDiv = document.getElementById('fileListDiv');
   
   // Get sections from local data only
-  const allSections = Object.keys(((window.indexData || {})[selectedTextbook] || {})[selectedUnit] || {});
+  const allSections = Object.keys(((window.indexData || {})[selectedValues.textbook] || {})[selectedValues.unit] || {});
   
   populateDropdown(sectionSelect, allSections);
-  selectedSection = allSections[0] || '';
+  selectedValues.section = allSections[0] || '';
   updateFiles();
 }
 
@@ -285,8 +305,8 @@ function updateFiles() {
   const fileListDiv = document.getElementById('fileListDiv');
   
   // Get files from local data only
-  let files = ((window.indexData || {})[selectedTextbook] || {})[selectedUnit] || {};
-  files = files[selectedSection] || [];
+  let files = ((window.indexData || {})[selectedValues.textbook] || {})[selectedValues.unit] || {};
+  files = files[selectedValues.section] || [];
   
   // If files is an object (not array), extract the array
   if (!Array.isArray(files) && files.files) {

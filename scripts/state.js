@@ -111,7 +111,7 @@ async function applyPlaybackState(state) {
     if (textbookSelect && Array.from(textbookSelect.options).some(option => option.value === state.textbook)) {
       textbookSelect.value = state.textbook;
       if (window.setSelectedValues) {
-        window.setSelectedValues(state.textbook, state.unit, state.section);
+        window.setSelectedValues(state.textbook, '', '');
       }
       window.ui.updateUnits();
       
@@ -121,12 +121,18 @@ async function applyPlaybackState(state) {
       // Set unit
       if (unitSelect && Array.from(unitSelect.options).some(option => option.value === state.unit)) {
         unitSelect.value = state.unit;
+        if (window.setSelectedValues) {
+          window.setSelectedValues(state.textbook, state.unit, '');
+        }
         // Wait a bit for sections to populate
         await new Promise(resolve => setTimeout(resolve, 100));
         
         // Set section
         if (sectionSelect && Array.from(sectionSelect.options).some(option => option.value === state.section)) {
           sectionSelect.value = state.section;
+          if (window.setSelectedValues) {
+            window.setSelectedValues(state.textbook, state.unit, state.section);
+          }
           window.ui.updateFiles();
           
           // Wait a bit for files to populate
