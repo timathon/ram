@@ -1,0 +1,92 @@
+行号1  
+Could you tell me where the library is?  
+你能告诉我图书馆在哪里吗？  
+Could you tell me where the library is?  
+
+行号2  
+It’s on the corner of Main and Center Streets.  
+它在主街和中心街的拐角处。  
+It’s on the corner of Main and Center Streets.  
+问题:  
+"角落"用英语怎么说？ 五，四，三，二，一。corner <prosody rate="slow"><say-as interpret-as="spell-out">C O R N E R</say-as></prosody>  
+"在拐角处"用英语怎么说？ 五，四，三，二，一。on the corner of
+原文: It’s on the corner of Main and Center Streets.  
+
+行号3  
+I wonder why you don’t wake up earlier in the morning. You’re always in a rush to get to school on time.  
+我想知道你为什么早上不早点醒来。你总是匆忙赶去学校准时。  
+I wonder why you don’t wake up earlier in the morning. You’re always in a rush to get to school on time.  
+问题:  
+"匆忙"用英语怎么说？ 五，四，三，二，一。rush <prosody rate="slow"><say-as interpret-as="spell-out">R U S H</say-as></prosody>  
+"醒来"用英语怎么说？ 五，四，三，二，一。wake up  
+"准时"用英语怎么说？ 五，四，三，二，一。on time  
+原文: I wonder why you don’t wake up earlier in the morning. You’re always in a rush to get to school on time.  
+
+行号4  
+Yes, you’re right. I need to plan my time better.  
+是的，你说得对。我需要更好地计划我的时间。  
+Yes, you’re right. I need to plan my time better.  
+问题:  
+"计划"用英语怎么说？ 五，四，三，二，一。plan <prosody rate="slow"><say-as interpret-as="spell-out">P L A N</say-as></prosody>  
+"计划我的时间"用英语怎么说？ 五，四，三，二，一。plan my time
+原文: Yes, you’re right. I need to plan my time better.  
+
+行号5  
+I want to buy some winter clothes. Could you tell me which place would be a good choice for me to go to?  
+我想买一些冬装。你能告诉我哪个地方是我去的好选择吗？  
+I want to buy some winter clothes. Could you tell me which place would be a good choice for me to go to?  
+问题:  
+"一个好的选择"用英语怎么说？ 五，四，三，二，一。a good choice
+原文: I want to buy some winter clothes. Could you tell me which place would be a good choice for me to go to?  
+
+行号6  
+I suggest Jenny’s Clothes Store in Century Shopping Mall. It’s convenient to get to.  
+我建议世纪购物中心的Jenny服装店。去那里很方便。  
+I suggest Jenny’s Clothes Store in Century Shopping Mall. It’s convenient to get to.  
+问题:  
+"建议"用英语怎么说？ 五，四，三，二，一。suggest <prosody rate="slow"><say-as interpret-as="spell-out">S U G G E S T</say-as></prosody>  
+"方便"用英语怎么说？ 五，四，三，二，一。convenient <prosody rate="slow"><say-as interpret-as="spell-out">C O N V E N I E N T</say-as></prosody>  
+原文: I suggest Jenny’s Clothes Store in Century Shopping Mall. It’s convenient to get to.  
+
+行号7  
+In many countries, it is often not polite to ask very direct questions when you meet someone for the first time.  
+在许多国家，第一次见面时问非常直接的问题通常是不礼貌的。  
+In many countries, it is often not polite to ask very direct questions when you meet someone for the first time.  
+问题:  
+"礼貌的"用英语怎么说？ 五，四，三，二，一。polite <prosody rate="slow"><say-as interpret-as="spell-out">P O L I T E</say-as></prosody>  
+"直接的"用英语怎么说？ 五，四，三，二，一。direct <prosody rate="slow"><say-as interpret-as="spell-out">D I R E C T</say-as></prosody>  
+原文: In many countries, it is often not polite to ask very direct questions when you meet someone for the first time.  
+
+行号8  
+Could you please tell me where I can buy a magazine? - There’s a bookstore on the third floor.  
+你能告诉我哪里可以买杂志吗？ - 三楼有一家书店。  
+Could you please tell me where I can buy a magazine? - There’s a bookstore on the third floor.  
+问题:  
+"杂志"用英语怎么说？ 五，四，三，二，一。magazine <prosody rate="slow"><say-as interpret-as="spell-out">M A G A Z I N E</say-as></prosody>  
+原文: Could you please tell me where I can buy a magazine? - There’s a bookstore on the third floor.  
+
+行号9  
+Could you please tell me where I can get some stamps? - There’s a post office on Green Street.  
+你能告诉我哪里可以买到一些邮票吗？ - 格林街上有一家邮局。  
+Could you please tell me where I can get some stamps? - There’s a post office on Green Street.  
+问题:  
+"邮票"用英语怎么说？ 五，四，三，二，一。stamp <prosody rate="slow"><say-as interpret-as="spell-out">S T A M P</say-as></prosody>  
+"邮局"用英语怎么说？ 五，四，三，二，一。post office  
+原文: Could you please tell me where I can get some stamps? - There’s a post office on Green Street.  
+
+行号10  
+Could you please tell me when the shopping center opens? - It opens at 10:00 a.m.  
+你能告诉我购物中心什么时候开门吗？ - 它上午10点开门。  
+Could you please tell me when the shopping center opens? - It opens at 10:00 a.m.  
+问题:  
+"开放"用英语怎么说？ 五，四，三，二，一。open <prosody rate="slow"><say-as interpret-as="spell-out">O P E N</say-as></prosody>  
+原文: Could you please tell me when the shopping center opens? - It opens at 10:00 a.m.  
+
+行号11  
+Could you please tell me how I can get to the Japanese restaurant? - Go along Main Street and turn right on Lake Street.  
+你能告诉我怎么去日本餐厅吗？ - 沿着主街走，在湖街右转。  
+Could you please tell me how I can get to the Japanese restaurant? - Go along Main Street and turn right on Lake Street.  
+问题:  
+"沿着"用英语怎么说？ 五，四，三，二，一。along <prosody rate="slow"><say-as interpret-as="spell-out">A L O N G</say-as></prosody>  
+"右转"用英语怎么说？ 五，四，三，二，一。turn right  
+原文: Could you please tell me how I can get to the Japanese restaurant? - Go along Main Street and turn right on Lake Street.
