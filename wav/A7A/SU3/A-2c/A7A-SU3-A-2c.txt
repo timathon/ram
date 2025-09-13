@@ -1,0 +1,153 @@
+行号1
+Conversation 1: Hello, Peter and Helen! This is my grandpa.  
+对话1：你好，彼得和海伦！这是我的爷爷。  
+Conversation 1: Hello, Peter and Helen! This is my grandpa.  
+问题:  
+"爷爷"用英语怎么说？ 五，四，三，二，一。grandpa <prosody rate="slow"><say-as interpret-as="spell-out">G R A N D P A</say-as></prosody>  
+原文: Conversation 1: Hello, Peter and Helen! This is my grandpa.  
+
+行号2  
+Hello, Mr Fu. Nice to meet you!  
+你好，傅先生。很高兴见到你！  
+Hello, Mr Fu. Nice to meet you!  
+问题:  
+"先生"用英语怎么说？ 五，四，三，二，一。Mr <prosody rate="slow"><say-as interpret-as="spell-out">M R</say-as></prosody>  
+原文: Hello, Mr Fu. Nice to meet you!  
+
+行号3  
+Nice to meet you too. Welcome to my house. Let me show you around.  
+也很高兴见到你。欢迎来到我家。让我带你参观。  
+Nice to meet you too. Welcome to my house. Let me show you around.  
+问题:  
+"欢迎"用英语怎么说？ 五，四，三，二，一。welcome <prosody rate="slow"><say-as interpret-as="spell-out">W E L C O M E</say-as></prosody>  
+"带我参观"用英语怎么说？ 五，四，三，二，一。show me around  
+原文: Nice to meet you too. Welcome to my house. Let me show you around.  
+
+行号4  
+Thank you. Oh, what's that, Mr Fu? Is that a goose?  
+谢谢。哦，那是什么，傅先生？那是一只鹅吗？  
+Thank you. Oh, what's that, Mr Fu? Is that a goose?  
+问题:  
+"鹅"用英语怎么说？ 五，四，三，二，一。goose <prosody rate="slow"><say-as interpret-as="spell-out">G O O S E</say-as></prosody>  
+原文: Thank you. Oh, what's that, Mr Fu? Is that a goose?  
+
+行号5  
+No, it isn't. It's a duck.  
+不，它不是。它是一只鸭子。  
+No, it isn't. It's a duck.  
+问题:  
+"鸭子"用英语怎么说？ 五，四，三，二，一。duck <prosody rate="slow"><say-as interpret-as="spell-out">D U C K</say-as></prosody>  
+原文: No, it isn't. It's a duck.  
+
+行号6  
+What animal does Helen see in the yard? A goose or a duck?  
+海伦在院子里看到什么动物？鹅还是鸭子？  
+What animal does Helen see in the yard? A goose or a duck?  
+问题:  
+"动物"用英语怎么说？ 五，四，三，二，一。animal <prosody rate="slow"><say-as interpret-as="spell-out">A N I M A L</say-as></prosody>  
+"院子里"用英语怎么说？ 五，四，三，二，一。in the yard  
+原文: What animal does Helen see in the yard? A goose or a duck?  
+
+行号7  
+Conversation 2: Mr Fu, what are those plants? Are they potato plants?  
+对话2：傅先生，那些植物是什么？它们是土豆植物吗？  
+Conversation 2: Mr Fu, what are those plants? Are they potato plants?  
+问题:  
+"那些"用英语怎么说？ 五，四，三，二，一。those <prosody rate="slow"><say-as interpret-as="spell-out">T H O S E</say-as></prosody>  
+"植物"用英语怎么说？ 五，四，三，二，一。plant <prosody rate="slow"><say-as interpret-as="spell-out">P L A N T</say-as></prosody>  
+"土豆"用英语怎么说？ 五，四，三，二，一。potato <prosody rate="slow"><say-as interpret-as="spell-out">P O T A T O</say-as></prosody>  
+原文: Conversation 2: Mr Fu, what are those plants? Are they potato plants?  
+
+行号8  
+No, Peter, they aren't. They're carrot plants.  
+不，彼得，它们不是。它们是胡萝卜植物。  
+No, Peter, they aren't. They're carrot plants.  
+问题:  
+"胡萝卜"用英语怎么说？ 五，四，三，二，一。carrot <prosody rate="slow"><say-as interpret-as="spell-out">C A R R O T</say-as></prosody>  
+原文: No, Peter, they aren't. They're carrot plants.  
+
+行号9  
+What about these plants? Are they tomato plants?  
+这些植物呢？它们是番茄植物吗？  
+What about these plants? Are they tomato plants?  
+问题:  
+"这些"用英语怎么说？ 五，四，三，二，一。these <prosody rate="slow"><say-as interpret-as="spell-out">T H E S E</say-as></prosody>  
+"番茄"用英语怎么说？ 五，四，三，二，一。tomato <prosody rate="slow"><say-as interpret-as="spell-out">T O M A T O</say-as></prosody>  
+原文: What about these plants? Are they tomato plants?  
+
+行号10  
+Yes, they are!  
+是的，它们是！  
+Yes, they are!  
+
+
+行号11  
+What plants does Peter see in the yard? Potato plants or carrot plants?  
+彼得在院子里看到什么植物？土豆植物还是胡萝卜植物？  
+What plants does Peter see in the yard? Potato plants or carrot plants?  
+问题:  
+"院子"用英语怎么说？ 五，四，三，二，一。yard <prosody rate="slow"><say-as interpret-as="spell-out">Y A R D</say-as></prosody>  
+"还是"用英语怎么说？ 五，四，三，二，一。or <prosody rate="slow"><say-as interpret-as="spell-out">OR</say-as></prosody>  
+原文: What plants does Peter see in the yard? Potato plants or carrot plants?  
+
+行号12  
+Conversation 3: What kind of tree is this?  
+对话3：这是什么种类的树？  
+Conversation 3: What kind of tree is this?  
+问题:  
+"种类"用英语怎么说？ 五，四，三，二，一。kind <prosody rate="slow"><say-as interpret-as="spell-out">K I N D</say-as></prosody>  
+"哪种树"用英语怎么说？ 五，四，三，二，一。what kind of tree
+原文: Conversation 3: What kind of tree is this?  
+
+行号13  
+It's an apple tree.  
+它是一棵苹果树。  
+It's an apple tree.  
+问题:  
+"苹果"用英语怎么说？ 五，四，三，二，一。apple <prosody rate="slow"><say-as interpret-as="spell-out">A P P L E</say-as></prosody>  
+原文: It's an apple tree.  
+
+行号14  
+How many apple trees do you have?  
+你有多少棵苹果树？  
+How many apple trees do you have?  
+问题:  
+"多少"用英语怎么说？ 五，四，三，二，一。how many  
+"苹果树"用英语怎么说？ 五，四，三，二，一。apple trees  
+原文: How many apple trees do you have?  
+
+行号15  
+Only two.  
+只有两棵。  
+Only two.  
+
+行号16  
+Look at those rabbits. They're cute! How many rabbits do you have?  
+看那些兔子。它们很可爱！你有多少只兔子？  
+Look at those rabbits. They're cute! How many rabbits do you have?  
+问题:  
+"兔子"用英语怎么说？ 五，四，三，二，一。rabbit <prosody rate="slow"><say-as interpret-as="spell-out">R A B B I T</say-as></prosody>  
+"可爱"用英语怎么说？ 五，四，三，二，一。cute <prosody rate="slow"><say-as interpret-as="spell-out">C U T E</say-as></prosody>  
+原文: Look at those rabbits. They're cute! How many rabbits do you have?  
+
+行号17  
+I have 12 rabbits. Eight are white, and four are black.  
+我有12只兔子。八只是白色的，四只是黑色的。  
+I have 12 rabbits. Eight are white, and four are black.  
+问题:  
+"白色的"用英语怎么说？ 五，四，三，二，一。white <prosody rate="slow"><say-as interpret-as="spell-out">W H I T E</say-as></prosody>  
+"黑色的"用英语怎么说？ 五，四，三，二，一。black <prosody rate="slow"><say-as interpret-as="spell-out">B L A C K</say-as></prosody>  
+原文: I have 12 rabbits. Eight are white, and four are black.  
+
+行号18  
+How many apple trees does Fu Xing’s grandpa have? Two or ten?  
+傅星的爷爷有多少棵苹果树？两棵还是十棵？  
+How many apple trees does Fu Xing’s grandpa have? Two or ten?  
+
+行号19  
+How many rabbits does Fu Xing’s grandpa have? Eight or twelve?  
+傅星的爷爷有多少只兔子？八只还是十二只？  
+How many rabbits does Fu Xing’s grandpa have? Eight or twelve?  
+问题:  
+"十二"用英语怎么说？ 五，四，三，二，一。twelve <prosody rate="slow"><say-as interpret-as="spell-out">T W E L V E</say-as></prosody>  
+原文: How many rabbits does Fu Xing’s grandpa have? Eight or twelve?

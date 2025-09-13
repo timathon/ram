@@ -1,0 +1,77 @@
+行号1  
+Han Lin introduces his uncle’s farm to Peter.  
+韩林向彼得介绍他叔叔的农场。  
+Han Lin introduces his uncle’s farm to Peter.  
+问题:  
+"介绍"用英语怎么说？ 五，四，三，二，一。introduce <prosody rate="slow"><say-as interpret-as="spell-out">I N T R O D U C E</say-as></prosody>  
+"他叔叔的农场"用英语怎么说？ 五，四，三，二，一。his uncle's farm  
+原文: Han Lin introduces his uncle’s farm to Peter.  
+作用: 这一行是文章的引言，介绍了场景和人物。
+
+行号2  
+Read the text and circle the things he talks about in the picture in 1a.  
+阅读文本并在1a的图片中圈出他谈论的东西。  
+Read the text and circle the things he talks about in the picture in 1a.  
+问题:  
+"阅读"用英语怎么说？ 五，四，三，二，一。read <prosody rate="slow"><say-as interpret-as="spell-out">R E A D</say-as></prosody>  
+"圈出"用英语怎么说？ 五，四，三，二，一。circle <prosody rate="slow"><say-as interpret-as="spell-out">C I R C L E</say-as></prosody>  
+"在图片中"用英语怎么说？ 五，四，三，二，一。in the picture  
+原文: Read the text and circle the things he talks about in the picture in 1a.  
+作用: 这一行是给读者的指令，说明任务内容。
+
+行号3  
+Look! This is my uncle’s farm. It’s a big farm. The grass is so green.  
+看！这是我叔叔的农场。它是一个大农场。草很绿。  
+Look! This is my uncle’s farm. It’s a big farm. The grass is so green.  
+作用: 这一行开始描述农场，吸引注意力并描述农场的大小和草的颜色。
+
+行号4  
+You can see many kinds of animals. He has pigs, horses, cows, ducks, sheep, and chickens.  
+你可以看到许多种类的动物。他有猪、马、牛、鸭子、绵羊和鸡。  
+You can see many kinds of animals. He has pigs, horses, cows, ducks, sheep, and chickens.  
+问题:  
+"许多种类"用英语怎么说？ 五，四，三，二，一。many kinds of  
+"动物"用英语怎么说？ 五，四，三，二，一。animal <prosody rate="slow"><say-as interpret-as="spell-out">A N I M A L</say-as></prosody>
+原文: You can see many kinds of animals. He has pigs, horses, cows, ducks, sheep, and chickens.  
+作用: 这一行列举了农场上的动物，提供详细信息。
+
+行号5  
+How many ducks does my uncle have? Let me count. One, two, three, four, five, … fourteen ducks!  
+我叔叔有多少只鸭子？让我数数。一、二、三、四、五、……十四只鸭子！  
+How many ducks does my uncle have? Let me count. One, two, three, four, five, … fourteen ducks!  
+问题:  
+"多少"用英语怎么说？ 五，四，三，二，一。how many  
+"数数"用英语怎么说？ 五，四，三，二，一。count <prosody rate="slow"><say-as interpret-as="spell-out">C O N T</say-as></prosody>  
+原文: How many ducks does my uncle have? Let me count. One, two, three, four, five, … fourteen ducks!  
+作用: 这一行聚焦于鸭子的数量，展示计数过程。
+
+行号6  
+Oh, no. Look there! Another duck is behind the big tree.  
+哦，不。看那里！另一只鸭子在大树后面。  
+Oh, no. Look there! Another duck is behind the big tree.  
+问题:  
+"看那里"用英语怎么说？ 五，四，三，二，一。look there  
+"在大树后面"用英语怎么说？ 五，四，三，二，一。behind the big tree  
+"另一只鸭子"用英语怎么说？ 五，四，三，二，一。another duck  
+原文: Oh, no. Look there! Another duck is behind the big tree.  
+作用: 这一行发现另一只鸭子，增加趣味性和细节。
+
+行号7  
+Do you see that house? That’s my uncle’s home. It’s beautiful.  
+你看到那所房子了吗？那是我叔叔的家。它很漂亮。  
+Do you see that house? That’s my uncle’s home. It’s beautiful.  
+问题:  
+"我叔叔的家"用英语怎么说？ 五，四，三，二，一。my uncle's home  
+"漂亮"用英语怎么说？ 五，四，三，二，一。beautiful <prosody rate="slow"><say-as interpret-as="spell-out">B E A U T I F U L</say-as></prosody>  
+原文: Do you see that house? That’s my uncle’s home. It’s beautiful.  
+作用: 这一行描述房屋，强调其美丽。
+
+行号8  
+Do you like my uncle’s farm?  
+你喜欢我叔叔的农场吗？  
+Do you like my uncle’s farm?  
+作用: 这一行是结束语，询问读者的意见。
+
+总结全文  
+韩林向彼得介绍了叔叔的农场，描述了农场的动物、房屋并询问喜好。  
+Han Lin introduces his uncle's farm to Peter, describing the animals, the house, and asking for opinion.
