@@ -1,0 +1,99 @@
+行号1  
+What’s your new school like?  
+你的新学校怎么样？  
+What’s your new school like?  
+问题:  
+"是怎样怎样"用英语怎么说？ 五，四，三，二，一。be like  
+原文: What’s your new school like?  
+作用: 这一行作为文章的开头问题，引入主题，询问新学校的情况。
+
+行号2  
+Hi Flora, Thanks for your email.  
+嗨 Flora，谢谢你的邮件。  
+Hi Flora, Thanks for your email.  
+作用: 这一行是信件的开头部分，表达问候和感谢，建立礼貌的对话氛围。
+
+行号3  
+To answer your question, my new school is great! It’s very beautiful. There are many modern buildings.  
+为了回答你的问题，我的新学校很棒！它非常漂亮。有许多现代建筑。  
+To answer your question, my新学校 is great! It’s very beautiful. There are many modern buildings.  
+问题:  
+"现代"用英语怎么说？ 五，四，三，二，一。modern <prosody rate="slow"><say-as interpret-as="spell-out">M O D E R N</say-as></prosody>  
+原文: To answer your question, my new school is great! It’s very beautiful. There are many modern buildings.  
+作用: 这一行直接回应问题，描述学校的总体优点，如伟大、漂亮和现代建筑，奠定积极基调。
+
+行号4  
+There’s a large sports field next to the teachers’ building. All the students go there and do exercises together in the morning.  
+有一个大运动场在教师大楼旁边。所有学生早上去那里一起做锻炼。  
+There’s a large sports field next to the teachers’ building. All the students go there and do exercises together in the morning.  
+问题:  
+"运动场"用英语怎么说？ 五，四，三，二，一。sports field
+"旁边"用英语怎么说？ 五，四，三，二，一。next to  
+"做锻炼"用英语怎么说？ 五，四，三，二，一。do exercises  
+原文: There’s a large sports field next to the teachers’ building. All the students go there and do exercises together in the morning.  
+作用: 这一行描述学校的具体设施和日常活动，强调运动场的位置和学生的早晨集体锻炼。
+
+行号5  
+It’s amazing! Every Monday we raise the flag there. It’s a special way to start the week.  
+太神奇了！每个星期一我们在那里升旗。这是一种特殊的方式来开始一周。  
+It’s amazing! Every Monday we raise the flag there. It’s a special way to start the week.  
+问题:  
+"神奇"用英语怎么说？ 五，四，三，二，一。amazing <prosody rate="slow"><say-as interpret-as="spell-out">A M A Z I N G</say-as></prosody>  
+"升旗"用英语怎么说？ 五，四，三，二，一。raise the flag  
+"特殊的方式"用英语怎么说？ 五，四，三，二，一。a special way
+原文: It’s amazing! Every Monday we raise the flag there. It’s a special way to start the week.  
+作用: 这一行表达情感上的惊奇，并描述周一升旗仪式，作为一周开始的特殊传统。
+
+行号6  
+The classroom building is behind the sports field. We spend most of the time in our classroom.  
+教学楼在运动场后面。我们大部分时间在教室里度过。  
+The classroom building is behind the sports field. We spend most of the time in our classroom.  
+问题:  
+"后面"用英语怎么说？ 五，四，三，二，一。behind <prosody rate="slow"><say-as interpret-as="spell-out">B E H I N D</say-as></prosody>  
+"度过大部分时间"用英语怎么说？ 五，四，三，二，一。spend most of the time
+原文: The classroom building is behind the sports field. We spend most of the time in our classroom.  
+作用: 这一行说明教学楼的位置和学生的时间分配，突出教室作为主要学习空间的重要性。
+
+行号7  
+It’s big and clean. Every week, we change seats. This week I sit next to my best friend, Han Lin.  
+它又大又干净。每周我们换座位。这周我坐在我最好的朋友韩林旁边。  
+It’s big and clean. Every week, we change seats. This week I sit next to my best friend, Han Lin.  
+问题:  
+"换座位"用英语怎么说？ 五，四，三，二，一。change seats  
+原文: It’s big and clean. Every week, we change seats. This week I sit next to my best friend, Han Lin.  
+作用: 这一行描述教室的物理属性和每周换座位的习惯，并加入个人社交细节，使描述更生动。
+
+行号8  
+The dining hall is across from the sports field. It’s my favourite place because there are many kinds of food.  
+食堂在运动场对面。它是我最喜欢的地方，因为有许多种食物。  
+The dining hall is across from the sports field. It’s my favourite place because there are many kinds of food.  
+问题:  
+"对面"用英语怎么说？ 五，四，三，二，一。across from  
+"许多种食物"用英语怎么说？ 五，四，三，二，一。many kinds of food 
+原文: The dining hall is across from the sports field. It’s my favourite place because there are many kinds of food.  
+作用: 这一行描述食堂的位置和成为最喜欢地方的原因，强调食物的多样性。
+
+行号9  
+I love the Chinese food there. They make delicious jiaozi.  
+我喜欢那里的中国食物。他们做美味的饺子。  
+I love the Chinese food there. They make delicious jiaozi.  
+问题:  
+"美味的"用英语怎么说？ 五，四，三，二，一。delicious <prosody rate="slow"><say-as interpret-as="spell-out">D E L I C I O U S</say-as></prosody>  
+原文: I love the Chinese food there. They make delicious jiaozi.  
+作用: 这一行表达个人对食物的喜好，具体提到中国食物和饺子，增加文化元素和细节。
+
+行号10  
+How about your school?  
+你的学校怎么样？  
+How about your school?   
+作用: 这一行转向询问对方学校，促进对话互动和回应。
+
+行号11  
+Yours, Peter  
+你的，Peter  
+Yours, Peter  
+作用: 这一行是信件的结束签名，标识发件人。
+
+总结全文  
+彼得描述了他的新学校，包括运动场、教学楼、食堂等设施，以及日常活动如升旗和换座位，并表达了对食物的喜爱。  
+Peter describes his new school, including facilities like the sports field, classroom building, dining hall, and daily activities such as raising the flag and changing seats, and expresses his love for the food.
