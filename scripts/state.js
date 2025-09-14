@@ -124,6 +124,8 @@ async function applyPlaybackState(state) {
         if (window.setSelectedValues) {
           window.setSelectedValues(state.textbook, state.unit, '');
         }
+        // IMPORTANT: Call updateSections to populate the sections dropdown
+        window.ui.updateSections();
         // Wait a bit for sections to populate
         await new Promise(resolve => setTimeout(resolve, 100));
         
