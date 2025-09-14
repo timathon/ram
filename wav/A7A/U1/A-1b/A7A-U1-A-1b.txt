@@ -1,0 +1,120 @@
+行号1  
+Hello, I'm Song Meimei. May I have your name?  
+你好，我是宋梅梅。可以告诉我你的名字吗？  
+Hello, I'm Song Meimei. May I have your name?  
+问题:  
+"可以"用英语怎么说？ 五，四，三，二，一。may <prosody rate="slow"><say-as interpret-as="spell-out">M A Y</say-as></prosody>  
+原文: Hello, I'm Song Meimei. May I have your name?  
+
+行号2  
+Hi, I'm Peter Brown. Nice to meet you.  
+嗨，我是彼得·布朗。很高兴认识你。  
+Hi, I'm Peter Brown. Nice to meet you.  
+
+行号3  
+Nice to meet you too. How do you spell your name?  
+也很高兴认识你。你怎么拼写你的名字？  
+Nice to meet you too. How do you spell your name?  
+问题:  
+"拼写"用英语怎么说？ 五，四，三，二，一。spell <prosody rate="slow"><say-as interpret-as="spell-out">S P E L L</say-as></prosody>  
+原文: Nice to meet you too. How do you spell your name?  
+
+行号4  
+P-E-T-E-R, Peter. B-R-O-W-N, Brown.  
+P-E-T-E-R, 彼得。B-R-O-W-N, 布朗。  
+P-E-T-E-R, Peter. B-R-O-W-N, Brown.  
+
+
+行号5  
+Where are you from?  
+你来自哪里？  
+Where are you from?  
+
+
+行号6  
+I'm from London, in the UK.  
+我来自英国伦敦。  
+I'm from London, in the UK.  
+问题:  
+"伦敦"用英语怎么说？ 五，四，三，二，一。London <prosody rate="slow"><say-as interpret-as="spell-out">L O N D O N</say-as></prosody>  
+原文: I'm from London, in the UK.  
+
+行号7  
+Wow, that's far. What class are you in?  
+哇，那很远。你在哪个班级？  
+Wow, that's far. What class are you in?  
+问题:  
+"很远"用英语怎么说？ 五，四，三，二，一。far <prosody rate="slow"><say-as interpret-as="spell-out">F A R</say-as></prosody>  
+"哪个班级"用英语怎么说？ 五，四，三，二，一。what class
+原文: Wow, that's far. What class are you in?  
+
+行号8  
+I'm in Class 1, Grade 7.  
+我在七年级一班。  
+I'm in Class 1, Grade 7.  
+问题:  
+"年级"用英语怎么说？ 五，四，三，二，一。grade <prosody rate="slow"><say-as interpret-as="spell-out">G R A D E</say-as></prosody>  
+"七年一班"用英语怎么说？ 五，四，三，二，一。Class 1, Grade 7  
+原文: I'm in Class 1, Grade 7.  
+
+行号9  
+Wow, we're in the same class!  
+哇，我们在同一个班级！  
+Wow, we're in the same class!  
+问题:  
+"同一个班级"用英语怎么说？ 五，四，三，二，一。the same class  
+原文: Wow, we're in the same class!  
+
+行号10  
+Good morning, Ms Li.  
+早上好，李老师。  
+Good morning, Ms Li.  
+
+行号11  
+Good morning! Are you Emma?  
+早上好！你是艾玛吗？  
+Good morning! Are you Emma?  
+
+
+行号12  
+No, Ms Li. I'm Ella.  
+不，李老师。我是艾拉。  
+No, Ms Li. I'm Ella.  
+
+
+行号13  
+Sorry, Ella. What's your last name?  
+对不起，艾拉。你姓什么？  
+Sorry, Ella. What's your last name?  
+问题:  
+"姓"用英语怎么说？ 五，四，三，二，一。last name  
+原文: Sorry, Ella. What's your last name?  
+
+行号14  
+It's Miller.  
+是米勒。  
+It's Miller.  
+
+
+行号15  
+How old are you, Ella?  
+你多大了，艾拉？  
+How old are you, Ella?  
+
+
+行号16  
+I'm 12 years old.  
+我12岁了。  
+I'm 12 years old.  
+
+
+行号17  
+Well, it's nice to meet you.  
+嗯，很高兴认识你。  
+Well, it's nice to meet you.  
+
+
+行号18  
+Nice to meet you too.  
+也很高兴认识你。  
+Nice to meet you too.

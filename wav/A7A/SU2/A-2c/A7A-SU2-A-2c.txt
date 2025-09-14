@@ -1,0 +1,91 @@
+行号1  
+Conversation 1: Hi, Ella! I have a new schoolbag.  
+对话1: 嗨，Ella！我有一个新书包。  
+Conversation 1: Hi, Ella! I have a new schoolbag.  
+问题:  
+"书包"用英语怎么说？ 五，四，三，二，一。 schoolbag <prosody rate="slow"><say-as interpret-as="spell-out">S C H O O L B A G</say-as></prosody>
+原文: Conversation 1: Hi, Ella! I have a new schoolbag.  
+
+行号2  
+Cool! What colour is it, Teng Fei?  
+酷！它是什么颜色，Teng Fei？  
+Cool! What colour is it, Teng Fei?  
+
+
+行号3  
+It’s blue. Blue is my favourite colour.  
+它是蓝色的。蓝色是我最喜欢的颜色。  
+It’s blue. Blue is my favourite colour.  
+问题:  
+"最喜欢的"用英语怎么说？ 五，四，三，二，一。 favourite <prosody rate="slow"><say-as interpret-as="spell-out">F A V O U R I T E</say-as></prosody>  
+原文: It’s blue. Blue is my favourite colour.  
+
+行号4  
+I like blue too.  
+我也喜欢蓝色。  
+I like blue too.  
+
+
+行号5  
+Conversation 2: Hello, Emma! I have a new bicycle.  
+对话2: 你好，Emma！我有一辆新自行车。  
+Conversation 2: Hello, Emma! I have a new bicycle.  
+问题:  
+"自行车"用英语怎么说？ 五，四，三，二，一。 bicycle <prosody rate="slow"><say-as interpret-as="spell-out">B I C Y C L E</say-as></prosody>  
+原文: Conversation 2: Hello, Emma! I have a new bicycle.  
+
+行号6  
+Really? What colour is it?  
+真的吗？它是什么颜色？  
+Really? What colour is it?  
+
+
+行号7  
+It’s black and orange.  
+它是黑色和橙色的。  
+It’s black and orange.  
+问题:  
+"橙色"用英语怎么说？ 五，四，三，二，一。 orange <prosody rate="slow"><say-as interpret-as="spell-out">O R A N G E</say-as></prosody>  
+原文: It’s black and orange.  
+
+行号8  
+Great. Can you show me tomorrow?  
+太好了。你能明天给我看吗？  
+Great. Can you show me tomorrow?  
+问题:  
+"展示"用英语怎么说？ 五，四，三，二，一。 show <prosody rate="slow"><say-as interpret-as="spell-out">S H O W</say-as></prosody>  
+"明天"用英语怎么说？ 五，四，三，二，一。 tomorrow <prosody rate="slow"><say-as interpret-as="spell-out">T O M O R R O W</极></prosody>  
+原文: Great. Can you show me tomorrow?  
+
+行号9  
+Sure, I’ll be happy to!  
+当然，我会很乐意！  
+Sure, I’ll be happy to!  
+问题:  
+"当然"用英语怎么说？ 五，四，三，二，一。 sure <prosody rate="slow"><say-as interpret-as="spell-out">S U R E</say-as></prosody>  
+"我会很乐意"用英语怎么说？ 五，四，三，二，一。 I’ll be happy to
+
+行号10  
+Conversation 3: Hey, Peter! Look at my new shoes.  
+对话3: 嘿，Peter！看我的新鞋。  
+Conversation 3: Hey, Peter! Look at my new shoes.  
+
+行号11  
+Oh, they look great. I have new shoes too.  
+哦，它们看起来很棒。我也有新鞋。  
+Oh, they look great. I have new shoes too.  
+
+行号12  
+Really? What colour are they?  
+真的吗？它们是什么颜色？  
+Really? What colour are they?  
+
+行号13  
+They’re red.  
+它们是红色的。  
+They’re red.  
+
+行号14  
+That’s cool!  
+那很酷！  
+That’s cool!

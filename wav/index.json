@@ -113,6 +113,39 @@
     }
   },
   "A7A": {
+    "SU2": {
+      "A-2c": [
+        "A7A-SU2-A-2c-01.mp3",
+        "A7A-SU2-A-2c-02.mp3",
+        "A7A-SU2-A-2c-03.mp3",
+        "A7A-SU2-A-2c-04.mp3",
+        "A7A-SU2-A-2c-05.mp3",
+        "A7A-SU2-A-2c-06.mp3",
+        "A7A-SU2-A-2c-07.mp3",
+        "A7A-SU2-A-2c-08.mp3",
+        "A7A-SU2-A-2c-09.mp3",
+        "A7A-SU2-A-2c-10.mp3",
+        "A7A-SU2-A-2c-11.mp3",
+        "A7A-SU2-A-2c-12.mp3",
+        "A7A-SU2-A-2c-13.mp3",
+        "A7A-SU2-A-2c-14.mp3"
+      ],
+      "B-1b": [
+        "A7A-SU2-B-1b-01.mp3",
+        "A7A-SU2-B-1b-02.mp3",
+        "A7A-SU2-B-1b-03.mp3",
+        "A7A-SU2-B-1b-04.mp3",
+        "A7A-SU2-B-1b-05.mp3",
+        "A7A-SU2-B-1b-06.mp3",
+        "A7A-SU2-B-1b-07.mp3",
+        "A7A-SU2-B-1b-08.mp3",
+        "A7A-SU2-B-1b-09.mp3",
+        "A7A-SU2-B-1b-10.mp3",
+        "A7A-SU2-B-1b-11.mp3",
+        "A7A-SU2-B-1b-12.mp3",
+        "A7A-SU2-B-1b-13.mp3"
+      ]
+    },
     "SU3": {
       "A-2c": [
         "A7A-SU3-A-2c-01.mp3",
@@ -148,6 +181,26 @@
       ]
     },
     "U1": {
+      "A-1b": [
+        "A7A-U1-A-1b-01.mp3",
+        "A7A-U1-A-1b-02.mp3",
+        "A7A-U1-A-1b-03.mp3",
+        "A7A-U1-A-1b-04.mp3",
+        "A7A-U1-A-1b-05.mp3",
+        "A7A-U1-A-1b-06.mp3",
+        "A7A-U1-A-1b-07.mp3",
+        "A7A-U1-A-1b-08.mp3",
+        "A7A-U1-A-1b-09.mp3",
+        "A7A-U1-A-1b-10.mp3",
+        "A7A-U1-A-1b-11.mp3",
+        "A7A-U1-A-1b-12.mp3",
+        "A7A-U1-A-1b-13.mp3",
+        "A7A-U1-A-1b-14.mp3",
+        "A7A-U1-A-1b-15.mp3",
+        "A7A-U1-A-1b-16.mp3",
+        "A7A-U1-A-1b-17.mp3",
+        "A7A-U1-A-1b-18.mp3"
+      ],
       "A-2a": [
         "A7A-U1-A-2a-01.mp3",
         "A7A-U1-A-2a-02.mp3",

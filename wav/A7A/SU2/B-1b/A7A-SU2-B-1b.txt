@@ -1,0 +1,87 @@
+行号1  
+Conversation 1: Mum, I can't find my new cap.  
+对话1：妈妈，我找不到我的新帽子。  
+Conversation 1: Mum, I can't find my new cap.  
+问题:  
+"找不到"用英语怎么说？ 五，四，三，二，一。can't find  
+"新帽子"用英语怎么说？ 五，四，三，二，一。new cap  
+原文: Conversation 1: Mum, I can't find my new cap.
+
+行号2  
+Your new cap? What colour is it?  
+你的新帽子？它是什么颜色的？  
+Your new cap? What colour is it?  
+
+
+行号3  
+It's red.  
+它是红色的。  
+It's red.  
+
+
+行号4  
+Is it in your schoolbag?  
+它在你的书包里吗？  
+Is it in your schoolbag?  
+
+
+行号5  
+No, it isn't.  
+不，它不在。  
+No, it isn't.  
+
+
+行号6  
+Oh, here it is. It's under your desk. You need to keep your room tidy.  
+哦，它在这里。它在你的桌子下面。你需要保持你的房间整洁。  
+Oh, here it is. It's under your desk. You need to keep your room tidy.  
+问题:  
+"保持"用英语怎么说？ 五，四，三，二，一。keep  
+"整洁"用英语怎么说？ 五，四，三，二，一。tidy <prosody rate="slow"><say-as interpret-as="spell-out">T I D Y</say-as></prosody>  
+原文: Oh, here it is. It's under your desk. You need to keep your room tidy.
+
+行号7  
+OK. Sorry, Mum.  
+好的。对不起，妈妈。  
+OK. Sorry, Mum.  
+
+
+行号8  
+Conversation 2: I can't find my new glasses. Do you see them, Emma?  
+对话2：我找不到我的新眼镜。你看到它们了吗，Emma？  
+Conversation 2: I can't find my new glasses. Do you see them, Emma?  
+问题:  
+"新眼镜"用英语怎么说？ 五，四，三，二，一。new glasses  
+原文: Conversation 2: I can't find my new glasses. Do you see them, Emma?
+
+行号9  
+What colour are they, Dad?  
+它们是什么颜色的，爸爸？  
+What colour are they, Dad?  
+
+
+行号10  
+They're brown.  
+它们是棕色的。  
+They're brown.  
+问题:  
+"棕色的"用英语怎么说？ 五，四，三，二，一。brown <prosody rate="slow"><say-as interpret-as="spell-out">B R O W N</say-as></prosody>  
+原文: They're brown.
+
+行号11  
+No, I don't see them … Oh, wait a minute. Now I see them! Dad, they're on your head!  
+不，我没有看到它们……哦，等一下。现在我看到它们了！爸爸，它们在你的头上！  
+No, I don't see them … Oh, wait a minute. Now I see them! Dad, they're on your head!  
+问题:  
+"等一下"用英语怎么说？ 五，四，三，二，一。wait a minute  
+原文: No, I don't see them … Oh, wait a minute. Now I see them! Dad, they're on your head!
+
+行号12  
+Oh, thank you, Emma!  
+哦，谢谢你，Emma！  
+Oh, thank you, Emma!  
+
+行号13  
+You're welcome.  
+不客气。  
+You're welcome.
