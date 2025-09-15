@@ -1,0 +1,155 @@
+行号1  
+Title: Wait and see  
+标题：等着瞧  
+Title: Wait and see  
+
+行号2  
+What do the children make?  
+孩子们做了什么？  
+What do the children make?  
+问题:  
+"孩子们"用英语怎么说？ 五，四，三，二，一。children <prosody rate="slow"><say-as interpret-as="spell-out">C H I L D R E N</say-as></prosody>  
+"做"用英语怎么说？ 五，四，三，二，一。make <prosody rate="slow"><say-as interpret-as="spell-out">M A K E</say-as></prosody>  
+原文: What do the children make?  
+
+行号3  
+Picture 1: The dress is too small for you.  
+图片1：这件裙子对你来说太小了。  
+Picture 1: The dress is too small for you.  
+问题:  
+"裙子"用英语怎么说？ 五，四，三，二，一。dress <prosody rate="slow"><say-as interpret-as="spell-out">D R E S S</say-as></prosody>  
+"太小"用英语怎么说？ 五，四，三，二，一。too small  
+原文: Picture 1: The dress is too small for you.  
+
+行号4  
+Mum, don't throw it away. I can make use of it.  
+妈妈，别把它扔掉。我可以利用它。  
+Mum, don't throw it away. I can make use of it.  
+问题:  
+"扔掉"用英语怎么说？ 五，四，三，二，一。throw away  
+"利用"用英语怎么说？ 五，四，三，二，一。make use of  
+原文: Mum, don't throw it away. I can make use of it.  
+
+行号5  
+OK. Take it. But what for?  
+好的。拿去吧。但是为了什么？  
+OK. Take it. But what for?  
+问题:  
+"拿"用英语怎么说？ 五，四，三，二，一。take <prosody rate="slow"><say-as interpret-as="spell-out">T A K E</say-as></prosody>  
+"为了什么"用英语怎么说？ 五，四，三，二，一。what for  
+原文: OK. Take it. But what for?  
+
+行号6  
+Wait and see!  
+等着瞧！  
+Wait and see!  
+
+
+行号7  
+Picture 2: Grandpa, give those cans to me, please.  
+图片2：爷爷，请把那些罐子给我。  
+Picture 2: Grandpa, give those cans to me, please.  
+问题:  
+"爷爷"用英语怎么说？ 五，四，三，二，一。grandpa <prosody rate="slow"><say-as interpret-as="spell-out">G R A N D P A</say-as></prosody>  
+"罐子"用英语怎么说？ 五，四，三，二，一。can <prosody rate="slow"><say-as interpret-as="spell-out">C A N</say-as></prosody>  
+原文: Picture 2: Grandpa, give those cans to me, please.  
+
+行号8  
+Sure, but what for?  
+当然，但是为了什么？  
+Sure, but what for?  
+问题:  
+"当然"用英语怎么说？ 五，四，三，二，一。sure <prosody rate="slow"><say-as interpret-as="spell-out">S U R E</say-as></prosody>  
+原文: Sure, but what for?  
+
+行号9  
+Wait and see!  
+等着瞧！  
+Wait and see!  
+问题:  
+"瞧"用英语怎么说？ 五，四，三，二，一。see <prosody rate="slow"><say-as interpret-as="spell-out">S E E</say-as></prosody>  
+原文: Wait and see!  
+
+行号10  
+Picture 3: Don't throw away that box, Dad! I want to use it.  
+图片3：爸爸，别扔掉那个盒子！我想用它。  
+Picture 3: Don't throw away that box, Dad! I want to use it.  
+
+行号11  
+OK, you can keep it. But what for?  
+好的，你可以留着它。但是为了什么？  
+OK, you can keep it. But what for?  
+问题:  
+"留着"用英语怎么说？ 五，四，三，二，一。keep <prosody rate="slow"><say-as interpret-as="spell-out">K E E P</say-as></prosody>  
+原文: OK, you can keep it. But what for?  
+
+行号12  
+Sam Wait and see!  
+萨姆，等着瞧！  
+Sam Wait and see!  
+
+行号13  
+Picture 4: Grandma, give that old shirt to me, please.  
+图片4：奶奶，请把那件旧衬衫给我。  
+Picture 4: Grandma, give that old shirt to me, please.  
+问题:  
+"旧衬衫"用英语怎么说？ 五，四，三，二，一。old shirt  
+原文: Picture 4: Grandma, give that old shirt to me, please.  
+
+行号14  
+No problem. But what for?  
+没问题。但是为了什么？  
+No problem. But what for?  
+问题:  
+"没问题"用英语怎么说？ 五，四，三，二，一。no problem  
+原文: No problem. But what for?  
+
+行号15  
+Wait and see!  
+等着瞧！  
+Wait and see!  
+
+
+行号16  
+Picture 5: These are houses for birds. They're also places to keep them warm.  
+图片5：这些是鸟的房子。它们也是让鸟保暖的地方。  
+Picture 5: These are houses for birds. They're also places to keep them warm.  
+问题:  
+"房子"用英语怎么说？ 五，四，三，二，一。house <prosody rate="slow"><say-as interpret-as="spell-out">H O U S E</say-as></prosody>  
+"让...保暖"用英语怎么说？ 五，四，三，二，一。keep warm  
+原文: Picture 5: These are houses for birds. They're also places to keep them warm.  
+
+行号17  
+I love it! Now they have a better home!  
+我喜欢它！现在它们有更好的家了！  
+I love it! Now they have a better home!  
+问题:  
+"更好的家"用英语怎么说？ 五，四，三，二，一。better home  
+原文: I love it! Now they have a better home!  
+
+行号18  
+What things do the children use? They use a dress, some cans, a box and an old shirt.  
+孩子们用了什么东西？他们用了一件裙子、一些罐子、一个盒子和一件旧衬衫。  
+What things do the children use? They use a dress, some cans, a box and an old shirt.  
+
+行号19  
+Why are the houses useful? Because they are houses for birds and also places to keep birds warm.  
+为什么这些房子有用？因为它们是鸟的房子，也是让鸟保暖的地方。  
+Why are the houses useful? Because they are houses for birds and also places to keep birds warm.  
+问题:  
+"有用"用英语怎么说？ 五，四，三，二，一。useful <prosody rate="slow"><say-as interpret-as="spell-out">U S E F U L</say-as></prosody>  
+原文: Why are the houses useful? Because they are houses for birds and also places to keep birds warm.  
+
+行号20  
+Do you like the children’s idea? Why? Yes, I like their idea. Because it is good for the environment. It also shows their love for animals.  
+你喜欢孩子们的想法吗？为什么？是的，我喜欢他们的想法。因为它对环境有好处。它也显示了他们对动物的爱。  
+Do you like the children’s idea? Why? Yes, I like their idea. Because it is good for the environment. It also shows their love for animals.  
+问题:  
+"想法"用英语怎么说？ 五，四，三，二，一。idea <prosody rate="slow"><say-as interpret-as="spell-out">I D E A</say-as></prosody>  
+"环境"用英语怎么说？ 五，四，三，二，一。environment <prosody rate="slow"><say-as interpret-as="spell-out">E N V I R O N M E N T</say-as></prosody>  
+"对环境有好处"用英语怎么说？ 五，四，三，二，一。good for the environment  
+原文: Do you like the children’s idea? Why? Yes, I like their idea. Because it is good for the environment. It also shows their love for animals.  
+
+总结全文  
+孩子们通过利用旧物品制作鸟屋，展示了环保意识和对动物的爱。  
+The children use old items to make bird houses, demonstrating environmental awareness and love for animals.
