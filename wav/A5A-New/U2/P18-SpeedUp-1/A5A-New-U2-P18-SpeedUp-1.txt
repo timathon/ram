@@ -1,0 +1,140 @@
+行号1  
+Big question: How do we recycle milk boxes?  
+大问题：我们如何回收牛奶盒？  
+Big question: How do we recycle milk boxes?  
+问题:  
+"回收"用英语怎么说？ 五，四，三，二，一。recycle <prosody rate="slow"><say-as interpret-as="spell-out">R E C Y C L E</say-as></prosody>  
+原文: Big question: How do we recycle milk boxes?  
+作用: 这一行提出了文章的主要问题，引入回收牛奶盒的主题。
+
+行号2  
+Title: Milk box magic  
+标题：牛奶盒魔法  
+Title: Milk box magic  
+问题:  
+"魔法"用英语怎么说？ 五，四，三，二，一。magic <prosody rate="slow"><say-as interpret-as="spell-out">M A G I C</say-as></prosody>  
+原文: Title: Milk box magic  
+作用: 这一行是文章的标题，点明主题的趣味性和魔法般的转变。
+
+行号3  
+Dear all, Each of us has a box of milk every day at school.  
+亲爱的大家，我们每个人每天在学校都有一盒牛奶。  
+Dear all, Each of us has a box of milk every day at school.  
+问题:  
+"一盒牛奶"用英语怎么说？ 五，四，三，二，一。a box of milk  
+"每天"用英语怎么说？ 五，四，三，二，一。every day  
+原文: Dear all, Each of us has a box of milk every day at school.  
+作用: 这一行是信件的开头，描述日常饮用牛奶的情况，建立背景。
+
+行号4  
+We use over 150,000 milk boxes every year! But many of us just throw them away.  
+我们每年使用超过150,000个牛奶盒！但许多人只是把它们扔掉。  
+We use over 150,000 milk boxes every year! But many of us just throw them away.  
+问题:  
+"扔掉"用英语怎么说？ 五，四，三，二，一。throw away  
+"超过"用英语怎么说？ 五，四，三，二，一。over  
+原文: We use over 150,000 milk boxes every year! But many of us just throw them away.  
+作用: 这一行提供数据强调使用量，并指出浪费问题，呼吁回收。
+
+行号5  
+Milk boxes have three parts: paper, plastic and metal.  
+牛奶盒有三个部分：纸、塑料和金属。  
+Milk boxes have three parts: paper, plastic and metal.  
+问题:  
+"组成部分"用英语怎么说？ 五，四，三，二，一。parts <prosody rate="slow"><say-as interpret-as="spell-out">P A R T S</say-as></prosody>  
+"纸"用英语怎么说？ 五，四，三，二，一。paper <prosody rate="slow"><say-as interpret-as="spell-out">P A P E R</say-as></prosody>  
+"塑料"用英语怎么说？ 五，四，三，二，一。plastic <prosody rate="slow"><say-as interpret-as="spell-out">P L A S T I C</say-as></prosody>  
+"金属"用英语怎么说？ 五，四，三，二，一。metal <prosody rate="slow"><say-as interpret-as="spell-out">M E T A L</say-as></prosody>  
+原文: Milk boxes have three parts: paper, plastic and metal.  
+作用: 这一行介绍牛奶盒的组成部分，为后续回收做铺垫。
+
+行号6  
+Each part can turn into something new, like newspapers, bottles and cans.  
+每个部分可以变成新的东西，比如报纸、瓶子和罐子。  
+Each part can turn into something new, like newspapers, bottles and cans.  
+问题:  
+"变成"用英语怎么说？ 五，四，三，二，一。turn into  
+"新的东西"用英语怎么说？ 五，四，三，二，一。something new  
+原文: Each part can turn into something new, like newspapers, bottles and cans.  
+作用: 这一行说明回收后各部分的再利用价值，增强说服力。
+
+行号7  
+It is easy to recycle a milk box in just three steps:  
+回收牛奶盒只需三个简单步骤：  
+It is easy to recycle a milk box in just three steps:  
+问题:  
+"回收"用英语怎么说？ 五，四，三，二，一。recycle <prosody rate="slow"><say-as interpret-as="spell-out">R E C Y C L E</say-as></prosody>  
+"步骤"用英语怎么说？ 五，四，三，二，一。steps <prosody rate="slow"><say-as interpret-as="spell-out">S T E P S</say-as></prosody>  
+原文: It is easy to recycle a milk box in just three steps:  
+作用: 这一行过渡到具体回收步骤，强调操作的简易性。
+
+行号8  
+1. Open the milk box and wash it with water. 2. Make it flat. 3. Put it into a recycling box.  
+1. 打开牛奶盒并用水清洗。2. 把它弄平。3. 把它放进回收箱。  
+1. Open the milk box and wash it with water. 2. Make it flat. 3. Put it into a recycling box.  
+问题:  
+"打开"用英语怎么说？ 五，四，三，二，一。open <prosody rate="slow"><say-as interpret-as="spell-out">O P E N</say-as></prosody>  
+"清洗"用英语怎么说？ 五，四，三，二，一。wash <prosody rate="slow"><say-as interpret-as="spell-out">W A S H</say-as></prosody>  
+"放进"用英语怎么说？ 五，四，三，二，一。put into  
+原文: 1. Open the milk box and wash it with water. 2. Make it flat. 3. Put it into a recycling box.  
+作用: 这一行详细列出回收的具体步骤，提供操作指导。
+
+行号9  
+Now the milk box moves to a new beginning!  
+现在牛奶盒迈向新的开始！  
+Now the milk box moves to a new beginning!  
+问题:  
+"移动"用英语怎么说？ 五，四，三，二，一。move <prosody rate="slow"><say-as interpret-as="spell-out">M O V E</say-as></prosody>  
+"新的开始"用英语怎么说？ 五，四，三，二，一。a new beginning  
+原文: Now the milk box moves to a new beginning!  
+作用: 这一行象征回收后的新生命，激发积极情感。
+
+行号10  
+Let's start now for a green world! Students from Class 502  
+让我们现在开始为一个绿色的世界！502班的学生  
+Let's start now for a green world! Students from Class 502  
+问题:  
+"开始"用英语怎么说？ 五，四，三，二，一。start <prosody rate="slow"><say-as interpret-as="spell-out">S T A R T</say-as></prosody>  
+"绿色的世界"用英语怎么说？ 五，四，三，二，一。a green world  
+原文: Let's start now for a green world! Students from Class 502  
+作用: 这一行是号召行动和签名，结束信件并鼓励参与。
+
+行号11  
+More Questions: How many boxes of milk do the students use every year?  
+更多问题：学生们每年使用多少盒牛奶？  
+More Questions: How many boxes of milk do the students use every year?  
+问题:  
+"使用"用英语怎么说？ 五，四，三，二，一。use <prosody rate="slow"><say-as interpret-as="spell-out">U S E</say-as></prosody>  
+"多少"用英语怎么说？ 五，四，三，二，一。how many  
+"每年"用英语怎么说？ 五，四，三，二，一。every year  
+原文: More Questions: How many boxes of milk do the students use every year?  
+
+行号12  
+How many parts do milk boxes have? What are they?  
+牛奶盒有多少部分？它们是什么？  
+How many parts do milk boxes have? What are they?  
+问题:  
+"多少"用英语怎么说？ 五，四，三，二，一。how many  
+"组成部分"用英语怎么说？ 五，四，三，二，一。parts <prosody rate="slow"><say-as interpret-as="spell-out">P A R T S</say-as></prosody>  
+原文: How many parts do milk boxes have? What are they?  
+
+行号13  
+What can milk boxes turn into?  
+牛奶盒可以变成什么？  
+What can milk boxes turn into?  
+问题:  
+"变成"用英语怎么说？ 五，四，三，二，一。turn into  
+原文: What can milk boxes turn into?  
+
+行号14  
+Why is it important to recycle?  
+为什么回收很重要？  
+Why is it important to recycle?  
+问题:  
+"回收"用英语怎么说？ 五，四，三，二，一。recycle <prosody rate="slow"><say-as interpret-as="spell-out">R E C Y C L E</say-as></prosody>  
+"重要"用英语怎么说？ 五，四，三，二，一。important <prosody rate="slow"><say-as interpret-as="spell-out">I M P O R T A N T</say-as></prosody>  
+原文: Why is it important to recycle?  
+
+总结全文  
+文章通过介绍牛奶盒的回收步骤、好处和号召行动，鼓励大家为绿色世界贡献力量。  
+The article introduces the steps and benefits of recycling milk boxes and encourages everyone to contribute to a green world.

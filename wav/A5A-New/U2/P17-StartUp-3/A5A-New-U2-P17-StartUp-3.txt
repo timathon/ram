@@ -1,0 +1,71 @@
+行号1  
+Dear all, Winter is coming, so we made these houses for birds.  
+亲爱的大家，冬天来了，所以我们为鸟儿们做了这些房子。  
+Dear all, Winter is coming, so we made these houses for birds.  
+问题:  
+"冬天来了"用英语怎么说？ 五，四，三，二，一。Winter is coming  
+"做房子"用英语怎么说？ 五，四，三，二，一。make houses  
+"为鸟儿"用英语怎么说？ 五，四，三，二，一。for birds  
+原文: Dear all, Winter is coming, so we made these houses for birds.  
+作用: 这一行是信的开头，介绍背景和目的，说明为什么做了鸟屋。
+
+行号2  
+They keep the birds safe and warm. Please don't take them away.  
+它们让鸟儿们安全又温暖。请不要把它们拿走。  
+They keep the birds safe and warm. Please don't take them away.  
+问题:  
+"保持"用英语怎么说？ 五，四，三，二，一。keep <prosody rate="slow"><say-as interpret-as="spell-out">K E E P</say-as></prosody>  
+"安全"用英语怎么说？ 五，四，三，二，一。safe <prosody rate="slow"><say-as interpret-as="spell-out">S A F极E</say-as></prosody>  
+"温暖"用英语怎么说？ 五，四，三，二，一。warm <prosody rate="slow"><say-as interpret-as="spell-out">W A R M</say-as></prosody>  
+原文: They keep the birds safe and warm. Please don't take them away.  
+作用: 这一行描述鸟屋的功能和保护鸟儿的请求。
+
+行号3  
+Let's be kind to the birds.  
+让我们对鸟儿们友好。  
+Let's be kind to the birds.  
+问题:  
+"友好"用英语怎么说？ 五，四，三，二，一。kind <prosody rate="slow"><say-as interpret-as="spell-out">K I N D</say-as></prosody>  
+原文: Let's be kind to the birds.  
+作用: 这一行呼吁行动，鼓励对鸟儿友善。
+
+行号4  
+We're making more houses because lots of birds need a home.  
+我们正在做更多的房子，因为许多鸟儿需要一个家。  
+We're making more houses because lots of birds need a home.  
+问题:  
+"因为"用英语怎么说？ 五，四，三，二，一。because <prosody rate="slow"><say-as interpret-as="spell-out">B E C A U S E</say-as></prosody>  
+"需要"用英语怎么说？ 五，四，三，二，一。need <prosody rate="slow"><say-as interpret-as="spell-out">N E E D</say-as></prosody>  
+原文: We're making more houses because lots of birds need a home.  
+作用: 这一行解释做更多鸟屋的原因，提供理由。
+
+行号5  
+Don't throw cans, boxes, bottles or old clothes away.  
+不要扔掉罐子、盒子、瓶子或旧衣服。  
+Don't throw cans, boxes, bottles or old clothes away.  
+问题:  
+"扔掉"用英语怎么说？ 五，四，三，二，一。throw away  
+"罐子"用英语怎么说？ 五，四，三，二，一。can <prosody rate="slow"><say-as interpret-as="spell-out">C A N</say-as></prosody>  
+原文: Don't throw cans, boxes, bottles or old clothes away.  
+作用: 这一行是指令，不要丢弃物品，可能用于回收或制作鸟屋。
+
+行号6  
+Give them to us. It can help a lot!  
+把它们给我们。它可以帮很多忙！  
+Give them to us. It can help a lot!  
+问题:  
+"给"用英语怎么说？ 五，四，极三，二，一。give <prosody rate="slow"><say-as interpret-as="spell-out">G I V E</say-as></prosody>  
+"它们"宾格用英语怎么说？ 五，四，三，二，一。them  
+"把它们给我们"用英语怎么说？ 五，四，三，二，一。give them to us
+原文: Give them to us. It can help a lot!  
+作用: 这一行请求捐赠物品并强调其帮助性。
+
+行号7  
+Thank you so much! Yours, Amy, Daming, Sam and Lingling  
+非常感谢！此致，艾米、大明、萨姆和玲玲  
+Thank you so much! Yours, Amy, Daming, Sam and Lingling  
+作用: 这一行是感谢和签名，结束信件。
+
+总结全文  
+这封信呼吁人们保护鸟儿，通过提供鸟屋和请求捐赠物品来帮助它们。  
+The letter encourages protecting birds by providing birdhouses and requesting donations to help them.

@@ -73,7 +73,7 @@
       ]
     },
     "U2": {
-      "P16-StartUp": [
+      "P16-StartUp-1": [
         "A5A-New-U2-P16-StartUp-01.mp3",
         "A5A-New-U2-P16-StartUp-02.mp3",
         "A5A-New-U2-P16-StartUp-03.mp3",
@@ -95,6 +95,33 @@
         "A5A-New-U2-P16-StartUp-19.mp3",
         "A5A-New-U2-P16-StartUp-20.mp3",
         "A5A-New-U2-P16-StartUp-summary.mp3"
+      ],
+      "P17-StartUp-3": [
+        "A5A-New-U2-P17-StartUp-3-01.mp3",
+        "A5A-New-U2-P17-StartUp-3-02.mp3",
+        "A5A-New-U2-P17-StartUp-3-03.mp3",
+        "A5A-New-U2-P17-StartUp-3-04.mp3",
+        "A5A-New-U2-P17-StartUp-3-05.mp3",
+        "A5A-New-U2-P17-StartUp-3-06.mp3",
+        "A5A-New-U2-P17-StartUp-3-07.mp3",
+        "A5A-New-U2-P17-StartUp-3-summary.mp3"
+      ],
+      "P18-SpeedUp-1": [
+        "A5A-New-U2-P18-SpeedUp-1-01.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-02.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-03.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-04.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-05.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-06.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-07.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-08.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-09.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-10.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-11.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-12.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-13.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-14.mp3",
+        "A5A-New-U2-P18-SpeedUp-1-summary.mp3"
       ]
     }
   },
