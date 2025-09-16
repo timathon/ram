@@ -1,0 +1,50 @@
+行号1  
+Don't use plastic every day!  
+不要每天使用塑料！  
+Don't use plastic every day!  
+作用: 这一行是文章的开头，直接呼吁行动，强调不要每天使用塑料，设定主题。
+
+行号2  
+Bags and bottles, desks and seats. Plastic makes life easy for you and me.  
+袋子和瓶子，桌子和座位。塑料让你我的生活更轻松。  
+Bags and bottles, desks and seats. Plastic makes life easy for you and me.  
+问题:  
+"座位"用英语怎么说？ 五，四，三，二，一。seat <prosody rate="slow"><say-as interpret-as="spell-out">S E A T</say-as></prosody>
+"塑料"用英语怎么说？ 五，四，三，二，一。plastic <prosody rate="slow"><say-as interpret-as="spell-out">P L A S T I C</say-as></prosody>
+"让生活轻松"用英语怎么说？ 五，四，三，二，一。make life easy  
+Bags and bottles, desks and seats. Plastic makes life easy for you and me.  
+作用: 这一行列举塑料制品并说明其便利性，为后续批评做铺垫。
+
+行号3  
+But it's bad for the land and sea.  
+但它对土地和海洋有害。  
+But it's bad for the land and sea.  
+问题:  
+"对...有害"用英语怎么说？ 五，四，三，二，一。bad for  
+"土地"用英语怎么说？ 五，四，三，二，一。land <prosody rate="slow"><say-as interpret-as="spell-out">L A N D</say-as></prosody>  
+But it's bad for the land and sea.  
+作用: 这一行转折，指出塑料的负面影响，对比前文的便利性。
+
+行号4  
+To keep the world green, Don't use plastic every day!  
+为了保持世界绿色，不要每天使用塑料！  
+To keep the world green, Don't use plastic every day!  
+问题:  
+"保持"用英语怎么说？ 五，四，三，二，一。keep <prosody rate="slow"><say-as interpret-as="spell-out">K E E P</say-as></prosody>  
+"世界"用英语怎么说？ 五，四，三，二，一。world <prosody rate="slow"><say-as interpret-as="spell-out">W O R L D</say-as></prosody>  
+To keep the world green, Don't use plastic every day!  
+作用: 这一行重申呼吁，并提供理由（保持世界绿色），强化主题。
+
+行号5  
+Use things again — don't throw them away.  
+再次使用物品——不要扔掉它们。  
+Use things again — don't throw them away.  
+问题:  
+"再次使用"用英语怎么说？ 五，四，三，二，一。use again  
+"扔掉"用英语怎么说？ 五，四，三，二，一。throw away  
+Use things again — don't throw them away.  
+作用: 这一行提供具体建议，鼓励重复使用而非丢弃，是解决方案部分。
+
+总结全文  
+文章通过指出塑料的便利性和危害，呼吁减少日常使用并重复使用物品以保护环境。  
+The article highlights the convenience and harm of plastic, calling for reduced daily use and reuse of items to protect the environment.

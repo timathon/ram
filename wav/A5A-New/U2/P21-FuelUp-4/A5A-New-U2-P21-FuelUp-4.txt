@@ -1,0 +1,39 @@
+行号1  
+We should bring our bag to the shop. Don't use too much plastic.  
+我们应该带我们的包去商店。不要使用太多塑料。  
+We should bring our bag to the shop. Don't use too much plastic.  
+问题:  
+"太多"用英语怎么说？ 五，四，三，二，一。too much  
+"带"用英语怎么说？ 五，四，三，二，一。bring <prosody rate="slow"><say-as interpret-as="spell-out">B R I N G</say-as></prosody>  
+原文: We should bring our bag to the shop. Don't use too much plastic.  
+作用: 这一行提出了减少塑料使用的具体建议，即带包购物和避免过度使用塑料。  
+
+行号2  
+Plastic makes our life easy, but it is bad for the earth.  
+塑料使我们的生活容易，但它对地球有害。  
+Plastic makes our life easy, but it is bad for the earth.  
+问题:  
+"地球"用英语怎么说？ 五，四，三，二，一。the earth  
+"使我们的容易"用英语怎么说？ 五，四，三，二，一。make our life easy  
+"对地球有害"用英语怎么说？ 五，四，三，二，一。bad for the earth
+原文: Plastic makes our life easy, but it is bad for the earth.  
+作用: 这一行对比了塑料的便利性和环境危害，强调其负面影响。  
+
+行号3  
+We can also bring our own water bottles.  
+我们也可以带我们自己的水瓶。  
+We can also bring our own water bottles.  
+问题:  
+"自己的"用英语怎么说？ 五，四，三，二，一。own <prosody rate="slow"><say-as interpret-as="spell-out">O W N</say-as></prosody>  
+"水瓶"用英语怎么说？ 五，四，三，二，一。water bottles  
+原文: We can also bring our own water bottles.  
+作用: 这一行提供了另一个环保建议，即自带水瓶以减少塑料消耗。  
+
+行号4  
+We should all take care of the earth.  
+我们都应该照顾地球。  
+We should all take care of the earth.  
+问题:  
+"照顾"用英语怎么说？ 五，四，三，二，一。take care of  
+原文: We should all take care of the earth.  
+作用: 这一行呼吁集体行动，强调每个人有责任保护地球。

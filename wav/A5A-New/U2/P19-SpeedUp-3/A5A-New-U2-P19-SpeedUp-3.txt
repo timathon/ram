@@ -1,0 +1,44 @@
+行号1  
+Let’s recycle plastic bottles!  
+让我们回收塑料瓶！  
+Let’s recycle plastic bottles!  
+问题:  
+"回收"用英语怎么说？ 五，四，三，二，一。recycle <prosody rate="slow"><say-as interpret-as="spell-out">R E C Y C L E</say-as></prosody>  
+"塑料瓶"用英语怎么说？ 五，四，三，二，一。plastic bottles  
+原文: Let’s recycle plastic bottles!
+
+行号2  
+Hello kids, How can we help make our earth cleaner?  
+大家好，我们如何帮助让我们的地球更清洁？  
+Hello kids, How can we help make our earth cleaner?  
+问题:  
+"地球"用英语怎么说？ 五，四，三，二，一。the earth <prosody rate="slow"><say-as interpret-as="spell-out">E A R T H</say-as></prosody>  
+"更清洁"用英语怎么说？ 五，四，三，二，一。cleaner <prosody rate="slow"><say-as interpret-as="spell-out">C L E A N E R</say-as></prosody>  
+原文: Hello kids, How can we help make our earth cleaner?
+
+行号3  
+There are many great ways. We can start with an easy one.  
+有很多好方法。我们可以从一个简单的开始。  
+There are many great ways. We can start with an easy one.  
+问题:  
+"以...开始"用英语怎么说？ 五，四，三，二，一。start with  
+原文: There are many great ways. We can start with an easy one.
+
+行号4  
+Let’s recycle plastic bottles! How? Let me tell you:  
+让我们回收塑料瓶！怎么回收？让我告诉你：  
+Let’s recycle plastic bottles! How? Let me tell you:  
+问题:  
+"告诉"用英语怎么说？ 五，四，三，二，一。tell <prosody rate="slow"><say-as interpret-as="spell-out">T E L L</say-as></prosody>  
+原文: Let’s recycle plastic bottles! How? Let me tell you:
+
+行号5  
+1. Take off the caps. 2. Wash the plastic bottles. 3. Put them into a recycling box.  
+1. 取下瓶盖。2. 清洗塑料瓶。3. 把它们放进回收箱。  
+1. Take off the caps. 2. Wash the plastic bottles. 3. Put them into a recycling box.  
+问题:  
+"取下"用英语怎么说？ 五，四，三，二，一。take off  
+"清洗"用英语怎么说？ 五，四，三，二，一。wash <prosody rate="slow"><say-as interpret-as="spell-out">W A S H</say-as></prosody>  
+"放进"用英语怎么说？ 五，四，三，二，一。put into  
+"回收箱"用英语怎么说？ 五，四，三，二，一。recycling box
+原文: 1. Take off the caps. 2. Wash the plastic bottles. 3. Put them into a recycling box.

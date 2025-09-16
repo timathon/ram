@@ -1,0 +1,59 @@
+行号1  
+What can you do to make your life greener?  
+你能做什么来让你的生活更绿色？  
+What can you do to make your life greener?  
+问题:  
+"更绿"用英语怎么说？ 五，四，三，二，一。greener  
+原文: What can you do to make your life greener?  
+
+行号2  
+Plant more trees.  
+种植更多的树。  
+Plant more trees.  
+问题:  
+"种植"用英语怎么说？ 五，四，三，二，一。plant <prosody rate="slow"><say-as interpret-as="spell-out">P L A N T</say-as></prosody>  
+"更多的"用英语怎么说？ 五，四，三，二，一。more <prosody rate="slow"><say-as interpret-as="spell-out">M O R E</say-as></prosody>  
+原文: Plant more trees.  
+
+行号3  
+Don't put too much food on our plates. Eat all the food on our plates.  
+不要放太多食物在我们的盘子上。吃掉盘子上所有的食物。  
+Don't put too much food on our plates. Eat all the food on our plates.  
+问题:  
+"放"用英语怎么说？ 五，四，三，二，一。put <prosody rate="slow"><say-as interpret-as="spell-out">P U T</say-as></prosody>  
+原文: Don't put too much food on our plates. Eat all the food on our plates.  
+
+行号4  
+Don't throw away plastic bottle. Put them into a recycling box.  
+不要扔掉塑料瓶。把它们放进回收箱。  
+Don't throw away plastic bottle. Put them into a recycling box.  
+问题:  
+"扔掉"用英语怎么说？ 五，四，三，二，一。throw away  
+"放进"用英语怎么说？ 五，四，三，二，一。put into  
+"塑料"用英语怎么说？ 五，四，三，二，极。plastic <prosody rate="slow"><say-as interpret-as="spell-out">P L A S T I C</say-as></prosody>  
+原文: Don't throw away plastic bottle. Put them into a recycling box.  
+
+行号5  
+Don't use too much plastic. Bring your own water bottles to school.  
+不要使用太多塑料。带自己的水瓶去学校。  
+Don't use too much plastic. Bring your own water bottles to school.  
+问题:  
+"使用"用英语怎么说？ 五，四，三，二，一。use <prosody rate="slow"><say-as interpret-as="spell-out">U S E</say-as></prosody>  
+"带来"用英语怎么说？ 五，四，三，二，一。bring <prosody rate="slow"><say-as interpret-as="spell-out">B R I N G</say-as></prosody>  
+"瓶子"用英语怎么说？ 五，四，三，二，一。bottle <prosody rate="slow"><say-as interpret-as="spell-out">B O T T L E</say-as></prosody>  
+原文: Don't use too much plastic. Bring your own water bottles to school.  
+
+行号6  
+Use old paper for art homework.  
+使用旧纸来做艺术作业。  
+Use old paper for art homework.  
+
+
+行号7  
+Use food waste for plants in the garden.  
+使用食物废料来花园中的植物。  
+Use food waste for plants in the garden.  
+问题:  
+"食物废料"用英语怎么说？ 五，四，三，二，一。food waste
+"植物"用英语怎么说？ 五，四，三，二，一。plants <prosody rate="slow"><say-as interpret-as="spell-out">P L A N T S</say-as></prosody>  
+原文: Use food waste for plants in the garden.

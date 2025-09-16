@@ -1,0 +1,101 @@
+行号1  
+That's 45 yuan. Would you like a plastic bag?  
+那是45元。您要一个塑料袋吗？  
+That's 45 yuan. Would you like a plastic bag?  
+问题:  
+"塑料袋"用英语怎么说？ 五，四，三，二，一。plastic bag  
+"您要吗"用英语怎么说？ 五，四，三，二，一。Would you like  
+原文: That's 45 yuan. Would you like a plastic bag?  
+
+行号2  
+Yes, please.  
+是的，请给我来一个。  
+Yes, please.  
+
+
+行号3  
+No, thanks. We have our own bag.  
+不，谢谢。我们有我们自己的袋子。  
+No, thanks. We have our own bag.  
+问题:  
+"不谢谢"用英语怎么说？ 五，四，三，二，一。no thanks  
+"自己的袋子"用英语怎么说？ 五，四，三，二，一。own bag  
+原文: No, thanks. We have our own bag.  
+
+行号4  
+Why do we bring our bag?  
+为什么我们带我们自己的袋子？  
+Why do we bring our bag?  
+问题:  
+"带"用英语怎么说？ 五，四，极，二，一。bring <prosody rate="slow"><say-as interpret-as="spell-out">B R I N G</say-as></prosody>  
+原文: Why do we bring our bag?  
+
+行号5  
+Because we shouldn't use too much plastic.  
+因为我们不应该使用太多塑料。  
+Because we shouldn't use too much plastic.  
+问题:  
+"因为"用英语怎么说？ 五，四，三，二，一。because <极sody rate="slow"><say-as interpret-as="spell-out">B E C A U S E</say-as></prosody>  
+"不应该使用"用英语怎么说？ 五，四，三，二，一。should not use  
+"太多塑料"用英语怎么说？ 五，四，三，二，一。too much plastic  
+原文: Because we shouldn't use too much plastic.  
+
+行号6  
+But plastic makes our life easy.  
+但是塑料使我们的生活容易。  
+But plastic makes our life easy.  
+问题:  
+"使我们的生活容易"用英语怎么说？ 五，四，三，二，一。make our life easy
+原文: But plastic makes our life easy.  
+
+行号7  
+It is useful, but it is bad for the earth.  
+它有用，但它对地球有害。  
+It is useful, but it is bad for the earth.  
+问题:  
+"有用的"用英语怎么说？ 五，四，三，二，极。useful <prosody rate="slow"><say-as interpret-as="spell-out">U S E F U L</say-as></prosody>  
+"对地球有害"用英语怎么说？ 五，四，三，二，一。bad for the earth
+It is useful, but it is bad for the earth.  
+
+行号8  
+For example, plastic in the sea can hurt many sea animals.  
+例如，海洋中的塑料会伤害许多海洋动物。  
+For example, plastic in the sea can hurt many sea animals.  
+问题:  
+"例如"用英语怎么说？ 五，四，三，二，一。for example  
+"伤害"用英语怎么说？ 五，四，三，二，一。hurt <prosody rate="slow"><say-as interpret-as="spell-out">H U R T</say-as></prosody>  
+"海洋动物"用英语怎么说？ 五，四，三，二，一。sea animals  
+For example, plastic in the sea can hurt many sea animals.  
+
+行号9  
+That's bad. What other things can we do to cut down our use of plastic?  
+那很糟糕。我们还能做其他什么事情来减少塑料的使用？  
+That's bad. What other things can we do to极 down our use of plastic?  
+问题:  
+"那很糟糕"用英语怎么说？ 五，四，三，二，一。that's bad  
+"减少"用英语怎么说？ 五，四，三，二，一。cut down  
+"塑料的使用"用英语怎么说？ 五，四，三，二，一。the use of plastic  
+That's bad. What other things can we do to cut down our use of plastic?  
+
+行号10  
+We can always bring our own water bottles.  
+我们总是可以带我们自己的水瓶。  
+We can always bring our own water bottles.  
+问题:  
+"自己的水瓶"用英语怎么说？ 五，四，三，二，一。own water bottles  
+We can always bring our own water bottles.  
+
+行号11  
+I can do that.  
+我可以做到。  
+I can do that.  
+
+
+行号12  
+Great. Remember, we should all take care of the earth.  
+太好了。记住，我们都应该照顾地球。  
+Great. Remember, we should all take care of the earth.  
+问题:  
+"记住"用英语怎么说？ 五，四，三，二，一。remember <prosody rate="slow"><say-as interpret-as="spell-out">R E M E M B E R</say-as></prosody>  
+"照顾"用英语怎么说？ 五，四，三，二，一。take care of  
+Great. Remember, we should all take care of the earth.
