@@ -1,0 +1,73 @@
+行号1  
+What snacks do you like?  
+你喜欢什么零食？  
+What snacks do you like?  
+问题:  
+"零食"用英语怎么说？ 五，四，三，二，一。snack <prosody rate="slow"><say-as interpret-as="spell-out">S N A C K</say-as></prosody>
+原文: What snacks do you like?  
+
+行号2  
+Chocolate, chips, biscuits, candies or fruit?  
+巧克力、薯片、饼干、糖果还是水果？  
+Chocolate, chips, biscuits, candies or fruit?  
+
+行号3  
+We asked 50 primary school students.  
+我们问了50名小学生。  
+We asked 50 primary school students.  
+问题:  
+"问"用英语怎么说？ 五，四，三，二，一。ask <prosody rate="slow"><say-as interpret-as="spell-out">A S K</say-as></prosody>  
+"小学"用英语怎么说？ 五，四，三，二，一。primary school
+原文: We asked 50 primary school students.  
+
+行号4  
+17 students love chips. 13 students like biscuits.  
+17名学生喜欢薯片。13名学生喜欢饼干。
+17 students love chips. 13 students like biscuits.  
+
+行号5
+12 love chocolate. And 8 like candies.  
+12人喜欢巧克力。还有8人喜欢糖果。
+12 love chocolate. And 8 like candies.  
+
+行号6  
+The snacks high in fat, salt and sugar are their favourites.  
+高脂肪、高盐和高糖的零食是他们的最爱。  
+The snacks high in fat, salt and sugar are their favourites.  
+问题:  
+"脂肪"用英语怎么说？ 五，四，三，二，一。fat <prosody rate="slow"><say-as interpret-as="spell-out">F A T</say-as></prosody>
+"盐"用英语怎么说？ 五，四，三，二，一。salt <prosody rate="slow"><say-as interpret-as="spell-out">S A L T</say-as></prosody>
+"糖"用英语怎么说？ 五，四，三，二，一。sugar <prosody rate="slow"><say-as interpret-as="spell-out">S U G A R</say-as></prosody>
+"最爱"用英语怎么说？ 五，四，三，二，一。favourite <prosody rate="slow"><say-as interpret-as="spell-out">F A V O U R I T E</say-as></prosody>  
+原文: The snacks high in fat, salt and sugar are their favourites.  
+
+行号7  
+Too many of these snacks are not good for us.  
+太多这些零食对我们不好。  
+Too many of these snacks are not good for us.  
+
+行号8  
+One bar of chocolate has about 10 teaspoons of sugar.  
+一条巧克力大约有10茶匙的糖。  
+One bar of chocolate has about 10 teaspoons of sugar.  
+问题:  
+"茶匙"用英语怎么说？ 五，四，三，二，一。teaspoon <prosody rate="slow"><say-as interpret-as="spell-out">T E A S P O O N</say-as></prosody>
+原文: One bar of chocolate has about 10 teaspoons of sugar.  
+
+行号9  
+A bag of chips every day is like drinking 5 bottles of oil a year.  
+每天一包薯片就像一年喝5瓶油。  
+A bag of chips every day is like drinking 5 bottles of oil a year.  
+问题:  
+"喝"用英语怎么说？ 五，四，三，二，一。drink <prosody rate="slow"><say-as interpret-as="spell-out">D R I N K</say-as></prosody>  
+"像"用英语怎么说？ 五，四，三，二，一。like <prosody rate="slow"><say-as interpret-as="spell-out">L I K E</say-as></prosody>
+原文: A bag of chips every day is like drinking 5 bottles of oil a year.  
+
+行号10  
+So, next time you have a snack, make healthy choices.  
+所以，下次你吃零食时，做出健康的选择。  
+So, next time you have a snack, make healthy choices.  
+问题:  
+"下次"用英语怎么说？ 五，四，三，二，一。next time 
+"做出健康的选择"用英语怎么说？ 五，四，三，二，一。make healthy choices
+原文: So, next time you have a snack, make healthy choices.

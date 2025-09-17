@@ -1,0 +1,106 @@
+行号1  
+What's your next class?  
+你下一节课是什么？  
+What's your next class?  
+问题:  
+"下一节课"用英语怎么说？ 五，四，三，二，一。next class  
+原文: What's your next class?  
+作用: 这一行开启对话，询问下一节课，引发后续讨论。
+
+行号2  
+History. It's my favourite subject.  
+历史。它是我最喜欢的科目。  
+History. It's my favourite subject.  
+问题:  
+"最喜欢的"用英语怎么说？ 五，四，三，二，一。favourite <prosody rate="slow"><say-as interpret-as="spell-out">F A V O U R I T E</say-as></prosody>  
+"科目"用英语怎么说？ 五，四，三，二，一。subject <prosody rate="slow"><say-as interpret-as="spell-out">S U B J E C T</say-as></prosody>  
+原文: History. It's my favourite subject.  
+作用: 回答上一问题，表明喜欢历史科目。
+
+行号3  
+Why do you like it?  
+你为什么喜欢它？  
+Why do you like it?  
+作用: 进一步询问喜欢的原因，推动对话深入。
+
+行号4  
+It's interesting to learn about the past.  
+学习过去的事情很有趣。  
+It's interesting to learn about the past.  
+问题:  
+"有趣的"用英语怎么说？ 五，四，三，二，一。interesting <prosody rate="slow"><say-as interpret-as="spell-out">I N T E R E S T I N G</say-as></prosody>  
+"学习过去的事情"用英语怎么说？ 五，四，三，二，一。learn about the past 
+原文: It's interesting to learn about the past.  
+作用: 解释喜欢历史的原因，因为学习过去有趣。
+
+行号5  
+What's your favourite subject, Meimei?  
+你最喜欢的科目是什么，梅梅？  
+What's your favourite subject, Meimei?  
+问题:  
+"最喜欢的科目"用英语怎么说？ 五，四，三，二，一。favourite subject  
+原文: What's your favourite subject, Meimei?  
+作用: 转向询问Meimei的喜好，扩展对话对象。
+
+行号6  
+My favourite subject is English. It's useful, and my English teacher is really nice. How about you, Binbin?  
+我最喜欢的科目是英语。它很有用，而且我的英语老师真的很好。你呢，彬彬？  
+My favourite subject is English. It's useful, and my English teacher is really nice. How about you, Binbin?  
+问题:  
+"有用"用英语怎么说？ 五，四，三，二，一。useful <prosody rate="slow"><say-as interpret-as="spell-out">U S E F U L</say-as></prosody>  
+原文: My favourite subject is English.极 It's useful, and my English teacher is really nice. How about you, Binbin?  
+作用: Meimei回答自己的喜好，并询问Binbin，促进对话互动。
+
+行号7  
+I like all the subjects, but my favourite is maths.  
+我喜欢所有科目，但我最喜欢的是数学。  
+I like all the subjects, but my favourite is maths.  
+问题:  
+"所有的学科"用英语怎么说？ 五，四，三，二，一。all the subjects
+"数学"用英语怎么说？ 五，四，三，二，一。maths <prosody rate="slow"><say-as interpret-as="spell-out">M A T H S</say-as></prosody>  
+原文: I like all the subjects, but my favourite is maths.  
+作用: Binbin回答，表达对数学的偏好。
+
+行号8  
+Why?  
+为什么？  
+Why?  
+作用: 简短询问原因，保持对话流畅。
+
+行号9  
+Because I'm good with numbers.  
+因为我擅长数字。  
+Because I'm good with numbers.  
+问题:  
+"善于处理"数字用英语怎么说？ 五，四，三，二，一。be good with numbers 
+原文: Because I'm good with numbers.  
+作用: 解释喜欢数学的原因，因为擅长数字。
+
+行号10  
+Oh, it's difficult for me. Can you help me with this subject?  
+哦，这对我来说很难。你能帮我学这个科目吗？  
+Oh, it's difficult for me. Can you help me with this subject?  
+问题:  
+"困难的"用英语怎么说？ 五，四，三，二，一。difficult <prosody rate="slow"><say-as interpret-as="spell-out">D I F F I C U L T</say-as></prosody>  
+"在某方面帮助我"用英语怎么说？ 五，四，三，二，一。help me with  
+原文: Oh, it's difficult for me. Can you help me with this subject?  
+作用: 表达困难并请求帮助，显示互动和互助。
+
+行号11  
+Sure!  
+当然！  
+Sure!  
+作用: 肯定回应，表示愿意帮助。
+
+行号12  
+Hey, look at the time. Let's go to class!  
+嘿，看时间。我们去上课吧！  
+Hey, look at the time. Let's go to class!  
+问题:  
+"去上课"用英语怎么说？ 五，四，三，二，一。go to class  
+原文: Hey, look at the time. Let's go to class!  
+作用: 结束对话，提醒上课时间到。
+
+总结全文  
+这段对话展示了学生们讨论最喜欢的科目、询问原因、请求帮助并最终提醒上课。  
+This dialogue shows students discussing their favorite subjects, asking reasons, offering help, and ending with a reminder to go to class.

@@ -70,6 +70,18 @@
         "A5A-New-U1-P13-LetsExplore-08.mp3",
         "A5A-New-U1-P13-LetsExplore-09.mp3",
         "A5A-New-U1-P13-LetsExplore-summary.mp3"
+      ],
+      "P9-FuelUp-3": [
+        "A5A-New-U1-P9-FuelUp-3-01.mp3",
+        "A5A-New-U1-P9-FuelUp-3-02.mp3",
+        "A5A-New-U1-P9-FuelUp-3-03.mp3",
+        "A5A-New-U1-P9-FuelUp-3-04.mp3",
+        "A5A-New-U1-P9-FuelUp-3-05.mp3",
+        "A5A-New-U1-P9-FuelUp-3-06.mp3",
+        "A5A-New-U1-P9-FuelUp-3-07.mp3",
+        "A5A-New-U1-P9-FuelUp-3-08.mp3",
+        "A5A-New-U1-P9-FuelUp-3-09.mp3",
+        "A5A-New-U1-P9-FuelUp-3-10.mp3"
       ]
     },
     "U2": {
@@ -396,6 +408,49 @@
         "A7A-U3-B-1b-10.mp3",
         "A7A-U3-B-1b-11.mp3",
         "A7A-U3-B-1b-summary.mp3"
+      ]
+    },
+    "U4": {
+      "A-1b": [
+        "A7A-U4-A-1b-01.mp3",
+        "A7A-U4-A-1b-02.mp3",
+        "A7A-U4-A-1b-03.mp3",
+        "A7A-U4-A-1b-04.mp3",
+        "A7A-U4-A-1b-05.mp3",
+        "A7A-U4-A-1b-06.mp3",
+        "A7A-U4-A-1b-07.mp3",
+        "A7A-U4-A-1b-08.mp3",
+        "A7A-U4-A-1b-09.mp3",
+        "A7A-U4-A-1b-10.mp3",
+        "A7A-U4-A-1b-11.mp3",
+        "A7A-U4-A-1b-12.mp3",
+        "A7A-U4-A-1b-13.mp3",
+        "A7A-U4-A-1b-14.mp3",
+        "A7A-U4-A-1b-15.mp3",
+        "A7A-U4-A-1b-16.mp3",
+        "A7A-U4-A-1b-17.mp3",
+        "A7A-U4-A-1b-18.mp3",
+        "A7A-U4-A-1b-19.mp3",
+        "A7A-U4-A-1b-20.mp3",
+        "A7A-U4-A-1b-21.mp3",
+        "A7A-U4-A-1b-22.mp3",
+        "A7A-U4-A-1b-23.mp3",
+        "A7A-U4-A-1b-summary.mp3"
+      ],
+      "A-2a": [
+        "A7A-U4-A-2a-01.mp3",
+        "A7A-U4-A-2a-02.mp3",
+        "A7A-U4-A-2a-03.mp3",
+        "A7A-U4-A-2a-04.mp3",
+        "A7A-U4-A-2a-05.mp3",
+        "A7A-U4-A-2a-06.mp3",
+        "A7A-U4-A-2a-07.mp3",
+        "A7A-U4-A-2a-08.mp3",
+        "A7A-U4-A-2a-09.mp3",
+        "A7A-U4-A-2a-10.mp3",
+        "A7A-U4-A-2a-11.mp3",
+        "A7A-U4-A-2a-12.mp3",
+        "A7A-U4-A-2a-summary.mp3"
       ]
     }
   },

@@ -1,0 +1,163 @@
+行号1  
+Conversation 1: Hi, Ella. Are you OK?  
+对话1：嗨，Ella。你好吗？  
+Conversation 1: Hi, Ella. Are you OK?  
+
+行号2  
+Hi, Fu Xing. Not really. Today is Tuesday.  
+嗨，Fu Xing。不完全是。今天是星期二。  
+Hi, Fu Xing. Not really. Today is Tuesday.  
+问题:  
+"不完全是"用英语怎么说？ 五，四，三，二，一。not really  
+"星期二"用英语怎么说？ 五，四，三，二，一。Tuesday <prosody rate="slow"><say-as interpret-as="spell-out">T U E S D A Y</say-as></prosody>  
+Hi, Fu Xing. Not really. Today is Tuesday.  
+
+行号3  
+So?  
+所以？  
+So?  
+
+
+行号4  
+I have history on Tuesday mornings.  
+我在星期二早上有历史课。  
+I have history on Tuesday mornings.  
+问题:  
+"历史"用英语怎么说？ 五，四，三，二，一。history <prosody rate="slow"><say-as interpret-as="spell-out">H I S T O R Y</say-as></prosody>  
+"在每星期二早上"用英语怎么说？ 五，四，三，二，一。on Tuesday mornings
+I have history on Tuesday mornings.  
+
+行号5
+
+行号7  
+No, it’s hard for me.  
+不，这对我来说很难。  
+No, it’s hard for me.  
+问题:  
+"难"用英语怎么说？ 五，四，三，二，一。hard <prosody rate="slow"><say-as interpret-as="spell-out">H A R D</say-as></prosody>  
+No, it’s hard for me.  
+
+行号6  
+So, what’s your favourite subject?  
+所以，你最喜欢的科目是什么？  
+So, what’s your favourite subject?  
+问题:  
+"最喜欢的"用英语怎么说？ 五，四，三，二，一。favourite <prosody rate="slow"><say-as interpret-as="spell-out">F A V O U R I T E</say-as></prosody>  
+"科目"用英语怎么说？ 五，四，三，二，一。subject <prosody rate="slow"><say-as interpret-as="spell-out">S U B J E C T</say-as></prosody>  
+So, what’s your favourite subject?  
+
+行号7  
+Maths.  
+数学。  
+Maths.  
+
+行号8 
+Why?  
+为什么？  
+Why?  
+
+
+行号9  
+Because it’s fun.  
+因为它很有趣。  
+Because it’s fun.  
+
+行号10  
+What other classes do you have today?  
+你今天还有其他什么课？  
+What other classes do you have today?  
+问题:  
+"其他的"用英语怎么说？ 五，四，三，二，一。other <prosody rate="slow"><say-as interpret-as="spell-out">O T H E R</say-as></prosody>  
+What other classes do you have today?  
+
+行号11  
+I have art and geography. I like those subjects too.  
+我有美术和地理课。我也喜欢那些科目。  
+I have art and geography. I like those subjects too.  
+问题:  
+"美术"用英语怎么说？ 五，四，三，二，一。art <prosody rate="slow"><say-as interpret-as="spell-out">A R T</say-as></prosody>  
+"地理"用英语怎么说？ 五，四，三，二，一。geography <prosody rate="slow"><say-as interpret-as="spell-out">G E O G R A P H Y</say-as></prosody>  
+I have art and geography. I like those subjects too.  
+
+行号12  
+Conversation 2: Good morning, Peter.  
+对话2：早上好，Peter。  
+Conversation 2: Good morning, Peter.  
+
+
+行号13  
+Good morning, Ms Gao.  
+早上好，Ms Gao。  
+Good morning, Ms Gao.  
+
+
+行号14  
+What classes do you have today?  
+你今天有什么课？  
+What classes do you have today?  
+
+
+行号15  
+I have Chinese and maths first.  
+我先有语文和数学课。  
+I have Chinese and maths first.  
+问题:  
+"先"用英语怎么说？ 五，四，三，二，一。first <prosody rate="slow"><say-as interpret-as="spell-out">F I R S T</say-as></prosody>  
+I have Chinese and maths first.  
+
+行号16  
+Do you like those subjects?  
+你喜欢那些科目吗？  
+Do you like those subjects?  
+
+
+行号17  
+I like Chinese because it’s fun, but I don’t like maths.  
+我喜欢语文因为它有趣，但我不喜欢数学。  
+I like Chinese because it’s fun, but I don’t like maths.  
+
+
+行号18  
+Why?  
+为什么？  
+Why?  
+
+
+行号19  
+Because maths is boring to me.  
+因为数学对我来说很无聊。  
+Because maths is boring to me.  
+问题:  
+"无聊"用英语怎么说？ 五，四，三，二，一。boring <prosody rate="slow"><say-as interpret-as="spell-out">B O R I N G</say-as></prosody>  
+Because maths is boring to me.  
+
+行号20  
+But every subject is important. What other classes do you have today?  
+但每个科目都很重要。你今天还有其他什么课？  
+But every subject is important. What other classes do you have today?  
+问题:  
+"重要的"用英语怎么说？ 五，四，三，二，一。important <prosody rate="slow"><say-as interpret-as="spell-out">I M P O R T A N T</say-as></prosody>  
+"其他课"用英语怎么说？ 五，四，三，二，一。other classes
+But every subject is important. What other classes do you have today?  
+
+行号21  
+IT and PE.  
+信息技术和体育。  
+IT and PE.  
+
+
+行号22  
+What’s your favourite class?  
+你最喜欢的课是什么？  
+What’s your favourite class?  
+
+
+行号23  
+PE, because it’s exciting.  
+体育，因为它令人兴奋。  
+PE, because it’s exciting.  
+
+
+总结全文  
+两个对话讨论了学生喜欢的科目和原因。  
+Two conversations discuss students' favorite subjects and reasons.
