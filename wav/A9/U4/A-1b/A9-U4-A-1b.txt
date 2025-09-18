@@ -1,0 +1,154 @@
+行号1  
+Conversation 1: Mario, is that you?  
+对话1：马里奥，是你吗？  
+Conversation 1: Mario, is that you?  
+问题:  
+"对话"用英语怎么说？ 五，四，三，二，一。conversation <prosody rate="slow"><say-as interpret-as="spell-out">C O N V E R S A T I O N</say-as></prosody>  
+原文: Conversation 1: Mario, is that you?  
+
+行号2  
+Yeah, it is. It's Bob! Hey guys, it's Bob! I haven't seen you for four years!  
+是的，是我。是鲍勃！嘿，伙计们，是鲍勃！我四年没见你了！  
+Yeah, it is. It's Bob! Hey guys, it's Bob! I haven't seen you for four years!  
+问题:  
+"四年没见你了"用英语怎么说？ 五，四，三，二，一。have not seen you for four years
+原文: Yeah, it is. It's Bob! Hey guys, it's Bob! I haven't seen you for four years!  
+
+行号3  
+Yeah. I'm here with my parents. We're visiting for a couple of days.  
+是的。我和父母在这里。我们要拜访几天。  
+Yeah. I'm here with my parents. We're visiting for a couple of days.  
+问题:  
+"几天"用英语怎么说？ 五，四，三，二，一。a couple of days  
+原文: Yeah. I'm here with my parents. We're visiting for a couple of days.  
+
+行号4  
+Wow, Mario, you look different! You used to be short, didn't you?  
+哇，马里奥，你看起来不同了！你以前很矮，不是吗？  
+Wow, Mario, you look different! You used to be short, didn't you?  
+问题:  
+"看起来不同"用英语怎么说？ 五，四，三，二，一。look different
+"以前是"用英语怎么说？ 五，四，三，二，一。used to be  
+原文: Wow, Mario, you look different! You used to be short, didn't you?  
+
+行号5  
+Yes, I did. Now I'm tall. And so are you!  
+是的，我是。现在我很高。你也是！  
+Yes, I did. Now I'm tall. And so are you!  
+问题:  
+"你也是"用英语怎么说？ 五，四，三，二，一。so are you  
+原文: Yes, I did. Now I'm tall. And so are you!  
+
+行号6  
+That's true. And you used to wear glasses.  
+那是真的。而且你以前戴眼镜。  
+That's true. And you used to wear glasses.  
+问题:  
+"真的"用英语怎么说？ 五，四，三，二，一。true <prosody rate="slow"><say-as interpret-as="spell-out">T R U E</say-as></prosody>  
+"戴眼镜"用英语怎么说？ 五，四，三，二，一。wear glasses  
+原文: That's true. And you used to wear glasses.  
+
+行号7  
+Conversation 2: Hey, Amy, it's great to see you.  
+对话2：嘿，艾米，很高兴见到你。  
+Conversation 2: Hey, Amy, it's great to see you.  
+
+
+行号8  
+Hi, Bob. How are you?  
+嗨，鲍勃。你好吗？  
+Hi, Bob. How are you?  
+
+
+行号9  
+Fine. Wow, you've changed!  
+很好。哇，你变了！  
+Fine. Wow, you've changed!  
+问题:  
+"改变"用英语怎么说？ 五，四，三，二，一。change <prosody rate="slow"><say-as interpret-as="spell-out">C H A N G E</say-as></prosody>  
+原文: Fine. Wow, you've changed!  
+
+行号10  
+Really? How?  
+真的吗？怎么？  
+Really? How?  
+
+
+行号11  
+You used to have short hair.  
+你以前有短发。  
+You used to have short hair.  
+问题:  
+"有短发"用英语怎么说？ 五，四，三，二，一。have short hair  
+原文: You used to have short hair.  
+
+行号12  
+You remember that? Yes, I did.  
+你记得那个？是的，我记得。  
+You remember that? Yes, I did.  
+问题:  
+"记得"用英语怎么说？ 五，四，三，二，一。remember <prosody rate="slow"><say-as interpret-as="spell-out">R E M E M B E R</say-as></prosody>  
+原文: You remember that? Yes, I did.  
+
+行号13  
+And you used to be really tall!  
+而且你以前真的很高！  
+And you used to be really tall!  
+
+行号14  
+Not anymore. You're taller than me now, Bob.  
+不再了。你现在比我高了，鲍勃。  
+Not anymore. You're taller than me now, Bob.  
+问题:  
+"不再"用英语怎么说？ 五，四，三，二，一。not anymore  
+"比我高"用英语怎么说？ 五，四，三，二，一。taller than me 
+原文: Not anymore. You're taller than me now, Bob.  
+
+行号15  
+Conversation 3: Hiya, Bob.  
+对话3：你好，鲍勃。  
+Conversation 3: Hiya, Bob.   
+
+行号16  
+Hi, Tina. You've changed, too.  
+嗨，蒂娜。你也变了。  
+Hi, Tina. You've changed, too.  
+
+行号17  
+Oh, yeah?  
+哦，是吗？  
+Oh, yeah?  
+
+行号18  
+You have blonde hair!  
+你有金发！  
+You have blonde hair!  
+问题:  
+"金发"用英语怎么说？ 五，四，三，二，一。blonde hair  
+原文: You have blonde hair!  
+
+行号19  
+Yeah, it used to be red, didn't it?  
+是的，它以前是红色的，不是吗？  
+Yeah, it used to be red, didn't it?  
+
+
+行号20  
+And it's straight!  
+而且它是直的！  
+And it's straight!  
+问题:  
+"直的"用英语怎么说？ 五，四，三，二，一。straight <prosody rate="slow"><say-as interpret-as="spell-out">S T R A I G H T</say-as></prosody>  
+原文: And it's straight!  
+
+行号21  
+Yeah, it used to be curly.  
+是的，它以前是卷的。  
+Yeah, it used to be curly.  
+问题:  
+"卷的"用英语怎么说？ 五，四，三，二，一。curly <prosody rate="slow"><say-as interpret-as="spell-out">C U R L Y</say-as></prosody>  
+原文: Yeah, it used to be curly.  
+
+总结全文  
+这些对话展示了朋友重逢时谈论彼此过去和现在的变化，使用“used to”表达过去习惯。  
+These conversations show friends reuniting and discussing changes from the past to the present using "used to".

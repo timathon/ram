@@ -1,0 +1,92 @@
+行号1  
+This party is such a great idea!  
+这个派对真是个绝妙的主意！  
+This party is such a great idea!  
+作用: 这一行开启了对话，表达对派对的积极评价。  
+
+行号2  
+I agree. It’s been three years since we last saw our primary school classmates.  
+我同意。自从我们上次见到小学同学已经三年了。  
+I agree. It’s been three years since we last saw our primary school classmates.  
+问题:  
+"同意"用英语怎么说？ 五，四，三，二，一。agree <prosody rate="slow"><say-as interpret-as="spell-out">A G R E E</say-as></prosody>  
+"已经三年了"用英语怎么说？
+"自从"用英语怎么说？ 五，四，三，二，一。since <prosody rate="slow"><say-as interpret-as="spell-out">S I N C E</say-as></prosody>  
+原文: I agree. It’s been three years since we last saw our primary school classmates.  
+作用: 这一行表示同意并说明时间跨度，引入重聚的背景。  
+
+行号3  
+It’s interesting to see how people have changed.  
+看到人们如何变化是很有趣的。  
+It’s interesting to see how people have changed.  
+问题:  
+"变化"用英语怎么说？ 五，四，三，二，一。change <prosody rate="slow"><say-as interpret-as="spell-out">C H A N G E</say-as></prosody>  
+原文: It’s interesting to see how people have changed.  
+作用: 这一行表达了观察人们变化的兴趣，过渡到具体例子。  
+
+行号4  
+Billy has changed so much! He used to be so shy and quiet.  
+比利变化真大！他过去常常很害羞和安静。  
+Billy has changed so much! He used to be so shy and quiet.  
+问题:  
+"过去常常是"用英语怎么说？ 五，四，三，二，一。used to be 
+"害羞"用英语怎么说？ 五，四，极，三，二，一。shy <prosody rate="slow"><say-as interpret-as="spell-out">S H Y</say-as></prosody>  
+"安静"用英语怎么说？ 五，四，三，二，一。quiet <极prosody rate="slow"><say-as interpret-as="spell-out">Q U I E T</say-as></prosody>  
+原文: Billy has changed so much! He used to be so shy and quiet.  
+作用: 这一行具体描述比利的变化，引入他过去的性格。  
+
+行号5  
+Yeah, his face always turned red when he talked to girls!  
+是的，当他跟女孩说话时，他的脸总是变红。  
+Yeah, his face always turned red when he talked to girls!  
+问题:  
+"变红"用英语怎么说？ 五，四，三，二，一。turn red  
+原文: Yeah, his face always turned red when he talked to girls!  
+作用: 这一行提供具体例子说明比利的害羞行为。  
+
+行号6  
+I used to see him reading in the library every day.  
+我过去常常看到他在图书馆每天看书。  
+I used to极 see him reading in the library every day.  
+作用: 这一行描述比利过去的日常行为，强调他学习努力。  
+
+行号7  
+That’s because he was a really good student. He studied hard and got good scores on his exams.  
+那是因为他是一个非常好的学生。他学习努力并且在考试中取得了好成绩。  
+That’s because he was a really good student. He studied hard and got good scores on his exams.  
+问题:  
+"成绩、分数"用英语怎么说？ 五，四，三，二，一。score <prosody rate="slow"><say-as interpret-as="spell-out">S C O R E</say-as></prosody> 
+"得到好的成绩"用英语怎么说？ 五，四，三，二，一。get good scores <prosody rate="slow"><say-as interpret-as="spell-out">G E T  G O O D  S C O R E S</say-as></prosody>
+原文: That’s because he was a really good student. He studied hard and got good scores on his exams.  
+作用: 这一行解释比利过去行为的原因，说明他的学术表现。  
+
+行号8  
+Did he use to wear glasses?  
+他过去戴眼镜吗？  
+Did he use to wear glasses?  
+问题:  
+"戴眼睛"用英语怎么说？ 五，四，三，二，一。wear glasses
+原文: Did he use to wear glasses?  
+作用: 这一行通过提问进一步探讨比利的过去特征。  
+
+行号9  
+Yes, and he used to be thin, too. But look how big and strong he is now!  
+是的，而且他过去也很瘦。但是看看他现在多么高大强壮！  
+Yes, and he used to be thin, too. But look how big and strong he is now!  
+问题:  
+"瘦"用英语怎么说？ 五，四，三，二，一。thin <prosody rate="slow"><say-as interpret-as="spell-out">T H I N</say-as></prosody>  
+原文: Yes, and he used to be thin, too. But look how big and strong he is now!  
+作用: 这一行对比比利的过去和现在，突出他的变化。  
+
+行号10  
+He’s so popular now.  
+他现在很受欢迎。  
+He’s so popular now.  
+问题:  
+"受欢迎"用英语怎么说？ 五，四，三，二，一。popular <prosody rate="slow"><say-as interpret-as="spell-out">P O P U L A R</say-as></prosody>  
+原文: He’s so popular now.  
+作用: 这一行总结比利现在的受欢迎程度，结束讨论。  
+
+总结全文  
+朋友们在派对上重聚，讨论比利从害羞安静到高大强壮受欢迎的变化。  
+Friends reunite at the party and discuss how Billy has changed from being shy and quiet to big, strong, and popular.

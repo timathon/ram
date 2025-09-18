@@ -1,0 +1,83 @@
+行号1  
+Li Wen is a 15-year-old boy. He works hard and does well in school. It is hard to believe that he used to have difficulties in school.  
+李文是一个15岁的男孩。他学习努力，在学校表现良好。很难相信他过去在学校有困难。  
+Li Wen is a 15-year-old boy. He works hard and does well in school. It is hard to believe that he used to have difficulties in school.  
+问题:  
+"努力"用英语怎么说？ 五，四，三，二，一。work hard  
+"表现良好"用英语怎么说？ 五，四，三，二，一。do well  
+"过去有困难"用英语怎么说？ 五，四，三，二，一。used to have difficulties  
+原文: Li Wen is a 15-year-old boy. He works hard and does well in school. It is hard to believe that he used to have difficulties in school.  
+作用: 这一行介绍了李文的基本情况，包括年龄、当前表现和过去困难，为故事铺垫。  
+
+行号2  
+When his parents moved to the city to work, they could not be at home to take care of him.  
+当他的父母搬到城市工作时，他们不能在家照顾他。  
+When his parents moved to the city to work, they could not be at home to take care of him.  
+问题:  
+"照顾"用英语怎么说？ 五，四，三，二，一。take care of  
+"搬到城市"用英语怎么说？ 五，四，三，二，一。move to the city
+原文: When his parents moved to the city to work, they could not be at home to take care of him.  
+作用: 这一行说明父母离开的原因和无法照顾李文，导致后续问题。  
+
+行号3  
+So he became less interested in studying and was absent from classes.  
+所以他对学习变得不那么感兴趣，并且缺席课程。  
+So he became less interested in studying and was absent from classes.  
+问题:  
+"缺席"用英语怎么说？ 五，四，三，二，一。be absent from  
+"变得不那么感兴趣"用英语怎么说？ 五，四，三，二，一。become less interested in  
+原文: So he became less interested in studying and was absent from classes.  
+作用: 这一行描述李文行为变化，具体表现对学习失去兴趣和缺席课程。  
+
+行号4  
+Then his parents made a decision to send him to a boarding school. He found life there difficult.  
+然后他的父母做了一个决定，送他去寄宿学校。他发现那里的生活困难。  
+Then his parents made a decision to send him to a boarding school. He found life there difficult.  
+问题:  
+"做决定"用英语怎么说？ 五，四，三，二，一。make a decision  
+"寄宿学校"用英语怎么说？ 五，四，三，二，一。boarding school
+"发现生活困难"用英语怎么说？ 五，四，三，二，一。find life difficult  
+原文: Then his parents made a decision to send him to a boarding school. He found life there difficult.  
+作用: 这一行显示父母的决定和李文在寄宿学校的困难经历。  
+
+行号5  
+One day he told his teacher he wanted to leave the school. His teacher advised his parents to talk with their son in person.  
+一天，他告诉老师他想离开学校。他的老师建议父母亲自和儿子谈话。  
+One day he told his teacher he wanted to leave the school. His teacher advised his parents to talk with their son in person.  
+问题:  
+"建议"用英语怎么说？ 五，四，三，二，一。advise <prosody rate="slow"><say-as interpret-as="spell-out">A D V I S E</say-as></prosody>  
+"亲自"用英语怎么说？ 五，四，三，二，一。in person  
+原文: One day he told his teacher he wanted to leave the school. His teacher advised his parents to talk with their son in person.  
+作用: 这一行是转折点，李文表达想离开，老师建议父母亲自谈话，推动故事发展。  
+
+行号6  
+This conversation changed his life.  
+这次谈话改变了他的生活。  
+This conversation changed his life.  
+问题:  
+"改变"用英语怎么说？ 五，四，三，二，一。change <prosody rate="slow"><say-as interpret-as="spell-out">C H A N G E</say-as></prosody>  
+原文: This conversation changed his life.  
+作用: 这一行强调谈话的重要影响，是故事的关键时刻。  
+
+行号7  
+He realized that his parents would always love him, and they would take pride in everything good that he did.  
+他意识到他的父母会永远爱他，并且他们会为他做的一切好事感到自豪。  
+He realized that his parents would always love him, and they would take pride in everything good that he did.  
+问题:  
+"意识到"用英语怎么说？ 五，四，三，二，一。realize <prosody rate="slow"><say-as interpret-as="spell-out">R E A L I Z E</say-as></prosody>  
+"感到自豪"用英语怎么说？ 五，四，三，二，一。take pride in  
+原文: He realized that his parents would always love him, and they would take pride in everything good that he did.  
+作用: 这一行展示李文意识到父母的爱和自豪，情感转折。  
+
+行号8  
+Now he is much happier and more outgoing than he used to be.  
+现在他比过去快乐和外向得多。  
+Now he is much happier and more outgoing than he used to be.  
+问题:  
+"外向"用英语怎么说？ 五，四，三，二，一。outgoing <prosody rate="slow"><say-as interpret-as="spell-out">O U T G O I N G</say-as></prosody>  
+原文: Now he is much happier and more outgoing than he used to be.  
+作用: 这一行描述李文的当前积极状态，对比过去，显示成长和变化。  
+
+总结全文  
+李文通过父母谈话克服困难，变得快乐外向。  
+Li Wen overcame difficulties through a conversation with his parents and became happier and more outgoing.

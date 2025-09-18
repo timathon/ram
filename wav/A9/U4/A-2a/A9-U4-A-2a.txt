@@ -1,0 +1,83 @@
+行号1  
+Hey, Steve! Over here! Don’t you remember me?  
+嘿，史蒂夫！这边！你不记得我了吗？  
+Hey, Steve! Over here! Don’t you remember me?  
+问题:  
+"这边"用英语怎么说？ 五，四，三，二，一。over here  
+"记得"用英语怎么说？ 五，四，三，二，一。remember <prosody rate="slow"><say-as interpret-as="spell-out">R E M E M B E R</say-as></prosody>  
+Hey, Steve! Over here! Don’t you remember me?  
+
+行号2  
+Oh, wow! You’re Paula, aren’t you?  
+哦，哇！你是保拉，不是吗？  
+Oh, wow! You’re Paula, aren’t you?  
+
+
+行号3  
+That’s right. We were in the same science class during Grade 8.  
+没错。我们在八年级时在同一个科学班。  
+That’s right. We were in the same science class during Grade 8.  
+问题:  
+"在同一个班"用英语怎么说？ 五，四，三，二，一。in the same class  
+"八年级"用英语怎么说？ 五，四，三，二，一。Grade 8  
+"科学"用英语怎么说？ 五，四，三，二，一。science <prosody rate="slow"><say-as interpret-as="spell-out">S C I E N C E</say-as></prosody>  
+That’s right. We were in the same science class during Grade 8.  
+
+行号4  
+Yes, now I remember. You used to be really quiet, didn’t you? I remember you were always silent in class.  
+是的，现在我想起来了。你过去很安静，不是吗？我记得你在课堂上总是沉默。  
+Yes, now I remember. You used to be really quiet, didn’t you? I remember you were always silent in class.  
+问题:  
+"过去是"用英语怎么说？ 五，四，三，二，一。used to be  
+"安静"用英语怎么说？ 五，四，三，二，一。quiet <prosody rate="slow"><say-as interpret-as="spell-out">Q U I E T</say-as></prosody>  
+"沉默"用英语怎么说？ 五，四，三，二，一。silent <prosody rate="slow"><say-as interpret-as="spell-out">S I L E N T</say-as></prosody>  
+Yes, now I remember. You used to be really quiet, didn’t you? I remember you were always silent in class.  
+
+行号5  
+Yeah. I wasn’t very outgoing. I was never brave enough to ask the teachers any questions!  
+是的。我不是很外向。我从来不够勇敢去问老师任何问题！  
+Yeah. I wasn’t very outgoing. I was never brave enough to ask the teachers any questions!  
+问题:  
+"外向"用英语怎么说？ 五，四，三，二，一。outgoing <prosody rate="slow"><say-as interpret-as="spell-out">O U T G O I N G</say-as></prosody>  
+"勇敢 enough"用英语怎么说？ 五，四，三，二，一。brave enough  
+Yeah. I wasn’t very outgoing. I was never brave enough to ask the teachers any questions!  
+
+行号6  
+Well, but you were always friendly. And you got a better grade in science than I did, haha.  
+嗯，但你总是很友好。而且你的科学成绩比我好，哈哈。  
+Well, but you were always friendly. And you got a better grade in science than I did, haha.  
+问题:  
+"友好"用英语怎么说？ 五，四，三，二，一。friendly <prosody rate="slow"><say-as interpret-as="spell-out">F R I E N D L Y</say-as></prosody>  
+"成绩更好"用英语怎么说？ 五，四，三，二，一。a better grade  
+Well, but you were always friendly. And you got a better grade in science than I did, haha.  
+
+行号7  
+And I remember you were really good in music class, too. Wait a minute! Did you use to play the piano?  
+而且我记得你在音乐课上也很棒。等一下！你过去弹钢琴吗？  
+And I remember you were really good in music class, too. Wait a minute! Did you use to play the piano?  
+问题:  
+"等一下"用英语怎么说？ 五，四，三，二，一。wait a minute  
+And I remember you were really good in music class, too. Wait a minute! Did you use to play the piano?  
+
+行号8  
+Yes, I did. But now I’m more interested in sports. I play soccer almost every day, and I’m on a swim team. But I still play the piano from time to time.  
+是的，我弹。但现在我对运动更感兴趣。我几乎每天都踢足球，并且我在一个游泳队里。但我仍然时不时弹钢琴。  
+Yes, I did. But now I’m more interested in sports. I play soccer almost every day, and I’m on a swim team. But I still play the piano from time to time.  
+问题:  
+"对运动感兴趣"用英语怎么说？ 五，四，三，二，一。interested in sports  
+"踢足球"用英语怎么说？ 五，四，三，二，一。play soccer  
+"在游泳队里"用英语怎么说？ 五，四，三，二，一。on a swim team  
+Yes, I did. But now I’m more interested in sports. I play soccer almost every day, and I’m on a swim team. But I still play the piano from time to time.  
+
+行号9  
+Wow, you’re so active! People sure change.  
+哇，你真活跃！人们确实会变。  
+Wow, you’re so active! People sure change.  
+问题:  
+"活跃"用英语怎么说？ 五，四，三，二，一。active <prosody rate="slow"><say-as interpret-as="spell-out">A C T I V E</say-as></prosody>  
+"人们确实会变"用英语怎么说？ 五，四，三，二，一。people sure change  
+Wow, you’re so active! People sure change.  
+
+总结全文  
+两个人重逢并回忆过去的学校生活，同时讨论彼此的变化。  
+Two people reunite and recall their past school life while discussing how they have changed.
