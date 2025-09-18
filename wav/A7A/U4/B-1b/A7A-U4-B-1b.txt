@@ -1,0 +1,110 @@
+行号1  
+Mike Davis, @musicfan, 7:09 PM 19 October  
+迈克·戴维斯, @musicfan, 晚上7:09 10月19日  
+Mike Davis, @musicfan, 7:09 PM 19 October  
+问题:  
+"10月"用英语怎么说？ 五，四，三，二，一。October <prosody rate="slow"><say-as interpret-as="spell-out">O C T O B E R</say-as></prosody>  
+原文: Mike Davis, @musicfan, 7:09 PM 19 October  
+作用: 这一行是消息的标题，标识发帖人、用户名和时间。  
+
+行号3  
+I’m a student in Canada. I’m very busy this year.  
+我是加拿大的一个学生。今年我很忙。  
+I’m a student in Canada. I’m very busy this year.  
+问题:  
+"在加拿大"用英语怎么说？ 五，四，三，二，一。in Canada  
+"忙"用英语怎么说？ 五，四，三，二，一。busy <prosody rate="slow"><say-as interpret-as="spell-out">B U S Y</say-as></prosody>  
+原文: I’m a student in Canada. I’m very busy this year.  
+作用: 这一行介绍了说话者的身份和当前状态，为后续内容做铺垫。  
+
+行号4  
+I study maths, music, French, history, English, IT, science, and have gym.  
+我学习数学、音乐、法语、历史、英语、信息技术、科学，还有体育课。  
+I study maths, music, French, history, English, IT, science, and have gym.  
+问题:  
+"学习"用英语怎么说？ 五，四，三，二，一。study <prosody rate="slow"><say-as interpret-as="spell-out">S T U D Y</say-as></prosody>  
+"体育课"用英语怎么说？ 五，四，三，二，一。gym <极prosody rate="slow"><say-as interpret-as="spell-out">G Y M</say-as></prosody>  
+原文: I study maths, music, French, history, English, IT, science, and have gym.  
+作用: 这一行列出了学生所学的科目，具体说明忙碌的原因。  
+
+行号5  
+My favourite subject is music because the class is fun and we learn a lot of new songs. Music always makes me happy.  
+我最喜欢的科目是音乐，因为课堂很有趣，我们学很多新歌。音乐总是让我快乐。  
+My favourite subject is music because the class is fun and we learn a lot of new songs. Music always makes me happy.  
+问题:  
+"让我快乐"用英语怎么说？ 五，四，三，二，一。make me happy  
+原文: My favourite subject is music because the class is极 fun and we learn a lot of new songs. Music always makes me happy.  
+作用: 这一行解释了为什么音乐是 favourite subject，强调乐趣和学习体验。  
+
+行号6  
+My music teacher is excellent. He lets us play all kinds of interesting instruments.  
+我的音乐老师很优秀。他让我们演奏各种有趣的乐器。  
+My music teacher is excellent. He lets us play all kinds of interesting instruments.  
+问题:  
+"优秀"用英语怎么说？ 五，四，三，二，一。excellent <prosody rate="slow"><say-as interpret-as="spell-out">E X C E L L E N T</say-as></prosody>  
+原文: My music teacher is excellent. He lets us play all kinds of interesting instruments.  
+作用: 这一行进一步描述音乐老师的优秀和课堂活动，支持 favourite subject 的理由。  
+
+行号7  
+I want to be a singer in the future.  
+我想在未来成为一名歌手。  
+I want to be a singer in the future.  
+问题:  
+"在未来"用英语怎么说？ 五，四，三，二，一。in the future  
+原文: I want to be a singer in the future.  
+作用: 这一行表达了学生的未来 aspirations，与 favourite subject 关联。  
+
+行号8  
+How about you? What do you study? What’s your favourite class and why?  
+你呢？你学什么？你最喜欢的课是什么，为什么？  
+How about you? What do you study? What’s your favourite class and why?  
+作用: 这一行是提问，邀请其他用户分享他们的经历，促进互动。  
+
+行号10  
+Wu Binbin, @mathswhiz, 8:12 PM 19 October  
+吴彬彬, @mathswhiz, 晚上8:12 10月19日  
+Wu Binbin, @mathswhiz, 8:12 PM 19 October  
+问题:  
+"数学天才"用英语怎么说？ 五，四，三，二，一。math whiz  
+原文: Wu Binbin, @mathswhiz, 8:12 PM 19 October  
+作用: 这一行是另一个消息的标题，标识发帖人、用户名和时间。  
+
+行号12  
+I’m from China. This term, I have subjects like Chinese, history, maths, English, PE, and IT.  
+我来自中国。这个学期，我有像语文、历史、数学、英语、体育和信息技术这样的科目。  
+I’m from China. This term, I have subjects like Chinese, history, maths, English, PE, and IT.  
+作用: 这一行介绍了学生的国籍和所学科目列表。  
+
+行号13  
+I like all the subjects, but my favourite is maths. I like it because I’m good with numbers.  
+我喜欢所有科目，但我最喜欢的是数学。我喜欢它因为我擅长数字。  
+I like all the subjects, but my favourite is maths. I like it because I’m good with numbers.  
+问题:  
+"善于处理数字"用英语怎么说？ 五，四，三，二，一。be good with numbers
+原文: I like all the subjects, but my favourite is maths. I like it because I’m good with numbers.  
+作用: 这一行说明 favourite subject 是数学，并给出原因。  
+
+行号14  
+We learn how to work out maths problems in class. It feels like magic and is really fun.  
+我们在课堂上学如何解数学题。它感觉像魔法并且真的很有趣。  
+We learn how to work out maths problems in class. It feels like magic and is really fun.  
+问题:  
+"解出数学难题"用英语怎么说？ 五，四，三，二，一。work out math problems 
+"魔法"用英语怎么说？ 五，四，三，二，一。magic <prosody rate="slow"><say-as interpret-as="spell-out">M A G I C</say-as></prosody> 
+原文: We learn how to work out maths problems in class. It feels like magic and is really fun.  
+作用: 这一行描述数学课堂的体验，强调乐趣和神奇感。  
+
+行号15  
+Maths is very useful in our life, and I want to be a scientist in the future.  
+数学在我们生活中非常有用，我想在未来成为一名科学家。  
+Maths is very useful in our life, and I want to be a scientist in the future.  
+问题:  
+"有用"极用英语怎么说？ 五，四，三，二，一。useful <prosody rate="slow"><say-as interpret-as="spell-out">U S E F U L</say-as></prosody>  
+"在我们的生活中"用英语怎么说？ 五，四，三，二，一。in our life  
+"科学家"用英语怎么说？ 五，四，三，二，一。scientist <prosody rate="slow"><say-as interpret-as="spell-out">S C I E N T I S T</say-as></prosody>  
+原文: Maths is very useful in our life, and I want to be a scientist in the future.  
+作用: 这一行强调数学的实用性并表达未来职业目标。  
+
+总结全文  
+两个学生讨论了他们的学校科目和最喜欢的课程，Mike偏爱音乐，Wu偏爱数学，并解释了原因和未来目标。  
+Two students discuss their school subjects, with Mike favouring music and Wu favouring maths, explaining reasons and future aspirations.

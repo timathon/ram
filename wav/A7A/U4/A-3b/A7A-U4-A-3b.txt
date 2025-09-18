@@ -1,0 +1,44 @@
+行号1  
+I have a bicycle, but I often walk to school.  
+我有一辆自行车，但我经常步行去学校。  
+I have a bicycle, but I often walk to school.  
+
+行号2  
+I like to learn about IT because it’s fun to learn to use computers.  
+我喜欢学习IT，因为学习使用电脑很有趣。  
+I like to learn about IT because it’s fun to learn to use computers.  
+
+
+行号3  
+She likes to listen to music and draw pictures.  
+她喜欢听音乐和画画。  
+She likes to listen to music and draw pictures.  
+问题:  
+"画画"用英语怎么说？ 五，四，三，二，一。draw pictures  
+原文: She likes to listen to music and draw pictures.  
+
+行号4  
+He is good at English, and he often helps me with my English.  
+他擅长英语，而且他经常帮助我学习英语。  
+He is good at English, and he often helps me with my English.  
+问题:  
+"擅长"用英语怎么说？ 五，四，三，二，一。be good at  
+原文: He is good at English, and he often helps me with my English.  
+
+行号5  
+My favourite subject is geography because I like travelling.  
+我最喜欢的科目是地理，因为我喜欢旅行。  
+My favourite subject is geography because I like travelling.  
+问题:  
+"最喜欢的"用英语怎么说？ 五，四，三，二，一。favourite <prosody rate="slow"><say-as interpret-as="spell-out">F A V O U R I T E</say-as></prosody>  
+"地理"用英语怎么说？ 五，四，三，二，一。geography <prosody rate="slow"><say-as interpret-as="spell-out">G E O G R A P H Y</say-as></prosody>  
+"旅行"用英语怎么说？ 五，四，三，二，一。travel <prosody rate="slow"><say-as interpret-as="spell-out">T R A V E L</say-as></prosody>  
+原文: My favourite subject is geography because I like travelling.  
+
+行号6  
+I don’t like drawing, but I like my art teacher a lot.  
+我不喜欢画画，但我非常喜欢我的美术老师。  
+I don’t like drawing, but I like my art teacher a lot.  
+问题:  
+"美术老师"用英语怎么说？ 五，四，三，二，一。art teacher  
+原文: I don’t like drawing, but I like my art teacher a lot.

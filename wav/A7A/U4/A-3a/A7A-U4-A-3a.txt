@@ -1,0 +1,50 @@
+行号1  
+I have art and geography today.  
+我今天有美术和地理课。  
+I have art and geography today.  
+问题:  
+"美术"用英语怎么说？ 五，四，三，二，一。art <prosody rate="slow"><say-as interpret-as="spell-out">A R T</say-as></prosody>  
+"地理"用英语怎么说？ 五，四，三，二，一。geography <prosody rate="slow"><say-as interpret-as="spell-out">G E O G R A P H Y</say-as></prosody>  
+原文: I have art and geography today.
+
+行号2  
+English is important, and my English teacher is really nice.  
+英语很重要，而且我的英语老师真的很好。  
+English is important, and my English teacher is really nice.  
+问题:  
+"重要的"用英语怎么说？ 五，四，三，二，一。important <prosody rate="slow"><say-as interpret-as="spell-out">I M P O R T A N T</say-as></prosody>
+原文: English is important, and my English teacher is really nice.
+
+行号3  
+Biology is difficult but important.  
+生物很难但很重要。  
+Biology is difficult but important.  
+问题:  
+"生物"用英语怎么说？ 五，四，三，二，一。biology <prosody rate="slow"><say-as interpret-as="spell-out">B I O L O G Y</say-as></prosody>  
+"困难的"用英语怎么说？ 五，四，三，二，一。difficult <prosody rate="slow"><say-as interpret-as="spell-out">D I F F I C U L T</say-as></prosody> 
+原文: Biology is difficult but important.
+
+行号4  
+History is my favourite subject, but my sister doesn’t like it.  
+历史是我最喜欢的科目，但我妹妹不喜欢它。  
+History is my favourite subject, but my sister doesn’t like it.  
+问题:  
+"最喜欢的科目"用英语怎么说？ 五，四，三，二，一。favourite subject  
+原文: History is my favourite subject, but my sister doesn’t like it.
+
+行号5  
+I like Chinese because it’s fun.  
+我喜欢中文因为它很有趣。  
+I like Chinese because it’s fun.  
+问题:  
+"因为"用英语怎么说？ 五，四，三，二，一。because <prosody rate="slow"><say-as interpret-as="spell-out">B E C A U S E</say-as></prosody>  
+原文: I like Chinese because it’s fun.
+
+行号6  
+He doesn’t like maths because it’s boring to him.  
+他不喜欢数学因为对他来说很无聊。  
+He doesn’t like maths because it’s boring to him.  
+问题:  
+"数学"用英语怎么说？ 五，四，三，二，一。maths <prosody rate="slow"><say-as interpret-as="spell-out">M A T H S</say-as></prosody>  
+"无聊的"用英语怎么说？ 五，四，三，二，一。boring <prosody rate="slow"><say-as interpret-as="spell-out">B O R I N G</say-as></prosody>  
+原文: He doesn’t like maths because it’s boring to him.
