@@ -1,0 +1,153 @@
+行号1  
+Activity 1: There's a Chinatown in New York.  
+活动1：纽约有一个唐人街。  
+Activity 1: There's a Chinatown in New York.  
+问题:  
+"有"用英语怎么说？ 五，四，三，二，一。there is  
+"唐人街"用英语怎么说？ 五，四，三，二，一。Chinatown <prosody rate="slow"><say-as interpret-as="spell-out">C H I N A T O W N</say-as></prosody>  
+Activity 1: There's a Chinatown in New York.  
+作用: 这一行引入了第一个活动，并提到纽约有唐人街。
+
+行号2  
+Oh, that's good.  
+哦，那很好。  
+Oh, that's good.  
+作用: 这一行表达了对前一句的积极反应。
+
+行号3  
+Are there any Chinatowns in China?  
+中国有唐人街吗？  
+Are there any Chinatowns in China?  
+问题:  
+"任何"用英语怎么说？ 五，四，三，二，一。any <prosody rate="slow"><say-as interpret-as="spell-out">A N Y</say-as></prosody>  
+"在中国"用英语怎么说？ 五，四，三，二，一。in China  
+Are there any Chinatowns in China?  
+作用: 这一行提出了一个问题，询问中国是否有唐人街。
+
+行号4  
+Oh, all towns in China are Chinatowns!  
+哦，中国所有的城镇都是唐人街！  
+Oh, all towns in China are Chinatowns!  
+问题:  
+"所有"用英语怎么说？ 五，四，三，二，一。all <prosody rate="slow"><say-as interpret-as="spell-out">A L L</say-as></prosody>  
+Oh, all towns in China are Chinatowns!  
+作用: 这一行以幽默的方式回答前一个问题，指出中国所有城镇都是唐人街。
+
+行号5  
+Activity 2: What are you doing, Daming?  
+活动2：大明，你在做什么？  
+Activity 2: What are you doing, Daming?  
+作用: 这一行引入了第二个活动，并询问大明的行动。
+
+行号6  
+I'm sending an email to my family in China.  
+我正在给在中国的家人发电子邮件。  
+I'm sending an email to my family in China.  
+问题:  
+"发送"用英语怎么说？ 五，四，三，二，一。send  
+"电子邮件"用英语怎么说？ 五，四，三，二，一。email <prosody rate="slow"><say-as interpret-as="spell-out">E M A I L</say-as></prosody>  
+"发送电子邮件"用英语怎么说？ 五，四，三，二，一。send an email  
+I'm sending an email to my family in China.  
+作用: 这一行说明了大明正在做的事情，表达他与家人的联系。
+
+行号7  
+Do you miss your family?  
+你想念你的家人吗？  
+Do you miss your family?  
+问题:  
+"想念"用英语怎么说？ 五，四，三，二，一。miss <prosody rate="slow"><say-as interpret-as="spell-out">M I S S</say-as></prosody>  
+"你的家人"用英语怎么说？ 五，四，三，二，一。your family  
+Do you miss your family?  
+作用: 这一行询问大明是否想念家人。
+
+行号8  
+Sometimes.  
+有时候。  
+Sometimes.  
+作用: 这一行简短地回答了前一个问题，表示有时想念。
+
+行号9  
+Do you want to go to Chinatown?  
+你想去唐人街吗？  
+Do you want to go to Chinatown?  
+问题:  
+"想去"用英语怎么说？ 五，四，三，二，一。want to go   
+Do you want to go to Chinatown?  
+作用: 这一行提出了去唐人街的建议或询问。
+
+行号10  
+Yes! Can you tell me more about Chinatown?  
+是的！你能告诉我更多关于唐人街的事情吗？  
+Yes! Can you tell me more about Chinatown?  
+问题:  
+"告诉我更多"用英语怎么说？ 五，四，三，二，一。tell me more 
+Yes! Can you tell me more about Chinatown?  
+作用: 这一行表达了对去唐人街的兴趣，并请求更多信息。
+
+行号11  
+There are lots of Chinese shops and restaurants there.  
+那里有很多中国商店和餐馆。  
+There are lots of Chinese shops and restaurants there.  
+问题:  
+"很多"用英语怎么说？ 五，四，三，二，一。lots of  
+"商店"用英语怎么说？ 五，四，三，二，一。shop <prosody rate="slow"><say-as interpret-as="spell-out">S H O P</say-as></prosody>  
+"餐馆"用英语怎么说？ 五，四，三，二，一。restaurant <prosody rate="slow"><say-as interpret-as="spell-out">R E S T A U R A N T</say-as></prosody>  
+There are lots of Chinese shops and restaurants there.  
+作用: 这一行描述了唐人街的特点，有中国商店和餐馆。
+
+行号12  
+Really?  
+真的吗？  
+Really?  
+作用: 这一行表示惊讶或确认。
+
+行号13  
+Yes, and there's Chinese dancing.  
+是的，还有中国舞蹈。  
+Yes, and there's Chinese dancing.  
+问题:  
+"中国舞蹈"用英语怎么说？ 五，四，三，二，一。Chinese dancing  
+Yes, and there's Chinese dancing.  
+作用: 这一行补充了唐人街的另一个特点，有中国舞蹈。
+
+行号14  
+Let's go to Chinatown now!  
+我们现在去唐人街吧！  
+Let's go to Chinatown now!  
+问题:  
+"让我们去"用英语怎么说？ 五，四，三，二，一。let's go 
+Let's go to Chinatown now!  
+作用: 这一行表达了立即行动的热情。
+
+行号15  
+We can't go now. It's too late.  
+我们现在不能去。太晚了。  
+We can't go now. It's too late.  
+问题:  
+"不能"用英语怎么说？ 五，四，三，二，一。can't  
+"太晚"用英语怎么说？ 五，四，三，二，一。too late  
+We can't go now. It's too late.  
+作用: 这一行提供了不能去的理由，时间太晚。
+
+行号16  
+Then let's go tomorrow.  
+那么让我们明天去吧。  
+Then let's go tomorrow.  
+问题:  
+"那么"用英语怎么说？ 五，四，三，二，一。then  
+"明天"用英语怎么说？ 五，四，三，二，一。tomorrow <prosody rate="slow"><say-as interpret-as="spell-out">T O M O R R O W</say-as></prosody>  
+Then let's go tomorrow.  
+作用: 这一行提出了替代计划，明天去。
+
+行号17  
+Ah! You do miss China!  
+啊！你确实想念中国！  
+Ah! You do miss China!  
+问题:  
+"确实"用英语怎么说？ 五，四，三，二，一。do  
+Ah! You do miss China!  
+作用: 这一行总结性地指出大明想念中国，呼应前文。
+
+总结全文  
+文章通过对话讨论唐人街的存在和特点，以及人物对中国的思念。  
+The article discusses the existence and characteristics of Chinatown through dialogues, and the characters' nostalgia for China.

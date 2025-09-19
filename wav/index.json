@@ -239,6 +239,50 @@
         "A5A-M1-U2-A5-05.mp3",
         "A5A-M1-U2-A5-06.mp3"
       ]
+    },
+    "M2": {
+      "U1-A1+A2": [
+        "A6A-M2-U1-A1+A2-01.mp3",
+        "A6A-M2-U1-A1+A2-02.mp3",
+        "A6A-M2-U1-A1+A2-03.mp3",
+        "A6A-M2-U1-A1+A2-04.mp3",
+        "A6A-M2-U1-A1+A2-05.mp3",
+        "A6A-M2-U1-A1+A2-06.mp3",
+        "A6A-M2-U1-A1+A2-07.mp3",
+        "A6A-M2-U1-A1+A2-08.mp3",
+        "A6A-M2-U1-A1+A2-09.mp3",
+        "A6A-M2-U1-A1+A2-10.mp3",
+        "A6A-M2-U1-A1+A2-11.mp3",
+        "A6A-M2-U1-A1+A2-12.mp3",
+        "A6A-M2-U1-A1+A2-13.mp3",
+        "A6A-M2-U1-A1+A2-14.mp3",
+        "A6A-M2-U1-A1+A2-15.mp3",
+        "A6A-M2-U1-A1+A2-16.mp3",
+        "A6A-M2-U1-A1+A2-17.mp3",
+        "A6A-M2-U1-A1+A2-summary.mp3"
+      ],
+      "U2-A1+A2": [
+        "A6A-M2-U2-A1+A2-01.mp3",
+        "A6A-M2-U2-A1+A2-02.mp3",
+        "A6A-M2-U2-A1+A2-03.mp3",
+        "A6A-M2-U2-A1+A2-04.mp3",
+        "A6A-M2-U2-A1+A2-05.mp3",
+        "A6A-M2-U2-A1+A2-06.mp3",
+        "A6A-M2-U2-A1+A2-07.mp3",
+        "A6A-M2-U2-A1+A2-08.mp3",
+        "A6A-M2-U2-A1+A2-09.mp3",
+        "A6A-M2-U2-A1+A2-summary.mp3"
+      ],
+      "U2-A7": [
+        "A6A-M2-U2-A7-01.mp3",
+        "A6A-M2-U2-A7-02.mp3",
+        "A6A-M2-U2-A7-03.mp3",
+        "A6A-M2-U2-A7-04.mp3",
+        "A6A-M2-U2-A7-05.mp3",
+        "A6A-M2-U2-A7-06.mp3",
+        "A6A-M2-U2-A7-07.mp3",
+        "A6A-M2-U2-A7-summary.mp3"
+      ]
     }
   },
   "A7A": {

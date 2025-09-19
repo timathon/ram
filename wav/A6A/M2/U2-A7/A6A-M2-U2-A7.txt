@@ -1,0 +1,74 @@
+行号1  
+Dear Mum, I hope you like this postcard.  
+亲爱的妈妈，我希望你喜欢这张明信片。  
+Dear Mum, I hope you like this postcard.  
+问题:  
+"希望"用英语怎么说？ 五，四，三，二，一。hope <prosody rate="slow"><say-as interpret-as="spell-out">H O P E</say-as></prosody>  
+"明信片"用英语怎么说？ 五，四，三，二，一。postcard <prosody rate="slow"><say-as interpret-as="spell-out">P O S T C A R D</say-as></prosody>  
+原文: Dear Mum, I hope you like this postcard.  
+作用: 这一行是信的开头，表达问候和希望收件人喜欢明信片。
+
+行号2  
+On it you can see a street in New York.  
+在上面你可以看到纽约的一条街道。  
+On it you can see a street in New York.  
+问题:  
+"看到"用英语怎么说？ 五，四，三，二，一。see <prosody rate="slow"><say-as interpret-as="spell-out">S E E</say-as></prosody>  
+"街道"用英语怎么说？ 五，四，三，二，一。street <prosody rate="slow"><say-as interpret-as="spell-out">S T R E E T</say-as></prosody>
+原文: On it you can see a street in New York.  
+作用: 这一行描述明信片上的内容，引入纽约街头的场景。
+
+行号3  
+There are lots of taxis in the street.  
+街上有许多出租车。  
+There are lots of taxis in the street.  
+问题:  
+"出租车"用英语怎么说？ 五，四，三，二，一。taxi <prosody rate="slow"><say-as interpret-as="spell-out">T A X I</say-as></prosody>  
+"街上"用英语怎么说？ 五，四，三，二，一。in the street 
+原文: There are lots of taxis in the street.  
+作用: 这一行描述街上的车辆情况，强调出租车的数量。
+
+行号4  
+On the street, there are also some shops and a restaurant.  
+在街上，还有一些商店和一家餐馆。  
+On the street, there are also some shops and a restaurant.  
+问题:  
+"在街边"用英语怎么说？ 五，四，三，二，一。on the street
+"商店"用英语怎么说？ 五，四，三，二，一。shop <prosody rate="slow"><say-as interpret-as="spell-out">S H O P</say-as></prosody>  
+"餐馆"用英语怎么说？ 五，四，三，二，一。restaurant <prosody rate="slow"><say-as interpret-as="spell-out">R E S T A U R A N T</say-as></prosody>  
+原文: On the street, there are also some shops and a restaurant.  
+作用: 这一行进一步描述街上的设施，增加商店和餐馆的细节。
+
+行号5  
+Many people are enjoying themselves.  
+许多人正在享受美好时光。  
+Many people are enjoying themselves.  
+问题:  
+"享受"用英语怎么说？ 五，四，三，二，一。enjoy <prosody rate="slow"><say-as interpret-as="spell-out">E N J O Y</say-as></prosody>  
+"自己"用英语怎么说？ 五，四，三，二，一。themselves <prosody rate="slow"><say-as interpret-as="spell-out">T H E M S E L V E S</say-as></prosody>  
+原文: Many people are enjoying themselves.  
+作用: 这一行描述人们的状态，表达他们正在享受时光。
+
+行号6  
+Some are walking their dogs, some are sitting at the café, chatting and having a good time.  
+一些人在遛狗，一些人坐在咖啡馆，聊天并度过美好时光。  
+Some are walking their dogs, some are sitting at the café, chatting and having a good time.  
+问题:  
+"遛狗"用英语怎么说？ 五，四，三，二，一。walk their dogs  
+"聊天"用英语怎么说？ 五，四，三，二，一。chat <prosody rate="slow"><say-as interpret-as="spell-out">C H A T</say-as></prosody>  
+"度过美好时光"用英语怎么说？ 五，四，三，二，一。have a good time  
+原文: Some are walking their dogs, some are sitting at the café, chatting and having a good time.  
+作用: 这一行具体描述人们的活动，丰富场景细节，展示多样化的享受方式。
+
+行号7  
+Love, Daming  
+爱你的，大明  
+Love, Daming  
+问题:  
+"爱"用英语怎么说？ 五，四，三，二，一。love <prosody rate="slow"><say-as interpret-as="spell-out">L O V E</say-as></prosody>  
+原文: Love, Daming  
+作用: 这一行是信的结束语，提供签名，表示亲切的 closing。
+
+总结全文  
+大明通过明信片向妈妈描述纽约街头的景象，包括出租车、商店、餐馆和人们享受时光的活动。  
+Daming describes the scene of a street in New York to his mum via a postcard, including taxis, shops, restaurants, and people enjoying themselves.

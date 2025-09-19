@@ -1,0 +1,86 @@
+行号1  
+The Huangshan Mountain is high  
+黄山很高。  
+The Huangshan Mountain is high  
+问题:  
+"高"用英语怎么说？ 五，四，三，二，一。high <prosody rate="slow"><say-as interpret-as="spell-out">H I G H</say-as></prosody>  
+原文: The Huangshan Mountain is high  
+
+行号2  
+The Changjiang River is long.  
+长江很长。  
+The Changjiang River is long.  
+问题:  
+"长"用英语怎么说？ 五，四，三，二，一。long <prosody rate="slow"><say-as interpret-as="spell-out">L O N G</say-as></prosody>  
+"河流"用英语怎么说？ 五，四，三，二，一。river <prosody rate="slow"><say-as interpret-as="spell-out">R I V E R</say-as></prosody>  
+原文: The Changjiang River is long.  
+
+行号3  
+The West Lake is beautiful.  
+西湖很美丽。  
+The West Lake is beautiful.  
+问题:  
+"美丽"用英语怎么说？ 五，四，三，二，一。beautiful <prosody rate="slow"><say-as interpret-as="spell-out">B E A U T I F U L</say-as></prosody>  
+"湖"用英语怎么说？ 五，四，三，二，一。lake <prosody rate="slow"><say-as interpret-as="spell-out">L A K E</say-as></prosody>  
+原文: The West Lake is beautiful.  
+
+行号4  
+The Great Wall is strong.  
+长城很坚固。  
+The Great Wall is strong.  
+问题:  
+"坚固"用英语怎么说？ 五，四，三，二，一。strong <prosody rate="slow"><say-as interpret-as="spell-out">S T R O N G</say-as></prosody>  
+"长城"用英语怎么说？ 五，四，三，二，一。the Great Wall  
+原文: The Great Wall is strong.  
+
+行号5  
+Look! These are my postcards from China.  
+看！这些是我从中国来的明信片。  
+Look! These are my postcards from China.  
+问题:  
+"明信片"用英语怎么说？ 五，四，三，二，一。postcard <prosody rate="slow"><say-as interpret-as="spell-out">P O S T C A R D</say-as></prosody>
+"从中国"用英语怎么说？ 五，四，三，二，一。from China  
+原文: Look! These are my postcards from China.  
+
+行号6  
+There are many mountains in China. There's a famous mountain in Anhui. It's the Huangshan Mountain.  
+中国有很多山。安徽有一座著名的山。它是黄山。  
+There are many mountains in China. There's a famous mountain in Anhui. It's the Huangshan Mountain.  
+问题:  
+"著名的"用英语怎么说？ 五，四，三，二，一。famous <prosody rate="slow"><say-as interpret-as="spell-out">F A M O U S</say-as></prosody>  
+"很多"用英语怎么说？ 五，四，三，二，一。many <prosody rate="slow"><say-as interpret-as="spell-out">M A N Y</say-as></prosody>
+"山"用英语怎么说？ 五，四，三，二，一。mountain <prosody rate="slow"><say-as interpret-as="spell-out">M O U N T A I N</say-as></prosody>
+原文: There are many mountains in China. There's a famous mountain in Anhui. It's the Huangshan Mountain.  
+
+行号7  
+This is the famous Changjiang River. It's more than six thousand kilometres long.  
+这是著名的长江。它超过六千公里长。  
+This is the famous Changjiang River. It's more than six thousand kilometres long.  
+问题:  
+"超过"用英语怎么说？ 五，四，三，二，一。more than  
+"六千"用英语怎么说？ 五，四，三，二，一。six thousand  
+"公里"用英语怎么说？ 五，四，三，二，一。kilometre <prosody rate="slow"><say-as interpret-as="spell-out">K I L O M E T R E</say-as></prosody>  
+原文: This is the famous Changjiang River. It's more than six thousand kilometres long.  
+
+行号8  
+There are lots of beautiful lakes in China. This is the West Lake. It's in Hangzhou.  
+中国有很多美丽的湖泊。这是西湖。它在杭州。  
+There are lots of beautiful lakes in China. This is the West Lake. It's in Hangzhou.  
+问题:  
+"很多"用英语怎么说？ 五，四，三，二，一。lots of  
+"湖泊"用英语怎么说？ 五，四，三，二，一。lake <prosody rate="slow"><say-as interpret-as="spell-out">L A K E</say-as></prosody>  
+原文: There are lots of beautiful lakes in China. This is the West Lake. It's in Hangzhou.  
+
+行号9  
+This is the Great Wall. It's more than twenty thousand kilometres long.  
+这是长城。它超过两万公里长。  
+This is the Great Wall. It's more than twenty thousand kilometres long.  
+问题:  
+"两万"用英语怎么说？ 五，四，三，二，一。twenty thousand  
+"长城"用英语怎么说？ 五，四，三，二，一。the Great Wall  
+"超过"用英语怎么说？ 五，四，三，二，一。more than  
+原文: This is the Great Wall. It's more than twenty thousand kilometres long.  
+
+总结全文  
+这篇文章通过明信片的形式介绍中国著名地标如黄山、长江、西湖和长城，并描述它们的特征。  
+This article introduces famous landmarks in China such as Huangshan Mountain, Changjiang River, West Lake, and the Great Wall through postcards and describes their characteristics.
