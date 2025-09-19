@@ -1,0 +1,38 @@
+This is the Great Wall.  
+这是长城。  
+This is the Great Wall.  
+问题:  
+"长城"用英语怎么说？ 五，四，三，二，一。the Great Wall  
+原文: This is the Great Wall.  
+
+行号2  
+It's very beautiful.  
+它非常美丽。  
+It's very beautiful.  
+问题:  
+"美丽的"用英语怎么说？ 五，四，三，二，一。beautiful <prosody rate="slow"><say-as interpret-as="spell-out">B E A U T I F U L</say-as></prosody>  
+原文: It's very beautiful.  
+
+行号3  
+It's long and old.  
+它又长又古老。  
+It's long and old.  
+问题:  
+"长"用英语怎么说？ 五，四，三，二，一。long <prosody rate="slow"><say-as interpret-as="spell-out">L O N G</say-as></prosody>  
+"古老"用英语怎么说？ 五，四，三，二，一。old <prosody rate="slow"><say-as interpret-as="spell-out">O L D</say-as></prosody>  
+原文: It's long and old.  
+作用: 这一行进一步描述了长城的物理特征，长且古老。  
+
+行号4  
+And we love it all.  
+而且我们热爱它的一切。  
+And we love it all.  
+问题:  
+"爱"用英语怎么说？ 五，四，三，二，一。love <prosody rate="slow"><say-as interpret-as="spell-out">L O V E</say-as></prosody>  
+"全部"用英语怎么说？ 五，四，三，二，一。all <prosody rate="slow"><say-as interpret-as="spell-out">A L L</say-as></prosody>  
+原文: And we love it all.  
+作用: 这一行表达了情感，表明人们对长城的喜爱。  
+
+总结全文  
+长城被描述为美丽、长且古老，并且受到人们的喜爱。  
+The Great Wall is described as beautiful, long, and old, and it is loved by people.

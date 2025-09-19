@@ -1,0 +1,101 @@
+行号1  
+Activity 1: Where's the West Lake?  
+活动1：西湖在哪里？  
+Activity 1: Where's the West Lake?  
+问题:  
+"活动"用英语怎么说？ 五，四，三，二，一。Activity <prosody rate="slow"><say-as interpret-as="spell-out">A C T I V I T Y</say-as></prosody>  
+"西湖"用英语怎么说？ 五，四，三，二，一。the West Lake  
+原文：Activity 1: Where's the West Lake?  
+
+行号2  
+It's in the east of China.  
+它在中国东部。  
+It's in the east of China.  
+问题:  
+"在东部"用英语怎么说？ 五，四，三，二，一。in the east
+"在中国的东部"用英语怎么说？ 五，四，三，二，一。in the east of China
+原文：It's in the east of China.  
+
+行号3  
+It's very beautiful.  
+它非常美丽。  
+It's very beautiful.  
+问题:  
+"美丽"用英语怎么说？ 五，四，三，二，一。beautiful <prosody rate="slow"><say-as interpret-as="spell-out">B E A U T I F U L</say-as></prosody>  
+原文：It's very beautiful.  
+
+行号4  
+Yes, it is.  
+是的，它是。  
+Yes, it is.  
+
+
+行号5  
+Activity 2: What a big map of the US! Where's New York?  
+活动2：真是一张巨大的美国地图！纽约在哪里？  
+Activity 2: What a big map of the US! Where's New York?  
+问题:  
+"地图"用英语怎么说？ 五，四，三，二，一。map <prosody rate="slow"><say-as interpret-as="spell-out">M A P</say-as></prosody>  
+"美国"用英语怎么说？ 五，四，三，二，一。the US
+"真是一张大地图"用英语怎么说？ 五，四，三，二，一。What a big map 
+原文：Activity 2: What a big map of the US! Where's New York?  
+
+行号6  
+It's here, in the east.  
+它在这里，在东部。  
+It's here, in the east.  
+问题:  
+"这里"用英语怎么说？ 五，四，三，二，一。here <prosody rate="slow"><say-as interpret-as="spell-out">H E R E</say-as></prosody>  
+原文：It's here, in the east.  
+
+行号7  
+And what about San Francisco?  
+那么旧金山呢？  
+And what about San Francisco?  
+问题:  
+"那么...呢"用英语怎么说？ 五，四，三，二，一。what about  
+原文：And what about San Francisco?  
+
+行号8  
+It's in the west.  
+它在西部。  
+It's in the west.  
+问题:  
+"西部"用英语怎么说？ 五，四，三，二，一。west <prosody rate="slow"><say-as interpret-as="spell-out">W E S T</say-as></prosody>  
+原文：It's in the west.  
+
+行号9  
+And Houston is in the south.  
+而休斯顿在南部。  
+And Houston is in the south.  
+问题:  
+"南部"用英语怎么说？ 极，四，三，二，一。south <prosody rate="slow"><say-as interpret-as="spell-out">S O U T H</say-as></prosody>  
+原文：And Houston is in the south.  
+
+行号10  
+That's right.  
+那是正确的。  
+That's right.  
+问题:  
+"正确"用英语怎么说？ 五，四，三，二，一。right <prosody rate="slow"><say-as interpret-as="spell-out">R I G H T</say-as></极>  
+原文：That's right.  
+
+行号11  
+The US is a big country.  
+美国是一个大国。  
+The US is a big country.  
+问题:  
+"国家"用英语怎么说？ 五，四，三，二，一。country <prosody rate="slow"><say-as interpret-as="spell-out">C O U N T R Y</say-as></prosody>  
+原文：The US is a big country.  
+
+行号12  
+Yes, it is. And China is a big country too.  
+是的，它是。而且中国也是一个大国。  
+Yes, it is. And China is a big country too.  
+问题:  
+"也"用英语怎么说？ 五，四，三，二，一。too <prosody rate="slow"><say-as interpret-as="spell-out">T O O</say-as></prosody>  
+原文：Yes, it is. And China is a big country too.  
+
+总结全文  
+对话通过活动询问西湖和美国城市的位置，并比较国家大小。  
+The dialogue involves asking about the locations of West Lake and US cities through activities, and comparing the sizes of countries.
