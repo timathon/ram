@@ -1,0 +1,124 @@
+行号1  
+What's your hobby, Sue?  
+苏，你的爱好是什么？  
+What's your hobby, Sue?  
+问题:  
+"爱好"用英语怎么说？ 五，四，三，二，一。hobby <prosody rate="slow"><say-as interpret-as="spell-out">H O B B Y</say-as></prosody>  
+原文: What's your hobby, Sue?  
+
+行号2  
+I collect dolls.  
+我收集娃娃。  
+I collect dolls.  
+问题:  
+"收集"用英语怎么说？ 五，四，三，二，一。collect <prosody rate="slow"><say-as interpret-as="spell-out">C O L L E C T</say-as></prosody>  
+"娃娃"用英语怎么说？ 五，四，三，二，一。dolls <prosody rate="slow"><say-as interpret-as="spell-out">D O L L S</say-as></prosody>
+原文: I collect dolls.  
+
+行号3  
+Oh! Have you got any dolls from Japan?  
+哦！你有来自日本的娃娃吗？  
+Oh! Have you got any dolls from Japan?  
+问题:  
+"日本"用英语怎么说？ 五，四，三，二，一。Japan <prosody rate="slow"><say-as interpret-as="spell-out">J A P A N</say-as></prosody>
+原文: Oh! Have you got any dolls from Japan?  
+
+行号4  
+No, I haven't. But I've got some dolls from China.  
+不，我没有。但我有一些来自中国的娃娃。  
+No, I haven't. But I've got some dolls from China.  
+问题:
+"中国"用英语怎么说？ 五，四，三，二，一。China <prosody rate="slow"><say-as interpret-as="spell-out">C H I N A</say-as></prosody>
+原文: No, I haven't. But I've got some dolls from China.
+
+
+行号5  
+Oh, they're beautiful! What about you, Jack?  
+哦，它们很漂亮！你呢，杰克？  
+Oh, they're beautiful! What about you, Jack?  
+问题:  
+"漂亮"用英语怎么说？ 五，四，三，二，一。beautiful <prosody rate="slow"><say-as interpret-as="spell-out">B E A U T I F U L</say-as></prosody>  
+原文: Oh, they're beautiful! What about you, Jack?  
+
+行号6  
+Reading is my hobby. I've got lots of books.  
+阅读是我的爱好。我有很多书。  
+Reading is my hobby. I've got lots of books.  
+问题:  
+"阅读"用英语怎么说？ 五，四，三，二，一。read <prosody rate="slow"><say-as interpret-as="spell-out">R E A D</say-as></prosody>  
+原文: Reading is my hobby. I've got lots of books.  
+
+行号7  
+Have you got any picture books?  
+你有图画书吗？  
+Have you got any picture books?  
+问题:  
+"图画书"用英语怎么说？ 五，四，三，二，一。picture books  
+原文: Have you got any picture books?  
+
+行号8  
+No, I haven't.  
+不，我没有。  
+No, I haven't.  
+
+
+行号9  
+What's your hobby, Taotao?  
+涛涛，你的爱好是什么？  
+What's your hobby, Taotao?  
+
+
+行号10  
+Flying kites is my hobby. Look! I've got some Chinese kites.  
+放风筝是我的爱好。看！我有一些中国风筝。  
+Flying kites is my hobby. Look! I've got some Chinese kites.  
+问题:  
+"放风筝"用英语怎么说？ 五，四，三，二，一。fly kites  
+原文: Flying kites is my hobby. Look! I've got some Chinese kites.  
+
+行号11  
+Have you got any dragon kites?  
+你有龙风筝吗？  
+Have you got any dragon kites?  
+问题:  
+"龙"用英语怎么说？ 五，四，三，二，一。dragon <prosody rate="slow"><say-as interpret-as="spell-out">D R A G O N</say-as></prosody>  
+原文: Have you got any dragon kites?  
+
+行号12  
+Yes, this is a dragon kite.  
+是的，这是一个龙风筝。  
+Yes, this is a dragon kite.  
+
+
+行号13  
+What about you, Xiaoxue?  
+你呢，小雪？  
+What about you, Xiaoxue?  
+
+
+行号14  
+I like riding my bicycle. That's my hobby.  
+我喜欢骑我的自行车。那是我的爱好。  
+I like riding my bicycle. That's my hobby.  
+问题:  
+"骑"用英语怎么说？ 五，四，三，二，一。ride <prosody rate="slow"><say-as interpret-as="spell-out">R I D E</say-as></prosody>  
+"自行车"用英语怎么说？ 五，四，三，二，一。bicycle <prosody rate="slow"><say-as interpret-as="spell-out">B I C Y C L E</say-as></prosody>
+原文: I like riding my bicycle. That's my hobby.  
+
+行号15  
+Have you got any photos of your bicycle?  
+你有你自行车的照片吗？  
+Have you got any photos of your bicycle?  
+ 
+
+行号16  
+Yes. These are some photos of my new bicycle.  
+是的。这些是我新自行车的一些照片。  
+Yes. These are some photos of my new bicycle.  
+问题:  
+"新"用英语怎么说？ 五，四，三，二，一。new <prosody rate="slow"><say-as interpret-as="spell-out">N E W</say-as></prosody>  
+原文: Yes. These are some photos of my new bicycle.  
+
+总结全文  
+这篇对话通过询问和回答展示了不同人物的爱好，包括收集娃娃、阅读、放风筝和骑自行车。  
+This dialogue demonstrates different characters sharing their hobbies, including collecting dolls, reading, flying kites, and riding bicycles.

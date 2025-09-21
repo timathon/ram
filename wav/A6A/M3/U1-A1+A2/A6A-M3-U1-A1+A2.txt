@@ -1,0 +1,118 @@
+行号1  
+What toys have you got?  
+你有什么玩具？  
+What toys have you got?  
+问题:  
+"有"用英语怎么说？ 五，四，三，二，一。have got  
+"玩具"用英语怎么说？ 五，四，三，二，一。toy <prosody rate="slow"><say-as interpret-as="spell-out">T O Y</say-as></prosody>  
+原文：What toys have you got?  
+
+行号2  
+I've got some toy dogs.  
+我有一些玩具狗。  
+I've got some toy dogs.  
+问题:  
+"玩具狗"用英语怎么说？ 五，四，三，二，一。toy dog
+原文：I've got some toy dogs.  
+
+行号3  
+Oh, it's not a toy!  
+哦，它不是玩具！  
+Oh, it's not a toy!  
+
+行号4  
+Do you collect stamps, Simon?  
+你收集邮票吗，西蒙？  
+Do you collect stamps, Simon?  
+问题:  
+"收集"用英语怎么说？ 五，四，三，二，一。collect <prosody rate="slow"><say-as interpret-as="spell-out">C O L L E C T</say-as></prosody>  
+"邮票"用英语怎么说？ 五，四，三，二，一。stamps <prosody rate="slow"><say-as interpret-as="spell-out">S T A M P S</say-as></prosody>  
+原文：Do you collect stamps, Simon?  
+
+行号5  
+Yes, I've got lots of stamps. Collecting stamps is my hobby.  
+是的，我有很多邮票。收集邮票是我的爱好。  
+Yes, I've got lots of stamps. Collecting stamps is my hobby.  
+问题:  
+"收集"用英语怎么说？ 五，四，三，二，一。collect <prosody rate="slow"><say-as interpret-as="spell-out">C O L L E C T</say-as></prosody>  
+"收集邮票"用英语怎么说？ 五，四，三，二，一。collecting stamps  
+"爱好"用英语怎么说？ 五，四，三，二，一。hobby  
+原文：Yes, I've got lots of stamps. Collecting stamps is my hobby.  
+
+行号6  
+What are those?  
+那些是什么？  
+What are those?  
+问题:  
+"那些"用英语怎么说？ 五，四，三，二，一。those <prosody rate="slow"><say-as interpret-as="spell-out">T H O S E</say-as></prosody>  
+原文：What are those?  
+
+行号7  
+These are stamps from Canada. They have got famous people on them.  
+这些是来自加拿大的邮票。它们上面有著名的人。  
+These are stamps from Canada. They have got famous people on them.  
+问题:  
+"在上面"用英语怎么说？ 五，四，三，二，一。on <prosody rate="slow"><say-as interpret-as="spell-out">O N</say-as></prosody>  
+原文：These are stamps from Canada. They have got famous people on them.  
+
+行号8  
+Have you got any stamps from China?  
+你有来自中国的邮票吗？  
+Have you got any stamps from China?  
+问题:  
+"任何"用英语怎么说？ 五，四，三，二，一。any <prosody rate="slow"><say-as interpret-as="spell-out">A N Y</say-as></prosody>  
+原文：Have you got any stamps from China?  
+
+行号9  
+Yes, I have. This stamp is from China. And all of these stamps are from China too.  
+是的，我有。这张邮票来自中国。而且所有这些邮票也都来自中国。  
+Yes, I have. This stamp is from China. And all of these stamps are from China too.  
+问题:  
+"所有这些"用英语怎么说？ 五，四，三，二，一。all of these  
+原文：Yes, I have. This stamp is from China. And all of these stamps are from China too.  
+
+行号10  
+Oh! These stamps are from my letters!  
+哦！这些邮票来自我的信！  
+Oh! These stamps are from my letters!  
+问题:  
+"信"用英语怎么说？ 五，四，三，二，一。letter <prosody rate="slow"><say-as interpret-as="spell-out">L E T T E R</say-as></prosody>  
+原文：Oh! These stamps are from my letters!  
+
+行号11  
+That's right!  
+那是正确的！  
+That's right!  
+问题:  
+"正确的"用英语怎么说？ 五，四，三，二，一。right <prosody rate="slow"><say-as interpret-as="spell-out">R I G H T</say-as></prosody>  
+原文：That's right!  
+
+行号12  
+Look, boys! Letters for you!  
+看，男孩们！给你们的信！  
+Look, boys! Letters for you!  
+
+
+行号13  
+Is there a letter for me?  
+有给我的信吗？  
+Is there a letter for me?  
+
+
+行号14  
+Yes, there is. This letter is from your mother!  
+是的，有。这封信来自你母亲！  
+Yes, there is. This letter is from your mother!  
+
+
+行号15  
+Great! Now you can have another Chinese stamp, Simon.  
+太棒了！现在你可以有另一张中国邮票，西蒙。  
+Great! Now you can have another Chinese stamp, Simon.  
+问题:  
+"另一个"用英语怎么说？ 五，四，三，二，一。another <prosody rate="slow"><say-as interpret-as="spell-out">A N O T H E R</say-as></prosody>  
+Great! Now you can have another Chinese stamp, Simon.  
+
+总结全文  
+西蒙通过对话展示了他的邮票收藏爱好，并从信件中获得中国邮票。  
+Simon demonstrates his stamp collection hobby and acquires Chinese stamps from letters.
