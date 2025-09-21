@@ -1,0 +1,51 @@
+行号1  
+Midsummer day is in June so a lot of people go to Stonehenge during this month.  
+仲夏节在六月，所以很多人在这个月去巨石阵。  
+Midsummer day is in June so a lot of people go to Stonehenge during this month.  
+问题:  
+"所以"用英语怎么说？ 五，四，三，二，一。so <prosody rate="slow"><say-as interpret-as="spell-out">S O</say-as></prosody>  
+"在...期间"用英语怎么说？ 五，四，三，二，一。during <prosody rate="slow"><say-as interpret-as="spell-out">D U R I N G</say-as></prosody>  
+原文: Midsummer day is in June so a lot of people go to Stonehenge during this month.  
+
+行号2  
+The sun shines straight into the center of Stonehenge because the stones were put in a special position.  
+太阳直射进巨石阵的中心，因为石头被放置在一个特殊的位置。  
+The sun shines straight into the center of Stonehenge because the stones were put in a special position.  
+问题:  
+"因为"用英语怎么说？ 五，四，三，二，一。because <prosody rate="slow"><say-as interpret-as="spell-out">B E C A U S E</say-as></prosody>  
+"直射"用英语怎么说？ 五，四，三，二，一。shine straight  
+"位置"用英语怎么说？ 五，四，三，二，一。position <prosody rate="slow"><say-as interpret-as="spell-out">P O S I T I O N</say-as></prosody>
+原文: The sun shines straight into the center of Stonehenge because the stones were put in a special position.  
+
+行号3  
+Some people think the rocks can not only stop people from becoming ill but also keep them healthy.  
+有些人认为这些石头不仅能防止人们生病，还能保持他们健康。  
+Some people think the rocks can not only stop people from becoming ill but also keep them healthy.  
+问题:  
+"不仅...而且"用英语怎么说？ 五，四，三，二，一。not only ... but also
+"防止某人做某事"用英语怎么说？ 五，四，三，二，一。stop someone from doing something
+"生病"用英语怎么说？ 五，四，三，二，一。become ill
+原文: Some people think the rocks can not only stop people from becoming ill but also keep them healthy.  
+
+行号4  
+We don’t know who built Stonehenge or how it was built.  
+我们不知道谁建造了巨石阵或者它是如何被建造的。  
+We don’t know who built Stonehenge or how it was built.  
+问题:  
+"或者，也不"用英语怎么说？ 五，四，三，二，一。or <prosody rate="slow"><say-as interpret-as="spell-out">O R</say-as></prosody>  
+"建造"用英语怎么说？ 五，四，三，二，一。build <prosody rate="slow"><say-as interpret-as="spell-out">B U I L D</say-as></prosody>  
+原文: We don’t know who built Stonehenge or how it was built.  
+
+行号5  
+Historians think Stonehenge was built about 5,000 years ago; however, they are not sure.  
+历史学家认为巨石阵建于大约5000年前；然而，他们并不确定。  
+Historians think Stonehenge was built about 5,000 years ago; however, they are not sure.  
+问题:  
+"然而"用英语怎么说？ 五，四，三，二，一。however <prosody rate="slow"><say-as interpret-as="spell-out">H O W E V E R</say-as></prosody>  
+"认为"用英语怎么说？ 五，四，三，二，一。think <prosody rate="slow"><say-as interpret-as="spell-out">T H I N K</say-as></prosody>  
+"不确定"用英语怎么说？ 五，四，三，二，一。be not sure  
+原文: Historians think Stonehenge was built about 5,000 years ago; however, they are not sure.  
+
+总结全文  
+文章介绍了巨石阵与仲夏节的关系、其设计特点、民间信仰以及建造历史的不确定性。  
+The article introduces the relationship between Stonehenge and Midsummer Day, its design features, folk beliefs, and the uncertainties about its construction history.

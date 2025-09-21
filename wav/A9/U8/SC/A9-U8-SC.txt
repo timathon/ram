@@ -1,0 +1,91 @@
+行号1  
+That bright light can’t be a UFO — there’s no such thing!  
+那道亮光不可能是UFO——根本没有这种东西！  
+That bright light can’t be a UFO — there’s no such thing!  
+问题:  
+"不可能是"用英语怎么说？ 五，四，三，二，一。can't be  
+"UFO"用英语怎么说？ 五，四，三，二，一。UFO <prosody rate="slow"><say-as interpret-as="spell-out">U F O</say-as></prosody>  
+"根本没有这种东西"用英语怎么说？ 五，四，三，二，一。there's no such thing  
+That bright light can’t be a UFO — there’s no such thing!  
+
+行号2  
+I’m still waiting for the bus, so I might be a bit late for the party.  
+我还在等公交车，所以我可能会晚一点到派对。  
+I’m still waiting for the bus, so I might be a bit late for the party.  
+问题:  
+"等待"用英语怎么说？ 五，四，三，二，一。wait <prosody rate="slow"><say-as interpret-as="spell-out">W A I T</say-as></prosody>  
+"可能是"用英语怎么说？ 五，四，三，二，一。might be  
+"晚一点"用英语怎么说？ 五，四，三，二，一。a bit late  
+I’m still waiting for the bus, so I might be a bit late for the party.  
+
+行号3  
+That sweater must be Carla’s. She’s the only one who wears such colorful clothes.  
+那件毛衣一定是Carla的。她是唯一一个穿这么 colorful 衣服的人。  
+That sweater must be Carla’s. She’s the only one who wears such colorful clothes.  
+问题:  
+"一定是"用英语怎么说？ 五，四，三，二，一。must be  
+"唯一一个"用英语怎么说？ 五，四，三，二，一。the only one  
+"穿"用英语怎么说？ 五，四，三，二，一。wear <prosody rate="slow"><say-as interpret-as="spell-out">W E A R</say-as></prosody>  
+That sweater must be Carla’s. She’s the only one who wears such colorful clothes.  
+
+行号4  
+Tony might want to go to the concert. He likes music, but I’m not sure if he likes rock music.  
+Tony可能想去音乐会。他喜欢音乐，但我不确定他是否喜欢摇滚音乐。  
+Tony might want to go to the concert. He likes music, but I’m not sure if he likes rock music.  
+问题:  
+"可能想"用英语怎么说？ 五，四，三，二，一。might want to  
+"不确定"用英语怎么说？ 五，四，三，二，一。not sure  
+Tony might want to go to the concert. He likes music, but I’m not sure if he likes rock music.  
+
+行号5  
+The person you saw at the supermarket can’t be Susan. I just talked to her on the phone, and she’s at work right now.  
+你在超市看到的那个人不可能是Susan。我刚刚和她通了电话，她现在在工作。  
+The person you saw at the supermarket can’t be Susan. I just talked to her on the phone, and she’s at work right now.  
+问题:  
+"不可能是"用英语怎么说？ 五，四，三，二，一。can't be  
+The person you saw at the supermarket can’t be Susan. I just talked to her on the phone, and she’s at work right now.  
+
+行号6  
+It can’t be Todd’s. He dislikes eating sweet food.  
+它不可能是Todd的。他不喜欢吃甜食。  
+It can’t be Todd’s. He dislikes eating sweet food.  
+问题:  
+"不可能是"用英语怎么说？ 五，四，三，二，一。can't be  
+"不喜欢"用英语怎么说？ 五，四，三，二，一。dislike <prosody rate="slow"><say-as interpret-as="spell-out">D I S L I K E</say-as></prosody>  
+It can’t be Todd’s. He dislikes eating sweet food.  
+
+行号7  
+It must be Jessica’s. She likes taking photos.  
+它一定是Jessica的。她喜欢拍照。  
+It must be Jessica’s. She likes taking photos.  
+问题:  
+"一定是"用英语怎么说？ 五，四，三，二，一。must be  
+"拍照"用英语怎么说？ 五，四，三，二，一。take photos  
+It must be Jessica’s. She likes taking photos.  
+
+行号8  
+It can’t be Annie’s. She dislikes cooking.  
+它不可能是Annie的。她不喜欢烹饪。  
+It can’t be Annie’s. She dislikes cooking.  
+问题:  
+"不可能是"用英语怎么说？ 五，四，三，二，一。can't be  
+"不喜欢"用英语怎么说？ 五，四，三，二，一。dislike <prosody rate="slow"><say-as interpret-as="spell-out">D I S L I K E</say-as></prosody>  
+It can’t be Annie’s. She dislikes cooking.  
+
+行号9  
+It must be Mike’s. He likes playing tennis.  
+它一定是Mike的。他喜欢打网球。  
+It must be Mike’s. He likes playing tennis.  
+问题:  
+"一定是"用英语怎么说？ 五，四，三，二，一。must be  
+"打网球"用英语怎么说？ 五，四，三，二，一。play tennis  
+It must be Mike’s. He likes playing tennis.  
+
+行号10  
+It can’t be Jessica’s. She dislikes running.  
+它不可能是Jessica的。她不喜欢跑步。  
+It can’t be Jessica’s. She dislikes running.  
+问题:  
+"不可能是"用英语怎么说？ 五，四，三，二，一。can't be  
+"不喜欢"用英语怎么说？ 五，四，三，二，一。dislike <prosody rate="slow"><say-as interpret-as="spell-out">D I S L I K E</say-as></prosody>  
+It can’t be Jessica’s. She dislikes running.
