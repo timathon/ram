@@ -1,0 +1,81 @@
+行号1  
+Hi, I’m Lily from Ireland. I love my big family.  
+嗨，我是来自爱尔兰的莉莉。我爱我的大家庭。  
+Hi, I’m Lily from Ireland. I love my big family.  
+问题:  
+"爱尔兰"用英语怎么说？ 五，四，三，二，一。Ireland <prosody rate="slow"><say-as interpret-as="spell-out">I R E L A N D</say-as></prosody>
+Hi, I’m Lily from Ireland. I love my big family.  
+
+行号2  
+Here’s a photo of us. I’m the one with the pink hat.  
+这是我们的一张照片。我是戴粉色帽子的那个。  
+Here’s a photo of us. I’m the one with the pink hat.  
+问题:  
+"粉色帽子"用英语怎么说？ 五，四，三，二，一。pink hat  
+Here’s a photo of us. I’m the one with the pink hat.  
+
+行号3  
+This is my dad, Fred, on the left. He’s very handsome. He often plays tennis with me.  
+这是我爸爸弗雷德，在左边。他非常英俊。他经常和我打网球。  
+This is my dad, Fred, on the left. He’s very handsome. He often plays tennis with me.  
+问题:  
+"在左边"用英语怎么说？ 五，四，三，二，一。on the left  
+"英俊"用英语怎么说？ 五，四，三，二，一。handsome <prosody rate="slow"><say-as interpret-as="spell-out">H A N D S O M E</say-as></prosody>  
+"打网球"用英语怎么说？ 五，四，三，二，一。play tennis  
+This is my dad, Fred, on the left. He’s very handsome. He often plays tennis with me.  
+
+行号4  
+My little brother, Sam, is on his knee. Sam is seven, and he really likes chess.  
+我的小弟弟萨姆在他的膝盖上。萨姆七岁了，他真的很喜欢国际象棋。  
+My little brother, Sam, is on his knee. Sam is seven, and he really likes chess.  
+问题:  
+"国际象棋"用英语怎么说？ 五，四，三，二，一。chess <prosody rate="slow"><say-as interpret-as="spell-out">C H E S S</say-as></prosody>  
+"七岁"用英语怎么说？ 五，四，三，二，一。seven years old  
+My little brother, Sam, is on his knee. Sam is seven, and he really likes chess.  
+
+行号5  
+My mum, Jane, is on the right. She’s beautiful and kind. She always reads me a story at night.  
+我妈妈简在右边。她美丽又善良。她总是在晚上给我读故事。  
+My mum, Jane, is on the right. She’s beautiful and kind. She always reads me a story at night.  
+问题:  
+"在右边"用英语怎么说？ 五，四，三，二，一。on the right  
+"读故事"用英语怎么说？ 五，四，三，二，一。read a story  
+"在晚上"用英语怎么说？ 五，四，三，二，一。at night  
+My mum, Jane, is on the right. She’s beautiful and kind. She always reads me a story at night.  
+
+行号6  
+My grandparents, Jack and Sarah, are in the middle. They’re my dad’s parents.  
+我的祖父母杰克和莎拉在中间。他们是我爸爸的父母。  
+My grandparents, Jack and Sarah, are in the middle. They’ my dad’s parents.  
+问题:  
+"在中间"用英语怎么说？ 五，四，三，二，一。in the middle  
+"爸爸的父母"用英语怎么说？ 五，四，三，二，一。dad's parents  
+My grandparents, Jack and Sarah, are in the middle. They’re my dad’s parents.  
+
+行号7  
+They have a dog. His name is Oscar.  
+他们有一只狗。他的名字是奥斯卡。  
+They have a dog. His name is Oscar.  
+
+
+行号8  
+My grandparents have three grandchildren: Sam, my cousin Lucy, and me.  
+我的祖父母有三个孙子孙女：萨姆、我的表妹露西和我。  
+My grandparents have three grandchildren: Sam, my cousin Lucy, and me.  
+问题:  
+"孙子孙女"用英语怎么说？ 五，四，三，二，一。grandchildren <prosody rate="slow"><say-as interpret-as="spell-out">G R A N D C H I L D R E N</say-as></prosody>  
+"表妹"用英语怎么说？ 五，四，三，二，一。cousin <prosody rate="slow"><say-as interpret-as="spell-out">C O U S I N</say-as></prosody>  
+My grandparents have three grandchildren: Sam, my cousin Lucy, and me.  
+
+行号9  
+They often say I’m their favourite grandchild, but I think they say the same thing to all of us!  
+他们经常说我是他们最喜欢的孙子，但我认为他们对我们都这么说！  
+They often say I’m their favourite grandchild, but I think they say the same thing to all of us!  
+问题:  
+"最喜欢的孙子"用英语怎么说？ 五，四，三，二，一。favourite grandchild  
+"我们所有人"用英语怎么说？ 五，四，三，二，一。all of us  
+They often say I’m their favourite grandchild, but I think they say the same thing to all of us!  
+
+总结全文  
+莉莉介绍了她的大家庭成员，包括父母、弟弟、祖父母和宠物狗，并分享了家庭互动和情感。  
+Lily introduces her big family members, including parents, brother, grandparents, and pet dog, and shares family interactions and emotions.

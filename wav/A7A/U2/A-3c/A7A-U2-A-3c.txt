@@ -1,0 +1,43 @@
+行号1  
+I have a brother and a sister.  
+我有一个哥哥和一个姐姐。  
+I have a brother and a sister.  
+
+行号2  
+My brother is tall, and he has short hair. He is really funny, and he often makes us laugh.  
+我的哥哥很高，他有短发。他真的很搞笑，他经常让我们笑。  
+My brother is tall, and he has short hair. He is really funny, and he often makes us laugh.  
+问题:  
+"搞笑"用英语怎么说？ 五，四，三，二，一。funny <prosody rate="slow"><say-as interpret-as="spell-out">F U N N Y</say-as></prosody>
+"让我笑"用英语怎么说？ 五，四，三，二，一。make me laugh  
+原文: My brother is tall, and he has short hair. He is really funny, and he often makes us laugh.  
+
+行号3  
+My sister looks very different. She is short, and she has long brown hair. She is a quiet girl. She really likes reading.  
+我的姐姐看起来非常不同。她很矮，她有长长的棕色头发。她是一个安静的女孩。她真的很喜欢阅读。  
+My sister looks very different. She is short, and she has long brown hair. She is a quiet girl. She really likes reading.  
+问题:  
+"看起来"用英语怎么说？ 五，四，三，二，一。look <prosody rate="slow"><say-as interpret-as="spell-out">L O O K</say-as></prosody>  
+原文: My sister looks very different. She is short, and she has long brown hair. She is a quiet girl. She really likes reading.  
+
+行号4  
+I’m not tall or short. I don’t talk or read much. But I play the violin really well. I also like playing tennis.  
+我不高也不矮。我不怎么说话或阅读。但我小提琴拉得非常好。我也喜欢打网球。  
+I’m not tall or short. I don’t talk or read much. But I play the violin really well. I also like playing tennis.  
+问题:  
+"演奏"用英语怎么说？ 五，四，三，二，一。play <prosody rate="slow"><say-as interpret-as="spell-out">P L A Y</say-as></prosody>  
+"小提琴"用英语怎么说？ 五，四，三，二，一。violin <prosody rate="slow"><say-as interpret-as="spell-out">V I O L I N</say-as></prosody>
+原文: I’m not tall or short. I don’t talk or read much. But I play the violin really well. I also like playing tennis.  
+
+行号5  
+We are all different, but we have a lot of fun together.  
+我们都不同，但我们在一起玩得很开心。  
+We are all different, but we have a lot of fun together.  
+问题:  
+"不同的"用英语怎么说？ 五，四，三，二，一。different <prosody rate="slow"><say-as interpret-as="spell-out">D I F F E R E N T</say-as></prosody>  
+"一起"用英语怎么说？ 五，四，三，二，一。together <prosody rate="slow"><say-as interpret-as="spell-out">T O G E T H E R</say-as></prosody>
+原文: We are all different, but we have a lot of fun together.  
+
+总结全文  
+这篇文章描述了一个家庭中兄弟姐妹的不同特点以及他们的欢乐时光。  
+This passage describes the different characteristics of siblings in a family and their fun times together.

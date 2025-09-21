@@ -1,0 +1,78 @@
+行号1  
+Hi, Peter! Come in.  
+嗨，彼得！进来。  
+Hi, Peter! Come in.  
+问题:  
+"进来"用英语怎么说？ 五，四，三，二，一。come in  
+原文: Hi, Peter! Come in.
+
+行号2  
+Thanks. Oh, these ping-pong bats are nice. Whose are they?  
+谢谢。哦，这些乒乓球拍很好。它们是谁的？  
+Thanks. Oh, these ping-pong bats are nice. Whose are they?  
+问题:  
+"乒乓球拍"用英语怎么说？ 五，四，三，二，一。ping-pong bats  
+"谁的"用英语怎么说？ 五，四，三，二，一。whose <prosody rate="slow"><say-as interpret-as="spell-out">W H O S E</say-as></prosody>  
+原文: Thanks. Oh, these ping-pong bats are nice. Whose are they?
+
+行号3  
+Well, this is my ping-pong bat, and the old one is my grandpa's.  
+嗯，这是我的乒乓球拍，旧的是我爷爷的。  
+Well, this is my ping-pong bat, and the old one is my grandpa's.  
+问题:  
+"爷爷"用英语怎么说？ 五，四，三，二，一。grandpa
+原文: Well, this is my ping-pong bat, and the old one is my grandpa's.
+
+行号4  
+Do you often play ping-pong together?  
+你们经常一起打乒乓球吗？  
+Do you often play ping-pong together?  
+问题:  
+"一起"用英语怎么说？ 五，四，三，二，一。together <prosody rate="slow"><say-as interpret-as="spell-out">T O G E T H E R</say-as></prosody>  
+"经常"用英语怎么说？ 五，四，三，二，一。often <prosody rate="slow"><say-as interpret-as="spell-out">O F T E N</say-as></prosody>  
+原文: Do you often play ping-pong together?
+
+行号5  
+Yes, we play every week. My grandpa loves sport.  
+是的，我们每周都玩。我爷爷热爱运动。  
+Yes, we play every week. My grandpa loves sport.  
+问题:  
+"爱"用英语怎么说？ 五，四，三，二，一。love <prosody rate="slow"><say-as interpret-as="spell-out">L O V E</say-as></prosody>  
+"运动"用英语怎么说？ 五，四，三，二，一。sport <prosody rate="slow"><say-as interpret-as="spell-out">S P O R T</say-as></prosody>  
+"每周"用英语怎么说？ 五，四，三，二，一。every week  
+原文: Yes, we play every week. My grandpa loves sport.
+
+行号6  
+Whose fishing rods are those?  
+那些钓鱼竿是谁的？  
+Whose fishing rods are those?  
+问题:  
+"钓鱼竿"用英语怎么说？ 五，四，三，二，一。fishing rods  
+"那些"用英语怎么说？ 五，四，三，二，一。those <prosody rate="slow"><say-as interpret-as="spell-out">T H O S E</say-as></prosody>  
+原文: Whose fishing rods are those?
+
+行号7  
+They're my father's. He spends a lot of time fishing.  
+它们是我父亲的。他花很多时间钓鱼。  
+They're my father's. He spends a lot of time fishing.  
+问题:  
+"花费"用英语怎么说？ 五，四，三，二，一。spend <prosody rate="slow"><say-as interpret-as="spell-out">S P E N D</say-as></prosody>  
+"很多时间"用英语怎么说？ 五，四，三，二，一。a lot of time  
+原文: They're my father's. He spends a lot of time fishing.
+
+行号8  
+Hey, do you play the piano?  
+嘿，你弹钢琴吗？  
+Hey, do you play the piano?  
+问题:  
+"弹钢琴"用英语怎么说？ 五，四，三，二，一。play the piano  
+原文: Hey, do you play the piano?
+
+行号9  
+No, I don't. It's my mother's piano. She can play it really well!  
+不，我不弹。它是我母亲的钢琴。她弹得非常好！  
+No, I don't. It's my mother's piano. She can play it really well!  
+
+总结全文  
+彼得来访时讨论了家庭成员的体育和音乐爱好，如乒乓球、钓鱼和弹钢琴。  
+Peter visits and discusses the family's sports and music hobbies, such as ping-pong, fishing, and playing the piano.

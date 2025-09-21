@@ -1,0 +1,153 @@
+行号1  
+Conversation 1: Morning, Emma.  
+对话1：早上好，Emma。  
+Conversation 1: Morning, Emma.  
+问题:  
+"对话"用英语怎么说？ 五，四，三，二，一。conversation <prosody rate="slow"><say-as interpret-as="spell-out">C O N V E R S A T I O N</say-as></prosody>  
+原文: Conversation 1: Morning, Emma.  
+
+行号2  
+Oh, hi, Yaming! Glad to see you here in the park!  
+哦，嗨，Yaming！很高兴在公园见到你！  
+Oh, hi, Yaming! Glad to see you here in the park!  
+问题:  
+"高兴的"用英语怎么说？ 五，四，三，二，一。glad <prosody rate="slow"><say-as interpret-as="spell-out">G L A D</say-as></prosody>
+"在公园"用英语怎么说？ 五，四，三，二，一。in the park  
+原文: Oh, hi, Yaming! Glad to see you here in the park!  
+
+行号3  
+Me too. Emma, these are my parents. Dad and Mum, this is my classmate, Emma.  
+我也是。Emma，这些是我的父母。爸爸和妈妈，这是我的同学，Emma。  
+Me too. Emma, these are my parents. Dad and Mum, this is my classmate, Emma.  
+问题:  
+"这些"用英语怎么说？ 五，四，三，二，一。these <prosody rate="slow"><say-as interpret-as="spell-out">T H E S E</say-as></prosody>  
+"父母"用英语怎么说？ 五，四，三，二，一。parents <prosody rate="slow"><say-as interpret-as="spell-out">P A R E N T S</say-as></prosody>  
+原文: Me too. Emma, these are my parents. Dad and Mum, this is my classmate, Emma.  
+
+行号4  
+Nice to meet you, Emma.  
+很高兴认识你，Emma。  
+Nice to meet you, Emma.  
+
+
+行号5  
+Nice to meet you too, Mr and Mrs Wang.  
+也很高兴认识你，王先生和王太太。  
+Nice to meet you too, Mr and Mrs Wang.  
+问题:  
+"先生"用英语怎么说？ 五，四，三，二，一。Mr <prosody rate="slow"><say-as interpret-as="spell-out">M R</say-as></prosody>  
+"太太"用英语怎么说？ 五，四，三，二，一。Mrs <prosody rate="slow"><say-as interpret-as="spell-out">M R S</say-as></prosody>  
+原文: Nice to meet you too, Mr and Mrs Wang.  
+
+行号6  
+And this is my sister, Yaqi.  
+这是我的妹妹，Yaqi。  
+And this is my sister, Yaqi.  
+
+
+行号7  
+Hi, Yaqi!  
+嗨，Yaqi！  
+Hi, Yaqi!  
+
+
+行号8  
+Hi, Emma!  
+嗨，Emma！  
+Hi, Emma!  
+
+
+行号9  
+Conversation 2: Is this your family photo, Peter?  
+对话2：这是你的家庭照片吗，Peter？  
+Conversation 2: Is this your family photo, Peter?  
+问题:  
+"家庭照片"用英语怎么说？ 五，四，三，二，一。family photo  
+原文: Conversation 2: Is this your family photo, Peter?  
+
+行号10  
+Yes, it is.  
+是的，它是。  
+Yes, it is.  
+
+
+行号11  
+Are these your parents?  
+这些是你的父母吗？  
+Are these your parents?  
+问题:  
+"父母"用英语怎么说？ 五，四，三，二，一。parents <prosody rate="slow"><say-as interpret-as="spell-out">P A R E N T S</say-as></prosody>  
+原文: Are these your parents?  
+
+行号12  
+Yes, they are.  
+是的，他们是。  
+Yes, they are.  
+
+
+行号13  
+Who's he?  
+他是谁？  
+Who's he?  
+
+
+行号14  
+He's my father's brother, my uncle. And this is my aunt.  
+他是我父亲的兄弟，我的叔叔。这是我的阿姨。  
+He's my father's brother, my uncle. And this is my aunt.  
+问题:  
+"叔叔"用英语怎么说？ 五，四，三，二，一。uncle <prosody rate="slow"><say-as interpret-as="spell-out">U N C L E</say-as></极></prosody>  
+"阿姨"用英语怎么说？ 五，四，三，二，一。aunt <prosody rate="slow"><say-as interpret-as="spell-out">A U N T</say-as></prosody>  
+原文: He's my father's brother, my uncle. And this is my aunt.  
+
+行号15  
+Who's she?  
+她是谁？  
+Who's she?  
+
+
+行号16  
+She's my sister, Helen.  
+她是我的姐姐，Helen。  
+She's my sister, Helen.  
+  
+
+行号17  
+Is this your brother?  
+这是你的兄弟吗？  
+Is this your brother?  
+  
+
+行号18  
+No, it's my cousin, David. This is my brother, Jim.  
+不，它是我的表弟，David。这是我的兄弟，Jim。  
+No, it's my cousin, David. This is my brother, Jim.  
+问题:  
+"表弟"用英语怎么说？ 五，四，三，二，一。cousin <prosody rate="slow"><say-as interpret-as="spell-out">C O U S I N</say-as></prosody>  
+原文: No, it's my cousin, David. This is my brother, Jim.  
+
+行号19  
+Who are they?  
+他们是谁？  
+Who are they?  
+
+
+行号20  
+They're my grandparents. They're my father's parents.  
+他们是我的祖父母。他们是我父亲的父母。  
+They're my grandparents. They're my father's parents.  
+问题:  
+"祖父母"用英语怎么说？ 五，四，三，二，一。grandparents  
+原文: They're my grandparents. They're my father's parents.  
+
+行号21  
+What a happy family!  
+多么幸福的家庭啊！  
+What a happy family!  
+问题:  
+"幸福的家庭"用英语怎么说？ 五，四，三，二，一。happy family  
+原文: What a happy family!  
+
+总结全文  
+对话中人物互相问候并介绍家庭成员，展示了一个幸福的家庭。  
+In the conversations, characters greet each other and introduce family members, showing a happy family.

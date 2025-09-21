@@ -1,0 +1,54 @@
+行号1  
+I’m Hu Xiao. This is my family photo.  
+我是胡晓。这是我的家庭照片。  
+I’m Hu Xiao. This is my family photo.  
+问题:  
+"家庭照片"用英语怎么说？ 五，四，三，二，一。family photo  
+原文: I’m Hu Xiao. This is my family photo.  
+
+行号2  
+Here’s my dad. He’s handsome and funny. My dad’s favourite sport is playing football. He plays it every week.  
+这是我爸爸。他很英俊和有趣。我爸爸最喜欢的运动是踢足球。他每周都玩。  
+Here’s my dad. He’s handsome and funny. My dad’s favourite sport is playing football. He plays it every week.  
+问题:  
+"英俊"用英语怎么说？ 五，四，三，二，一。handsome <prosody rate="slow"><say-as interpret-as="spell-out">H A N D S O M E</say-as></prosody>  
+"踢足球"用英语怎么说？ 五，四，三，二，一。play football  
+原文: Here’s my dad. He’s handsome and funny. My dad’s favourite sport is playing football. He plays it every week.  
+
+行号3  
+Next to him is my mum. She’s beautiful and kind. She likes to go hiking.  
+在他旁边是我妈妈。她很漂亮和善良。她喜欢去远足。  
+Next to him is my mum. She’s beautiful and kind. She likes to go hiking.  
+问题:  
+"善良"用英语怎么说？ 五，四，三，二，一。kind <prosody rate="slow"><say-as interpret-as="spell-out">K I N D</say-as></prosody>  
+"去远足"用英语怎么说？ 五，四，三，二，一。go hiking  
+"旁边"用英语怎么说？ 五，四，三，二，一。next to  
+原文: Next to him is my mum. She’s beautiful and kind. She likes to go hiking.  
+
+行号4  
+The tall girl is me. I’m always happy, and I love animals.  
+那个高个子女孩是我。我总是很快乐，并且我爱动物。  
+The tall girl is me. I’m always happy, and I love animals.  
+问题:  
+"动物"用英语怎么说？ 五，四，三，二，一。animal <prosody rate="slow"><say-as interpret-as="spell-out">A N I M A L</say-as></prosody>  
+原文: The tall girl is me. I’m always happy, and I love animals.  
+
+行号5  
+This is my little brother, Hu Rui. He has big eyes. He’s very clever, and he likes reading a lot.  
+这是我的小弟弟，胡瑞。他有大眼睛。他非常聪明，并且他非常喜欢阅读。  
+This is my little brother, Hu Rui. He has big eyes. He’s very clever, and he likes reading a lot.  
+问题:  
+"非常喜欢阅读"用英语怎么说？ 五，四，三，二，一。like reading a lot
+原文: This is my little brother, Hu Rui. He has big eyes. He’s very clever, and he likes reading a lot.  
+
+行号6  
+We love and help each other.  
+我们爱和帮助彼此。  
+We love and help each other.  
+问题:  
+"彼此"用英语怎么说？ 五，四，三，二，一。each other  
+原文: We love and help each other.  
+
+总结全文  
+胡晓介绍了她的家人，包括爸爸、妈妈、弟弟和她自己，描述了他们的特点和爱好，并表达家庭成员之间的爱和帮助。  
+Hu Xiao introduces her family, including her dad, mum, little brother, and herself, describes their characteristics and hobbies, and expresses the love and help among family members.
