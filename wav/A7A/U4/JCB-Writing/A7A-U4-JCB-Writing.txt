@@ -1,0 +1,55 @@
+行号1  
+Hi, everyone! I'm Li Hong, a 13-year-old girl from Dalian.  
+大家好！我是李红，一个来自大连的13岁女孩。  
+Hi, everyone! I'm Li Hong, a 13-year-old girl from Dalian.  
+
+行号2  
+My favourite subject is science. Why?  
+我最喜欢的科目是科学。为什么？  
+My favourite subject is science. Why?  
+问题:  
+"最喜欢的科目"用英语怎么说？ 五，四，三，二，一。favourite subject  
+"科学"用英语怎么说？ 五，四，三，二，一。science <prosody rate="slow"><say-as interpret-as="spell-out">S C I E N C E</say-as></prosody>  
+原文: My favourite subject is science. Why?  
+
+行号3  
+Well, first, science is really fascinating. When I study science, I feel like I'm exploring a whole new world.  
+嗯，首先，科学真的很有趣。当我学习科学时，我感觉像是在探索一个全新的世界。  
+Well, first, science is really fascinating. When I study science, I feel like I'm exploring a whole new world.  
+问题:  
+"感觉"用英语怎么说？ 五，四，三，二，一。feel <prosody rate="slow"><say-as interpret-as="spell-out">F E E L</say-as></prosody>  
+"探索"用英语怎么说？ 五，四，三，二，一。explore <prosody rate="slow"><say-as interpret-as="spell-out">E X P L O R E</say-as></prosody>  
+原文: Well, first, science is really fascinating. When I study science, I feel like I'm exploring a whole new world.  
+
+行号4  
+Second, our science teacher is super humorous. His classes are always full of fun. He can make difficult knowledge easy to understand.  
+第二，我们的科学老师超级幽默。他的课总是充满乐趣。他能使难懂的知识变得容易理解。  
+Second, our science teacher is super humorous. His classes are always full of fun. He can make difficult knowledge easy to understand.  
+问题:  
+"幽默"用英语怎么说？ 五，四，三，二，一。humorous <prosody rate="slow"><say-as interpret-as="spell-out">H U M O R O U S</say-as></prosody>
+"充满"用英语怎么说？ 五，四，三，二，一。full of  
+"理解"用英语怎么说？ 五，四，三，二，一。understand <prosody rate="slow"><say-as interpret-as="spell-out">U N D E R S T A N D</say-as></prosody>  
+原文: Second, our science teacher is super humorous. His classes are always full of fun. He can make difficult knowledge easy to understand.  
+
+行号5  
+Also, in science class, we get to do experiments. It's so cool to see how things work through experiments.  
+另外，在科学课上，我们有机会做实验。通过实验看到事物如何运作真是太酷了。  
+Also, in science class, we get to do experiments. It's so cool to see how things work through experiments.  
+问题:  
+"实验"用英语怎么说？ 五，四，三，二，一。experiment <prosody rate="slow"><say-as interpret-as="spell-out">E X P E R I M E N T</say-as></prosody>  
+"通过"用英语怎么说？ 五，四，三，二，一。through <prosody rate="slow"><say-as interpret-as="spell-out">T H R O U G H</say-as></prosody>  
+原文: Also, in science class, we get to do experiments. It's so cool to see how things work through experiments.  
+
+行号6  
+Because of my love for science, I hope to be a scientist in the future. I want to keep discovering amazing things in the world of science.  
+因为我对科学的热爱，我希望未来成为一名科学家。我想持续在科学的世界里发现惊人的事物。  
+Because of my love for science, I hope to be a scientist in the future. I want to keep discovering amazing things in the world of science.  
+问题:  
+"希望"用英语怎么说？ 五，四，三，二，一。hope <prosody rate="slow"><say-as interpret-as="spell-out">H O P E</say-as></prosody>  
+"持续"用英语怎么说？ 五，四，三，二，一。keep <prosody rate="slow"><say-as interpret-as="spell-out">K E E P</say-as></prosody>  
+"发现"用英语怎么说？ 五，四，三，二，一。discover <prosody rate="slow"><say-as interpret-as="spell-out">D I S C O V E R</say-as></prosody>
+原文: Because of my love for science, I hope to be a scientist in the future. I want to keep discovering amazing things in the world of science.  
+
+总结全文  
+李红通过描述科学的有趣、老师的幽默和实验的体验来表达对科学的热爱，并立志成为科学家。  
+Li Hong expresses her love for science by describing its fascination, the teacher's humor, and the experience of experiments, and aspires to be a scientist.
