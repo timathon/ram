@@ -370,88 +370,40 @@ function updatePlayTimeDisplay() {
     timeString = `${paddedMinutes}:${paddedSeconds}`;
   }
 
-  // Create a container for play time and speed control to keep them together
-  let infoContainer = document.getElementById('infoContainer');
-  if (!infoContainer) {
-    const controlsDiv = document.querySelector('.controls');
-    infoContainer = document.createElement('div');
-    infoContainer.id = 'infoContainer';
-    infoContainer.style.display = 'flex';
-    infoContainer.style.alignItems = 'center';
-    infoContainer.style.flexWrap = 'wrap';
-    infoContainer.style.gap = '15px';
-    infoContainer.style.marginLeft = '15px';
-    controlsDiv.appendChild(infoContainer);
-  }
-
+  // Update progress bar (0-900 seconds = 0-100%)
+  const maxTime = 900; // 15 minutes in seconds
+  const progressPercent = Math.min(100, (dailyPlayTime.time / maxTime) * 100);
+  
   // Update display in controls area
   let playTimeDisplay = document.getElementById('playTimeDisplay');
-  if (!playTimeDisplay) {
-    playTimeDisplay = document.createElement('div');
-    playTimeDisplay.id = 'playTimeDisplay';
-    playTimeDisplay.style.padding = '10px';
-    playTimeDisplay.style.backgroundColor = '#f0f0f0';
-    playTimeDisplay.style.borderRadius = '4px';
-    playTimeDisplay.style.fontWeight = 'bold';
-    infoContainer.appendChild(playTimeDisplay);
-  }
-  playTimeDisplay.textContent = `Today: ${timeString}`;
-
-  // Add playback speed control after play time display
-  let speedControl = document.getElementById('speedControl');
-  if (!speedControl) {
-    speedControl = document.createElement('select');
-    speedControl.id = 'speedControl';
-    speedControl.style.padding = '8px';
-    speedControl.style.borderRadius = '4px';
-    speedControl.style.border = '1px solid #ccc';
-    speedControl.style.fontSize = '14px';
-    speedControl.style.backgroundColor = 'white';
-
-    // Add speed options
-    const speedOptions = [
-      { value: '0.5', text: '0.5x' },
-      { value: '0.75', text: '0.75x' },
-      { value: '1', text: '1x' },
-      { value: '1.25', text: '1.25x' },
-      { value: '1.5', text: '1.5x' }
-    ];
-
-    speedOptions.forEach(option => {
-      const opt = document.createElement('option');
-      opt.value = option.value;
-      opt.textContent = option.text;
-      speedControl.appendChild(opt);
-    });
-
-    // Set default value to 1x
-    speedControl.value = '1';
-
-    infoContainer.appendChild(speedControl);
-
-    // Add event listener to update playback speed
-    speedControl.addEventListener('change', function() {
-      const audio = document.getElementById('audio');
-      audio.playbackRate = parseFloat(this.value);
-    });
+  if (playTimeDisplay) {
+    // Update progress bar width
+    const progressBar = document.getElementById('progressBar');
+    if (progressBar) {
+      progressBar.style.width = `${progressPercent}%`;
+    }
+    
+    // Update text
+    const progressText = document.getElementById('progressText');
+    if (progressText) {
+      progressText.textContent = `Today: ${timeString}`;
+    }
   }
 }
 
 // Add Next and Previous buttons to controls
 window.addEventListener('DOMContentLoaded', () => {
-  const controlsDiv = document.querySelector('.controls');
-  const prevBtn = document.createElement('button');
-  prevBtn.id = 'prevBtn';
-  prevBtn.textContent = '<<';
-  controlsDiv.appendChild(prevBtn);
-
-  const nextBtn = document.createElement('button');
-  nextBtn.id = 'nextBtn';
-  nextBtn.textContent = '>>';
-  controlsDiv.appendChild(nextBtn);
-
   // Initialize daily play time tracking
   window.state.loadDailyPlayTime();
+  
+  // Add event listener to speed control
+  const speedControl = document.getElementById('speedControl');
+  if (speedControl) {
+    speedControl.addEventListener('change', function() {
+      const audio = document.getElementById('audio');
+      audio.playbackRate = parseFloat(this.value);
+    });
+  }
 });
 
 // Document event listeners for checkboxes
