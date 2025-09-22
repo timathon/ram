@@ -7,7 +7,8 @@ let playerState = {
   fileIdx: 0,
   loopIdx: 1,
   isPlaying: false,
-  playStartTime: null
+  playStartTime: null,
+  continuousPlayback: false
 };
 
 // Make playerState globally accessible
@@ -64,8 +65,11 @@ function savePlaybackState() {
       currentTime: currentTime,
       isPlaying: playerState.isPlaying,
       loopCount: playerState.loopCount,
+      continuousPlayback: playerState.continuousPlayback,
       date: new Date().toDateString() // For expiration check
     };
+    
+    console.log('Saving playback state with continuousPlayback:', playerState.continuousPlayback);
     
     // Save to localStorage
     localStorage.setItem('playbackState', JSON.stringify(state));
@@ -154,6 +158,7 @@ async function applyPlaybackState(state) {
             playerState.fileIdx = state.currentFileIdx || 0;
             playerState.loopCount = state.loopCount || 1;
             playerState.isPlaying = state.isPlaying || false;
+            playerState.continuousPlayback = state.continuousPlayback || false;
             
             // Update select all checkbox
             window.ui.updateSelectAllCheckbox();
@@ -161,6 +166,13 @@ async function applyPlaybackState(state) {
             // Set loop count
             if (globalLoopCount) {
               globalLoopCount.value = playerState.loopCount;
+            }
+            
+            // Set continuous playback checkbox
+            const continuousPlaybackCheckbox = document.getElementById('continuousPlayback');
+            if (continuousPlaybackCheckbox) {
+              continuousPlaybackCheckbox.checked = playerState.continuousPlayback;
+              console.log('Restored continuous playback setting:', playerState.continuousPlayback);
             }
             
             // If was playing, restore playback

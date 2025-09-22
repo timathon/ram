@@ -184,6 +184,11 @@
       width: 60px;
     }
 
+    /* Style for continuous playback checkbox */
+    #continuousPlayback {
+      width: auto;
+    }
+
     #audio {
       width: 100%;
       margin-top: 15px;
@@ -289,13 +294,19 @@
           </div>
           <div>
             <label for="globalLoopCount">Loop:</label>
-            <select id="globalLoopCount">
-              <option value="1" selected>1</option>
-              <option value="2">2</option>
-              <option value="3">3</option>
-              <option value="4">4</option>
-              <option value="5">5</option>
-            </select>
+            <div style="display: flex; align-items: center; gap: 10px;">
+              <select id="globalLoopCount">
+                <option value="1" selected>1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+              </select>
+              <label style="display: flex; align-items: center; margin: 0;">
+                <input type="checkbox" id="continuousPlayback" style="margin-right: 5px;">
+                C
+              </label>
+            </div>
           </div>
         </div>
       </div>

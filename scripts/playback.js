@@ -140,10 +140,66 @@ async function playCurrent() {
   const files = window.playerState.selectedFiles;
   const idx = window.playerState.fileIdx;
   if (idx < 0 || idx >= files.length) {
+    // Check if continuous playback is enabled
+    if (window.playerState.continuousPlayback && files.length > 0) {
+      // Move to the next section in the same unit
+      const currentTextbook = files[0].textbook;
+      const currentUnit = files[0].unit;
+      
+      // Get all sections in the current unit
+      const allSections = Object.keys(((window.indexData || {})[currentTextbook] || {})[currentUnit] || {});
+      
+      // Find the current section index
+      const currentSection = files[0].section;
+      const currentSectionIndex = allSections.indexOf(currentSection);
+      
+      // If there's a next section, load its files
+      if (currentSectionIndex >= 0 && currentSectionIndex < allSections.length - 1) {
+        const nextSection = allSections[currentSectionIndex + 1];
+        const nextSectionFiles = (((window.indexData || {})[currentTextbook] || {})[currentUnit] || {})[nextSection] || [];
+        
+        console.log(`Continuous playback: Moving from section '${currentSection}' to '${nextSection}'`);
+        
+        // Convert to proper file objects
+        const nextFiles = nextSectionFiles.map(file => ({
+          textbook: currentTextbook,
+          unit: currentUnit,
+          section: nextSection,
+          file: file
+        }));
+        
+        // Update UI to show the next section
+        document.getElementById('sectionSelect').value = nextSection;
+        window.setSelectedValues(currentTextbook, currentUnit, nextSection);
+        window.ui.updateFiles();
+        
+        // Select all files in the next section
+        document.querySelectorAll('.file-checkbox').forEach(cb => {
+          cb.checked = true;
+        });
+        
+        // Update player state with new files
+        window.playerState.selectedFiles = nextFiles;
+        window.playerState.fileIdx = 0;
+        window.playerState.loopIdx = 1;
+        
+        // Save state
+        window.state.savePlaybackState();
+        
+        // Continue playing with the new files
+        playCurrent();
+        return;
+      } else {
+        console.log('Continuous playback: No more sections in this unit');
+      }
+    }
+    
+    // If no continuous playback or no more sections, stop playback
     window.playerState.isPlaying = false;
     window.ui.highlightPlayingFile(null);
     window.state.stopPlayTimeTracking(); // Stop tracking when playback finishes
     window.state.savePlaybackState(); // Save state when playback finishes
+    console.log('Playback finished');
     return;
   }
   const { textbook, unit, section, file } = files[idx];

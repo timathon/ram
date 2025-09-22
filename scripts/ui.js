@@ -45,6 +45,17 @@ function buildUI() {
       window.state.savePlaybackState(); // Save state when loop count changes
     });
   }
+  
+  // Add event listener for continuousPlayback checkbox
+  const continuousPlaybackInput = document.getElementById('continuousPlayback');
+  if (continuousPlaybackInput) {
+    continuousPlaybackInput.addEventListener('change', function () {
+      const newValue = this.checked;
+      getPlayerState().continuousPlayback = newValue;
+      window.state.savePlaybackState(); // Save state when continuous playback changes
+      console.log('Continuous playback setting changed to:', newValue);
+    });
+  }
 
   // Initial population - get textbooks from local data only
   const allTextbooks = Object.keys(window.indexData || {});
