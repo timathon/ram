@@ -312,11 +312,13 @@
       </div>
     </div>
     <div class="file-box">
-      <span class="file-box-title">Files: 0 of 0 selected</span>
-      <label style="margin-bottom:0 8px;">
-        <input type="checkbox" id="selectAllFiles" checked>
-        Select All
-      </label>
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <span class="file-box-title">Files: 0 of 0 selected</span>
+        <label for="selectAllFiles" style="margin: 0; display: flex; align-items: center;">
+          <input type="checkbox" id="selectAllFiles" checked>
+          <span style="margin-left: 5px;">Select All</span>
+        </label>
+      </div>
       <ul id="fileListDiv" class="file-list"></ul>
     </div>
 
