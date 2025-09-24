@@ -1,0 +1,195 @@
+行号1  
+One-A. Read the comments from some students and discuss what clubs they should join.  
+One-A. 阅读一些学生的评论并讨论他们应该加入什么社团。  
+One-A. Read the comments from some students and discuss what clubs they should join.  
+问题:  
+"阅读评论"用英语怎么说？ 五，四，三，二，一。read comments  
+"加入社团"用英语怎么说？ 五，四，三，二，一。join clubs  
+"讨论"用英语怎么说？ 五，四，三，二，一。discuss  
+原文: One-A. Read the comments from some students and discuss what clubs they should join.  
+作用: 引入任务主题，说明需要根据学生评论匹配社团  
+
+行号2  
+Alice: I'm good at telling stories. I often act out stories with my brother at home.  
+爱丽丝：我擅长讲故事。我经常在家和弟弟表演故事。  
+Alice: I'm good at telling stories. I often act out stories with my brother at home.  
+问题:  
+"擅长"用英语怎么说？ 五，四，三，二，一。be good at  
+"表演故事"用英语怎么说？ 五，四，三，二，一。act out stories  
+"在家"用英语怎么说？ 五，四，三，二，一。at home  
+原文: Alice: I'm good at telling stories. I often act out stories with my brother at home.  
+作用: 展示Alice的特长（讲故事和表演）  
+
+行号3  
+Lin Hui: I'm interested in nature. I love hiking, and I can read maps.  
+林辉：我对大自然感兴趣。我喜欢徒步旅行，并且能看懂地图。  
+Lin Hui: I'm interested in nature. I love hiking, and I can read maps.  
+问题:  
+"对...感兴趣"用英语怎么说？ 五，四，三，二，一。be interested in  
+"徒步旅行"用英语怎么说？ 五，四，三，二，一。hiking <prosody rate="slow"><say-as interpret-as="spell-out">H I K I N G</say-as></prosody> hiking  
+"看懂地图"用英语怎么说？ 五，四，三，二，一。read maps  
+原文: Lin Hui: I'm interested in nature. I love hiking, and I can read maps.  
+作用: 说明Lin Hui的兴趣（自然和户外技能）  
+
+行号4  
+Jack: I can't cook, but I love great food. I want to cook for my family.  
+杰克：我不会做饭，但我热爱美食。我想为家人做饭。  
+Jack: I can't cook, but I love great food. I want to cook for my family.  
+问题:  
+"做饭"用英语怎么说？ 五，四，三，二，一。cook <prosody rate="slow"><say-as interpret-as="spell-out">C O O K</say-as></prosody> cook  
+"为家人"用英语怎么说？ 五，四，三，二，一。for my family  
+原文: Jack: I can't cook, but I love great food. I want to cook for my family.  
+作用: 表达Jack的矛盾（不会烹饪但有学习意愿）  
+
+行号5  
+One-B. Read the ads. Choose a suitable club for each student in 1a and tell your reasons.  
+One-B. 阅读广告。为1a中的每个学生选择合适的社团并说明理由。  
+One-B. Read the ads. Choose a suitable club for each student in 1a and tell your reasons.  
+问题:  
+"阅读广告"用英语怎么说？ 五，四，三，二，一。read ads  
+"说明理由"用英语怎么说？ 五，四，三，二，一。tell reasons  
+"选择"用英语怎么说？ 五，四，三，二，一。choose <prosody rate="slow"><say-as interpret-as="spell-out">C H O O S E</say-as></prosody> choose 
+原文: One-B. Read the ads. Choose a suitable club for each student in 1a and tell your reasons.  
+作用: 明确任务要求（匹配社团并解释）  
+
+行号6  
+We Want You!  
+我们需要你！  
+We Want You!  
+作用: 广告标题，吸引注意  
+
+行号7  
+Cooking Club. Do you love Chinese food? Can you cook? Join our cooking club!  
+烹饪社。你热爱中餐吗？你会做饭吗？加入我们的烹饪社吧！  
+Cooking Club. Do you love Chinese food? Can you cook? Join our cooking club!  
+问题:  
+"加入"用英语怎么说？ 五，四，三，二，一。join  
+"烹饪社"用英语怎么说？ 五，四，三，二，一。cooking club  
+原文: Cooking Club. Do you love Chinese food? Can you cook? Join our cooking club!  
+作用: 烹饪社的核心招募信息  
+
+行号8  
+Let's learn to cook your favourite Chinese food. Mapo tofu, beef noodles, jiaozi, baozi...You name it!  
+让我们学习烹饪你最爱的中餐。麻婆豆腐、牛肉面、饺子、包子...应有尽有！  
+Let's learn to cook your favourite Chinese food. Mapo tofu, beef noodles, jiaozi, baozi...You name it!  
+问题:  
+"学习烹饪"用英语怎么说？ 五，四，三，二，一。learn to cook  
+"应有尽有"用英语怎么说？ 五，四，三，二，一。you name it  
+原文: Let's learn to cook your favourite Chinese food. Mapo tofu, beef noodles, jiaozi, baozi...You name it!  
+作用: 说明烹饪社的教学内容  
+
+行号9  
+You can soon cook for your family.  
+你很快就能为家人做饭了。  
+You can soon cook for your family.  
+问题:  
+"很快"用英语怎么说？ 五，四，三，二，一。soon <prosody rate="slow"><say-as interpret-as="spell-out">S O O N</say-as></prosody> soon
+"为家人做饭"用英语怎么说？ 五，四，三，二，一。cook for your family  
+原文: You can soon cook for your family.  
+作用: 强调烹饪社的学习成果  
+
+行号10  
+Join us in Room 303 at 4:30 p.m. on Wednesdays.  
+每周三下午4:30在303室加入我们。  
+Join us in Room 303 at 4:30 p.m. on Wednesdays.  
+问题:  
+"每周三"用英语怎么说？ 五，四，三，二，一。on Wednesdays  
+原文: Join us in Room 303 at 4:30 p.m. on Wednesdays.  
+作用: 提供具体参与信息  
+
+行号11  
+Email Ma Xiaohui at maxh.food@happymail.com for more information.  
+发送邮件至maxh.food@happymail.com联系马小慧获取更多信息。  
+Email Ma Xiaohui at maxh.food@happymail.com for more information.  
+问题:  
+"获取信息"用英语怎么说？ 五，四，三，二，一。for more information  
+原文: Email Ma Xiaohui at maxh.food@happymail.com for more information.  
+作用: 提供联系方式  
+
+行号12  
+Book Club. Do you like reading? Join our book club!  
+书社。你喜欢阅读吗？加入我们的书社吧！  
+Book Club. Do you like reading? Join our book club!  
+问题:  
+"书社"用英语怎么说？ 五，四，三，二，一。book club  
+原文: Book Club. Do you like reading? Join our book club!  
+作用: 书社的核心招募信息  
+
+行号13  
+It's more than reading. We act out stories, talk about books, and make new friends.  
+不仅是阅读。我们表演故事、讨论书籍、结交新朋友。  
+It's more than reading. We act out stories, talk about books, and make new friends.  
+问题:  
+"表演故事"用英语怎么说？ 五，四，三，二，一。act out stories  
+"讨论书籍"用英语怎么说？ 五，四，三，二，一。talk about books  
+"结交朋友"用英语怎么说？ 五，四，三，二，一。make friends  
+原文: It's more than reading. We act out stories, talk about books, and make new friends.  
+作用: 说明书社的额外活动  
+
+行号14  
+Books can open your mind and make you think.  
+书籍能开阔思维并引发思考。  
+Books can open your mind and make you think.  
+问题:  
+"开阔你的思维"用英语怎么说？ 五，四，三，二，一。open your mind  
+"引发你思考"用英语怎么说？ 五，四，三，二，一。make you think  
+原文: Books can open your mind and make you think.  
+作用: 强调阅读的价值  
+
+行号15  
+Come to the library on Tuesdays after school and fall in love with books!  
+每周二放学后来图书馆，爱上阅读吧！  
+Come to the library on Tuesdays after school and fall in love with books!  
+问题:  
+"爱上阅读"用英语怎么说？ 五，四，三，二，一。fall in love with books 
+原文: Come to the library on Tuesdays after school and fall in love with books!  
+作用: 提供参与时间和地点  
+
+行号16  
+Email Bill at billwhite@happymail.com for more information.  
+发送邮件至billwhite@happymail.com联系比尔获取更多信息。  
+Email Bill at billwhite@happymail.com for more information.  
+原文: Email Bill at billwhite@happymail.com for more information.  
+作用: 提供联系方式  
+
+行号17  
+Nature Club. Do you love nature? Can you take good photos? Come hiking with us every Sunday afternoon!  
+自然社。你热爱自然吗？你能拍好照片吗？每周日下午和我们一起徒步吧！  
+Nature Club. Do you love nature? Can you take good photos? Come hiking with us every Sunday afternoon!  
+问题:  
+"自然社"用英语怎么说？ 五，四，三，二，一。nature club  
+"拍好照片"用英语怎么说？ 五，四，三，二，一。take good photos  
+"和我们一起徒步"用英语怎么说？ 五，四，三，二，一。come hiking with us  
+原文: Nature Club. Do you love nature? Can you take good photos? Come hiking with us every Sunday afternoon!  
+作用: 自然社的核心招募信息  
+
+行号18  
+We watch birds, take photos, and collect plants and insects.  
+我们观察鸟类、拍照、收集植物和昆虫。  
+We watch birds, take photos, and collect plants and insects.  
+问题:  
+"观察鸟类"用英语怎么说？ 五，四，三，二，一。watch birds  
+"收集植物"用英语怎么说？ 五，四，三，二，一。collect plants  
+原文: We watch birds, take photos, and collect plants and insects.  
+作用: 列举自然社的具体活动  
+
+行号19  
+We also visit nature parks. Discover wildlife right under your nose!  
+我们还会参观自然公园。发现就在你身边的野生动物！  
+We also visit nature parks. Discover wildlife right under your nose!  
+问题:  
+"参观自然公园"用英语怎么说？ 五，四，三，二，一。visit nature parks  
+"发现野生动物"用英语怎么说？ 五，四，三，二，一。discover wildlife  
+原文: We also visit nature parks. Discover wildlife right under your nose!  
+作用: 补充活动内容和宣传语  
+
+行号20  
+Email Jenny at jenny66@happymail.com for more information.  
+发送邮件至jenny66@happymail.com联系珍妮获取更多信息。  
+Email Jenny at jenny66@happymail.com for more information.  
+原文: Email Jenny at jenny66@happymail.com for more information.  
+作用: 提供联系方式  
+
+总结全文  
+学生应根据个人兴趣与能力匹配社团：Alice加入书社（表演故事），Lin Hui加入自然社（热爱自然），Jack加入烹饪社（想学做饭）。  
+Students should match clubs based on interests: Alice to Book Club (acting), Lin Hui to Nature Club (hiking), Jack to Cooking Club (learning to cook).
