@@ -1,0 +1,78 @@
+行号1  
+She always understands what's happening. She's very intelligent.  
+她总是理解发生了什么。她非常聪明。  
+She always understands what's happening. She's very intelligent.  
+问题:  
+"聪明的用英语怎么说？" 五，四，三，二，一。intelligent <prosody rate="slow"><say-as interpret-as="spell-out">I N T E L L I G E N T</say-as></prosody> intelligent  
+"理解用英语怎么说？" 五，四，三，二，一。understand <prosody rate="slow"><say-as interpret-as="spell-out">U N D E R S T A N D</say-as></prosody> understand  
+"发生了什么用英语怎么说？" 五，四，三，二，一。what's happening  
+原文: She always understands what's happening. She's very intelligent.
+
+行号2  
+I'm sure I passed the exam. I'm very confident about it.  
+我确定我通过了考试。我对此非常自信。  
+I'm sure I passed the exam. I'm very confident about it.  
+问题:  
+"自信的用英语怎么说？" 五，四，三，二，一。confident <prosody rate="slow"><say-as interpret-as="spell-out">C O N F I D E N T</say-as></prosody> confident  
+"通过考试用英语怎么说？" 五，四，三，二，一。pass the exam
+原文: I'm sure I passed the exam. I'm very confident about it.
+
+行号3  
+The film was awful! I was really bored!  
+电影太糟糕了！我真的无聊！  
+The film was awful! I was really bored!  
+问题:  
+"无聊的用英语怎么说？" 五，四，三，二，一。bored <prosody rate="slow"><say-as interpret-as="spell-out">B O R E D</say-as></prosody> bored  
+"糟糕的用英语怎么说？" 五，四，三，二，一。awful <prosody rate="slow"><say-as interpret-as="spell-out">A W F U L</say-as></prosody> awful  
+原文: The film was awful! I was really bored!
+
+行号4  
+I love the new mirror in your room! I'm really jealous!  
+我喜欢你房间里的新镜子！我真的嫉妒！  
+I love the new mirror in your room! I'm really jealous!  
+问题:  
+"嫉妒的用英语怎么说？" 五，四，三，二，一。jealous <prosody rate="slow"><say-as interpret-as="spell-out">J E A L O U S</say-as></prosody> jealous  
+原文: I love the new mirror in your room! I'm really jealous!
+
+行号5  
+After a long day, I like to have a long, relaxing shower!  
+在漫长的一天之后，我喜欢洗一个长时间的放松淋浴！  
+After a long day, I like to have a long, relaxing shower!  
+问题:  
+"放松的用英语怎么说？" 五，四，三，二，一。relaxing <prosody rate="slow"><say-as interpret-as="spell-out">R E L A X I N G</say-as></prosody> relaxing  
+"在漫长的一天后用英语怎么说？" 五，四，三，二，一。after a long day  
+原文: After a long day, I like to have a long, relaxing shower!
+
+行号6  
+I was late with my homework again. The teacher was quite annoyed with me.  
+我的家庭作业又迟交了。老师对我相当生气。  
+I was late with my homework again. The teacher was quite annoyed with me.  
+问题:  
+"生气的用英语怎么说？" 五，四，三，二，一。annoyed <prosody rate="slow"><say-as interpret-as="spell-out">A N N O Y E D</say-as></prosody> annoyed  
+原文: I was late with my homework again. The teacher was quite annoyed with me.
+
+行号7  
+He looks sad today. He usually smiles and looks cheerful! I loved it.  
+他今天看起来悲伤。他通常微笑并且看起来开朗！我喜欢它。  
+He looks sad today. He usually smiles and looks cheerful! I loved it.  
+问题:  
+"开朗的用英语怎么说？" 五，四，三，二，一。cheerful <prosody rate="slow"><say-as interpret-as="spell-out">C H E E R F U L</say-as></prosody> cheerful  
+"微笑用英语怎么说？" 五，四，三，二，一。smile <prosody rate="slow"><say-as interpret-as="spell-out">S M I L E</say-as></prosody> smile  
+原文: He looks sad today. He usually smiles and looks cheerful! I loved it.
+
+行号8  
+The game yesterday was great - really amazing!  
+昨天的比赛很棒——真的惊人！  
+The game yesterday was great - really amazing!  
+问题:  
+"惊人的用英语怎么说？" 五，四，三，二，一。amazing <prosody rate="slow"><say-as interpret-as="spell-out">A M A Z I N G</say-as></prosody> amazing  "很棒用英语怎么说？" 五，四，三，二，一。was great  
+原文: The game yesterday was great - really amazing!
+
+行号9  
+She was very helpful and painted my room with me.  
+她非常有帮助并且和我一起用油漆刷了我的房间。  
+She was very helpful and painted my room with me.  
+问题:  
+"有帮助的用英语怎么说？" 五，四，三，二，一。helpful <prosody rate="slow"><say-as interpret-as="spell-out">H E L P F U L</say-as></prosody> helpful  
+"刷油漆用英语怎么说？" 五，四，三，二，一。paint <prosody rate="slow"><say-as interpret-as="spell-out">P A I N T</say-as></prosody> paint  
+原文: She was very helpful and painted my room with me.

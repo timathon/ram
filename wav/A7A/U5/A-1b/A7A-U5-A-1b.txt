@@ -1,0 +1,130 @@
+行号1  
+Conversation 1: Hello! My name is Teng Fei, and I want to join the ping-pong club.  
+对话1：你好！我的名字是腾飞，我想加入乒乓球俱乐部。  
+Conversation 1: Hello! My name is Teng Fei, and I want to join the ping-pong club.  
+问题:  
+"加入"用英语怎么说？ 五，四，三，二，一。join <prosody rate="slow"><say-as interpret-as="spell-out">J O I N</say-as></prosody> join  
+"乒乓球俱乐部"用英语怎么说？ 五，四，三，二，一。ping-pong club  
+原文: Conversation 1: Hello! My name is Teng Fei, and I want to join the ping-pong club.  
+
+行号2  
+Great! Can you play ping-pong?  
+太好了！你会打乒乓球吗？  
+Great! Can you play ping-pong?  
+问题:  
+"打乒乓球"用英语怎么说？ 五，四，三，二，一。play ping-pong  
+原文: Great! Can you play ping-pong?  
+
+行号3  
+Yes, I can.  
+是的，我会。  
+Yes, I can.  
+
+
+行号4  
+We meet at 5 o'clock every Tuesday. Can you come?  
+我们每周二五点见面。你能来吗？  
+We meet at 5 o'clock every Tuesday. Can you come?  
+问题:  
+"见面"用英语怎么说？ 五，四，三，二，一。meet <prosody rate="slow"><say-as interpret-as="spell-out">M E E T</say-as></prosody> meet  
+"在五点"用英语怎么说？ 五，四，三，二，一。at 5 o'clock  
+"每周二"用英语怎么说？ 五，四，三，二，一。every Tuesday  
+原文: We meet at 5 o'clock every Tuesday. Can you come?  
+
+行号5  
+Oh, I have drum class on Tuesday afternoons.  
+哦，我周二下午有鼓课。  
+Oh, I have drum class on Tuesday afternoons.  
+问题:  
+"有鼓课"用英语怎么说？ 五，四，三，二，一。have drum class  
+"在周二下午"用英语怎么说？ 五，四，三，二，一。on Tuesday afternoons  
+原文: Oh, I have drum class on Tuesday afternoons.  
+
+行号6  
+I'm sorry. You can't make it.  
+我很抱歉。你不能来。  
+I'm sorry. You can't make it.  
+问题:  
+"不能来"用英语怎么说？ 五，四，三，二，一。can't make it  
+原文: I'm sorry. You can't make it.  
+
+行号7  
+Conversation 2: Hello! My name is Sam. I want to join the chess club.  
+对话2：你好！我的名字是Sam。我想加入象棋俱乐部。  
+Conversation 2: Hello! My name is Sam. I want to join the chess club.  
+问题:  
+"象棋俱乐部"用英语怎么说？ 五，四，三，二，一。chess club  
+原文: Conversation 2: Hello! My name is Sam. I want to join the chess club.  
+
+行号8  
+Can you play Chinese chess?  
+你会下中国象棋吗？  
+Can you play Chinese chess?  
+问题:  
+"下中国象棋"用英语怎么说？ 五，四，三，二，一。play Chinese chess  
+原文: Can you play Chinese chess?  
+
+行号9  
+No, I can't.  
+不，我不会。  
+No, I can't.  
+
+
+行号10  
+It's OK. You can learn it here.  
+没关系。你可以在这里学习它。  
+It's OK. You can learn it here.  
+问题:  
+"没关系"用英语怎么说？ 五，四，三，二，一。It's OK  
+原文: It's OK. You can learn it here.  
+
+行号11  
+Can I learn to play weiqi too?  
+我也可以学习下围棋吗？  
+Can I learn to play weiqi too?  
+问题:  
+"下围棋"用英语怎么说？ 五，四，三，二，一。play weiqi  
+原文: Can I learn to play weiqi too?  
+
+行号12  
+Sure, you can!  
+当然，你可以！  
+Sure, you can!  
+
+
+行号13  
+Conversation 3: Morning! My name is Lin Hua, and I want to join the drama club.  
+对话3：早上好！我的名字是林华，我想加入戏剧俱乐部。  
+Conversation 3: Morning! My name is Lin Hua, and I want to join the drama club.  
+问题:  
+"戏剧俱乐部"用英语怎么说？ 五，四，三，二，一。drama club  
+原文: Conversation 3: Morning! My name is Lin Hua, and I want to join the drama club.  
+
+行号14  
+Can you read these words with feeling?  
+你能有感情地读这些词吗？  
+Can you read these words with feeling?  
+问题:  
+"有感情地"用英语怎么说？ 五，四，三，二，一。with feeling  
+原文: Can you read these words with feeling?  
+
+行号15  
+Let me have a try. "To be, or not to be, that is the question."  
+让我试一试。“生存还是毁灭，这是个问题。”  
+Let me have a try. "To be, or not to be, that is the question."  
+问题:  
+"试一试"用英语怎么说？ 五，四，三，二，一。have a try  
+"生存还是毁灭"用英语怎么说？ 五，四，三，二，一。To be, or not to be  
+原文: Let me have a try. "To be, or not to be, that is the question."  
+
+行号16  
+Great! Come to Room 11 at 12:00 every Thursday.  
+太好了！每周四12点来11号房间。  
+Great! Come to Room 11 at 12:00 every Thursday.  
+问题:  
+"每周四"用英语怎么说？ 五，四，三，二，一。every Thursday  
+原文: Great! Come to Room 11 at 12:00 every Thursday.  
+
+总结全文  
+三个对话展示了学生想加入俱乐部并讨论参与情况。  
+Three conversations show students wanting to join clubs and discussing their participation.

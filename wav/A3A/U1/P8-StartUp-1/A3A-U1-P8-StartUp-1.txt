@@ -1,0 +1,107 @@
+行号1  
+One. Read and answer.  
+一。阅读并回答。  
+One. Read and answer.  
+问题:  
+"阅读"用英语怎么说？ 五，四，三，二，一。read <prosody rate="slow"><say-as interpret-as="spell-out">R E A D</say-as></prosody> read  
+"回答"用英语怎么说？ 五，四，三，二，一。answer <prosody rate="slow"><say-as interpret-as="spell-out">A N S W E R</say-as></prosody> answer  
+原文: One. Read and answer.  
+
+行号2  
+Title: Hi, new friends!  
+标题：嗨，新朋友们！  
+Title: Hi, new friends!  
+问题:  
+"标题"用英语怎么说？ 五，四，三，二，一。title <prosody rate="slow"><say-as interpret-as="spell-out">T I T L E</say-as></prosody> title  
+"新的"用英语怎么说？ 五，四，三，二，一。new <prosody rate="slow"><say-as interpret-as="spell-out">N E W</say-as></prosody> new  
+"朋友"用英语怎么说？ 五，四，三，二，一。friends <prosody rate="slow"><say-as interpret-as="spell-out">F R I E N D S</say-as></prosody> friends
+原文: Title: Hi, new friends!  
+语法：friend后加s表示复数。
+
+行号3  
+Big Question: Do they have a good day?  
+大问题：他们有一个好天吗？ （他们今天玩儿得开心吗？） 
+Big Question: Do they have a good day?  
+问题:  
+"大问题"用英语怎么说？ 五，四，三，二，一。big question  
+"有"用英语怎么说？ 五，四，三，二，一。have <prosody rate="slow"><say-as interpret-as="spell-out">H A V E</say-as></prosody> have  
+"好天"用英语怎么说？ 五，四，三，二，一。good day  
+原文: Big Question: Do they have a good day?  
+
+行号4  
+Welcome!  
+欢迎！  
+Welcome!  
+问题:  
+"欢迎"用英语怎么说？ 五，四，三，二，一。welcome <prosody rate="slow"><say-as interpret-as="spell-out">W E L C O M E</say-as></prosody> welcome  
+
+行号5  
+Hi, everyone! I'm Sam. I'm nine.  
+嗨，大家好！我是萨姆。我九岁。  
+Hi, everyone! I'm Sam. I'm nine.  
+问题:  
+"大家好"用英语怎么说？ 五，四，三，二，一。everyone  
+"我是"用英语怎么说？ 五，四，三，二，一。I am  
+"九"用英语怎么说？ 五，四，三，二，一。nine <prosody rate="slow"><say-as interpret-as="spell-out">N I N E</say-as></prosody> nine  
+原文: Hi, everyone! I'm Sam. I'm nine.  
+
+行号6  
+She's Amy. She's nine, too.  
+她是艾米。她也九岁。  
+She's Amy. She's nine, too.  
+问题:  
+女"她"用英语怎么说？ 五，四，三，二，一。she <prosody rate="slow"><say-as interpret-as="spell-out">S H E</say-as></prosody> she  
+"也"用英语怎么说？ 五，四，三，二，一。too <prosody rate="slow"><say-as interpret-as="spell-out">T O O</say-as></prosody> too  
+原文: She's Amy. She's nine, too.  
+
+行号7  
+We're from the UK. We're twins!  
+我们来自英国。我们是双胞胎！  
+We're from the UK. We're twins!  
+问题:  
+"来自"用英语怎么说？ 五，四，三，二，一。from  
+"英国"用英语怎么说？ 五，四，三，二，一。the UK  
+"双胞胎"用英语怎么说？ 五，四，三，二，一。twins <prosody rate="slow"><say-as interpret-as="spell-out">T W I N S</say-as></prosody> twins  
+原文: We're from the UK. We're twins!  
+
+行号8  
+Wow!  
+哇！  
+Wow!  
+问题:  
+"哇"用英语怎么说？ 五，四，三，二，一。wow <prosody rate="slow"><say-as interpret-as="spell-out">W O W</say-as></prosody> wow  
+
+行号9  
+Hi, Sam. Hi, Amy. I'm Lingling. He's Daming.  
+嗨，萨姆。嗨，艾米。我是玲玲。他是大明。  
+Hi, Sam. Hi, Amy. I'm Lingling. He's Daming.  
+问题:  
+男"他"用英语怎么说？ 五，四，三，二，一。he <prosody rate="slow"><say-as interpret-as="spell-out">H E</say-as></prosody> he
+原文: Hi, Sam. Hi, Amy. I'm Lingling. He's Daming.  
+
+行号10  
+Come and play!  
+来玩吧！  
+Come and play!  
+问题:  
+"来"用英语怎么说？ 五，四，三，二，一。come <prosody rate="slow"><say-as interpret-as="spell-out">C O M E</say-as></prosody> come  
+"和"用英语怎么说？ 五，四，三，二，一。and <prosody rate="slow"><say-as interpret-as="spell-out">A N D</say-as></prosody> and  
+"玩"用英语怎么说？ 五，四，三，二，一。play <prosody rate="slow"><say-as interpret-as="spell-out">P L A Y</say-as></prosody> play  
+原文: Come and play!  
+
+行号11  
+Good!  
+好！  
+Good!  
+问题:  
+"好"用英语怎么说？ 五，四，三，二，一。good <prosody rate="slow"><say-as interpret-as="spell-out">G O O D</say-as></prosody> good  
+
+行号12  
+We are friends!  
+我们是朋友！  
+We are friends!  
+问题:  
+"我们"用英语怎么说？ 五，四，三，二，一。we <prosody rate="slow"><say-as interpret-as="spell-out">W E</say-as></prosody> we  
+"是"用英语怎么说？ 五，四，三，二，一。are <prosody rate="slow"><say-as interpret-as="spell-out">A R E</say-as></prosody> are
+"朋友"用英语怎么说？ 五，四，三，二，一。friend <prosody rate="slow"><say-as interpret-as="spell-out">F R I E N D</say-as></prosody> friends  
+原文: We are friends!

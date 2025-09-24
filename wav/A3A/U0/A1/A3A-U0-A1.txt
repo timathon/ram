@@ -1,0 +1,76 @@
+行号1  
+One. Look and listen.  
+一。看和听。  
+One. Look and listen.  
+问题:  
+"看"用英语怎么说？ 五，四，三，二，一。look <prosody rate="slow"><say-as interpret-as="spell-out">L O O K</say-as></prosody> look  
+"听"用英语怎么说？ 五，四，三，二，一。listen <prosody rate="slow"><say-as interpret-as="spell-out">L I S T E N</say-as></prosody> listen  
+原文：One. Look and listen.  
+
+行号2  
+Hello.  
+你好。  
+Hello.  
+问题:  
+"你好"用英语怎么说？ 五，四，三，二，一。hello <prosody rate="slow"><say-as interpret-as="spell-out">H E L L O</say-as></prosody> hello  
+原文：Hello.  
+
+行号3  
+My name is Amy!  
+我的名字是艾米！  
+My name is Amy!  
+问题:  
+"名字"用英语怎么说？ 五，四，三，二，一。name <prosody rate="slow"><say-as interpret-as="spell-out">N A M E</say-as></prosody> name  
+"是"用英语怎么说？ 五，四，三，二，一。is <prosody rate="slow"><say-as interpret-as="spell-out">I S</say-as></prosody> is  
+原文：My name is Amy!  
+
+行号4  
+Hi! I'm Lingling.  
+嗨！我是玲玲。  
+Hi! I'm Lingling.  
+问题:  
+"嗨"用英语怎么说？ 五，四，三，二，一。hi <prosody rate="slow"><say-as interpret-as="spell-out">H I</say-as></prosody> hi  
+"我是"用英语怎么说？ 五，四，三，二，一。I am  
+原文：Hi! I'm Lingling.  
+
+行号5  
+What's your name?  
+你叫什么名字？  
+What's your name?  
+
+
+行号6  
+I'm Daming.  
+我是大明。  
+I'm Daming.  
+
+
+行号7  
+I'm Sam.  
+我是萨姆。  
+I'm Sam.  
+ 
+
+行号8  
+I'm Bobo.  
+我是波波。  
+I'm Bobo.  
+ 
+
+行号9  
+Goodbye, Bobo.  
+再见，波波。  
+Goodbye, Bobo.  
+问题:  
+"再见"用英语怎么说？ 五，四，三，二，一。goodbye <prosody rate="slow"><say-as interpret-as="spell-out">G O O D B Y E</say-as></prosody> goodbye  
+原文：Goodbye, Bobo.  
+
+行号10  
+Have a nice day!  
+祝你有个美好的一天！  
+Have a nice day!  
+问题:  
+"有"用英语怎么说？ 五，四，三，二，一。have <prosody rate="slow"><say-as interpret-as="spell-out">H A V E</say-as></prosody> have  
+"美好"用英语怎么说？ 五，四，三，二，一。nice <prosody rate="slow"><say-as interpret-as="spell-out">N I C E</say-as></prosody> nice 
+"一天"用英语怎么说？ 五，四，三，二，一。day <prosody rate="slow"><say-as interpret-as="spell-out">D A Y</say-as></prosody> day 
+原文：Have a nice day!

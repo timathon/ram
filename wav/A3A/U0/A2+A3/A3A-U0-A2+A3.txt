@@ -1,0 +1,88 @@
+行号1
+Good morning! I'm Ms Smart.
+早上好！我是斯玛特女士。
+Good morning! I'm Ms Smart.
+问题:
+"早上好"用英语怎么说？ 五，四，三，二，一。Good morning
+"Ms"用英语怎么说？ 五，四，三，二，一。Ms <prosody rate="slow"><say-as interpret-as="spell-out">M S</say-as></prosody> Ms
+原文: Good morning! I'm Ms Smart.
+
+行号2
+Good morning, Ms Smart!
+早上好，斯玛特女士！
+Good morning, Ms Smart!
+
+行号3
+Stand up!
+起立！
+Stand up!
+问题:
+"站"用英语怎么说？ 五，四，三，二，一。stand <prosody rate="slow"><say-as interpret-as="spell-out">S T A N D</say-as></prosody> stand
+"向上"用英语怎么说？ 五，四，三，二，一。up <prosody rate="slow"><say-as interpret-as="spell-out">U P</say-as></prosody> up
+原文: Stand up!
+
+行号4
+Sit down!
+坐下！
+Sit down!
+问题:
+"坐"用英语怎么说？ 五，四，三，二，一。sit <prosody rate="slow"><say-as interpret-as="spell-out">S I T</say-as></prosody> sit
+"向下"用英语怎么说？ 五，四，三，二，一。down <prosody rate="slow"><say-as interpret-as="spell-out">D O W N</say-as></prosody> down
+原文: Sit down!
+
+行号5
+Open your book!
+打开你的书！
+Open your book!
+问题:
+"打开"用英语怎么说？ 五，四，三，二，一。open <prosody rate="slow"><say-as interpret-as="spell-out">O P E N</say-as></prosody> open
+"你的"用英语怎么说？ 五，四，三，二，一。your <prosody rate="slow"><say-as interpret-as="spell-out">Y O U R</say-as></prosody> your
+"书"用英语怎么说？ 五，四，三，二，一。book <prosody rate="slow"><say-as interpret-as="spell-out">B O O K</say-as></prosody> book
+原文: Open your book!
+
+行号6
+Close your book!
+合上你的书！
+Close your book!
+问题:
+"合上"用英语怎么说？ 五，四，三，二，一。close <prosody rate="slow"><say-as interpret-as="spell-out">C L O S E</say-as></prosody> close
+原文: Close your book!
+
+行号7
+Point!
+指！
+Point!
+问题:
+"指"用英语怎么说？ 五，四，三，二，一。point <prosody rate="slow"><say-as interpret-as="spell-out">P O I N T</say-as></prosody> point
+
+
+行号8
+Say!
+说！
+Say!
+问题:
+"说"用英语怎么说？ 五，四，三，二，一。say <prosody rate="slow"><say-as interpret-as="spell-out">S A Y</say-as></prosody> say
+
+
+行号9
+Read!
+读！
+Read!
+问题:
+"读"用英语怎么说？ 五，四，三，二，一。read <prosody rate="slow"><say-as interpret-as="spell-out">R E A D</say-as></prosody> read
+
+
+行号10
+Listen!
+听！
+Listen!
+问题:
+"听"用英语怎么说？ 五，四，三，二，一。listen <prosody rate="slow"><say-as interpret-as="spell-out">L I S T E N</say-as></prosody> listen
+
+
+行号11
+Write!
+写！
+Write!
+问题:
+"写"用英语怎么说？ 五，四，三，二，一。write <prosody rate="slow"><say-as interpret-as="spell-out">W R I T E</say-as></prosody> write

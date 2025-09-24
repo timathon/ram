@@ -1,0 +1,58 @@
+行号1  
+My best friend is Linda. She is good at so many things!  
+我最好的朋友是琳达。她擅长很多事情！  
+My best friend is Linda. She is good at so many things!  
+问题:  
+"擅长"用英语怎么说？ 五，四，三，二，一。be good at  
+原文: My best friend is Linda. She is good at so many things!  
+作用: 这一行介绍了主角琳达，并概括她多才多艺，为下文做铺垫。  
+
+行号2  
+She can speak English, French, and some Chinese.  
+她会说英语、法语和一些中文。  
+She can speak English, French, and some Chinese.  
+问题:  
+"说"用英语怎么说？ 五，四，三，二，一。speak <prosody rate="slow"><say-as interpret-as="spell-out">S P E A K</say-as></prosody> speak  
+原文: She can speak English, French, and some Chinese.  
+作用: 具体说明琳达的语言能力，展示她的才华。  
+
+行号3  
+I can’t speak French, but I’d like to learn.  
+我不会说法语，但我想学习。  
+I can’t speak French, but I’d like to learn.  
+作用: 对比叙述者的不足，并表达学习意愿，突出琳达的优秀。  
+
+行号4  
+Linda can play the guitar and the violin too. I like to watch her play.  
+琳达也会弹吉他和拉小提琴。我喜欢看她演奏。  
+Linda can play the guitar and the violin too. I like to watch her play.  
+问题:  
+"弹吉他"用英语怎么说？ 五，四，三，二，一。play the guitar  
+"拉小提琴"用英语怎么说？ 五，四，三，二，一。play the violin  
+"看她演奏"用英语怎么说？ 五，四，三，二，一。watch her play  
+原文: Linda can play the guitar and the violin too. I like to watch her play.  
+作用: 描述琳达的音乐才能，并表达叙述者的欣赏。  
+
+行号5  
+And she can do so much more. She likes to play ping - pong and tennis.  
+而且她还能做更多事情。她喜欢打乒乓球和网球。  
+And she can do so much more. She likes to play ping - pong and tennis.  
+问题:  
+"能做更多"用英语怎么说？ 五，四，三，二，一。can do so much more
+原文: And she can do so much more. She likes to play ping - pong and tennis.  
+作用: 进一步列举琳达的爱好和技能，丰富她的形象。  
+
+行号6  
+She can even make delicious cakes! Everyone in our class likes her.  
+她甚至能做美味的蛋糕！我们班的每个人都喜欢她。  
+She can even make delicious cakes! Everyone in our class likes her.  
+问题:  
+"甚至"用英语怎么说？ 五，四，三，二，一。even <prosody rate="slow"><say-as interpret-as="spell-out">E V E N</say-as></prosody> even
+"美味的"用英语怎么说？ 五，四，三，二，一。delicious <prosody rate="slow"><say-as interpret-as="spell-out">D E L I C I O U S</say-as></prosody> delicious  
+原文: She can even make delicious cakes! Everyone in our class likes her.  
+作用: 展示琳达的烹饪技能，并总结她受欢迎，结束描述。  
+语法：everyone 是单数，谓语动词like用单数形式likes。
+
+总结全文  
+文章描述了琳达的多才多艺和受欢迎，她擅长语言、音乐、体育和烹饪，深受同学喜爱。  
+The article describes Linda's versatility and popularity, as she is good at languages, music, sports, and cooking, and is well-liked by everyone in the class.

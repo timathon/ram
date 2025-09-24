@@ -1,0 +1,61 @@
+行号1  
+One. Listen and sing.  
+一。听和唱。  
+One. Listen and sing.  
+问题:  
+"听"用英语怎么说？ 五，四，三，二，一。 listen <prosody rate="slow"><say-as interpret-as="spell-out">L I S T E N</say-as></prosody> listen  
+"唱"用英语怎么说？ 五，四，三，二，一。 sing <prosody rate="slow"><say-as interpret-as="spell-out">S I N G</say-as></prosody> sing  
+原文: One. Listen and sing.  
+
+行号2  
+Hello! Hello!  
+你好！你好！  
+Hello! Hello!  
+问题:  
+"你好"用英语怎么说？ 五，四，三，二，一。 hello <prosody rate="slow"><say-as interpret-as="spell-out">H E L L O</say-as></prosody> hello  
+原文: Hello! Hello!  
+
+行号3  
+Nice to meet you.  
+很高兴认识你。  
+Nice to meet you.  
+问题:  
+"好的"用英语怎么说？ 五，四，三，二，一。 nice <prosody rate="slow"><say-as interpret-as="spell-out">N I C E</say-as></prosody> nice
+"遇见"用英语怎么说？ 五，四，三，二，一。 meet <prosody rate="slow"><say-as interpret-as="spell-out">M E E T</say-as></prosody> meet  
+原文: Nice to meet you.  
+
+行号4  
+Let’s be friends!  
+让我们做朋友吧！  
+Let’s be friends!  
+问题:  
+"让"用英语怎么说？ 五，四，三，二，一。 let <prosody rate="slow"><say-as interpret-as="spell-out">L E T</say-as></prosody> let  
+"让我们"用英语怎么说？ 五，四，三，二，一。 let’s <prosody rate="slow"><say-as interpret-as="spell-out">L E T 撇 S</say-as></prosody> let’s
+"朋友"用英语怎么说？ 五，四，三，二，一。 friend <prosody rate="slow"><say-as interpret-as="spell-out">F R I E N D</say-as></prosody> friend  
+原文: Let’s be friends!  
+
+行号5  
+Let’s play.  
+让我们玩吧。  
+Let’s play.  
+问题:  
+"玩"用英语怎么说？ 五，四，三，二，一。 play <prosody rate="slow"><say-as interpret-as="spell-out">P L A Y</say-as></prosody> play  
+原文: Let’s play.  
+
+行号6  
+Let’s be friends!  
+让我们做朋友吧！  
+Let’s be friends!  
+问题:  
+"做朋友"用英语怎么说？ 五，四，三，二，一。 be friends  
+原文: Let’s be friends!  
+
+行号7  
+Let’s have a happy day!  
+让我们有一个快乐的一天！  
+Let’s have a happy day!  
+问题:  
+"有"用英语怎么说？ 五，四，三，二，一。 have <prosody rate="slow"><say-as interpret-as="spell-out">H A V E</say-as></prosody> have  
+"快乐"用英语怎么说？ 五，四，三，二，一。 happy <prosody rate="slow"><say-as interpret-as="spell-out">H A P P Y</say-as></prosody> happy  
+"一天"用英语怎么说？ 五，四，三，二，一。 day <prosody rate="slow"><say-as interpret-as="spell-out">D A Y</say-as></prosody> day  
+原文: Let’s have a happy day!

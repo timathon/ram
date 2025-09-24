@@ -1,0 +1,98 @@
+行号1  
+Hi there! What club do you want to join?  
+嗨！你想加入什么俱乐部？  
+Hi there! What club do you want to join?  
+问题:  
+"加入"用英语怎么说？ 五，四，三，二，一。join <prosody rate="slow"><say-as interpret-as="spell-out">J O I N</say-as></prosody> join  
+"俱乐部"用英语怎么说？ 五，四，三，二，一。club <prosody rate="slow"><say-as interpret-as="spell-out">C L U B</say-as></prosody> club  
+Hi there! What club do you want to join?  
+作用: 这一行开启对话，询问对方想加入的俱乐部，引入主题。
+
+行号2  
+I have no idea.  
+我不知道。  
+I have no idea.  
+问题:  
+"没有"用英语怎么说？ 五，四，三，二，一。no <prosody rate="slow"><say-as interpret-as="spell-out">N O</say-as></prosody> no  
+"主意"用英语怎么说？ 五，四，三，二，一。idea <prosody rate="slow"><say-as interpret-as="spell-out">I D E A</say-as></prosody> idea  
+I have no idea.  
+作用: 这一行表达说话者没有明确想法，回应上一句的询问。
+
+行号3  
+Here's some good news! Our school wants to start a music club. Do you want to join?  
+有个好消息！我们学校想开始一个音乐俱乐部。你想加入吗？  
+Here's some good news! Our school wants to start a music club. Do you want to join?  
+问题:  
+"好消息"用英语怎么说？ 五，四，三，二，一。good news  
+"开始"用英语怎么说？ 五，四，三，二，一。start <prosody rate="slow"><say-as interpret-as="spell-out">S T A R T</say-as></prosody> start  
+Here's some good news! Our school wants to start a music club. Do you want to join?  
+作用: 这一行宣布好消息并提出邀请，推动对话发展。
+
+行号4  
+Sure. I can play the guitar. What about you, Emma?  
+当然。我可以弹吉他。你呢，Emma？  
+Sure. I can play the guitar. What about you, Emma?  
+问题:  
+"弹吉他"用英语怎么说？ 五，四，三，二，一。play the guitar
+Sure. I can play the guitar. What about you, Emma?  
+作用: 这一行表达同意并展示个人能力，同时转向询问Emma。
+
+行号5  
+I'd love to, but I can't play any musical instruments.  
+我很乐意，但我不会弹任何乐器。  
+I'd love to, but I can't play any musical instruments.  
+问题:  
+"我很乐意"用英语怎么说？ 五，四，三，二，一。I'd love to  
+"乐器"用英语怎么说？ 五，四，三，二，一。musical instruments  
+I'd love to, but I can't play any musical instruments.  
+作用: 这一行表达意愿但承认限制，为后续对话铺垫。
+
+行号6  
+Oh, but you can sing well.  
+哦，但你可以唱得很好。  
+Oh, but you can sing well.  
+作用: 这一行提供积极反馈，强调对方的其他能力。
+
+行号7  
+Exactly! How about Ella? She can play the violin, right?  
+没错！Ella呢？她会拉小提琴，对吧？  
+Exactly! How about Ella? She can play the violin, right?  
+问题:  
+"没错"用英语怎么说？ 五，四，三，二，一。exactly <prosody rate="slow"><say-as interpret-as="spell-out">E X A C T L Y</say-as></prosody> exactly  
+"小提琴"用英语怎么说？ 五，四，三，二，一。violin <prosody rate="slow"><say-as interpret-as="spell-out">V I O L I N</say-as></prosody> violin  
+Exactly! How about Ella? She can play the violin, right?  
+作用: 这一行确认并转向询问另一个人，Ella，扩展对话范围。
+
+行号8  
+Yes, she can.  
+是的，她会。  
+Yes, she can.  
+作用: 这一行提供简短肯定回答，确认Ella的能力。
+
+行号9  
+What instruments can you play, Teng Fei?  
+你能演奏什么乐器，Teng Fei？  
+What instruments can you play, Teng Fei?  
+问题:  
+"乐器"用英语怎么说？ 五，四，三，二，一。instrument <prosody rate="slow"><say-as interpret-as="spell-out">I N S T R U M E N T</say-as></prosody> instruments  
+What instruments can you play, Teng Fei?  
+作用: 这一行直接询问Teng Fei的音乐能力，继续探索每个人的技能。
+
+行号10  
+I can play the drums.  
+我可以打鼓。  
+I can play the drums.  
+问题:  
+"打鼓"用英语怎么说？ 五，四，三，二，一。play the drums  
+I can play the drums.  
+作用: 这一行回答询问，展示Teng Fei的特定技能。
+
+行号11  
+That's great! Let's go to the music room after school!  
+太棒了！放学后我们去音乐室吧！  
+That's great! Let's go to the music room after school!  
+作用: 这一行表达兴奋并提出具体行动计划，结束对话。
+
+总结全文  
+朋友们讨论加入音乐俱乐部并分享各自的音乐能力，最终决定放学后去音乐室。  
+Friends discuss joining the music club and share their musical abilities, eventually deciding to go to the music room after school.
