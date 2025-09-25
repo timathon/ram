@@ -1,0 +1,90 @@
+行号1  
+Hi, Anita. I bought three shirts for 29 dollars yesterday!  
+嗨，Anita。我昨天花了29美元买了三件衬衫！  
+Hi, Anita. I bought three shirts for 29 dollars yesterday!  
+问题:  
+"昨天"用英语怎么说？ 五，四，三，二，一。yesterday <prosody rate="slow"><say-as interpret-as="spell-out">Y E S T E R D A Y</say-as></prosody> yesterday  
+原文: Hi, Anita. I bought three shirts for 29 dollars yesterday!  
+作用: 这一行开始了对话，说话者向Anita打招呼并分享购物经历。
+
+行号2  
+Oh, really? What are they made of though? Sometimes the cheap ones are made of materials that don't feel very good.  
+哦，真的吗？不过它们是什么材质的？有时候便宜的东西是用感觉不太好的材料做的。  
+Oh, really? What are they made of though? Sometimes the cheap ones are made of materials that don't feel very good.  
+问题:  
+"由什么材质制成"用英语怎么说？ 五，四，三，二，一。be made of  
+"便宜"用英语怎么说？ 五，四，三，二，一。cheap <prosody rate="slow"><say-as interpret-as="spell-out">C H E A P</say-as></prosody> cheap  
+原文: Oh, really? What are they made of though? Sometimes the cheap ones are made of materials that don't feel very good.  
+作用: 这一行回应了上一行，表达怀疑并询问材质，同时评论廉价物品的材料。
+
+行号3  
+A hundred percent cotton. They're nice and soft, and they were made in America.  
+百分之百棉。它们又好看又柔软，而且是在美国制造的。  
+A hundred percent cotton. They're nice and soft, and they were made in America.  
+问题:  
+"棉"用英语怎么说？ 五，四，三，二，一。cotton <prosody rate="slow"><say-as interpret-as="spell-out">C O T T O N</say-as></prosody> cotton  
+"在哪里生产的"用英语怎么说？ 五，四，三，二，一。made in  
+"柔软"用英语怎么说？ 五，四，三，二，一。soft <prosody rate="slow"><say-as interpret-as="spell-out">S O F T</say-as></prosody> soft  
+原文: A hundred percent cotton. They're nice and soft, and they were made in America.  
+作用: 这一行提供了衬衫的材质和产地信息，肯定其质量。
+
+行号4  
+Oh, OK. By the way, where did you buy those chopsticks? They're really cool!  
+哦，好吧。顺便问一下，你在哪里买的那些筷子？它们真的很酷！  
+Oh, OK. By the way, where did you buy those chopsticks? They're really cool!  
+问题:  
+"顺便说一下"用英语怎么说？ 五，四，三，二，一。by the way  
+原文: Oh, OK. By the way, where did you buy those chopsticks? They're really cool!  
+作用: 这一行转换话题，询问筷子的购买地点，并表达赞赏。
+
+行号5  
+Oh, I got them in South Korea. They're nice, aren't they?  
+哦，我在韩国买的。它们很好，不是吗？  
+Oh, I got them in South Korea. They're nice, aren't they?  
+作用: 这一行回答购买地点，并寻求确认筷子的质量。
+
+行号6  
+Yeah. Chopsticks are usually made of wood. I've never seen steel ones before.  
+是的。筷子通常是用木头做的。我以前从未见过钢制的。  
+Yeah. Chopsticks are usually made of wood. I've never seen steel ones before.  
+问题:  
+"钢"用英语怎么说？ 五，四，三，二，一。steel <prosody rate="slow"><say-as interpret-as="spell-out">S T E E L</say-as></prosody> steel  
+原文: Yeah. Chopsticks are usually made of wood. I've never seen steel ones before.  
+作用: 这一行同意并补充关于筷子材质的常识，表达新奇。
+
+行号7  
+Oh, steel chopsticks are popular in Korea. Hey, do you think this ring looks OK?  
+哦，钢筷子在韩国很流行。嘿，你觉得这个戒指看起来好吗？  
+Oh, steel chopsticks are popular in Korea. Hey, do you think this ring looks OK?  
+问题:  
+"流行"用英语怎么说？ 五，四，三，二，一。popular <prosody rate="slow"><say-as interpret-as="spell-out">P O P U L A R</say-as></prosody> popular  
+原文: Oh, steel chopsticks are popular in Korea. Hey, do you think this ring looks OK?  
+作用: 这一行提供文化信息，并引入新话题关于戒指。
+
+行号8  
+Hmm... yes, I think it's quite pretty. Is it made of silver?  
+嗯...是的，我觉得它相当漂亮。它是银制的吗？  
+Hmm... yes, I think it's quite pretty. Is it made of silver?  
+问题:  
+"银"用英语怎么说？ 五，四，三，二，一。silver <prosody rate="slow"><say-as interpret-as="spell-out">S I L V E R</say-as></prosody> silver  
+原文: Hmm... yes, I think it's quite pretty. Is it made of silver?  
+作用: 这一行表达意见并询问戒指的材质。
+
+行号9  
+Yes, and it was made in Thailand. I'll give it to my best friend for her birthday.  
+是的，而且它是在泰国制造的。我会把它送给我最好的朋友作为她的生日礼物。  
+Yes, and it was made in Thailand. I'll give it to my best friend for her birthday.  
+作用: 这一行确认产地并说明赠送意图。
+
+行号10  
+Oh, I'm sure she'll love it.  
+哦，我确定她会喜欢的。  
+Oh, I'm sure she'll love it.  
+问题:  
+"我确定"用英语怎么说？ 五，四，三，二，一。I'm sure
+原文: Oh, I'm sure she'll love it.  
+作用: 这一行表达信心和积极回应，结束对话。
+
+总结全文  
+对话中两人讨论了购买的物品的材质、产地和用途，包括衬衫、筷子和戒指。  
+In the conversation, two people discuss the materials, origins, and purposes of purchased items, including shirts, chopsticks, and a ring.

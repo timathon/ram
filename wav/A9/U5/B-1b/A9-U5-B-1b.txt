@@ -1,0 +1,109 @@
+行号1  
+Hey, Zheng Yun!  
+嘿，郑云！  
+Hey, Zheng Yun!  
+作用: 这一行是对话的开头，用于打招呼和引入说话者。  
+
+行号2  
+Hi, Laura.  
+嗨，劳拉。  
+Hi, Laura.  
+作用: 这一行是回应打招呼，继续对话。  
+
+行号3  
+How was your vacation?  
+你的假期怎么样？  
+How was your vacation?  
+问题:  
+"假期"用英语怎么说？ 五，四，三，二，一。vacation <prosody rate="slow"><say-as interpret-as="spell-out">V A C A T I O N</say-as></prosody> vacation  
+原文: How was your vacation?  
+作用: 这一行询问假期情况，推动对话发展。  
+
+行号4  
+It was great! I went to Weifang in Shandong.  
+很棒！我去了山东潍坊。  
+It was great! I went to Weifang in Shandong.  
+作用: 这一行回答假期体验并介绍旅行地点，提供背景信息。  
+
+行号5  
+That’s the city famous for kites, right?  
+那就是以风筝闻名的城市，对吧？  
+That’s the city famous for kites, right?  
+问题:  
+"以...闻名"用英语怎么说？ 五，四，三，二，一。be famous for  
+"对吧"用英语怎么说？ 五，四，三，二，一。right  
+原文: That’s the city famous for kites, right?  
+作用: 这一行确认信息，显示知识并保持对话互动。  
+
+行号6  
+Yes. There’s an international kite festival there every April. That’s why I went there.  
+是的。每年四月那里有一个国际风筝节。那就是我去那里的原因。  
+Yes. There’s an international kite festival there every April. That’s why I went there.  
+问题:  
+"国际风筝节"用英语怎么说？ 五，四，三，二，一。international kite festival  
+"每年四月"用英语怎么说？ 五，四，三，二，一。every April  
+"那就是...的原因"用英语怎么说？ 五，四，三，二，一。that's why  
+原文: Yes. There’s an international kite festival there every April. That’s why I went there.  
+作用: 这一行提供详细信息，解释访问原因，丰富对话内容。  
+
+行号7  
+How interesting! What happens at the festival?  
+真有趣！节日上发生什么？  
+How interesting! What happens at the festival?  
+问题:  
+"有趣"用英语怎么说？ 五，四，三，二，一。interesting <prosody rate="slow"><say-as interpret-as="spell-out">I N T E R E S T I N G</say-as></prosody> interesting  
+"在节日上"用英语怎么说？ 五，四，三，二，一。at the festival  
+原文: How interesting! What happens at the festival?  
+作用: 这一行表达兴趣并提问，引导对话深入描述节日活动。  
+
+行号8  
+People from all over the world compete in kite flying. There are also competitions for the best kites.  
+来自世界各地的人们参加放风筝比赛。还有最佳风筝的比赛。  
+People from all over the world compete in kite flying. There are also competitions for the best kites.  
+问题:  
+"参加...比赛"用英语怎么说？ 五，四，三，二，一。compete in  
+"来自世界各地"用英语怎么说？ 五，四，三，二，一。from all over the world  
+原文: People from all over the world compete in kite flying. There are also competitions for the best kites.  
+作用: 这一行描述节日的主要活动和竞赛，增加具体细节。  
+
+行号9  
+Were the kites nice?  
+风筝好看吗？  
+Were the kites nice?  
+作用: 这一行询问风筝的质量，继续探索主题。  
+
+行号10  
+They were beautiful. They were made of different things like silk or paper. Some were painted with colorful drawings.  
+它们很漂亮。它们是由不同的材料制成的，比如丝绸或纸。有些画着多彩的图案。  
+They were beautiful. They were made of different things like silk or paper. Some were painted with colorful drawings.  
+问题:  
+"由什么材质制成"用英语怎么说？ 五，四，三，二，一。made of  
+"画着"用英语怎么说？ 五，四，三，二，一。painted with  
+"多彩的图案"用英语怎么说？ 五，四，三，二，一。colorful drawings  
+原文: They were beautiful. They were made of different things like silk or paper. Some were painted with colorful drawings.  
+作用: 这一行详细描述风筝的外观和制作材料，增强视觉效果。  
+
+行号11  
+Sounds like you really enjoyed it. I never thought that something as simple as kite flying could be so exciting.  
+听起来你真的很享受它。我从未想过像放风筝这样简单的事情会如此令人兴奋。  
+Sounds like you really enjoyed it. I never thought that something as simple as kite flying could be so exciting.  
+作用: 这一行总结享受程度并表达惊讶，反映对话的情感层面。  
+
+行号12  
+Yes, it was really fun to see which kite could fly the highest.  
+是的，看哪个风筝能飞得最高真的很有趣。  
+Yes, it was really fun to see which kite could fly the highest.  
+问题:  
+"飞得最高"用英语怎么说？ 五，四，三，二，一。fly the highest  
+原文: Yes, it was really fun to see which kite could fly the highest.  
+作用: 这一行确认乐趣并描述具体活动亮点，强化积极体验。  
+
+行号13  
+I think I want to learn to fly a kite, too!  
+我想我也要学放风筝！  
+I think I want to learn to fly a kite, too!  
+作用: 这一行表达学习兴趣，以积极方式结束对话。  
+
+总结全文  
+郑云和劳拉讨论假期，郑云去了潍坊参加风筝节，描述了风筝节的活动和风筝的美丽，劳拉表示兴趣并想学放风筝。  
+Zheng Yun and Laura discuss vacation, Zheng Yun went to Weifang for the kite festival, described the activities and beautiful kites, and Laura shows interest in learning kite flying.

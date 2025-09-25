@@ -1,0 +1,98 @@
+行号1  
+Hey Marcus, have you heard about the art and science fair?  
+嘿 Marcus，你听说过艺术和科学博览会吗？  
+Hey Marcus, have you heard about the art and science fair?  
+问题:  
+"听说过"用英语怎么说？ 五，四，三，二，一。hear about  
+"艺术和科学博览会"用英语怎么说？ 五，四，三，二，一。art and science fair  
+原文: Hey Marcus, have you heard about the art and science fair?  
+作用: 这一行开启对话，说话者向Marcus打招呼并询问是否知晓博览会。
+
+行号2  
+You mean the one just outside the science museum?  
+你是说科学博物馆外面的那个吗？  
+You mean the one just outside the science museum?  
+问题:  
+"意思是"用英语怎么说？ 五，四，三，二，一。mean <prosody rate="slow"><say-as interpret-as="spell-out">M E A N</say-as></prosody> mean  
+原文: You mean the one just outside the science museum?  
+作用: 这一行是回应，确认博览会的具体位置。
+
+行号3  
+Yeah, that’s the one. The school notice board says that all students are invited to attend for free! Our school is paying for it!  
+是的，就是那个。学校公告板说所有学生都被邀请免费参加！我们学校付钱。  
+Yeah, that’s the one. The school notice board says that all students are invited to attend for free! Our school is paying for it!  
+问题:  
+"被邀请参加"用英语怎么说？ 五，四，三，二，一。invited to attend  
+"免费"用英语怎么说？ 五，四，三，二，一。for free  
+"付钱"用英语怎么说？ 五，四，三，二，一。pay for  
+原文: Yeah, that’s the one. The school notice board says that all students are invited to attend for free! Our school is paying for it!  
+作用: 这一行提供详细信息，确认博览会并说明免费参加和学校支付费用。
+
+行号4  
+Wow, that’s great!  
+哇，太棒了！  
+Wow, that’s great!  
+作用: 这一行表达兴奋和积极的情绪反应。
+
+行号5  
+I went there yesterday.  
+我昨天去了那里。  
+I went there yesterday.  
+作用: 这一行陈述说话者昨天参观博览会的事实。
+
+行号6  
+Did you see anything cool?  
+你看到什么酷的东西了吗？  
+Did you see anything cool?  
+作用: 这一行询问对方在博览会的体验和所见。
+
+行号7  
+Of course! All the works there were made by university students.  
+当然！那里所有的作品都是由大学生制作的。  
+Of course! All the works there were made by university students.  
+问题:  
+"作品"用英语怎么说？ 五，四，三，二，一。works <prosody rate="slow"><say-as interpret-as="spell-out">W O R K S</say-as></prosody> works  
+"大学生"用英语怎么说？ 五，四，三，二，一。university students  
+原文: Of course! All the works there were made by university students.  
+作用: 这一行肯定回答并说明作品的制作者身份。
+
+行号8  
+What did you see?  
+你看到了什么？  
+What did you see?  
+作用: 这一行进一步追问具体看到的内容。
+
+行号9  
+I saw a huge model plane. It’s made of used wood and glass. I also saw a really beautiful painting. It’s made from grass, leaves and flowers.  
+我看到一个巨大的模型飞机。它是用旧木头和玻璃制成的。我还看到一幅非常漂亮的画。它是用草、叶子和花制成的。  
+I saw a huge model plane. It’s made of used wood and glass. I also saw a really beautiful painting. It’s made from grass, leaves and flowers.  
+问题:  
+"巨大模型飞机"用英语怎么说？ 五，四，三，二，一。huge model plane  
+"由什么材质制成"用英语怎么说？ 五，四，三，二，一。made of  
+"由什么东西转换而来"用英语怎么说？ 五，四，三，二，一。made from  
+原文: I saw a huge model plane. It’s made of used wood and glass. I also saw a really beautiful painting. It’s made from grass, leaves and flowers.  
+作用: 这一行详细描述博览会上看到的作品及其制作材料。
+
+行号10  
+Oh, yeah, the fair is about environmental protection and recycling, right?  
+哦，是的，博览会是关于环境保护和回收的，对吧？  
+Oh, yeah, the fair is about environmental protection and recycling, right?  
+问题:  
+"环境保护"用英语怎么说？ 五，四，三，二，一。environmental protection  
+"回收"用英语怎么说？ 五，四，三，二，一。recycling <prosody rate="slow"><say-as interpret-as="spell-out">R E C Y C L I N G</say-as></prosody> recycling  
+原文: Oh, yeah, the fair is about environmental protection and recycling, right?  
+作用: 这一行确认博览会的主题和焦点。
+
+行号11  
+Yes, and the students came up with some really interesting and creative ideas.  
+是的，而且学生们提出了一些非常有趣和创意的想法。  
+Yes, and the students came up with some really interesting and creative ideas.  
+问题:  
+"提出"用英语怎么说？ 五，四，三，二，一。come up with  
+"有创意的"用英语怎么说？ 五，四，三，二，一。creative <prosody rate="slow"><say-as interpret-as="spell-out">C R E A T I V E</say-as></prosody> creative  
+原文: Yes, and the students came up with some really interesting and creative ideas.  
+作用: 这一行强调学生的创意和想法，总结博览会的亮点。
+
+总结全文  
+对话中两人讨论艺术和科学博览会，涉及免费参加、作品材料、环境保护主题和学生创意。  
+In the conversation, two people discuss the art and science fair, covering free attendance, materials used in works, environmental protection themes, and student creativity.
