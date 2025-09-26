@@ -1,0 +1,23 @@
+行号1  
+On Christmas we say "Merry Christmas" to our family and friends.  
+在圣诞节，我们对家人和朋友说“圣诞快乐”。  
+On Christmas we say "Merry Christmas" to our family and friends.  
+问题:  
+"在圣诞节"用英语怎么说？ 五，四，三，二，一。on Christmas  
+"圣诞快乐"用英语怎么说？ 五，四，三，二，一。Merry Christmas  
+原文: On Christmas we say "Merry Christmas" to our family and friends.  
+语法：在圣诞节，用英式英语表达式at Christmas,在美式英语中表达式on Christmas。Simon讲的是美式英语。
+
+行号2  
+Do you give presents?  
+你送礼物吗？  
+Do you give presents?  
+问题:  
+"给"用英语怎么说？ 五，四，三，二，一。give <prosody rate="slow"><say-as interpret-as="spell-out">G I V E</say-as></prosody> give  
+"礼物"用英语怎么说？ 五，四，三，二，一。present <prosody rate="slow"><say-as interpret-as="spell-out">P R E S E N T</say-as></prosody> present  
+原文: Do you give presents?  
+
+行号3  
+Yes, we do.  
+是的，我们送。  
+Yes, we do.

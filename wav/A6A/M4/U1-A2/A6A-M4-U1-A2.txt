@@ -1,0 +1,125 @@
+行号1  
+Look, Daming. Tomorrow is New Year's Day.  
+看，大明。明天是元旦。  
+Look, Daming. Tomorrow is New Year's Day.  
+问题:  
+"元旦"用英语怎么说？ 五，四，三，二，一。New Year's Day  
+原文: Look, Daming. Tomorrow is New Year's Day.  
+作用: 这一行是对话的开头，吸引注意并介绍话题。
+
+行号2  
+What do you do on New Year's Day?  
+你在元旦做什么？  
+What do you do on New Year's Day?  
+问题:  
+"在元旦"用英语怎么说？ 五，四，三，二，一。on New Year's Day  
+原文: What do you do on New Year's Day?  
+作用: 这是一个问题，询问节日活动。
+
+行号3  
+We sing songs and have parties.  
+我们唱歌和举行派对。  
+We sing songs and have parties.  
+问题:  
+"唱歌"用英语怎么说？ 五，四，三，二，一。sing songs
+"举行派对"用英语怎么说？ 五，四，三，二，一。have parties  
+原文: We sing songs and have parties.  
+作用: 回答前一个问题，描述元旦活动。
+
+行号4  
+Can you tell me more about American festivals, Simon?  
+你能告诉我更多关于美国节日的事情吗，西蒙？  
+Can you tell me more about American festivals, Simon?  
+问题:  
+"告诉我更多"用英语怎么说？ 五，四，三，二，一。tell me more
+原文: Can you tell me more about American festivals, Simon?  
+作用: 提出新问题，转向讨论美国节日。
+
+行号5  
+Well, Thanksgiving is my favourite festival.  
+嗯，感恩节是我最喜欢的节日。  
+Well, Thanksgiving is my favourite festival.  
+问题:  
+"感恩节"用英语怎么说？ 五，四，三，二，一。Thanksgiving <prosody rate="slow"><say-as interpret-as="spell-out">T H A N K S G I V I N G</say-as></prosody> Thanksgiving  
+"最喜欢的"用英语怎么说？ 五，四，三，二，一。favourite <prosody rate="slow"><say-as interpret-as="spell-out">F A V O U R I T E</say-as></prosody> favourite  
+原文: Well, Thanksgiving is my favourite festival.  
+作用: 介绍感恩节作为最喜欢的节日。
+
+行号6  
+When is Thanksgiving?  
+感恩节是什么时候？  
+When is Thanksgiving?   
+作用: 询问节日日期。
+
+行号7  
+It's on the fourth Thursday in November.  
+它在十一月的第四个星期四。  
+It's on the fourth Thursday in November.  
+问题:  
+"第四个星期四"用英语怎么说？ 五，四，三，二，一。the fourth Thursday
+"十一月"用英语怎么说？ 五，四，三，二，一。November
+原文: It's on the fourth Thursday in November.  
+作用: 回答日期问题，提供具体信息。
+
+行号8  
+What do you do on Thanksgiving Day?  
+你在感恩节做什么？  
+What do you do on Thanksgiving Day?  
+作用: 询问感恩节活动。
+
+行号9  
+We always have a special meal. It's a big family dinner.  
+我们总是吃一顿特别的饭。它是一个大家庭晚餐。  
+We always have a special meal. It's a big family dinner.  
+问题:  
+"吃一顿特别的饭"用英语怎么说？ 五，极，三，二，一。have a special meal  
+原文: We always have a special meal. It's a big family dinner.  
+作用: 描述感恩节活动，强调家庭聚餐。
+
+行号10  
+That's lovely.  
+那很可爱。  
+That's lovely.  
+问题:  
+"可爱"用英语怎么说？ 五，四，三，二，一。lovely <prosody rate="slow"><say-as interpret-as="spell-out">L O V E L Y</say-as></极> lovely  
+原文: That's lovely.  
+作用: 表达积极反应。
+
+行号11  
+On Thanksgiving Day we say "thank you" for our food, family and friends.  
+在感恩节，我们说“谢谢”为我们的食物、家人和朋友。  
+On Thanksgiving Day we say "thank you" for our food, family and friends.  
+问题:  
+"说谢谢"用英语怎么说？ 五，四，三，二，一。say thank you  
+原文: On Thanksgiving Day we say "thank you" for our food, family and friends.  
+作用: 进一步描述感恩节传统，表达感恩。
+语法：we say "thank you" for，这里用for而不是to，是因为介词 ​​for​​ 用来表示感谢的​​原因或事物​​，而 ​​to​​ 用来表示感谢的​​对象。这句隐含的感谢对象是上帝。
+
+行号12  
+That sounds nice.  
+那听起来很好。  
+That sounds nice.  
+问题:  
+"听起来"用英语怎么说？ 五，四，三，二，一。sound <prosody rate="slow"><say-as interpret-as="spell-out">S O U N D</say-as></prosody> sound  
+原文: That sounds nice.  
+作用: 表达积极反应。
+
+行号13  
+And after Thanksgiving dinner, we watch a big football game on TV.  
+而且在感恩节晚餐后，我们在电视上看一场大型足球比赛。  
+And after Thanksgiving dinner, we watch a big football game on TV.  
+问题:  
+"看比赛"用英语怎么说？ 五，四，三，二，一。watch a game  
+"在电视上（看）"用英语怎么说？ 五，四，三，二，一。on TV  
+原文: And after Thanksgiving dinner, we watch a big football game on TV.  
+作用: 描述后续活动，丰富节日内容。
+
+行号14  
+That's great! I think I like Thanksgiving too!  
+那太棒了！我想我也喜欢感恩节！  
+That's great! I think I like Thanksgiving too!  
+作用: 表达兴奋和认同，结束对话。
+
+总结全文  
+对话中，大明和西蒙讨论元旦和感恩节，西蒙介绍了感恩节的日期、活动和传统，大明表示喜欢。  
+In the dialogue, Daming and Simon discuss New Year's Day and Thanksgiving, with Simon describing the date, activities, and traditions of Thanksgiving, and Daming expressing his liking for it.

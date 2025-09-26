@@ -1,0 +1,139 @@
+行号1  
+Title: The Difficult Search for American Products in the US  
+标题：在美国寻找美国产品的困难  
+Title: The Difficult Search for American Products in the US  
+问题:  
+"困难"用英语怎么说？ 五，四，三，二，一。difficult <prosody rate="slow"><say-as interpret-as="spell-out">D I F F I C U L T</say-as></prosody> difficult  
+"寻找"用英语怎么说？ 五，四，三，二，一。search <prosody rate="slow"><say-as interpret-as="spell-out">S E A R C H</say-as></prosody> search  
+"美国产品"用英语怎么说？ 五，四，三，二，一。American products  
+原文: Title: The Difficult Search for American Products in the US  
+作用: 这一行是文章的标题，设定了主题。  
+语法：search 在这里是名词，表示“寻找”。
+
+行号2  
+If you go to another country, what kinds of things would you buy?  
+如果你去另一个国家，你会买什么样的东西？  
+If you go to another country, what kinds of things would you buy?  
+问题:  
+"国家"用英语怎么说？ 五，四，三，二，一。country <prosody rate="slow"><say-as interpret-as="spell-out">C O U N T R Y</say-as></prosody> country  
+原文: If you go to another country, what kinds of things would you buy?  
+作用: 这一行以问题开头，吸引读者思考，引入话题。  
+
+行号3  
+Would you buy a camera in Japan, some beautiful clothes in France, or a watch in Switzerland?  
+你会在日本买相机，在法国买一些漂亮衣服，或在瑞士买手表吗？  
+Would you buy a camera in Japan, some beautiful clothes in France, or a watch in Switzerland?  
+问题:  
+"相机"用英语怎么说？ 五，四，三，二，一。camera <prosody rate="slow"><say-as interpret-as="spell-out">C A M E R A</say-as></prosody> camera  
+"漂亮衣服"用英语怎么说？ 五，四，三，二，一。beautiful clothes  
+"瑞士"用英语怎么说？ 五，四，三，二，一。Switzerland <prosody rate="slow"><say-as interpret-as="spell-out">S W I T Z E R L A N D</say-as></prosody> Switzerland 
+原文: Would you buy a camera in Japan, some beautiful clothes in France, or a watch in Switzerland?  
+作用: 这一行提供具体例子，强化主题，让读者联想到国家与产品的关联。  
+
+行号4  
+No matter what you may buy, you might think those products were made in those countries. However, you could be wrong.  
+无论你可能买什么，你可能会认为那些产品是在那些国家制造的。然而，你可能是错的。  
+No matter what you may buy, you might think those products were made in those countries. However, you could be wrong.  
+问题:  
+"无论"用英语怎么说？ 五，四，三，二，一。no matter  
+"在哪里被制造"用英语怎么说？ 五，四，三，二，一。be made in
+原文: No matter what you may buy, you might think those products were made in those countries. However, you could be wrong.  
+作用: 这一行转折，挑战读者的假设，为下文做铺垫。  
+
+行号5  
+Kang Jian is a 17-year-old student from Shanghai. Last year he went to visit his aunt and uncle in San Francisco.  
+康健是一名来自上海的17岁学生。去年他去旧金山看望他的姑姑和叔叔。  
+Kang Jian is a 17-year-old student from Shanghai. Last year he went to visit his aunt and uncle in San Francisco.  
+作用: 这一行介绍人物和背景，为故事提供上下文。  
+
+行号6  
+He found it interesting that so many products in the local shops were made in China.  
+他发现当地商店里这么多产品是中国制造的，这很有趣。  
+He found it interesting that so many products in the local shops were made in China.  
+问题:  
+"发现"用英语怎么说？ 五，四，三，二，一。find <prosody rate="slow"><say-as interpret-as="spell-out">F I N D</say-as></prosody> find  
+"当地商店"用英语怎么说？ 五，四，三，二，一。local shops  
+"中国制造"用英语怎么说？ 五，四，三，二，一。made in China  
+原文: He found it interesting that so many products in the local shops were made in China.  
+作用: 这一行表达康健的观察，点明主题。  
+语法：find + 名词 + 形容词，表示“发现某事或某物是怎样的”。比如：I find this book interesting.（我发现这本书很有趣。）
+
+行号7  
+"I wanted to buy a toy car for my cousin, but even though most of the toys were American brands, they were made in China."  
+“我想为我的表弟买一个玩具车，但即使大多数玩具是美国品牌，它们也是中国制造的。”  
+"I wanted to buy a toy car for my cousin, but even though most of the toys were American brands, they were made in China."  
+问题:  
+"美国品牌"用英语怎么说？ 五，四，三，二，一。American brands  
+"尽管"用英语怎么说？ 五，四，三，二，一。even though
+原文: "I wanted to buy a toy car for my cousin, but even though most of the toys were American brands, they were made in China."  
+作用: 这一行通过具体例子说明现象，强调即使品牌是美国，制造地是中国。  
+
+行号8  
+Toys are not the only things made in China. "I wanted to buy a pair of basketball shoes," he explains.  
+玩具不是唯一中国制造的东西。“我想买一双篮球鞋，”他解释说。  
+Toys are not the only things made in China. "I wanted to buy a pair of basketball shoes," he explains.  
+问题:  
+"唯一"用英语怎么说？ 五，四，三，二，一。only <prosody rate="slow"><say-as interpret-as="spell-out">O N L Y</say-as></prosody> only  
+"篮球鞋"用英语怎么说？ 五，四，三，二，一。basketball shoes  
+"解释说"用英语怎么说？ 五，四，三，二，一。explain  
+原文: Toys are not the only things made in China. "I wanted to buy a pair of basketball shoes," he explains.  
+作用: 这一行过渡到另一个例子，扩展主题。  
+
+行号9  
+"But I had to visit five or six stores before finding a pair made in America!"  
+“但我不得不拜访五六个商店才找到一双美国制造的！”  
+"But I had to visit five or six stores before finding a pair made in America!"  
+问题:  
+"不得不"用英语怎么说？ 五，四，三，二，一。have to  
+"在...之前"用英语怎么说？ 五，四，三，二，一。before <prosody rate="slow"><say-as interpret-as="spell-out">B E F O R E</say-as></prosody> before  
+原文: "But I had to visit five or six stores before finding a pair made in America!"  
+作用: 这一行强调寻找美国产品的困难，突出主题。  
+
+行号10  
+He realized that Americans can hardly avoid buying products made in China.  
+他意识到美国人几乎无法避免购买中国制造的产品。  
+He realized that Americans can hardly avoid buying products made in China.  
+问题:  
+"意识到"用英语怎么说？ 五，四，三，二，一。realize <prosody rate="slow"><say-as interpret-as="spell-out">R E A L I Z E</say-as></prosody> realize  
+"几乎不"用英语怎么说？ 五，四，三，二，一。hardly <prosody rate="slow"><say-as interpret-as="spell-out">H A R D L Y</say-as></prosody> hardly  
+"避免"用英语怎么说？ 五，四，三，二，一。avoid <prosody rate="slow"><say-as interpret-as="spell-out">A V O I D</say-as></prosody> avoid  
+原文: He realized that Americans can hardly avoid buying products made in China.  
+作用: 这一行总结康健的 realization，点明核心观点。  
+语法：avoid 后接动名词形式，表示“避免做某事”。比如：She avoids eating junk food.（她避免吃垃圾食品。）
+
+行号11  
+"In fact," he continues, "there were many other things there made in China — footballs, handbags, pet food, mobile phones. Even American flags are made in China!"  
+“事实上，”他继续说，“那里还有许多其他东西是中国制造的——足球、手提包、宠物食品、手机。甚至美国国旗也是中国制造的！”  
+"In fact," he continues, "there were many other things there made in China — footballs, handbags, pet food, mobile phones. Even American flags are made in China!"  
+问题:  
+"事实上"用英语怎么说？ 五，四，三，二，一。in fact  
+"继续"用英语怎么说？ 五，四，三，二，一。continue
+"甚至"用英语怎么说？ 五，四，三，二，一。even <prosody rate="slow"><say-as interpret-as="spell-out">E V E N</say-as></prosody> even
+原文: "In fact," he continues, "there were many other things there made in China — footballs, handbags, pet food, mobile phones. Even American flags are made in China!"  
+作用: 这一行列举更多例子，强化中国制造的普遍性。  
+
+行号12  
+Kang Jian thinks it's great that China is so good at making these everyday things.  
+康健认为中国如此擅长制造这些日常用品是很棒的。  
+Kang Jian thinks it's great that China is so good at making these everyday things.  
+问题:  
+"擅长"用英语怎么说？ 五，四，三，二，一。be good at  
+"日常用品"用英语怎么说？ 五，四，三，二，一。everyday things  
+原文: Kang Jian thinks it's great that China is so good at making these everyday things.  
+作用: 这一行表达康健的积极看法，转向中国制造的优点。  
+语法：注意everyday，中间没有空格，是日常的意思；如果every和day中间有空格，则是“每天”的意思。
+
+行号13  
+More importantly, China is also making more high-technology products that people can buy and use in all parts of the world.  
+更重要的是，中国也在制造更多高科技产品，人们可以在世界各地购买和使用。  
+More importantly, China is also making more high-technology products that people can buy and use in all parts of the world.  
+问题:  
+"更重要的是"用英语怎么说？ 五，四，三，二，一。more importantly  
+"高科技产品"用英语怎么说？ 五，四，三，二，一。high-technology products  
+"世界各地"用英语怎么说？ 五，四，三，二，一。all parts of the world  
+原文: More importantly, China is also making more high-technology products that people can buy and use in all parts of the world.  
+作用: 这一行扩展主题，指出中国在高科技领域的进展，结束文章 on a positive note.  
+
+总结全文  
+文章通过康健的经历展示了中国制造在全球的普遍性，并强调了中国在日常用品和高科技产品方面的能力。  
+The article, through Kang Jian's experience, demonstrates the prevalence of Chinese manufacturing globally and highlights China's capabilities in everyday items and high-technology products.

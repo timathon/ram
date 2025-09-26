@@ -376,6 +376,46 @@
         "A6A-M3-U2-A2-16.mp3",
         "A6A-M3-U2-A2-summary.mp3"
       ]
+    },
+    "M4": {
+      "U1-A1": [
+        "A6A-M4-U1-A1-01.mp3",
+        "A6A-M4-U1-A1-02.mp3",
+        "A6A-M4-U1-A1-03.mp3"
+      ],
+      "U1-A2": [
+        "A6A-M4-U1-A2-01.mp3",
+        "A6A-M4-U1-A2-02.mp3",
+        "A6A-M4-U1-A2-03.mp3",
+        "A6A-M4-U1-A2-04.mp3",
+        "A6A-M4-U1-A2-05.mp3",
+        "A6A-M4-U1-A2-06.mp3",
+        "A6A-M4-U1-A2-07.mp3",
+        "A6A-M4-U1-A2-08.mp3",
+        "A6A-M4-U1-A2-09.mp3",
+        "A6A-M4-U1-A2-10.mp3",
+        "A6A-M4-U1-A2-11.mp3",
+        "A6A-M4-U1-A2-12.mp3",
+        "A6A-M4-U1-A2-13.mp3",
+        "A6A-M4-U1-A2-14.mp3",
+        "A6A-M4-U1-A2-summary.mp3"
+      ],
+      "U2-A1": [
+        "A6A-M4-U2-A1-01.mp3",
+        "A6A-M4-U2-A1-02.mp3",
+        "A6A-M4-U2-A1-03.mp3"
+      ],
+      "U2-A2": [
+        "A6A-M4-U2-A2-01.mp3",
+        "A6A-M4-U2-A2-02.mp3",
+        "A6A-M4-U2-A2-03.mp3",
+        "A6A-M4-U2-A2-04.mp3",
+        "A6A-M4-U2-A2-05.mp3",
+        "A6A-M4-U2-A2-06.mp3",
+        "A6A-M4-U2-A2-07.mp3",
+        "A6A-M4-U2-A2-08.mp3",
+        "A6A-M4-U2-A2-summary.mp3"
+      ]
     }
   },
   "A7A": {
@@ -1294,6 +1334,35 @@
         "A9-U5-A-2a-10.mp3",
         "A9-U5-A-2a-11.mp3",
         "A9-U5-A-2a-summary.mp3"
+      ],
+      "A-2d": [
+        "A9-U5-A-2d-01.mp3",
+        "A9-U5-A-2d-02.mp3",
+        "A9-U5-A-2d-03.mp3",
+        "A9-U5-A-2d-04.mp3",
+        "A9-U5-A-2d-05.mp3",
+        "A9-U5-A-2d-06.mp3",
+        "A9-U5-A-2d-07.mp3",
+        "A9-U5-A-2d-08.mp3",
+        "A9-U5-A-2d-09.mp3",
+        "A9-U5-A-2d-10.mp3",
+        "A9-U5-A-2d-summary.mp3"
+      ],
+      "A-3a": [
+        "A9-U5-A-3a-01.mp3",
+        "A9-U5-A-3a-02.mp3",
+        "A9-U5-A-3a-03.mp3",
+        "A9-U5-A-3a-04.mp3",
+        "A9-U5-A-3a-05.mp3",
+        "A9-U5-A-3a-06.mp3",
+        "A9-U5-A-3a-07.mp3",
+        "A9-U5-A-3a-08.mp3",
+        "A9-U5-A-3a-09.mp3",
+        "A9-U5-A-3a-10.mp3",
+        "A9-U5-A-3a-11.mp3",
+        "A9-U5-A-3a-12.mp3",
+        "A9-U5-A-3a-13.mp3",
+        "A9-U5-A-3a-summary.mp3"
       ],
       "B-1b": [
         "A9-U5-B-1b-01.mp3",

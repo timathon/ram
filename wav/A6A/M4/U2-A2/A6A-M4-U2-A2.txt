@@ -1,0 +1,75 @@
+行号1  
+The Dragon Boat Festival. I love this festival.  
+端午节。我喜欢这个节日。  
+The Dragon Boat Festival. I love this festival.  
+问题:  
+"节日"用英语怎么说？ 五，四，三，二，一。festival <prosody rate="slow"><say-as interpret-as="spell-out">F E S T I V A L</say-as></prosody> festival  
+The Dragon Boat Festival. I love this festival.  
+作用: 这一行介绍了端午节，并表达了说话者对它的喜爱，为文章开头。
+
+行号2  
+We all go to see the dragon boat race. We eat zongzi. It's very delicious.  
+我们都去看龙舟比赛。我们吃粽子。它非常美味。  
+We all go to see the dragon boat race. We eat zongzi. It's very delicious.  
+问题:  
+"美味"用英语怎么说？ 五，四，三，二，一。delicious <prosody rate="slow"><say-as interpret-as="spell-out">D E L I C I O U S</say-as></prosody> delicious  
+We all go to see the dragon boat race. We eat zongzi. It's very delicious.  
+作用: 描述了端午节的庆祝活动，包括看龙舟比赛和吃粽子，并强调美味。
+
+行号3  
+The Mid-Autumn Festival. My mother loves this festival. She makes delicious moon cakes.  
+中秋节。我妈妈喜欢这个节日。她做美味的月饼。  
+The Mid-Autumn Festival. My mother loves this festival. She makes delicious moon cakes.  
+问题:  
+"月饼"用英语怎么说？ 五，四，三，二，一。moon cakes  
+The Mid-Autumn Festival. My mother loves this festival. She makes delicious moon cakes.  
+作用: 引入中秋节，描述母亲喜欢它并制作月饼。
+
+行号4  
+My father likes this festival too. He sings songs about the moon. He sings very well.  
+我爸爸也喜欢这个节日。他唱关于月亮的歌。他唱得很好。  
+My father likes this festival too. He sings songs about the moon. He sings very well.  
+作用: 描述父亲也喜欢中秋节，并唱月亮的歌，突出他的歌唱能力。
+
+行号5  
+The Spring Festival. This is my family. Our favourite festival is the Spring Festival.  
+春节。这是我的家庭。我们最喜欢的节日是春节。  
+The Spring Festival. This is my family. Our favourite festival is the Spring Festival.  
+问题:  
+"最喜欢的"用英语怎么说？ 五，四，三，二，一。favourite <prosody rate="slow"><say-as interpret-as="spell-out">F A V O U R I T E</say-as></prosody> favourite  
+"家庭"用英语怎么说？ 五，四，三，二，一。family <prosody rate="slow"><say-as interpret-as="spell-out">F A M I L Y</say-as></prosody> family  
+The Spring Festival. This is my family. Our favourite festival is the Spring Festival.  
+作用: 引入春节，介绍家庭，并指出最喜欢的节日是春节。
+
+行号6  
+We have a special family dinner. And we eat dumplings.  
+我们有一个特别的家庭晚餐。我们吃饺子。  
+We have a special family dinner. And we eat dumplings.  
+问题:  
+"特别的"用英语怎么说？ 五，四，三，二，一。special <prosody rate="slow"><say-as interpret-as="spell-out">S P E C I A L</say-as></prosody> special  
+We have a special family dinner. And we eat dumplings.  
+作用: 描述春节的庆祝活动，包括家庭晚餐和吃饺子。
+
+行号7  
+The Lantern Festival. My favourite festival is the Lantern Festival.  
+元宵节。我最喜欢的节日是元宵节。  
+The Lantern Festival. My favourite festival is the Lantern Festival.  
+问题:  
+"灯笼"用英语怎么说？ 五，四，三，二，一。lantern <prosody rate="slow"><say-as interpret-as="spell-out">L A N T E R N</say-as></prosody> lantern  
+"元宵节"用英语怎么说？ 五，四，三，二，一。Lantern Festival  
+The Lantern Festival. My favourite festival is the Lantern Festival.  
+作用: 引入元宵节，并表达它是说话者最喜欢的节日。
+
+行号8  
+It is after the Spring Festival. People eat yuanxiao, hang lanterns and do dragon dances.  
+它在春节之后。人们吃元宵、挂灯笼和舞龙。  
+It is after the Spring Festival. People eat yuanxiao, hang lanterns and do dragon dances.  
+问题:  
+"挂"用英语怎么说？ 五，四，三，二，一。hang <prosody rate="slow"><say-as interpret-as="spell-out">H A N G</say-as></prosody> hang  
+"舞龙"用英语怎么说？ 五，四，三，二，一。do dragon dances  
+It is after the Spring Festival. People eat yuanxiao, hang lanterns and do dragon dances.  
+作用: 说明元宵节的时间和在春节之后，描述人们的庆祝活动。
+
+总结全文  
+文章介绍了几个中国传统节日，包括端午节、中秋节、春节和元宵节，以及家庭成员的喜爱和庆祝活动。  
+The article introduces several traditional Chinese festivals, including the Dragon Boat Festival, Mid-Autumn Festival, Spring Festival, and Lantern Festival, and describes family members' preferences and celebration activities.

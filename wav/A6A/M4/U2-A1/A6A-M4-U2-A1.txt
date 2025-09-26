@@ -1,0 +1,24 @@
+行号1  
+Daming: We eat moon cakes at the Mid-Autumn Festival.  
+大明：我们在中秋节吃月饼。  
+Daming: We eat moon cakes at the Mid-Autumn Festival.  
+问题:  
+"月饼"用英语怎么说？ 五，四，三，二，一。moon cakes  
+"在中秋节"用英语怎么说？ 五，四，三，二，一。at the Mid-Autumn Festival  
+原文: Daming: We eat moon cakes at the Mid-Autumn Festival.  
+作用: 这一行是大明介绍中秋节的传统食物，月饼。
+
+行号2  
+Simon: Do you eat dragon cakes at the Dragon Boat Festival?  
+西蒙：在端午节你们吃龙糕吗？  
+Simon: Do you eat dragon cakes at the Dragon Boat Festival?  
+问题:  
+"在端午节"用英语怎么说？ 五，四，三，二，一。at the Dragon Boat Festival  
+原文: Simon: Do you eat dragon cakes at the Dragon Boat Festival?  
+作用: 这一行是西蒙询问端午节是否吃龙糕，显示他对中国文化的误解或好奇。
+
+行号3  
+Daming: No, we eat zongzi.  
+大明：不，我们吃粽子。  
+Daming: No, we eat zongzi.  
+作用: 这一行是大明纠正西蒙的错误，指出端午节吃的是粽子，不是龙糕。
