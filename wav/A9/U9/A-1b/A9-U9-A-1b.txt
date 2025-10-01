@@ -1,0 +1,52 @@
+行号1  
+Oh, look! There's the new Cool Kids CD.  
+哦，看！那是新的酷孩子CD。  
+Oh, look! There's the new Cool Kids CD.  
+作用: 这一行是对话的开头，引起注意并介绍新CD。  
+
+行号2  
+The Cool Kids? Do you like them?  
+酷孩子？你喜欢他们吗？  
+The Cool Kids? Do you like them?  
+作用: 这一行是回应和提问，询问对方是否喜欢这个乐队。  
+
+行号3  
+Oh, yeah. They're my favorite band. I like music that I can dance to.  
+哦，是的。他们是我最喜欢的乐队。我喜欢我可以随之跳舞的音乐。  
+Oh, yeah. They're my favorite band. I like music that I can dance to.  
+问题:
+"可以随之起舞的音乐"用英语怎么说？ 五，四，三，二，一。music that I can dance to
+作用: 这一行表达喜好，说明喜欢乐队和音乐类型。  
+
+行号4  
+You're kidding. I think they're awful. I prefer music that has great lyrics... music that I can sing along with.  
+你在开玩笑吧。我认为他们很糟糕。我更喜欢有伟大歌词的音乐……我可以跟着唱的音乐。  
+You're kidding. I think they're awful. I prefer music that has great lyrics... music that I can sing along with.  
+问题:  
+"你在开玩笑吧"用英语怎么说？ 五，四，三，二，一。You're kidding
+"很糟糕"用英语怎么说？ 五，四，三，二，一。awful <prosody rate="slow"><say-as interpret-as="spell-out">A W F U L</say-as></prosody> awful
+"更喜欢"用英语怎么说？ 五，四，三，二，一。prefer <prosody rate="slow"><say-as interpret-as="spell-out">P R E F E R</say-as></prosody> prefer  
+You're kidding. I think they're awful. I prefer music that has great lyrics... music that I can sing along with.  
+作用: 这一行表达不同意见，说明个人偏好。  
+
+行号5  
+I like songs that I can sing along with, too. So what's your favorite band?  
+我也喜欢我可以跟着唱的歌曲。那么你最喜欢的乐队是什么？  
+I like songs that I can sing along with, too. So what's your favorite band?  
+问题:  
+"我可以跟着唱的歌曲"用英语怎么说？ 五，四，三，二，一。songs that I can sing along with  
+I like songs that I can sing along with, too. So what's your favorite band?  
+作用: 这一行表示同意并反问，推动对话。  
+
+行号6  
+The Lions. They always have interesting lyrics.  
+狮子乐队。他们总是有有趣的歌词。  
+The Lions. They always have interesting lyrics.  
+问题:  
+"歌词"用英语怎么说？ 五，四，三，二，一。lyrics <prosody rate="slow"><say-as interpret-as="spell-out">L Y R I C S</say-as></prosody> lyrics  
+The Lions. They always have interesting lyrics.  
+作用: 这一行回答提问，介绍另一个乐队及其特点。  
+
+总结全文  
+对话中两个人讨论音乐偏好，一个人喜欢可以跳舞的音乐，另一个人喜欢有歌词可以跟着唱的音乐，并询问最喜欢的乐队。  
+In the dialogue, two people discuss their music preferences; one likes music to dance to, the other prefers music with great lyrics to sing along with, and they ask about favorite bands.```
