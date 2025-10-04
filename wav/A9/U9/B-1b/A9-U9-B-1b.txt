@@ -1,0 +1,116 @@
+行号1  
+Wow, you sure have lots of cool things. What a great jacket!  
+哇，你肯定有很多酷东西。多么棒的夹克！  
+Wow, you sure have lots of cool things. What a great jacket!  
+作用: 这一行开始了对话，表达对物品的赞美和惊讶，设置场景。
+
+行号2  
+Yeah, it’s new. I really like it. I like clothes that are unusual.  
+是的，它是新的。我真的很喜欢它。我喜欢不寻常的衣服。  
+Yeah, it’s new. I really like it. I like clothes that are unusual.  
+问题:  
+"不寻常的衣服"用英语怎么说？ 五，四，三，二，一。clothes that are unusual  
+原文: Yeah, it’s new. I really like it. I like clothes that are unusual.  
+作用: 回应赞美，表达个人喜好。
+
+行号3  
+Me, too. Say... is that a new book over there?  
+我也是。喂...那边那是一本新书吗？  
+Me, too. Say... is that a new book over there?   
+作用: 表示同意，并引入新话题（书）。
+
+行号4  
+Yes, it is. It’s a book about volleyball. It tells you how you can be a good player.  
+是的，它是。这是一本关于排球的书。它告诉你如何能成为一个好球员。  
+Yes, it is. It’s a book about volleyball. It tells you how you can be a good player.  
+原文: Yes, it is. It’s a book about volleyball. It tells you how you can be a good player.  
+作用: 确认并描述书的内容。
+
+行号5  
+Is it good?  
+它好吗？  
+Is it good?  
+作用: 询问书的质量。
+
+行号6  
+Yeah, it’s great. I like writers who explain things well.  
+是的，它很棒。我喜欢解释事情好的作家。  
+Yeah, it’s great. I like writers who explain things well.  
+问题:  
+"解释"用英语怎么说？ 五，四，三，二，一。explain <prosody rate="slow"><say-as interpret-as="spell-out">E X P L A I N</say-as></prosody> explain  
+原文: Yeah, it’s great. I like writers who explain things well.  
+作用: 肯定书的质量，表达对作家的喜好。
+
+行号7  
+Me, too. Umm, Michael?  
+我也是。嗯，迈克尔？  
+Me, too. Umm, Michael?  
+作用: 表示同意，并呼叫对方名字，转向新话题。
+
+行号8  
+Yes?  
+怎么啦？  
+Yes?  
+作用: 回应呼叫，表示倾听。
+
+行号9  
+Where did you get that movie poster?  
+你在哪里得到那张电影海报？  
+Where did you get that movie poster?  
+问题:  
+"电影海报"用英语怎么说？ 五，四，三，二，一。movie poster  
+原文: Where did you get that movie poster?  
+作用: 询问海报的来源。
+
+行号10  
+Oh, my brother got it for me. He works at a movie theater.  
+哦，我哥哥为我弄到的。他在电影院工作。  
+Oh, my brother got it for me. He works at a movie theater.  
+问题:  
+"为我弄到"用英语怎么说？ 五，四，三，二，一。got it for me  
+"电影院"用英语怎么说？ 五，四，三，二，一。a movie theater  
+原文: Oh, my brother got it for me. He works at a movie theater.  
+作用: 解释海报的来源，提供背景信息。
+
+行号11  
+Wow, you’re so lucky. It’s a great poster!  
+哇，你真幸运。它是一张很棒的海报！  
+Wow, you’re so lucky. It’s a great poster!  
+问题:  
+"幸运的"用英语怎么说？ 五，四，三，二，一。lucky <prosody rate="slow"><say-as interpret-as="spell-out">L U C K Y</say-as></prosody> lucky  
+原文: Wow, you’re so lucky. It’s a great poster!  
+作用: 表达羡慕和赞美。
+
+行号12  
+Yes, it is. I love movies that are scary. What about you?  
+是的，它是。我喜欢恐怖的电影。你呢？  
+Yes, it is. I love movies that are scary. What about you?  
+问题:  
+"恐怖的电影"用英语怎么说？ 五，四，三，二，一。movies that are scary  
+原文: Yes, it is. I love movies that are scary. What about you?  
+作用: 确认并分享个人喜好，询问对方。
+
+行号13  
+I sure do. Say... Michael... Do you think your brother could get the same poster for me, too?  
+我当然喜欢。喂...迈克尔...你认为你哥哥也能为我弄到同样的海报吗？  
+I sure do. Say... Michael... Do you think your brother could get the same poster for me, too?  
+作用: 表达强烈同意，并请求帮助。
+
+行号14  
+Probably. I’ll ask him.  
+可能。我会问他。  
+Probably. I’ll ask him.  
+问题:  
+"可能"用英语怎么说？ 五，四，三，二，一。probably <prosody rate="slow"><say-as interpret-as="spell-out">P R O B A B L Y</say-as></prosody> probably  
+原文: Probably. I’ll ask him.  
+作用: 表示可能性，并承诺行动。
+
+行号15  
+Great, thanks!  
+太好了，谢谢！  
+Great, thanks!  
+作用: 表达感激和满意，结束对话。
+
+总结全文  
+这段对话中，两个人讨论物品如夹克、书和海报，表达喜好和请求帮助。  
+In this dialogue, two people discuss items like a jacket, a book, and a poster, expressing preferences and asking for help.
