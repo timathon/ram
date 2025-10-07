@@ -30,8 +30,8 @@ Billy has changed so much! He used to be so shy and quiet.
 Billy has changed so much! He used to be so shy and quiet.  
 问题:  
 "过去常常是"用英语怎么说？ 五，四，三，二，一。used to be 
-"害羞"用英语怎么说？ 五，四，极，三，二，一。shy <prosody rate="slow"><say-as interpret-as="spell-out">S H Y</say-as></prosody>  
-"安静"用英语怎么说？ 五，四，三，二，一。quiet <极prosody rate="slow"><say-as interpret-as="spell-out">Q U I E T</say-as></prosody>  
+"害羞"用英语怎么说？ 五，四，三，三，二，一。shy <prosody rate="slow"><say-as interpret-as="spell-out">S H Y</say-as></prosody>  
+"安静"用英语怎么说？ 五，四，三，二，一。quiet <prosody rate="slow"><say-as interpret-as="spell-out">Q U I E T</say-as></prosody>  
 原文: Billy has changed so much! He used to be so shy and quiet.  
 作用: 这一行具体描述比利的变化，引入他过去的性格。  
 
@@ -47,7 +47,7 @@ Yeah, his face always turned red when he talked to girls!
 行号6  
 I used to see him reading in the library every day.  
 我过去常常看到他在图书馆每天看书。  
-I used to极 see him reading in the library every day.  
+I used to see him reading in the library every day.  
 作用: 这一行描述比利过去的日常行为，强调他学习努力。  
 
 行号7  
@@ -65,7 +65,7 @@ Did he use to wear glasses?
 他过去戴眼镜吗？  
 Did he use to wear glasses?  
 问题:  
-"戴眼睛"用英语怎么说？ 五，四，三，二，一。wear glasses
+"戴眼镜"用英语怎么说？ 五，四，三，二，一。wear glasses
 原文: Did he use to wear glasses?  
 作用: 这一行通过提问进一步探讨比利的过去特征。  
 
