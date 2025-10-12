@@ -1,0 +1,46 @@
+行号1
+I have three best friends: Tutu, Xiaojun and Momo.
+我有三个最好的朋友：图图、小军和莫莫。
+I have three best friends: Tutu, Xiaojun and Momo.
+问题：
+"最好的朋友"用英语怎么说？五，四，三，二，一。best friends
+I have three best friends: Tutu, Xiaojun and Momo.
+
+行号2
+Tutu and I live in the same street. We play games together and we always have fun.
+图图和我住在同一条街上。我们一起玩游戏，我们总是玩得很开心。
+Tutu and I live in the same street. We play games together and we always have fun.
+问题：
+"住在"用英语怎么说？五，四，三，二，一。live <prosody rate="slow"><say-as interpret-as="spell-out">L I V E</say-as></prosody> live
+"一起玩游戏"用英语怎么说？五，四，三，二，一。play games together
+"玩得很开心"用英语怎么说？五，四，三，二，一。have fun
+Tutu and I live in the same street. We play games together and we always have fun.
+
+行号3
+Xiaojun and I have different hobbies but we enjoy talking to each other.
+小军和我有不同的爱好，但我们喜欢互相交谈。
+Xiaojun and I have different hobbies but we enjoy talking to each other.
+问题：
+"不同的爱好"用英语怎么说？五，四，三，二，一。different hobbies
+"喜欢做某事"用英语怎么说？五，四，三，二，一。enjoy doing
+"互相交谈"用英语怎么说？五，四，三，二，一。talk to each other
+Xiaojun and I have different hobbies but we enjoy talking to each other.
+
+行号4
+Momo often makes me laugh because he is funny. He is very musical and we often sing together. He's very cool.
+莫莫经常让我发笑，因为他很有趣。他很有音乐天赋，我们经常一起唱歌。他非常酷。
+Momo often makes me laugh because he is funny. He is very musical and we often sing together. He's very cool.
+问题：
+"让某人发笑"用英语怎么说？五，四，三，二，一。make someone laugh
+"有音乐天赋的"用英语怎么说？五，四，三，二，一。musical <prosody rate="slow"><say-as interpret-as="spell-out">M U S I C A L</say-as></prosody> musical
+"一起唱歌"用英语怎么说？五，四，三，二，一。sing together
+Momo often makes me laugh because he is funny. He is very musical and we often sing together. He's very cool.
+
+行号5
+I love my friends. We're happy together.
+我爱我的朋友们。我们在一起很快乐。
+I love my friends. We're happy together.
+问题：
+"爱"用英语怎么说？五，四，三，二，一。love <prosody rate="slow"><say-as interpret-as="spell-out">L O V E</say-as></prosody> love
+"快乐的"用英语怎么说？五，四，三，二，一。happy <prosody rate="slow"><say-as interpret-as="spell-out">H A P P Y</say-as></prosody> happy
+I love my friends. We're happy together.

@@ -1,0 +1,28 @@
+行号1  
+How can you be a good friend?  
+你怎么能成为一个好朋友？  
+How can you be a good friend?  
+问题:  
+"成为"用英语怎么说？ 五，四，三，二，一。be <prosody rate="slow"><say-as interpret-as="spell-out">B E</say-as></prosody> be  
+"好朋友"用英语怎么说？ 五，四，三，二，一。good friend  
+How can you be a good friend?  
+
+行号2  
+One. Be happy for each other. Two. Help each other. Three. Take care of each other.  
+一。为彼此感到高兴。二。互相帮助。三。互相照顾。  
+One. Be happy for each other. Two. Help each other. Three. Take care of each other.  
+问题:  
+"为...感到高兴"用英语怎么说？ 五，四，三，二，一。be happy for  
+"互相"用英语怎么说？ 五，四，三，二，一。each other
+"照顾"用英语怎么说？ 五，四，三，二，一。take care of  
+One. Be happy for each other. Two. Help each other. Three. Take care of each other.  
+
+行号3  
+Four. Do happy things together. Five. Listen to each other. Six. Share things.  
+四。一起做快乐的事情。五。互相倾听。六。分享东西。  
+Four. Do happy things together. Five. Listen to each other. Six. Share things.  
+问题:  
+"一起"用英语怎么说？ 五，四，三，二，一。together <prosody rate="slow"><say-as interpret-as="spell-out">T O G E T H E R</say-as></prosody> together  
+"倾听"用英语怎么说？ 五，四，三，二，一。listen to  
+"分享"用英语怎么说？ 五，四，三，二，一。share <prosody rate="slow"><say-as interpret-as="spell-out">S H A R E</say-as></prosody> share
+Four. Do happy things together. Five. Listen to each other. Six. Share things.

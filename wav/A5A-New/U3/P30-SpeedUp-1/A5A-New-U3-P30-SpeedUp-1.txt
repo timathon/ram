@@ -1,0 +1,113 @@
+行号1
+Title: Friends with differences  
+标题：不同的朋友  
+Title: Friends with differences  
+问题：  
+"差异；不同之处"用英语怎么说？ 五，四，三，二，一。differences <prosody rate="slow"><say-as interpret-as="spell-out">D I F F E R E N C E S</say-as></prosody> differences  
+原文：Title: Friends with differences  
+作用：这一行作为标题，概括了故事的主题——有差异的朋友之间的关系。
+
+行号2
+Big Question: Can the bird and the dog be friends?  
+大问题：小鸟和小狗能成为朋友吗？  
+Big Question: Can the bird and the dog be friends?  
+问题： 
+"成为朋友"用英语怎么说？ 五，四，三，二，一。be friends
+Big Question: Can the bird and the dog be friends?
+作用：这一行提出了故事的核心问题，引导读者思考并激发阅读兴趣。
+
+行号3
+You can't be friends with Dog because you're so different.  
+你不能和小狗做朋友，因为你们太不一样了。  
+You can't be friends with Dog because you're so different.  
+问题：  
+"不同的"用英语怎么说？ 五，四，三，二，一。different <prosody rate="slow"><say-as interpret-as="spell-out">D I F F E R E N T</say-as></prosody> different  
+原文：You can't be friends with Dog because you're so different.  
+作用：这一行提出了故事的核心冲突，即因为差异而不能成为朋友的观念。
+
+行号4
+You can't be friends with Bird because you're so different.  
+你不能和小鸟做朋友，因为你们太不一样了。  
+You can't be friends with Bird because you're so different.  
+问题：  
+"因为"用英语怎么说？ 五，四，三，二，一。because <prosody rate="slow"><say-as interpret-as="spell-out">B E C A U S E</say-as></prosody> because  
+原文：You can't be friends with Bird because you're so different.  
+作用：这一行从另一方的角度重复了相同的偏见，强化了障碍。
+
+行号5
+Let's show them we aren't different. Then we can be friends.  
+让我们向他们展示我们并不不同。然后我们就能成为朋友了。  
+Let's show them we aren't different. Then we can be friends.  
+问题：  
+"展示"用英语怎么说？ 五，四，三，二，一。show <prosody rate="slow"><say-as interpret-as="spell-out">S H O W</say-as></prosody> show  
+原文：Let's show them we aren't different. Then we can be friends.  
+作用：这一行提出了一个解决方案的尝试，试图证明他们的相似性。
+
+行号6
+Good idea!  
+好主意！  
+Good idea!  
+问题：  
+"主意"用英语怎么说？ 五，四，三，二，一。idea <prosody rate="slow"><say-as interpret-as="spell-out">I D E A</say-as></prosody> idea  
+原文：Good idea!  
+作用：这一行表示对提议的赞同，推动行动发展。
+
+行号7
+I am small and you are big. I eat seeds and you eat meat. I fly and you run. Er, what do we share?  
+我很小，你很大。我吃种子，你吃肉。我会飞，你会跑。呃，我们有什么共同点吗？  
+I am small and you are big. I eat seeds and you eat meat. I fly and you run. Er, what do we share?  
+问题：  
+"种子"用英语怎么说？ 五，四，三，二，一。seeds <prosody rate="slow"><say-as interpret-as="spell-out">S E E D S</say-as></prosody> seeds  
+"分享；共有"用英语怎么说？ 五，四，三，二，一。share <prosody rate="slow"><say-as interpret-as="spell-out">S H A R E</say-as></prosody> share  
+原文：I am small and you are big. I eat seeds and you eat meat. I fly and you run. Er, what do we share?  
+作用：这一行列举了具体的差异，却发现难以找到共同点，制造了戏剧性转折。
+
+行号8
+Hey, why are you looking worried?  
+嘿，你为什么看起来很担心？  
+Hey, why are you looking worried?  
+问题：  
+"看起来"用英语怎么说？ 五，四，三，二，一。look <prosody rate="slow"><say-as interpret-as="spell-out">L O O K</say-as></prosody> look  
+"担心的"用英语怎么说？ 五，四，三，二，一。worried <prosody rate="slow"><say-as interpret-as="spell-out">W O R R I E D</say-as></prosody> worried  
+原文：Hey, why are you looking worried?  
+作用：这一行引入了新的观察者视角，推动对话深入。
+
+行号9
+We want to be friends but we can't. We are so different.  
+我们想成为朋友，但我们做不到。我们太不一样了。  
+We want to be friends but we can't. We are so different.  
+作用：这一行表达了困境和沮丧，是情感的低谷。
+
+行号10
+But we are friends because we are happy together.  
+但我们是朋友，因为我们在一起很快乐。  
+But we are friends because we are happy together.  
+问题：  
+"一起"用英语怎么说？ 五，四，三，二，一。together <prosody rate="slow"><say-as interpret-as="spell-out">T O G E T H E R</say-as></prosody> together  
+原文：But we are friends because we are happy together.  
+作用：这一行提供了关键的顿悟，重新定义了友谊的真正含义。
+
+行号11
+Friends play together and friends share with each other. That's the key.  
+朋友一起玩耍，朋友彼此分享。这就是关键。  
+Friends play together and friends share with each other. That's the key.  
+问题：  
+"一起玩耍"用英语怎么说？ 五，四，三，二，一。play together  
+"彼此；互相"用英语怎么说？ 五，四，三，二，一。each other  
+"关键"用英语怎么说？ 五，四，三，二，一。key <prosody rate="slow"><say-as interpret-as="spell-out">K E Y</say-as></prosody> key  
+原文：Friends play together and friends share with each other. That's the key.  
+作用：这一行总结了友谊的本质，提出了故事的主题。
+
+行号12
+Let's show this to our parents. Then we can be friends - the best friends!  
+让我们把这个展示给我们的父母看。然后我们就能成为朋友——最好的朋友！  
+Let's show this to our parents. Then we can be friends - the best friends!  
+问题：  
+"父母"用英语怎么说？ 五，四，三，二，一。parents <prosody rate="slow"><say-as interpret-as="spell-out">P A R E N T S</say-as></prosody> parents  
+"最好的"用英语怎么说？ 五，四，三，二，一。best <prosody rate="slow"><say-as interpret-as="spell-out">B E S T</say-as></prosody> best  
+原文：Let's show this to our parents. Then we can be friends - the best friends!  
+作用：这一行是故事的结尾，表达了对未来的乐观展望和决心。
+
+总结全文  
+尽管小鸟和小狗有很多外在差异，但他们通过发现共同的快乐和友谊的真正意义——一起玩耍和彼此分享，最终成为了朋友。  
+Although the bird and the dog have many external differences, they become friends by discovering their shared happiness and the true meaning of friendship - playing together and sharing with each other.
