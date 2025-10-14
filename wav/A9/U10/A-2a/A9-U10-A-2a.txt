@@ -1,0 +1,126 @@
+行号1
+Hi, Maria. How was Paul's party?
+嗨，玛丽亚。保罗的派对怎么样？
+Hi, Maria. How was Paul's party?
+作用：这一行是对话的开场，询问对方参加派对的情况，引出后续话题。
+
+行号2
+Oh, Daisy, it was terrible.
+哦，黛西，太糟糕了。
+Oh, Daisy, it was terrible.
+问题：
+"糟糕的"用英语怎么说？五，四，三，二，一。terrible <prosody rate="slow"><say-as interpret-as="spell-out">T E R R I B L E</say-as></prosody> terrible
+Oh, Daisy, it was terrible.
+作用：这一行回应了上一句的提问，表达了负面情绪，为后续解释原因做铺垫。
+
+行号3
+It was?
+是吗？
+It was?
+作用：这一行表达了惊讶和疑问，鼓励对方继续讲述。
+
+行号4
+Uh - huh.
+嗯哼。
+Uh - huh.
+作用：这一行是简短的肯定回应，确认了前面的问题。
+
+行号5
+What happened?
+发生什么事了？
+What happened?
+作用：这一行进一步追问具体情况，推动故事发展。
+
+行号6
+Well, I was supposed to arrive at 7:00, but I arrived at 8:00.
+嗯，我本应该7点到的，但我8点才到。
+Well, I was supposed to arrive at 7:00, but I arrived at 8:00.
+问题：
+"本应该"用英语怎么说？五，四，三，二，一。be supposed to
+"到达"用英语怎么说？五，四，三，二，一。arrive <prosody rate="slow"><say-as interpret-as="spell-out">A R R I V E</say-as></prosody> arrive
+Well, I was supposed to arrive at 7:00, but I arrived at 8:00.
+作用：这一行说明了第一个问题——迟到，解释了为什么派对很糟糕。
+语法：be supposed to do something，表示"应该做某事"或"被期望做某事"。
+
+行号7
+Oh, so you were late.
+哦，所以你迟到了。
+Oh, so you were late.
+作用：这一行总结了对方刚才所说的内容，确认理解。
+
+行号8
+Yeah, but in my country, it's different. When you're invited for 7:00, you're expected to come later! It's considered strange to turn up on time.
+是的，但在我的国家，情况不同。当你被邀请7点到的时候，人们期待你晚一点来！准时出现被认为很奇怪。
+Yeah, but in my country, it's different. When you're invited for 7:00, you're expected to come later! It's considered strange to turn up on time.
+问题：
+"被邀请"用英语怎么说？五，四，三，二，一。be invited
+"被期待"用英语怎么说？五，四，三，二，一。be expected
+"准时出现"用英语怎么说？五，四，三，二，一。turn up on time
+Yeah, but in my country, it's different. When you're invited for 7:00, you're expected to come later! It's considered strange to turn up on time.
+作用：这一行解释了文化差异，说明迟到在自己国家是正常的。
+语法：be expected to do something，表示"被期待做某事"；It's considered + adj. + to do，表示"做某事被认为是……的"。
+
+行号9
+I see.
+我明白了。
+I see.
+作用：这一行表示理解对方的解释，承接对话。
+
+行号10
+Then when I met Paul's mom, I kissed her.
+然后当我见到保罗的妈妈时，我亲了她。
+Then when I met Paul's mom, I kissed her.
+作用：这一行引入了第二个问题——问候方式不当。
+
+行号11
+Oh... you were supposed to shake hands instead.
+哦……你本应该握手的。
+Oh... you were supposed to shake hands instead.
+问题：
+"握手"用英语怎么说？五，四，三，二，一。shake hands
+"代替、而是"用英语怎么说？五，四，三，二，一。instead <prosody rate="slow"><say-as interpret-as="spell-out">I N S T E A D</say-as></prosody> instead
+Oh... you were supposed to shake hands instead.
+作用：这一行指出了正确的问候方式，纠正了前面的行为。
+语法：be supposed to do something，表示"应该做某事"；instead，副词，表示"代替、而是"。
+
+行号12
+That's right. And I wore a fancy dress.
+没错。而且我穿了一件华丽的连衣裙。
+That's right. And I wore a fancy dress.
+问题：
+"穿"（过去式）用英语怎么说？五，四，三，二，一。wore <prosody rate="slow"><say-as interpret-as="spell-out">W O R E</say-as></prosody> wore
+"华丽的"用英语怎么说？五，四，三，二，一。fancy <prosody rate="slow"><say-as interpret-as="spell-out">F A N C Y</say-as></prosody> fancy
+That's right. And I wore a fancy dress.
+作用：这一行引入了第三个问题——着装不当。
+
+行号13
+What's wrong with that?
+那有什么问题吗？
+What's wrong with that?
+作用：这一行表示疑惑，引出对方进一步的解释。
+
+行号14
+Well, it turned out that it was an outdoor party, Daisy. Everyone else was in a T - shirt and jeans.
+嗯，结果那是一个户外派对，黛西。其他所有人都穿着T恤和牛仔裤。
+Well, it turned out that it was an outdoor party, Daisy. Everyone else was in a T - shirt and jeans.
+问题：
+"结果是"用英语怎么说？五，四，三，二，一。turn out
+"户外的"用英语怎么说？五，四，三，二，一。outdoor <prosody rate="slow"><say-as interpret-as="spell-out">O U T D O O R</say-as></prosody> outdoor
+Well, it turned out that it was an outdoor party, Daisy. Everyone else was in a T - shirt and jeans.
+作用：这一行解释了着装不当的原因——派对是户外的，别人都穿得很随便。
+语法：It turned out that...，表示"结果是……"；be in + 衣服，表示"穿着……"。
+
+行号15
+I guess next time you should ask what you're supposed to wear.
+我想下次你应该问一下你应该穿什么。
+I guess next time you should ask what you're supposed to wear.
+问题：
+"猜测、想"用英语怎么说？五，四，三，二，一。guess <prosody rate="slow"><say-as interpret-as="spell-out">G U E S S</say-as></prosody> guess
+"应该穿"用英语怎么说？五，四，三，二，一。be supposed to wear
+I guess next time you should ask what you're supposed to wear.
+作用：这一行总结对话，给出建议，为将来避免类似问题提供解决方案。
+语法：what you're supposed to wear 是宾语从句，作ask的宾语；be supposed to do something，表示"应该做某事"。
+
+总结全文
+玛丽亚参加保罗的派对时因文化差异而迟到、问候方式不当并着装不合适，黛西建议她下次提前询问。
+Maria had a terrible experience at Paul's party due to cultural differences—arriving late, greeting inappropriately, and wearing the wrong clothes—and Daisy suggests she ask about expectations next time.

@@ -1,0 +1,71 @@
+行号1
+Dear Sam, You must be excited about coming to China soon. Let me give you some suggestions and advice about Chinese customs.
+亲爱的萨姆，你一定对即将来中国感到兴奋。让我给你一些关于中国习俗的建议和忠告。
+Dear Sam, You must be excited about coming to China soon. Let me give you some suggestions and advice about Chinese customs.
+问题：
+"建议"用英语怎么说？五，四，三，二，一。suggestion <prosody rate="slow"><say-as interpret-as="spell-out">S U G G E S T I O N S</say-as></prosody> suggestion
+"习俗"用英语怎么说？五，四，三，二，一。customs <prosody rate="slow"><say-as interpret-as="spell-out">C U S T O M S</say-as></prosody> customs
+原文：Dear Sam, You must be excited about coming to China soon. Let me give you some suggestions and advice about Chinese customs.
+作用：这一行作为书信开头，引出话题并说明写信目的是提供关于中国习俗的建议。
+
+行号2
+When you're eating at the table, it's impolite to stick your chopsticks upright in the rice bowl, as it resembles the way incense is placed for the dead.
+当你在餐桌上吃饭时，把筷子直立插在米饭碗里是不礼貌的，因为这很像为逝者摆放香的方式。
+When you're eating at the table, it's impolite to stick your chopsticks upright in the rice bowl, as it resembles the way incense is placed for the dead.
+问题：
+"把...插在..."用英语怎么说？五，四，三，二，一。stick...in...
+"像；类似"用英语怎么说？五，四，三，二，一。resemble <prosody rate="slow"><say-as interpret-as="spell-out">R E S E M B L E</say-as></prosody> resemble
+"香"用英语怎么说？五，四，三，二，一。incense <prosody rate="slow"><say-as interpret-as="spell-out">I N C E N S E</say-as></prosody> incense
+原文：When you're eating at the table, it's impolite to stick your chopsticks upright in the rice bowl, as it resembles the way incense is placed for the dead.
+作用：这一行提供第一条具体建议，解释了一个重要的餐桌禁忌及其文化原因。
+
+行号3
+Also, don't point at others with your chopsticks.
+另外，不要用筷子指着别人。
+Also, don't point at others with your chopsticks.
+问题：
+"指着"用英语怎么说？五，四，三，二，一。point at
+原文：Also, don't point at others with your chopsticks.
+作用：这一行补充了另一条关于使用筷子的礼仪规则。
+
+行号4
+In our house, you're supposed to take off your shoes before entering if it's the custom of the household.
+在我们家，如果这是家里的习惯，你应该在进门前脱鞋。
+In our house, you're supposed to take off your shoes before entering if it's the custom of the household.
+问题：
+"应该"用英语怎么说？五，四，三，二，一。be supposed to
+"脱掉"用英语怎么说？五，四，三，二，一。take off
+"进入"用英语怎么说？五，四，三，二，一。enter <prosody rate="slow"><say-as interpret-as="spell-out">E N T E R</say-as></prosody> enter
+原文：In our house, you're supposed to take off your shoes before entering if it's the custom of the household.
+作用：这一行说明了关于进入家中的礼节，体现了对家庭习惯的尊重。
+
+行号5
+And it's good manners to greet my parents warmly.
+而且热情地问候我的父母是有礼貌的。
+And it's good manners to greet my parents warmly.
+问题：
+"有礼貌；好的礼仪"用英语怎么说？五，四，三，二，一。good manners
+"问候"用英语怎么说？五，四，三，二，一。greet <prosody rate="slow"><say-as interpret-as="spell-out">G R E E T</say-as></prosody> greet
+"热情地"用英语怎么说？五，四，三，二，一。warmly <prosody rate="slow"><say-as interpret-as="spell-out">W A R M L Y</say-as></prosody> warmly
+原文：And it's good manners to greet my parents warmly.
+作用：这一行强调了对长辈的礼貌态度，说明待客之道。
+
+行号6
+When you go out with people, you should be punctual. Being late might make others think you don't respect them.
+当你和别人外出时，你应该守时。迟到可能会让别人认为你不尊重他们。
+When you go out with people, you should be punctual. Being late might make others think you don't respect them.
+问题：
+"守时的"用英语怎么说？五，四，三，二，一。punctual <prosody rate="slow"><say-as interpret-as="spell-out">P U N C T U A L</say-as></prosody> punctual
+"尊重"用英语怎么说？五，四，三，二，一。respect <prosody rate="slow"><say-as interpret-as="spell-out">R E S P E C T</say-as></prosody> respect
+原文：When you go out with people, you should be punctual. Being late might make others think you don't respect them.
+作用：这一行强调了守时的重要性，解释了迟到可能带来的负面印象。
+
+行号7
+Have a safe trip, and I look forward to meeting you soon! Best wishes, Daming
+祝你旅途平安，我期待很快见到你！美好祝愿，大明
+Have a safe trip, and I look forward to meeting you soon! Best wishes, Daming
+问题：
+"期待做某事"用英语怎么说？五，四，三，二，一。look forward to doing
+原文：Have a safe trip, and I look forward to meeting you soon! Best wishes, Daming
+作用：这一行作为书信结尾，表达祝福和期待，完成了整封信的结构。
+语法：look forward to中的to是介词，后面要接动名词形式，所以用meeting。

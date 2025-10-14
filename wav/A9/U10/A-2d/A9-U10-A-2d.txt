@@ -1,0 +1,93 @@
+行号1
+How was the welcome party for foreign students last night?
+昨晚为外国学生举办的欢迎派对怎么样？
+How was the welcome party for foreign students last night?
+问题：
+"欢迎派对"用英语怎么说？ 五，四，三，二，一。welcome party
+"外国学生"用英语怎么说？ 五，四，三，二，一。foreign students
+原文: How was the welcome party for foreign students last night?
+作用: 这一行作为对话的开场，询问派对情况，引出下文关于文化差异的话题。
+
+行号2
+Great! I made some new friends. But a funny thing happened.
+太好了！我交了一些新朋友。但是发生了一件有趣的事。
+Great! I made some new friends. But a funny thing happened.
+问题：
+"交朋友"用英语怎么说？ 五，四，三，二，一。make friends
+原文: Great! I made some new friends. But a funny thing happened.
+作用: 这一行回应上一句的提问，给出积极评价并设置悬念，为下文的故事做铺垫。
+
+行号3
+What?
+什么事？
+What?
+作用: 这一行表达好奇，促使对方继续讲述故事。
+
+行号4
+I met a Japanese boy called Sato, and as soon as I held out my hand, he bowed.
+我遇到了一个叫佐藤的日本男孩，我一伸出手，他就鞠躬了。
+I met a Japanese boy called Sato, and as soon as I held out my hand, he bowed.
+问题：
+"伸出"用英语怎么说？ 五，四，三，二，一。hold out
+"鞠躬"用英语怎么说？ 五，四，三，二，一。bow <prosody rate="slow"><say-as interpret-as="spell-out">B O W</say-as></prosody> bow
+"一……就……"用英语怎么说？ 五，四，三，二，一。as soon as
+原文: I met a Japanese boy called Sato, and as soon as I held out my hand, he bowed.
+作用: 这一行描述了具体的文化冲突场景，展现了不同文化背景下的问候方式差异。
+语法: as soon as 引导时间状语从句，表示"一……就……"，强调两个动作紧接发生。
+
+行号5
+That's how people in Japan are expected to greet each other. It's impolite if you don't bow.
+那就是日本人被期望互相问候的方式。如果你不鞠躬，那是不礼貌的。
+That's how people in Japan are expected to greet each other. It's impolite if you don't bow.
+问题：
+"被期望做某事"用英语怎么说？ 五，四，三，二，一。be expected to
+"互相问候"用英语怎么说？ 五，四，三，二，一。greet each other
+"不礼貌的"用英语怎么说？ 五，四，三，二，一。impolite <prosody rate="slow"><say-as interpret-as="spell-out">I M P O L I T E</say-as></prosody> impolite
+原文: That's how people in Japan are expected to greet each other. It's impolite if you don't bow.
+作用: 这一行解释了日本的文化习俗，说明鞠躬是日本人问候的正确方式。
+语法: be expected to do 表示"被期望做某事"；if 引导条件状语从句。
+
+行号6
+I didn't know that. So I just stood there with my hand out. Finally, I returned the bow.
+我不知道那个。所以我只是站在那里伸着手。最后，我回了一个鞠躬。
+I didn't know that. So I just stood there with my hand out. Finally, I returned the bow.
+问题：
+"回礼/回鞠躬"用英语怎么说？ 五，四，三，二，一。return the bow
+原文: I didn't know that. So I just stood there with my hand out. Finally, I returned the bow.
+作用: 这一行描述了说话者面对文化差异时的尴尬反应和最终的应对方式。
+语法: with my hand out 是"with+宾语+宾补"结构，表示伴随状态。
+
+行号7
+I remember when I first met Marie last year, I did the same thing. I held out my hand and to my surprise, she kissed me on both sides of my face!
+我记得去年我第一次见到玛丽时，我做了同样的事。我伸出了手，令我惊讶的是，她亲了我脸颊的两边！
+I remember when I first met Marie last year, I did the same thing. I held out my hand and to my surprise, she kissed me on both sides of my face!
+问题：
+"令我惊讶的是"用英语怎么说？ 五，四，三，二，一。to my surprise
+"脸颊两边"用英语怎么说？ 五，四，三，二，一。both sides of my face
+原文: I remember when I first met Marie last year, I did the same thing. I held out my hand and to my surprise, she kissed me on both sides of my face!
+作用: 这一行通过分享另一个文化冲突的经历，与前面的故事形成呼应，进一步展现文化差异。
+语法: when 引导时间状语从句；to one's surprise 表示"令某人惊讶的是"。
+
+行号8
+I wouldn't mind that!
+我不会介意那样！
+I wouldn't mind that!
+问题：
+"介意"用英语怎么说？ 五，四，三，二，一。mind <prosody rate="slow"><say-as interpret-as="spell-out">M I N D</say-as></prosody> mind
+原文: I wouldn't mind that!
+作用: 这一行以轻松幽默的语气回应，缓解了对话氛围。
+
+行号9
+Very funny. Later I found out French people are supposed to kiss when they see each other.
+真有趣。后来我发现法国人见面时应该亲吻彼此。
+Very funny. Later I found out French people are supposed to kiss when they see each other.
+问题：
+"发现/查明"用英语怎么说？ 五，四，三，二，一。find out
+"应该做某事"用英语怎么说？ 五，四，三，二，一。be supposed to
+原文: Very funny. Later I found out French people are supposed to kiss when they see each other.
+作用: 这一行揭示了法国的文化习俗，解释了之前令人惊讶行为的原因，总结了文化学习的经验。
+语法: be supposed to do 表示"应该做某事"，指社会习俗或规则要求；when 引导时间状语从句。
+
+总结全文
+本文通过两个具体例子展现了不同文化背景下问候方式的差异，包括日本的鞠躬礼和法国的贴面吻礼，说明了解文化习俗的重要性。
+This text illustrates differences in greeting customs across cultures through two specific examples, including Japanese bowing and French cheek kissing, demonstrating the importance of understanding cultural practices.
