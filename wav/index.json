@@ -1,5 +1,5 @@
 {
-  "A3A": {
+  "A3A-New": {
     "U0": {
       "A1": [
         "A3A-U0-A1-01.mp3",
@@ -50,6 +50,26 @@
         "A3A-U1-P8-StartUp-1-10.mp3",
         "A3A-U1-P8-StartUp-1-11.mp3",
         "A3A-U1-P8-StartUp-1-12.mp3"
+      ]
+    },
+    "U2": {
+      "Words-and-Expressions": [
+        "A3A-U2-Words-and-Expressions-01.mp3",
+        "A3A-U2-Words-and-Expressions-02.mp3",
+        "A3A-U2-Words-and-Expressions-03.mp3",
+        "A3A-U2-Words-and-Expressions-04.mp3",
+        "A3A-U2-Words-and-Expressions-05.mp3",
+        "A3A-U2-Words-and-Expressions-06.mp3"
+      ]
+    },
+    "U3": {
+      "Words-and-Expressions": [
+        "A3A-U3-Words-and-Expressions-01.mp3",
+        "A3A-U3-Words-and-Expressions-02.mp3",
+        "A3A-U3-Words-and-Expressions-03.mp3",
+        "A3A-U3-Words-and-Expressions-04.mp3",
+        "A3A-U3-Words-and-Expressions-05.mp3",
+        "A3A-U3-Words-and-Expressions-06.mp3"
       ]
     }
   },
