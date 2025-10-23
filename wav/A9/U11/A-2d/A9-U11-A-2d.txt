@@ -1,0 +1,76 @@
+行号1
+Hey, Bert. I think I've made Alice mad and I'm not sure what to do about it.
+嘿，伯特。我觉得我让爱丽丝生气了，我不确定该怎么办。
+Hey, Bert. I think I've made Alice mad and I'm not sure what to do about it.
+问题:
+"让某人生气"用英语怎么说？ 五，四，三，二，一。make someone mad
+"怎么办"用英语怎么说？ 五，四，三，二，一。what to do about it
+Hey, Bert. I think I've made Alice mad and I'm not sure what to do about it.
+作用: 这一行开启对话，说话者向伯特表达困扰，引出后续问题讨论。
+
+行号2
+What happened?
+发生什么事了？
+What happened?
+作用: 这一行是伯特的回应，询问事情经过，推动对话发展。
+
+行号3
+You know Julie is Alice's best friend, right?
+你知道朱莉是爱丽丝最好的朋友，对吧？
+You know Julie is Alice's best friend, right?
+作用: 这一行提供背景信息，说明朱莉和爱丽丝的关系，为后续冲突做铺垫。
+
+行号4
+Uh - huh.
+嗯哼。
+Uh - huh.
+作用: 这一行是伯特的简短回应，表示理解并鼓励对方继续讲述。
+
+行号5
+Well, the more I get to know Julie, the more I realize that we have a lot in common. So we've been spending more time together lately.
+嗯，我越了解朱莉，就越意识到我们有很多共同点。所以我们最近花更多时间在一起。
+Well, the more I get to know Julie, the more I realize that we have a lot in common. So we've been spending more time together lately.
+问题:
+"了解"用英语怎么说？ 五，四，三，二，一。get to know
+"有共同点"用英语怎么说？ 五，四，三，二，一。have a lot in common
+Well, the more I get to know Julie, the more I realize that we have a lot in common. So we've been spending more time together lately.
+作用: 这一行解释说话者与朱莉关系变化的原因，为矛盾冲突提供具体细节。
+语法: "the more..., the more..." 结构表示"越……就越……"，用于表达两个变化之间的正比关系。
+
+行号6
+But what's wrong with that?
+但这有什么问题吗？
+But what's wrong with that?
+作用: 这一行是伯特的疑问，质疑这种友谊发展有何不妥，引导说话者进一步解释。
+
+行号7
+Umm... it makes Alice unhappy because she thinks Julie is now better friends with me than with her.
+嗯……这让爱丽丝不开心，因为她认为朱莉现在和我更好而不是和她。
+Umm... it makes Alice unhappy because she thinks Julie is now better friends with me than with her.
+问题:
+"让某人不开心"用英语怎么说？ 五，四，三，二，一。make someone unhappy
+Umm... it makes Alice unhappy because she thinks Julie is now better friends with me than with her.
+作用: 这一行揭示核心矛盾，说明爱丽丝不满的原因是感到被冷落。
+
+行号8
+I see. Mmm... why don't you ask Alice to join you each time you do something with Julie? Then she won't feel left out.
+我明白了。嗯……你为什么不每次和朱莉做什么事时都邀请爱丽丝加入呢？这样她就不会觉得被冷落了。
+I see. Mmm... why don't you ask Alice to join you each time you do something with Julie? Then she won't feel left out.
+问题:
+"觉得被冷落"用英语怎么说？ 五，四，三，二，一。feel left out
+I see. Mmm... why don't you ask Alice to join you each time you do something with Julie? Then she won't feel left out.
+作用: 这一行是伯特提出的解决方案，为问题提供具体建议。
+语法: "why don't you..." 用于提建议，表示"你为什么不……"，语气委婉友好。
+
+行号9
+Oh, good idea! That can make our friendship stronger.
+哦，好主意！那样可以让我们的友谊更牢固。
+Oh, good idea! That can make our friendship stronger.
+问题:
+"让友谊更牢固"用英语怎么说？ 五，四，三，二，一。make friendship stronger
+Oh, good idea! That can make our friendship stronger.
+作用: 这一行是对话结尾，说话者接受建议并表达积极态度，为对话画上圆满句号。
+
+总结全文
+说话者向伯特倾诉让爱丽丝不快的困扰，伯特建议邀请爱丽丝一起参与活动以避免她感到被冷落，说话者欣然接受。
+The speaker confides in Bert about upsetting Alice, and Bert suggests inviting Alice to join activities to prevent her from feeling left out, which the speaker gladly accepts.

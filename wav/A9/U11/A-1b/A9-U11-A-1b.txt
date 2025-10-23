@@ -1,0 +1,78 @@
+行号1  
+I'm hungry, Amy.  
+我饿了，艾米。  
+I'm hungry, Amy.  
+作用: 这一行开启了对话，说话者表达饥饿情绪，引出后续讨论。
+
+行号2  
+So am I. Why don't we get something to eat?  
+我也是。我们为什么不去吃点东西呢？  
+So am I. Why don't we get something to eat?  
+问题:  
+"我也是"用英语怎么说？ 五，四，三，二，一。So am I  
+原文: So am I. Why don't we get something to eat?  
+作用: 这一行回应前文的饥饿表达，并提出共同行动的建议，推动对话发展。
+
+行号3  
+Yeah. Let's go to Rockin' Restaurant. I love their hamburgers.  
+是的。我们去Rockin'餐厅吧。我喜欢他们的汉堡。  
+Yeah. Let's go to Rockin' Restaurant. I love their hamburgers.  
+问题:  
+"餐厅"用英语怎么说？ 五，四，三，二，一。restaurant <prosody rate="slow"><say-as interpret-as="spell-out">R E S T A U R A N T</say-as></prosody> restaurant  
+原文: Yeah. Let's go to Rockin' Restaurant. I love their hamburgers.  
+作用: 这一行表示同意建议并提出具体地点，展示个人偏好，为冲突埋下伏笔。
+
+行号4  
+Oh, Tina ... I hate Rockin' Restaurant.  
+哦，蒂娜……我讨厌Rockin'餐厅。  
+Oh, Tina ... I hate Rockin' Restaurant.  
+问题:  
+"讨厌"用英语怎么说？ 五，四，三，二，一。hate <prosody rate="slow"><say-as interpret-as="spell-out">H A T E</say-as></say-as></prosody> hate  
+原文: Oh, Tina ... I hate Rockin' Restaurant.  
+作用: 这一行引入反对意见，创造对话张力，推动情节转折。
+
+行号5  
+Why? The food is great, isn't it?  
+为什么？食物很棒，不是吗？  
+Why? The food is great, isn't it?  
+作用: 这一行寻求解释，通过反问强调观点，加深对话互动。
+
+行号6  
+The food's fine. I just don't like the environment. Those awful pictures on the walls make me uncomfortable, and the loud music makes me nervous.  
+食物还行。我只是不喜欢环境。墙上那些糟糕的图片让我不舒服，吵闹的音乐让我紧张。  
+The food's fine. I just don't like the environment. Those awful pictures on the walls make me uncomfortable, and the loud music makes me nervous.  
+问题:  
+"环境"用英语怎么说？ 五，四，三，二，一。environment <prosody rate="slow"><say-as interpret-as="spell-out">E N V I R O N M E N T</say-as></prosody> environment  
+"不舒服"用英语怎么说？ 五，四，三，二，一。uncomfortable <prosody rate="slow"><say-as interpret-as="spell-out">U N C O M F O R T A B L E</say-as></say-as></prosody> uncomfortable  
+"紧张"用英语怎么说？ 五，四，三，二，一。nervous <prosody rate="slow"><say-as interpret-as="spell-out">N E R V O U S</say-as></say-as></prosody> nervous  
+原文: The food's fine. I just don't like the environment. Those awful pictures on the walls make me uncomfortable, and the loud music makes me nervous.  
+作用: 这一行详细解释不喜欢的理由，突出环境因素对情绪的影响，丰富对话内容。
+
+行号7  
+OK. So where do you want to go, Amy?  
+好的。那么你想去哪里，艾米？  
+OK. So where do you want to go, Amy?  
+作用: 这一行转移话题，寻求替代方案，体现对话的协商性。
+
+行号8  
+Let's go to Blue Ocean. The soft music makes me relax.  
+我们去Blue Ocean吧。轻柔的音乐让我放松。  
+Let's go to Blue Ocean. The soft music makes me relax.  
+问题:  
+"海洋"用英语怎么说？ 五，四，三，二，一。ocean <prosody rate="slow"><say-as interpret-as="spell-out">O C E A N</say-as></prosody> ocean  
+"放松"用英语怎么说？ 五，四，三，二，一。relax <prosody rate="slow"><say-as interpret-as="spell-out">R E L A X</say-as></say-as></prosody> relax  
+原文: Let's go to Blue Ocean. The soft music makes me relax.  
+作用: 这一行提出新建议并说明优点，展示个人感受，延续对话选择。
+
+行号9  
+Not me. It makes me sleepy.  
+我不是。它让我困。  
+Not me. It makes me sleepy.  
+问题:  
+"困"用英语怎么说？ 五，四，三，二，一。sleepy <prosody rate="slow"><say-as interpret-as="spell-out">S L E E P Y</say-as></say-as></prosody> sleepy  
+原文: Not me. It makes me sleepy.  
+作用: 这一行表达不同意见，强调个体差异，以幽默方式结束对话。
+
+总结全文  
+蒂娜和艾米讨论餐厅选择，凸显环境音乐对个人情绪的不同影响。  
+Tina and Amy discuss restaurant choices, highlighting how environmental music affects their emotions differently.

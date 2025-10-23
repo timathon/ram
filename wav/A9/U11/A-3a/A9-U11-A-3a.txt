@@ -1,0 +1,112 @@
+行号1
+Big question 1. Can medicine help the king? Why or why not? Big question 2. Why does power not make the prime minister happy?
+大问题1. 药物能帮助国王吗？为什么能或为什么不能？大问题2. 为什么权力不能让首相快乐？
+Big question 1. Can medicine help the king? Why or why not? Big question 2. Why does power not make the prime minister happy?
+问题：
+"权力"用英语怎么说？五，四，三，二，一。power <prosody rate="slow"><say-as interpret-as="spell-out">P O W E R</say-as></prosody> power
+"首相"用英语怎么说？五，四，三，二，一。prime minister
+Big question 1. Can medicine help the king? Why or why not? Big question 2. Why does power not make the prime minister happy?
+作用：这一行提出了两个核心问题，引导读者思考故事的主题。
+
+行号2
+Big question 3. Why does money not make the banker happy? Big question 4. Why does fame not make the singer happy?
+大问题3. 为什么金钱不能让银行家快乐？大问题4. 为什么名声不能让歌手快乐？
+Big question 3. Why does money not make the banker happy? Big question 4. Why does fame not make the singer happy?
+问题：
+"银行家"用英语怎么说？五，四，三，二，一。banker <prosody rate="slow"><say-as interpret-as="spell-out">B A N K E R</say-as></prosody> banker
+"名声"用英语怎么说？五，四，三，二，一。fame <prosody rate="slow"><say-as interpret-as="spell-out">F A M E</say-as></prosody> fame
+Big question 3. Why does money not make the banker happy? Big question 4. Why does fame not make the singer happy?
+作用：这一行继续提出另外两个核心问题，进一步引导读者思考财富和名望与幸福的关系。
+
+行号3
+The Shirt of a Happy Man (Part I)
+一个快乐的人的衬衫（第一部分）
+The Shirt of a Happy Man (Part I)
+作用：这一行是故事的标题，点明了故事的核心线索——寻找快乐之人的衬衫。
+
+行号4
+A long time ago, in a rich and beautiful country, there lived an unhappy king. He slept badly and didn't feel like eating.
+很久以前，在一个富裕而美丽的国家，住着一位不快乐的国王。他睡眠很差，也不想吃东西。
+A long time ago, in a rich and beautiful country, there lived an unhappy king. He slept badly and didn't feel like eating.
+问题：
+"想要做某事"用英语怎么说？五，四，三，二，一。feel like doing
+A long time ago, in a rich and beautiful country, there lived an unhappy king. He slept badly and didn't feel like eating.
+作用：这一行引出故事的主人公——不快乐的国王，并描述他的身体状况，为后文寻找快乐之源做铺垫。
+语法：feel like doing something，表示想要做某事，feel like后接动名词。
+
+行号5
+His face was always pale as chalk. He often cried for no reason. This made the queen and his people worried.
+他的脸总是像粉笔一样苍白。他经常无缘无故地哭泣。这让王后和他的臣民很担心。
+His face was always pale as chalk. He often cried for no reason. This made the queen and his people worried.
+问题：
+"苍白"用英语怎么说？五，四，三，二，一。pale <prosody rate="slow"><say-as interpret-as="spell-out">P A L E</say-as></prosody> pale
+"无缘无故"用英语怎么说？五，四，三，二，一。for no reason
+His face was always pale as chalk. He often cried for no reason. This made the queen and his people worried.
+作用：这一行进一步描述国王的病态表现，强调其严重程度及对周围人的影响。
+语法：as...as表示"像……一样"，这里pale as chalk意为"像粉笔一样苍白"。make sb. + 形容词，表示"让某人处于某种状态"。
+
+行号6
+One day, a doctor was called in to examine the king. But he found nothing wrong with his body.
+一天，一位医生被叫来给国王检查。但他发现国王的身体没有任何问题。
+One day, a doctor was called in to examine the king. But he found nothing wrong with his body.
+问题：
+"被叫来"用英语怎么说？五，四，三，二，一。be called in
+"检查"用英语怎么说？五，四，三，二，一。examine <prosody rate="slow"><say-as interpret-as="spell-out">E X A M I N E</say-as></prosody> examine
+One day, a doctor was called in to examine the king. But he found nothing wrong with his body.
+作用：这一行引入医生角色，说明国王的问题并非身体疾病，为下文揭示心理问题做铺垫。
+语法：be called in是被动语态，表示"被叫来"。nothing wrong with表示"没有问题"，是there is something wrong with的否定形式。
+
+行号7
+"It's all in his mind. Neither medicine nor rest can help him. What he needs is the shirt of a happy person to wear. That'll make him happy."
+"这都是心理问题。药物和休息都帮不了他。他需要的是穿上一个快乐的人的衬衫。那会让他快乐。"
+"It's all in his mind. Neither medicine nor rest can help him. What he needs is the shirt of a happy person to wear. That'll make him happy."
+问题：
+"心理问题"中的"在他的头脑中"用英语怎么说？五，四，三，二，一。in his mind
+"既不……也不……"用英语怎么说？五，四，三，二，一。neither...nor...
+"It's all in his mind. Neither medicine nor rest can help him. What he needs is the shirt of a happy person to wear. That'll make him happy."
+作用：这一行揭示了国王问题的根源——心理而非身体，并提出了解决方案，推动故事情节发展。
+语法：neither...nor...表示"既不……也不……"，连接两个并列成分。What he needs是主语从句，作整个句子的主语。
+
+行号8
+The prime minister was called to the palace. But when they explained the king's situation to him, he said, "Although I have a lot of power, it doesn't make me happy. I'm always worried about losing my power. Many people are trying to take my position."
+首相被召到宫殿。但当他们向他解释国王的情况时，他说："虽然我有很大的权力，但这不能让我快乐。我总是担心失去权力。许多人想要夺取我的位置。"
+The prime minister was called to the palace. But when they explained the king's situation to him, he said, "Although I have a lot of power, it doesn't make me happy. I'm always worried about losing my power. Many people are trying to take my position."
+问题：
+"解释"用英语怎么说？五，四，三，二，一。explain <prosody rate="slow"><say-as interpret-as="spell-out">E X P L A I N</say-as></prosody> explain
+The prime minister was called to the palace. But when they explained the king's situation to him, he said, "Although I have a lot of power, it doesn't make me happy. I'm always worried about losing my power. Many people are trying to take my position."
+作用：这一行展示了首相的困境，说明权力并不能带来快乐，呼应了开头的大问题2。
+语法：be worried about doing表示"担心做某事"，about后接动名词。be trying to do表示"试图做某事，正在努力做某事"。
+
+行号9
+Then, the king's banker came to the palace. "Oh, I'm afraid I'm not happy either," he said. "I have a lot of wealth, but I'm always worried about losing my money. Someone tries to steal my money every day."
+然后，国王的银行家来到宫殿。"哦，恐怕我也不快乐，"他说。"我有很多财富，但我总是担心失去我的钱。每天都有人试图偷我的钱。"
+Then, the king's banker came to the palace. "Oh, I'm afraid I'm not happy either," he said. "I have a lot of wealth, but I'm always worried about losing my money. Someone tries to steal my money every day."
+问题：
+"财富"用英语怎么说？五，四，三，二，一。wealth <prosody rate="slow"><say-as interpret-as="spell-out">W E A L T H</say-as></prosody> wealth
+"偷"用英语怎么说？五，四，三，二，一。steal <prosody rate="slow"><say-as interpret-as="spell-out">S T E A L</say-as></prosody> steal
+Then, the king's banker came to the palace. "Oh, I'm afraid I'm not happy either," he said. "I have a lot of wealth, but I'm always worried about losing my money. Someone tries to steal my money every day."
+作用：这一行展示了银行家的困境，说明财富也不能带来快乐，呼应了开头的大问题3。
+
+行号10
+Next, the palace singer came to the king's room. But this was what he said: "It's true that I'm famous and everyone loves my songs. But I'm not happy because I'm always worried about being followed by others. I cannot be free!"
+接下来，宫廷歌手来到国王的房间。但他是这样说的："的确，我很有名，每个人都喜欢我的歌。但我不快乐，因为我总是担心被别人跟踪。我不能自由！"
+Next, the palace singer came to the king's room. But this was what he said: "It's true that I'm famous and everyone loves my songs. But I'm not happy because I'm always worried about being followed by others. I cannot be free!"
+问题：
+"被跟踪"用英语怎么说？五，四，三，二，一。be followed
+Next, the palace singer came to the king's room. But this was what he said: "It's true that I'm famous and everyone loves my songs. But I'm not happy because I'm always worried about being followed by others. I cannot be free!"
+作用：这一行展示了歌手的困境，说明名声也不能带来快乐，呼应了开头的大问题4。
+语法：be followed by表示"被……跟踪"，是被动语态。It's true that...是主语从句结构，表示"……是真的"。
+
+行号11
+Finally, the king's top general was told to go out and find a happy man in three days' time. （To be continued）
+最后，国王的最高将军被告知要在三天之内出去找到一个快乐的人。（未完待续）
+Finally, the king's top general was told to go out and find a happy man in three days' time. （To be continued）
+问题：
+"被告知做某事"用英语怎么说？五，四，三，二，一。be told to do
+Finally, the king's top general was told to go out and find a happy man in three days' time. （To be continued）
+作用：这一行推动故事情节发展，引出寻找快乐之人的任务，为下文留下悬念。
+语法：be told to do表示"被告知做某事"，是被动语态。in three days' time表示"在三天之内"，time前用所有格形式。
+
+总结全文
+一位不快乐的国王得知自己需要快乐之人的衬衫才能痊愈，但发现拥有权力、财富和名声的人都不快乐，于是派将军去寻找真正快乐的人。
+An unhappy king learns he needs the shirt of a happy person to recover, but discovers that those with power, wealth, and fame are all unhappy, so he sends his general to find a truly happy person.

@@ -1,0 +1,61 @@
+行号1
+June 29th. Dear Diary, I thought today was going to be really bad. To start with, it was cloudy and grey, and cloudy days make me sad.
+6月29日。亲爱的日记，我以为今天会很糟糕。首先，天气阴沉灰暗，阴天让我感到悲伤。
+June 29th. Dear Diary, I thought today was going to be really bad. To start with, it was cloudy and grey, and cloudy days make me sad.
+问题：
+"日记"用英语怎么说？五，四，三，二，一。diary <prosody rate="slow"><say-as interpret-as="spell-out">D I A R Y</say-as></prosody> diary
+June 29th. Dear Diary, I thought today was going to be really bad. To start with, it was cloudy and grey, and cloudy days make me sad.
+"首先"用英语怎么说？五，四，三，二，一。to start with
+作用：这一行是日记的开头，点明日期并引出作者对这一天的初始预期和第一个原因——天气影响情绪。
+
+行号2
+And this was the day we would get our exam results back, but I didn't answer the exam questions very well last week. That made me worried.
+而且这是我们拿回考试成绩的日子，但我上周考试答得不太好。那让我感到担心。
+And this was the day we would get our exam results back, but I didn't answer the exam questions very well last week. That made me worried.
+问题：
+"考试成绩"用英语怎么说？五，四，三，二，一。exam results
+"让某人担心"用英语怎么说？五，四，三，二，一。make someone worried
+And this was the day we would get our exam results back, but I didn't answer the exam questions very well last week. That made me worried.
+作用：这一行说明了作者预期糟糕的第二个原因——即将收到可能不理想的考试成绩，并表达了担心的情绪。
+
+行号3
+I walked to school with my best friend Holly. She didn't say much to me. That made me a little upset.
+我和我最好的朋友霍莉一起走路去学校。她没跟我说太多话。那让我有点沮丧。
+I walked to school with my best friend Holly. She didn't say much to me. That made me a little upset.
+问题：
+"让某人沮丧"用英语怎么说？五，四，三，二，一。make someone upset
+I walked to school with my best friend Holly. She didn't say much to me. That made me a little upset.
+作用：这一行引入了另一个人物霍莉，描述了她的沉默表现及其对作者情绪的负面影响。
+
+行号4
+In class, the teacher handed back our exams. That made me anxious.
+在课堂上，老师发回了我们的试卷。那让我感到焦虑。
+In class, the teacher handed back our exams. That made me anxious.
+问题：
+"发回"用英语怎么说？五，四，三，二，一。hand back
+"焦虑"用英语怎么说？五，四，三，二，一。anxious <prosody rate="slow"><say-as interpret-as="spell-out">A N X I O U S</say-as></prosody> anxious
+In class, the teacher handed back our exams. That made me anxious.
+作用：这一行描述了关键事件——老师发回试卷，表达了收到试卷前作者的紧张心理。
+
+行号5
+But I found out that I didn't do too badly. That made me very happy. Then things got even better.
+但我发现我考得不算太差。那让我非常开心。然后事情变得更好了。
+But I found out that I didn't do too badly. That made me very happy. Then things got even better.
+问题：
+"发现"用英语怎么说？五，四，三，二，一。find out
+"让某人开心"用英语怎么说？五，四，三，二，一。make someone happy
+But I found out that I didn't do too badly. That made me very happy. Then things got even better.
+作用：这一行是情绪的重要转折——作者发现结果好于预期，情绪从焦虑转为开心，并预示着还有更多好事发生。
+
+行号6
+Holly bought me my favorite lemon drink and a turkey sandwich for lunch, and we talked a lot. That made me joyful.
+霍莉给我买了我最喜欢的柠檬饮料和一个火鸡三明治当午餐，我们聊了很多。那让我感到快乐。
+Holly bought me my favorite lemon drink and a turkey sandwich for lunch, and we talked a lot. That made me joyful.
+问题：
+"让某人快乐"用英语怎么说？五，四，三，二，一。make someone joyful
+Holly bought me my favorite lemon drink and a turkey sandwich for lunch, and we talked a lot. That made me joyful.
+作用：这一行是全文的情感高潮，描述了朋友的善意举动，表达了作者从悲伤到快乐的完整情绪转变。
+
+总结全文
+作者记录了从阴郁天气和考试焦虑开始，到发现成绩不错和朋友送惊喜，最终从悲伤转为快乐的一天。
+The author records a day that started with gloomy weather and exam anxiety but ended joyfully after discovering decent results and receiving a surprise from a friend.

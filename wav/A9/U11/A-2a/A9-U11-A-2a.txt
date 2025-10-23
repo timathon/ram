@@ -1,0 +1,107 @@
+行号1
+Did you and Amy have fun last night, Tina?
+你和艾米昨晚玩得开心吗，蒂娜？
+Did you and Amy have fun last night, Tina?
+问题：
+"玩得开心"用英语怎么说？ 五，四，三，二，一。have fun
+原文：Did you and Amy have fun last night, Tina?
+作用：这一行是对话的开场问句，询问对方昨晚的活动体验，引出后续话题。
+
+行号2
+Well ... yes and no.
+嗯……既是又不是。
+Well ... yes and no.
+作用：这一行给出模糊的回答，制造悬念，暗示情况复杂。
+
+行号3
+Was Amy late as usual?
+艾米像往常一样迟到了吗？
+Was Amy late as usual?
+问题：
+"像往常一样"用英语怎么说？ 五，四，三，二，一。as usual
+原文：Was Amy late as usual?
+作用：这一行提出具体问题，暗示艾米有迟到的习惯。
+
+行号4
+Yes, she was, and waiting for her drove me crazy.
+是的，她迟到了，等她让我抓狂。
+Yes, she was, and waiting for her drove me crazy.
+问题：
+"让我抓狂"用英语怎么说？ 五，四，三，二，一。drive me crazy
+原文：Yes, she was, and waiting for her drove me crazy.
+作用：这一行确认了艾米迟到，并表达了说话者的负面情绪。
+
+行号5
+Oh dear. Where did you go for dinner, then?
+哦，天哪。那你们去哪里吃晚饭了？
+Oh dear. Where did you go for dinner, then?
+作用：这一行表示同情，并转换话题询问晚餐地点。
+
+行号6
+First we went to Rockin' Restaurant, but Amy didn't want to stay. She said that the loud music made her nervous.
+首先我们去了摇滚餐厅，但艾米不想待下去。她说吵闹的音乐让她紧张。
+First we went to Rockin' Restaurant, but Amy didn't want to stay. She said that the loud music made her nervous.
+问题：
+"让她紧张"用英语怎么说？ 五，四，三，二，一。make her nervous
+原文：First we went to Rockin' Restaurant, but Amy didn't want to stay. She said that the loud music made her nervous.
+作用：这一行说明第一个用餐地点及艾米不满意的原因。
+
+行号7
+That's funny. Loud music always makes me want to dance.
+真有趣。吵闹的音乐总是让我想跳舞。
+That's funny. Loud music always makes me want to dance.
+问题：
+"让我想跳舞"用英语怎么说？ 五，四，三，二，一。make me want to dance
+原文：That's funny. Loud music always makes me want to dance.
+作用：这一行表达了与艾米相反的观点，形成对比。
+
+行号8
+Me, too. So we went to Blue Ocean. It was quiet and the food was great. We had a good time.
+我也是。所以我们去了蓝色海洋。那里很安静，食物很棒。我们度过了愉快的时光。
+Me, too. So we went to Blue Ocean. It was quiet and the food was great. We had a good time.
+问题：
+"安静的"用英语怎么说？ 五，四，三，二，一。quiet <prosody rate="slow"><say-as interpret-as="spell-out">Q U I E T</say-as></prosody> quiet
+原文：Me, too. So we went to Blue Ocean. It was quiet and the food was great. We had a good time.
+作用：这一行说明第二个用餐地点及满意的体验，转为正面情绪。
+
+行号9
+Then did you go to the concert at the high school?
+那你们去高中的音乐会了吗？
+Then did you go to the concert at the high school?
+问题：
+"音乐会"用英语怎么说？ 五，四，三，二，一。concert <prosody rate="slow"><say-as interpret-as="spell-out">C O N C E R T</say-as></prosody> concert
+原文：Then did you go to the concert at the high school?
+作用：这一行询问晚餐后的活动安排。
+
+行号10
+No. We decided to go to the movies. We saw Remember Me Forever. It was a really good movie, but it was so sad that it made us cry.
+没有。我们决定去看电影。我们看了《永远记住我》。这是一部非常好的电影，但太悲伤了，让我们哭了。
+No. We decided to go to the movies. We saw Remember Me Forever. It was a really good movie, but it was so sad that it made us cry.
+问题：
+"决定做某事"用英语怎么说？ 五，四，三，二，一。decide to do
+"去看电影"用英语怎么说？ 五，四，三，二，一。go to the movies
+"让我们哭了"用英语怎么说？ 五，四，三，二，一。make us cry
+原文：No. We decided to go to the movies. We saw Remember Me Forever. It was a really good movie, but it was so sad that it made us cry.
+作用：这一行说明实际的活动安排和电影带来的情感影响。
+
+行号11
+Sad movies don't make me cry. They just make me want to leave!
+悲伤的电影不会让我哭。它们只会让我想离开！
+Sad movies don't make me cry. They just make me want to leave!
+问题：
+"让我想离开"用英语怎么说？ 五，四，三，二，一。make me want to leave
+原文：Sad movies don't make me cry. They just make me want to leave!
+作用：这一行表达了对方对悲伤电影的不同反应。
+
+行号12
+You sound just like my brother!
+你听起来就像我哥哥！
+You sound just like my brother!
+问题：
+"听起来像"用英语怎么说？ 五，四，三，二，一。sound like
+原文：You sound just like my brother!
+作用：这一行是对话的结尾，通过比较增添幽默感。
+
+总结全文
+蒂娜讲述了她和艾米昨晚外出的经历，包括因艾米迟到而烦恼、更换餐厅、以及看悲伤电影而哭泣的过程。
+Tina describes her evening out with Amy last night, including frustration over Amy's lateness, changing restaurants, and crying over a sad movie.
