@@ -1,0 +1,55 @@
+行号1
+We're friends again!
+我们又是朋友了！
+We're friends again!
+问题：
+"又，再次"用英语怎么说？ 五，四，三，二，一。again <prosody rate="slow"><say-as interpret-as="spell-out">A G A I N</say-as></prosody> again
+原文：We're friends again!
+作用：这一行作为标题或开头，点明了主题——友谊的修复。
+
+行号2
+We've got a problem today. And it's getting in the way.
+我们今天遇到了一个问题。而且它妨碍了我们。
+We've got a problem today. And it's getting in the way.
+问题：
+"遇到问题"用英语怎么说？ 五，四，三，二，一。have got a problem
+"妨碍，挡道"用英语怎么说？ 五，四，三，二，一。get in the way
+原文：We've got a problem today. And it's getting in the way.
+作用：这一行引出矛盾，说明问题正在影响双方关系。
+
+行号3
+You want to stay at home and play. I want to go out and try something new.
+你想待在家里玩。我想出去尝试一些新东西。
+You want to stay at home and play. I want to go out and try something new.
+问题：
+"待在家里"用英语怎么说？ 五，四，三，二，一。stay at home
+"出去"用英语怎么说？ 五，四，三，二，一。go out
+"尝试"用英语怎么说？ 五，四，三，二，一。try <prosody rate="slow"><say-as interpret-as="spell-out">T R Y</say-as></prosody> try
+原文：You want to stay at home and play. I want to go out and try something new.
+作用：这一行展示双方的不同意愿，凸显矛盾和分歧。
+
+行号4
+Let's stop and think together. Let's talk to each other.
+让我们停下来一起思考。让我们互相交谈。
+Let's stop and think together. Let's talk to each other.
+问题：
+"停下来"用英语怎么说？ 五，四，三，二，一。stop <prosody rate="slow"><say-as interpret-as="spell-out">S T O P</say-as></prosody> stop
+"一起思考"用英语怎么说？ 五，四，三，二，一。think together
+"互相交谈"用英语怎么说？ 五，四，三，二，一。talk to each other
+原文：Let's stop and think together. Let's talk to each other.
+作用：这一行提出解决问题的方法——冷静思考和沟通交流。
+
+行号5
+We can find a game for me and you. A few nice words make us friends again, phew!
+我们可以找到一个适合你我的游戏。几句好话让我们又成为朋友了，呼！
+We can find a game for me and you. A few nice words make us friends again, phew!
+问题：
+"找到"用英语怎么说？ 五，四，三，二，一。find <prosody rate="slow"><say-as interpret-as="spell-out">F I N D</say-as></prosody> find
+"几句好话"用英语怎么说？ 五，四，三，二，一。a few nice words
+"让我们再次成为朋友"用英语怎么说？ 五，四，三，二，一。make us friends again
+原文：We can find a game for me and you. A few nice words make us friends again, phew!
+作用：这一行展示解决方案并总结全文，强调通过妥协和善意沟通可以修复友谊。
+
+总结全文
+朋友之间出现分歧时，通过停下来思考、互相交流和寻找折中方案，可以化解矛盾并修复友谊。
+When friends have disagreements, they can resolve conflicts and repair friendships by pausing to think, communicating with each other, and finding compromise solutions.

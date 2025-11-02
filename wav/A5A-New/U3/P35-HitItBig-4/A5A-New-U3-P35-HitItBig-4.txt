@@ -1,0 +1,43 @@
+行号1
+They are my best friends.
+他们是我最好的朋友。
+They are my best friends.
+作用: 这一行开篇点题，直接说明下文要介绍的人物关系。
+
+行号2
+Feifei, Taotao, Wenwen and Lili are my best friends.
+飞飞、涛涛、文文和丽丽是我最好的朋友。
+Feifei, Taotao, Wenwen and Lili are my best friends.
+作用: 这一行具体列出了四位最好朋友的名字，呼应上一句。
+
+行号3
+We often read books, watch films and play games together.
+我们经常一起读书、看电影和玩游戏。
+We often read books, watch films and play games together.
+问题:
+"经常"用英语怎么说？五，四，三，二，一。often <prosody rate="slow"><say-as interpret-as="spell-out">O F T E N</say-as></prosody> often
+"看电影"用英语怎么说？五，四，三，二，一。watch films
+"一起"用英语怎么说？五，四，三，二，一。together <prosody rate="slow"><say-as interpret-as="spell-out">T O G E T H E R</say-as></prosody> together
+We often read books, watch films and play games together.
+作用: 这一行描述朋友们共同进行的娱乐活动，展现友谊的日常表现。
+
+行号4
+We help each other. We share things. We talk openly with each other.
+我们互相帮助。我们分享东西。我们彼此坦诚交谈。
+We help each other. We share things. We talk openly with each other.
+问题:
+"互相帮助"用英语怎么说？五，四，三，二，一。help each other
+"分享"用英语怎么说？五，四，三，二，一。share <prosody rate="slow"><say-as interpret-as="spell-out">S H A R E</say-as></prosody> share
+"坦诚地"用英语怎么说？五，四，三，二，一。openly <prosody rate="slow"><say-as interpret-as="spell-out">O P E N L Y</say-as></prosody> openly
+We help each other. We share things. We talk openly with each other.
+作用: 这一行用三个短句并列，强调友谊的核心品质：互助、分享和坦诚沟通。
+
+行号5
+We're happy together.
+我们在一起很快乐。
+原文：We're happy together.
+作用: 这一行总结了全文，点明友谊带来的情感结果，与开头呼应，形成完整结构。
+
+总结全文
+作者介绍了四位最好的朋友，描述他们一起进行的活动以及相处中的互助、分享和坦诚，表达了友谊带来的快乐。
+The author introduces four best friends, describes the activities they do together and their mutual help, sharing and openness, expressing the happiness that friendship brings.

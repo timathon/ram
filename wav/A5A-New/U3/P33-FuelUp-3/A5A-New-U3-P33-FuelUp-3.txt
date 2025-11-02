@@ -1,0 +1,119 @@
+行号1
+Sally, what's wrong? You look worried.
+莎莉，怎么了？你看起来很担心。
+Sally, what's wrong? You look worried.
+问题：
+"怎么了"用英语怎么说？ 五，四，三，二，一。What's wrong
+"担心的"用英语怎么说？ 五，四，三，二，一。worried <prosody rate="slow"><say-as interpret-as="spell-out">W O R R I E D</say-as></prosody> worried
+原文：Sally, what's wrong? You look worried.
+作用：这一行开启对话，通过询问引出问题，为后续展开话题做铺垫。
+
+行号2
+It's Mia.
+是米娅的事。
+It's Mia.
+问题：
+这句话中"It's"指代什么？ 五，四，三，二，一。指代前面问到的问题或担心的事情
+原文：It's Mia.
+作用：这一行简短回应上一句的询问，点明问题的核心人物。
+
+行号3
+Why? You are good friends.
+为什么？你们曾经是好朋友。
+Why? You are good friends.
+作用：这一行表达疑惑，暗示两人关系的变化，推动对话深入。
+
+行号4
+We have to work together on our science homework. I want to study sea animals, but Mia wants to study plastic. We can't change each other's ideas, so we get angry.
+我们必须一起做科学作业。我想研究海洋动物，但米娅想研究塑料。我们不能改变彼此的想法，所以我们生气了。
+We have to work together on our science homework. I want to study sea animals, but Mia wants to study plastic. We can't change each other's ideas, so we get angry.
+问题：
+"一起做"用英语怎么说？ 五，四，三，二，一。work together on
+"改变"用英语怎么说？ 五，四，三，二，一。change <prosody rate="slow"><say-as interpret-as="spell-out">C H A N G E</say-as></prosody> change
+原文：We have to work together on our science homework. I want to study sea animals, but Mia wants to study plastic. We can't change each other's ideas, so we get angry.
+作用：这一行详细说明矛盾的起因，解释双方的分歧和冲突。
+
+行号5
+Are you still angry?
+你还在生气吗？
+Are you still angry?
+问题：
+"还"用英语怎么说？ 五，四，三，二，一。still <prosody rate="slow"><say-as interpret-as="spell-out">S T I L L</say-as></prosody> still
+"生气的"用英语怎么说？ 五，四，三，二，一。angry <prosody rate="slow"><say-as interpret-as="spell-out">A N G R Y</say-as></prosody> angry
+原文：Are you still angry?
+作用：这一行通过提问了解当前情绪状态，为后续建议做准备。
+
+行号6
+No. But what should I do?
+不。但我该怎么办？
+No. But what should I do?
+问题：
+"应该"用英语怎么说？ 五，四，三，二，一。should <prosody rate="slow"><say-as interpret-as="spell-out">S H O U L D</say-as></prosody> should
+原文：No. But what should I do?
+作用：这一行回答上一句的问题，并寻求解决方法，转入建议环节。
+
+行号7
+First, go and say sorry to Mia.
+首先，去向米娅道歉。
+First, go and say sorry to Mia.
+问题：
+"首先"用英语怎么说？ 五，四，三，二，一。first <prosody rate="slow"><say-as interpret-as="spell-out">F I R S T</say-as></prosody> first
+"向某人道歉"用英语怎么说？ 五，四，三，二，一。say sorry to someone
+原文：First, go and say sorry to Mia.
+作用：这一行给出第一条建议，提出具体行动步骤。
+
+行号8
+Why?
+为什么？
+Why?
+问题：
+这个问题表达什么情绪？ 五，四，三，二，一。表达疑惑或不理解
+原文：Why?
+作用：这一行提出疑问，引出下一句的解释说明。
+
+行号9
+Say sorry first, because friends should be nice to each other.
+先道歉，因为朋友之间应该友善相待。
+Say sorry first, because friends should be nice to each other.
+问题：
+"友善相待"用英语怎么说？ 五，四，三，二，一。be nice to each other
+原文：Say sorry first, because friends should be nice to each other.
+作用：这一行解释建议的原因，强调友谊中的基本原则。
+
+行号10
+Okay. Then what?
+好的。然后呢？
+Okay. Then what?
+作用：这一行表示接受建议，并询问下一步行动。
+
+行号11
+Next, have a talk with Mia. Friends should listen to each other. You can find the right plan for the homework.
+接下来，和米娅谈一谈。朋友之间应该互相倾听。你们能找到合适的作业计划。
+Next, have a talk with Mia. Friends should listen to each other. You can find the right plan for the homework.
+问题：
+"接下来"用英语怎么说？ 五，四，三，二，一。next <prosody rate="slow"><say-as interpret-as="spell-out">N E X T</say-as></prosody> next
+"谈一谈"用英语怎么说？ 五，四，三，二，一。have a talk
+"互相倾听"用英语怎么说？ 五，四，三，二，一。listen to each other
+原文：Next, have a talk with Mia. Friends should listen to each other. You can find the right plan for the homework.
+作用：这一行给出第二条建议，强调沟通和倾听的重要性，并给出积极预期。
+
+行号12
+Thank you, Mum.
+谢谢你，妈妈。
+Thank you, Mum.
+作用：这一行表达感谢，表明接受了建议。
+
+行号13
+I'm sure you can be good friends again very soon.
+我相信你们很快就能再次成为好朋友。
+I'm sure you can be good friends again very soon.
+问题：
+"我相信"用英语怎么说？ 五，四，三，二，一。I'm sure
+"再次"用英语怎么说？ 五，四，三，二，一。again <prosody rate="slow"><say-as interpret-as="spell-out">A G A I N</say-as></prosody> again
+"很快"用英语怎么说？ 五，四，三，二，一。very soon
+原文：I'm sure you can be good friends again very soon.
+作用：这一行以鼓励和信心结束对话，给予积极的心理支持。
+
+总结全文
+莎莉和米娅因为科学作业意见不合而产生矛盾，妈妈建议莎莉先道歉，然后通过沟通找到解决方案，强调友谊中友善和倾听的重要性。
+Sally and Mia had a conflict over their science homework due to different ideas, and Mum advised Sally to apologize first and then communicate to find a solution, emphasizing the importance of being nice and listening in friendship.
