@@ -1,0 +1,76 @@
+行号1
+Goals
+目标
+Goals
+问题：
+"目标"用英语怎么说？ 五，四，三，二，一。goal <prosody rate="slow"><say-as interpret-as="spell-out">G O A L</say-as></prosody> goal
+Goals
+作用：这一行是标题，概括了下面列举的内容主题。
+
+行号2
+do better in school
+在学校表现更好
+do better in school
+问题：
+"表现更好"用英语怎么说？ 五，四，三，二，一。do better
+do better in school
+作用：这一行列举了第一个具体目标，关于学业进步。
+
+行号3
+eat and drink healthily
+健康地饮食
+eat and drink healthily
+问题：
+"健康地"用英语怎么说？ 五，四，三，二，一。healthily <prosody rate="slow"><say-as interpret-as="spell-out">H E A L T H I L Y</say-as></prosody> healthily
+"饮食"用英语怎么说？ 五，四，三，二，一。eat and drink
+eat and drink healthily
+作用：这一行列举了关于健康饮食的目标。
+
+行号4
+make new friends
+结交新朋友
+make new friends
+问题：
+"结交"用英语怎么说？ 五，四，三，二，一。make <prosody rate="slow"><say-as interpret-as="spell-out">M A K E</say-as></prosody> make
+"新朋友"用英语怎么说？ 五，四，三，二，一。new friends
+make new friends
+作用：这一行列举了社交方面的目标。
+
+行号5
+learn something new
+学习新东西
+learn something new
+问题：
+"学习"用英语怎么说？ 五，四，三，二，一。learn <prosody rate="slow"><say-as interpret-as="spell-out">L E A R N</say-as></prosody> learn
+"新东西"用英语怎么说？ 五，四，三，二，一。something new
+learn something new
+作用：这一行列举了关于个人学习和成长的目标。
+
+行号6
+read more
+多读书
+read more
+问题：
+"读书"用英语怎么说？ 五，四，三，二，一。read <prosody rate="slow"><say-as interpret-as="spell-out">R E A D</say-as></prosody> read
+"更多"用英语怎么说？ 五，四，三，二，一。more <prosody rate="slow"><say-as interpret-as="spell-out">M O R E</say-as></prosody> more
+read more
+作用：这一行列举了增加阅读量的目标。
+
+行号7
+be clean and tidy
+保持干净整洁
+be clean and tidy
+问题：
+"保持"用英语怎么说？ 五，四，三，二，一。be <prosody rate="slow"><say-as interpret-as="spell-out">B E</say-as></prosody> be
+"干净整洁"用英语怎么说？ 五，四，三，二，一。clean and tidy
+be clean and tidy
+作用：这一行列举了关于个人卫生和整洁的目标。
+
+行号8
+exercise more
+多锻炼
+exercise more
+问题：
+"锻炼"用英语怎么说？ 五，四，三，二，一。exercise <prosody rate="slow"><say-as interpret-as="spell-out">E X E R C I S E</say-as></prosody> exercise
+exercise more
+作用：这一行列举了增加体育锻炼的目标。

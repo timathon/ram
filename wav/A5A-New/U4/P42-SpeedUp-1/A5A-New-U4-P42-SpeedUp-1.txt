@@ -1,0 +1,106 @@
+行号1
+A word on the desk. Why is the boy late for school?
+桌子上的一句话。为什么这个男孩上学迟到了？
+A word on the desk. Why is the boy late for school?
+问题：
+"迟到"用英语怎么说？ 五，四，三，二，一。be late <prosody rate="slow"><say-as interpret-as="spell-out">L A T E</say-as></prosody> late
+"上学"用英语怎么说？ 五，四，三，二，一。for school
+A word on the desk. Why is the boy late for school?
+作用：这一行作为文章的标题，引出故事的主题和核心问题。
+
+行号2
+My mornings are always busy.
+我的早晨总是很忙碌。
+My mornings are always busy.
+问题：
+"忙碌"用英语怎么说？ 五，四，三，二，一。busy <prosody rate="slow"><say-as interpret-as="spell-out">B U S Y</say-as></prosody> busy
+"总是"用英语怎么说？ 五，四，三，二，一。always <prosody rate="slow"><say-as interpret-as="spell-out">A L W A Y S</say-as></prosody> always
+My mornings are always busy.
+作用：这一行概括说明男孩早晨的状态，为后文具体解释做铺垫。
+
+行号3
+My father is ill, but my family has little money. So before school, I have to sell things.
+我父亲生病了，但我的家庭几乎没有钱。所以上学前，我必须去卖东西。
+My father is ill, but my family has little money. So before school, I have to sell things.
+问题：
+"生病"用英语怎么说？ 五，四，三，二，一。be ill
+"卖东西"用英语怎么说？ 五，四，三，二，一。sell things
+"上学前"用英语怎么说？ 五，四，三，二，一。before school
+My father is ill, but my family has little money. So before school, I have to sell things.
+作用：这一行说明男孩迟到的根本原因——家庭困难和照顾病父的责任。
+
+行号4
+With the money, I go to buy medicine for my father.
+用这些钱，我去给我父亲买药。
+With the money, I go to buy medicine for my father.
+问题：
+"买药"用英语怎么说？ 五，四，三，二，一。buy medicine
+"给某人"用英语怎么说？ 五，四，三，二，一。for someone
+With the money, I go to buy medicine for my father.
+作用：这一行进一步解释男孩卖东西的目的，体现他的孝心和责任感。
+
+行号5
+It's a long way, and sometimes there are a lot of people.
+路程很远，而且有时候有很多人。
+It's a long way, and sometimes there are a lot of people.
+问题：
+"路程很远"用英语怎么说？ 五，四，三，二，一。a long way
+"有时候"用英语怎么说？ 五，四，三，二，一。sometimes <prosody rate="slow"><say-as interpret-as="spell-out">S O M E T I M E S</say-as></prosody> sometimes
+"很多人"用英语怎么说？ 五，四，三，二，一。a lot of people
+It's a long way, and sometimes there are a lot of people.
+作用：这一行说明男孩上学路上的客观困难，为迟到提供具体原因。
+
+行号6
+This morning, there are too many people. I'm worried. I hurry to school, but I'm still late.
+今天早上，有太多人了。我很担心。我匆忙赶往学校，但我仍然迟到了。
+This morning, there are too many people. I'm worried. I hurry to school, but I'm still late.
+问题：
+"担心"用英语怎么说？ 五，四，三，二，一。worried <prosody rate="slow"><say-as interpret-as="spell-out">W O R R I E D</say-as></prosody> worried
+"匆忙赶往"用英语怎么说？ 五，四，三，二，一。hurry to
+"仍然"用英语怎么说？ 五，四，三，二，一。still <prosody rate="slow"><say-as interpret-as="spell-out">S T I L L</say-as></prosody> still
+This morning, there are too many people. I'm worried. I hurry to school, but I'm still late.
+作用：这一行描述今天早上的具体情况，展现男孩的焦虑和努力。
+
+行号7
+I run into the classroom and my teacher is there.
+我跑进教室，我的老师在那里。
+I run into the classroom and my teacher is there.
+问题：
+"跑进"用英语怎么说？ 五，四，三，二，一。run into
+I run into the classroom and my teacher is there.
+作用：这一行推进故事情节，引出与老师的冲突场景。
+
+行号8
+He is unhappy with me. "Don't be late again," he says.
+他对我不高兴。"不要再迟到了，"他说。
+He is unhappy with me. "Don't be late again," he says.
+问题：
+"对某人不高兴"用英语怎么说？ 五，四，三，二，一。be unhappy with someone
+"再次"用英语怎么说？ 五，四，三，二，一。again <prosody rate="slow"><say-as interpret-as="spell-out">A G A I N</say-as></prosody> again
+He is unhappy with me. "Don't be late again," he says.
+作用：这一行通过老师的批评展现师生冲突，推动男孩情感变化。
+
+行号9
+I feel sad. I sit at my desk and cut a word into it.
+我感到难过。我坐在我的课桌前，在桌子上刻了一句话。
+I feel sad. I sit at my desk and cut a word into it.
+问题：
+"感到难过"用英语怎么说？ 五，四，三，二，一。feel sad
+"刻字"用英语怎么说？ 五，四，三，二，一。cut a word
+"在...上"用英语怎么说？ 五，四，三，二，一。into it
+I feel sad. I sit at my desk and cut a word into it.
+作用：这一行描述男孩的情绪反应和行动，呼应标题"桌子上的一句话"。
+
+行号10
+I'm not going to be late again.
+我不会再迟到了。
+I'm not going to be late again.
+问题：
+"不会再"用英语怎么说？ 五，四，三，二，一。not going to...again
+I'm not going to be late again.
+作用：这一行揭示男孩刻在桌上的话，表达他的决心，作为全文结尾呼应标题。
+语法：be going to表示将来打算或计划做某事。
+
+总结全文
+一个因家庭贫困和照顾病父而上学迟到的男孩，在受到老师批评后，在课桌上刻下决心不再迟到的话。
+A boy who is late for school due to family poverty and caring for his sick father carves a promise into his desk to never be late again after being criticized by his teacher.

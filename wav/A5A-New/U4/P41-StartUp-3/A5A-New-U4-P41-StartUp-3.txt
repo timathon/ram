@@ -1,0 +1,55 @@
+行号1
+Friday 2 November. Guess what? There is going to be a basketball match next month.
+11月2日，星期五。你猜怎么着？下个月将有一场篮球比赛。
+Friday 2 November. Guess what? There is going to be a basketball match next month.
+问题：
+"将有"用英语怎么说？ 五，四，三，二，一。there is going to be
+"篮球比赛"用英语怎么说？ 五，四，三，二，一。basketball match
+"猜测"用英语怎么说？ 五，四，三，二，一。guess <prosody rate="slow"><say-as interpret-as="spell-out">G U E S S</say-as></prosody> guess
+原文：Friday 2 November. Guess what? There is going to be a basketball match next month.
+作用：这一行点明日期并引出话题，用疑问句吸引读者注意，介绍即将发生的篮球比赛。
+语法：there is going to be表示"将有"，用于将来时态，表达未来某个时间点将会存在或发生某事。
+
+行号2
+Amy and I are excited. We are going to work hard.
+艾米和我都很兴奋。我们将努力训练。
+Amy and I are excited. We are going to work hard.
+问题：
+"兴奋的"用英语怎么说？ 五，四，三，二，一。excited <prosody rate="slow"><say-as interpret-as="spell-out">E X C I T E D</say-as></prosody> excited
+"将努力训练"用英语怎么说？ 五，四，三，二，一。are going to work hard
+"努力工作/训练"用英语怎么说？ 五，四，三，二，一。work hard
+原文：Amy and I are excited. We are going to work hard.
+作用：这一行表达说话者和艾米的情绪状态，并说明她们的决心和态度。
+
+行号3
+I want to stay strong and fast. I am going to go running four times a week.
+我想保持强壮和速度快。我将每周跑步四次。
+I want to stay strong and fast. I am going to go running four times a week.
+问题：
+"保持强壮"用英语怎么说？ 五，四，三，二，一。stay strong
+"将去跑步"用英语怎么说？ 五，四，三，二，一。am going to go running
+"每周四次"用英语怎么说？ 五，四，三，二，一。four times a week
+原文：I want to stay strong and fast. I am going to go running four times a week.
+作用：这一行具体说明说话者的训练目标和计划，展示她为比赛做的准备。
+
+行号4
+Amy wants to learn new moves. She is going to watch basketball games on TV.
+艾米想学习新动作。她将在电视上观看篮球比赛。
+Amy wants to learn new moves. She is going to watch basketball games on TV.
+问题：
+"学习新动作"用英语怎么说？ 五，四，三，二，一。learn new moves
+"将观看"用英语怎么说？ 五，四，三，二，一。is going to watch
+"在电视上"用英语怎么说？ 五，四，三，二，一。on TV
+原文：Amy wants to learn new moves. She is going to watch basketball games on TV.
+作用：这一行介绍艾米的训练目标和方法，与上一行形成对比，展示不同的准备方式。
+
+行号5
+We are going to study the other teams, too.
+我们也将研究其他队伍。
+We are going to study the other teams, too.
+问题：
+"将研究"用英语怎么说？ 五，四，三，二，一。are going to study
+"研究"用英语怎么说？ 五，四，三，二，一。study <prosody rate="slow"><say-as interpret-as="spell-out">S T U D Y</say-as></prosody> study
+"其他队伍"用英语怎么说？ 五，四，三，二，一。the other teams
+原文：We are going to study the other teams, too.
+作用：这一行总结两人的共同计划，说明她们不仅自己训练，还会研究对手，体现全面的备战策略。

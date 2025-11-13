@@ -1,0 +1,109 @@
+行号1
+Big Question: What sports does Julia do?
+大问题：朱莉娅做什么运动？
+Big Question: What sports does Julia do?
+问题：
+"运动"用英语怎么说？ 五，四，三，二，一。sports <prosody rate="slow"><say-as interpret-as="spell-out">S P O R T S</say-as></prosody> sports
+Big Question: What sports does Julia do?
+作用：这一行作为标题提出核心问题，引导读者关注朱莉娅所从事的运动项目。
+
+行号2
+I'm going to go swimming. Do you want to come, Billy?
+我要去游泳。你想一起来吗，比利？
+I'm going to go swimming. Do you want to come, Billy?
+问题：
+"去游泳"用英语怎么说？ 五，四，三，二，一。go swimming
+"想要做某事"用英语怎么说？ 五，四，三，二，一。want to do something
+I'm going to go swimming. Do you want to come, Billy?
+作用：这一行发起对话，父亲邀请比利一起去游泳，为后续讨论做铺垫。
+
+行号3
+No thanks, Dad. I'm afraid of water. I don't think I can do it well.
+不了，谢谢，爸爸。我害怕水。我觉得我做不好。
+No thanks, Dad. I'm afraid of water. I don't think I can do it well.
+问题：
+"害怕"用英语怎么说？ 五，四，三，二，一。be afraid of
+"做好某事"用英语怎么说？ 五，四，三，二，一。do something well
+No thanks, Dad. I'm afraid of water. I don't think I can do it well.
+作用：这一行表明比利拒绝邀请的原因，揭示他对水的恐惧和缺乏自信。
+
+行号4
+Oh, dear. You should have a try.
+哦，亲爱的。你应该试一试。
+Oh, dear. You should have a try.
+问题：
+"试一试"用英语怎么说？ 五，四，三，二，一。have a try
+Oh, dear. You should have a try.
+作用：这一行表达父亲的鼓励，建议比利尝试克服恐惧。
+
+行号5
+Well, I'm not sure.
+嗯，我不确定。
+Well, I'm not sure.
+问题：
+"不确定"用英语怎么说？ 五，四，三，二，一。not sure
+Well, I'm not sure.
+作用：这一行显示比利仍在犹豫，为父亲讲述励志故事创造机会。
+
+行号6
+Let me tell you the story of Julia Hawkins. She starts running after her 100th birthday. And she sets the world record for her age group in the 100-meter run.
+让我告诉你朱莉娅·霍金斯的故事。她在100岁生日后开始跑步。她在100米跑中创造了她所在年龄组的世界纪录。
+Let me tell you the story of Julia Hawkins. She starts running after her 100th birthday. And she sets the world record for her age group in the 100-meter run.
+问题：
+"开始做某事"用英语怎么说？ 五，四，三，二，一。start doing something
+"创造世界纪录"用英语怎么说？ 五，四，三，二，一。set the world record
+"年龄组"用英语怎么说？ 五，四，三，二，一。age group
+Let me tell you the story of Julia Hawkins. She starts running after her 100th birthday. And she sets the world record for her age group in the 100-meter run.
+作用：这一行引入朱莉娅的励志故事，用具体事例激励比利尝试新事物。
+
+行号7
+Wow, she's amazing.
+哇，她真了不起。
+Wow, she's amazing.
+问题：
+"了不起的"用英语怎么说？ 五，四，三，二，一。amazing <prosody rate="slow"><say-as interpret-as="spell-out">A M A Z I N G</say-as></prosody> amazing
+Wow, she's amazing.
+作用：这一行表达比利对朱莉娅的钦佩，显示故事开始产生影响。
+
+行号8
+That's right. At 105, she runs the 100 meters in 1 minute and 2.95 seconds.
+没错。在105岁时，她用1分2.95秒跑完100米。
+That's right. At 105, she runs the 100 meters in 1 minute and 2.95 seconds.
+问题：
+"跑完100米"用英语怎么说？ 五，四，三，二，一。run the 100 meters
+That's right. At 105, she runs the 100 meters in 1 minute and 2.95 seconds.
+作用：这一行提供更多细节，强调朱莉娅在高龄时的卓越成就。
+
+行号9
+She's so cool. I should try new things like her.
+她太酷了。我应该像她一样尝试新事物。
+She's so cool. I should try new things like her.
+问题：
+"酷的"用英语怎么说？ 五，四，三，二，一。cool <prosody rate="slow"><say-as interpret-as="spell-out">C O O L</say-as></prosody> cool
+"尝试新事物"用英语怎么说？ 五，四，三，二，一。try new things
+"像某人一样"用英语怎么说？ 五，四，三，二，一。like someone
+She's so cool. I should try new things like her.
+作用：这一行表明比利受到启发，决心效仿朱莉娅的勇气。
+
+行号10
+Great. Just start today.
+太好了。就从今天开始吧。
+Great. Just start today.
+问题：
+"开始"用英语怎么说？ 五，四，三，二，一。start <prosody rate="slow"><say-as interpret-as="spell-out">S T A R T</say-as></prosody> start
+Great. Just start today.
+作用：这一行表达父亲的赞许和鼓励，推动比利立即行动。
+
+行号11
+Okay. I'm in. Let's go.
+好的。我加入。我们走吧。
+Okay. I'm in. Let's go.
+问题：
+"加入"用英语怎么说？ 五，四，三，二，一。be in
+"走吧"用英语怎么说？ 五，四，三，二，一。let's go
+Okay. I'm in. Let's go.
+作用：这一行是对话的结尾，比利最终接受邀请，显示他克服了恐惧。
+
+总结全文
+父亲通过讲述朱莉娅·霍金斯在100岁后开始跑步并创造世界纪录的故事，成功鼓励害怕水的儿子比利尝试游泳。
+A father successfully encourages his son Billy, who is afraid of water, to try swimming by telling the story of Julia Hawkins who started running after age 100 and set world records.

@@ -1,0 +1,69 @@
+行号1
+Lingling's basketball test. What helps Lingling join the basketball team?
+玲玲的篮球测试。什么帮助玲玲加入篮球队？
+Lingling's basketball test. What helps Lingling join the basketball team?
+问题：
+"加入"用英语怎么说？ 五，四，三，二，一。join <prosody rate="slow"><say-as interpret-as="spell-out">J O I N</say-as></prosody> join
+"篮球队"用英语怎么说？ 五，四，三，二，一。basketball team
+"帮助某人做某事"用英语怎么说？ 五，四，三，二，一。help someone do something
+原文：Lingling's basketball test. What helps Lingling join the basketball team?
+作用：这一行作为标题，提出全文的核心问题，引导读者思考玲玲成功加入篮球队的原因。
+
+行号2
+Thursday 11 October. Our school's going to have a girls' basketball team. Amy and I want to join. We're going to have the test tomorrow.
+10月11日星期四。我们学校将要有一支女子篮球队。艾米和我想加入。我们明天要进行测试。
+Thursday 11 October. Our school's going to have a girls' basketball team. Amy and I want to join. We're going to have the test tomorrow.
+问题：
+"将要有"用英语怎么说？ 五，四，三，二，一。be going to have
+"女子篮球队"用英语怎么说？ 五，四，三，二，一。girls' basketball team
+"进行测试"用英语怎么说？ 五，四，三，二，一。have the test
+原文：Thursday 11 October. Our school's going to have a girls' basketball team. Amy and I want to join. We're going to have the test tomorrow.
+作用：这一行介绍了故事的起因，说明学校要组建女子篮球队，玲玲和艾米想加入并将参加选拔测试。
+
+行号3
+Friday 12 October. Amy is in. But I am out. I am very sad.
+10月12日星期五。艾米入选了。但我被淘汰了。我很伤心。
+Friday 12 October. Amy is in. But I am out. I am very sad.
+问题：
+"入选"用英语怎么说？ 五，四，三，二，一。be in
+"被淘汰"用英语怎么说？ 五，四，三，二，一。be out
+"伤心"用英语怎么说？ 五，四，三，二，一。sad <prosody rate="slow"><say-as interpret-as="spell-out">S A D</say-as></prosody> sad
+原文：Friday 12 October. Amy is in. But I am out. I am very sad.
+作用：这一行描述了第一次测试的结果，形成转折，玲玲落选感到失落，推动故事发展。
+
+行号4
+Sunday 14 October. Amy is so kind. She comes to play basketball with me. I'm going to work hard. I can make it next time.
+10月14日星期日。艾米真善良。她来和我一起打篮球。我要努力练习。我下次能成功。
+Sunday 14 October. Amy is so kind. She comes to play basketball with me. I'm going to work hard. I can make it next time.
+问题：
+"善良"用英语怎么说？ 五，四，三，二，一。kind <prosody rate="slow"><say-as interpret-as="spell-out">K I N D</say-as></prosody> kind
+"努力练习"用英语怎么说？ 五，四，三，二，一。work hard
+"成功"用英语怎么说？ 五，四，三，二，一。make it
+原文：Sunday 14 October. Amy is so kind. She comes to play basketball with me. I'm going to work hard. I can make it next time.
+作用：这一行展现了故事的转机，艾米帮助玲玲练习，玲玲重拾信心并决心努力，体现友谊和毅力的主题。
+
+行号5
+Friday 26 October. There's going to be a test again. I'm still not sure. But I'm going to try again.
+10月26日星期五。又要进行一次测试了。我仍然不确定。但我要再试一次。
+Friday 26 October. There's going to be a test again. I'm still not sure. But I'm going to try again.
+问题：
+"又要"用英语怎么说？ 五，四，三，二，一。be going to...again
+"不确定"用英语怎么说？ 五，四，三，二，一。not sure
+"再试一次"用英语怎么说？ 五，四，三，二，一。try again
+原文：Friday 26 October. There's going to be a test again. I'm still not sure. But I'm going to try again.
+作用：这一行描述了第二次测试前玲玲的心理状态，虽然不确定但勇于尝试，体现了她的成长和勇气。
+
+行号6
+Sunday 28 October. I'm in! I'm so happy. I'm going to play with Amy and my other friends!
+10月28日星期日。我入选了！我太高兴了。我要和艾米以及其他朋友们一起打球！
+Sunday 28 October. I'm in! I'm so happy. I'm going to play with Amy and my other friends!
+问题：
+"入选"用英语怎么说？ 五，四，三，二，一。be in
+"高兴"用英语怎么说？ 五，四，三，二，一。happy <prosody rate="slow"><say-as interpret-as="spell-out">H A P P Y</say-as></prosody> happy
+"和...一起打球"用英语怎么说？ 五，四，三，二，一。play with
+原文：Sunday 28 October. I'm in! I'm so happy. I'm going to play with Amy and my other friends!
+作用：这一行是故事的高潮和结局，玲玲最终成功入选，体现了努力和坚持的回报，呼应了标题的问题。
+
+总结全文
+玲玲通过朋友的帮助、努力练习和坚持不懈，最终成功加入了篮球队。
+Lingling successfully joined the basketball team through her friend's help, hard work, and perseverance.

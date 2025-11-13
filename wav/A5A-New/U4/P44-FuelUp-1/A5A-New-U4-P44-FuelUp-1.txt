@@ -1,0 +1,52 @@
+行号1
+Try it out.
+试一试。
+Try it out.
+问题：
+"试一试"用英语怎么说？ 五，四，三，二，一。try it out
+原文：Try it out.
+作用：这一行作为开篇，发出行动号召，鼓励读者尝试新事物。
+
+行号2
+Do you want to try Something new?
+你想尝试新事物吗？
+Do you want to try Something new?
+问题：
+"尝试"用英语怎么说？ 五，四，三，二，一。try <prosody rate="slow"><say-as interpret-as="spell-out">T R Y</say-as></prosody> try
+"新事物"用英语怎么说？ 五，四，三，二，一。something new
+原文：Do you want to try Something new?
+作用：这一行通过提问的方式引出话题，激发读者对尝试新事物的思考。
+
+行号3
+Yes, but I'm afraid. I don't know what to do!
+是的，但我害怕。我不知道该做什么！
+Yes, but I'm afraid. I don't know what to do!
+问题：
+"害怕"用英语怎么说？ 五，四，三，二，一。afraid <prosody rate="slow"><say-as interpret-as="spell-out">A F R A I D</say-as></prosody> afraid
+"知道该做什么"用英语怎么说？ 五，四，三，二，一。know what to do
+原文：Yes, but I'm afraid. I don't know what to do!
+作用：这一行表达了面对新事物时的恐惧和迷茫心理，呈现内心冲突。
+
+行号4
+Well, you may fail. But that's okay.
+嗯，你可能会失败。但那没关系。
+Well, you may fail. But that's okay.
+问题：
+"失败"用英语怎么说？ 五，四，三，二，一。fail <prosody rate="slow"><say-as interpret-as="spell-out">F A I L</say-as></prosody> fail
+"没关系"用英语怎么说？ 五，四，三，二，一。that's okay
+原文：Well, you may fail. But that's okay.
+作用：这一行承认失败的可能性，但传递接纳失败的积极态度，消除顾虑。
+
+行号5
+We can all be great. Just start it today!
+我们都可以变得很棒。就从今天开始吧！
+We can all be great. Just start it today!
+问题：
+"变得很棒"用英语怎么说？ 五，四，三，二，一。be great
+"开始"用英语怎么说？ 五，四，三，二，一。start <prosody rate="slow"><say-as interpret-as="spell-out">S T A R T</say-as></prosody> start
+原文：We can all be great. Just start it today!
+作用：这一行作为结尾，传递鼓舞人心的信息，呼吁立即行动。
+
+总结全文
+不要害怕尝试新事物，接纳失败，立即开始行动，我们都能变得很棒。
+Don't be afraid to try new things, accept failure, start taking action today, and we can all be great.
