@@ -1,0 +1,15 @@
+行号1 The lantern show for the mid-autumn festival is coming. Let's make lanterns for the show. 中秋节的灯展快到了。让我们为灯展制作灯笼吧。 The lantern show for the mid-autumn festival is coming. Let's make lanterns for the show. 问题: "中秋节"用英语怎么说？ 五，四，三，二，一。mid-autumn festival "制作"用英语怎么说？ 五，四，三，二，一。make <prosody rate="slow"><say-as interpret-as="spell-out">M A K E</say-as></prosody> make "灯展"用英语怎么说？ 五，四，三，二，一。lantern show The lantern show for the mid-autumn festival is coming. Let's make lanterns for the show. 作用: 这一行交代了对话的背景事件，并提出了具体的活动建议。
+
+行号2 That sounds great! What kind of lantern are you going to make, Lingling? 听起来很棒！玲玲，你打算做什么样的灯笼？ That sounds great! What kind of lantern are you going to make, Lingling? 问题: "听起来"用英语怎么说？ 五，四，三，二，一。sound <prosody rate="slow"><say-as interpret-as="spell-out">S O U N D</say-as></prosody> sound "什么种类的"用英语怎么说？ 五，四，三，二，一。what kind of That sounds great! What kind of lantern are you going to make, Lingling? 作用: 这一行表达了对建议的赞同，并向特定人物询问具体计划。
+
+行号3 I'm going to make a rabbit lantern. How about you, Sam? 我打算做一个兔子灯笼。你呢，萨姆？ I'm going to make a rabbit lantern. How about you, Sam? 问题: "兔子"用英语怎么说？ 五，四，三，二，一。rabbit <prosody rate="slow"><say-as interpret-as="spell-out">R A B B I T</say-as></prosody> rabbit "你呢"（用于反问）用英语怎么说？ 五，四，三，二，一。how about you I'm going to make a rabbit lantern. How about you, Sam? 作用: 这一行回答了上一个问题，并将话题转移给另一个人。
+
+行号4 I'm going to make a dog lantern. Amy and Daming? 我打算做一个狗灯笼。艾米和大明呢？ I'm going to make a dog lantern. Amy and Daming? 问题: "狗"用英语怎么说？ 五，四，三，二，一。dog <prosody rate="slow"><say-as interpret-as="spell-out">D O G</say-as></prosody> dog I'm going to make a dog lantern. Amy and Daming? 作用: 这一行陈述了说话者的计划，并继续询问其他人的打算。
+
+行号5 I'm going to make flower and fish lanterns. 我打算做花朵和鱼的灯笼。 I'm going to make flower and fish lanterns. 问题: "花"用英语怎么说？ 五，四，三，二，一。flower <prosody rate="slow"><say-as interpret-as="spell-out">F L O W E R</say-as></prosody> flower "鱼"用英语怎么说？ 五，四，三，二，一。fish <prosody rate="slow"><say-as interpret-as="spell-out">F I S H</say-as></prosody> fish I'm going to make flower and fish lanterns. 作用: 这一行描述了剩余人物的具体制作计划。
+
+行号6 I want to make an orange lantern with a small candle in it. 我想做一个里面有小蜡烛的橘子灯笼。 I want to make an orange lantern with a small candle in it. 问题: "想要"用英语怎么说？ 五，四，三，二，一。want <prosody rate="slow"><say-as interpret-as="spell-out">W A N T</say-as></prosody> want "橘子"用英语怎么说？ 五，四，三，二，一。orange <prosody rate="slow"><say-as interpret-as="spell-out">O R A N G E</say-as></prosody> orange "蜡烛"用英语怎么说？ 五，四，三，二，一。candle <prosody rate="slow"><say-as interpret-as="spell-out">C A N D L E</say-as></prosody> candle I want to make an orange lantern with a small candle in it. 作用: 这一行补充了对灯笼设计的详细构想。
+
+行号7 That's great! Let's get started. It will be fun! 太棒了！让我们开始吧。这会很有趣！ That's great! Let's get started. It will be fun! 问题: "开始"（短语）用英语怎么说？ 五，四，三，二，一。get started "有趣的"用英语怎么说？ 五，四，三，二，一。fun <prosody rate="slow"><say-as interpret-as="spell-out">F U N</say-as></prosody> fun That's great! Let's get started. It will be fun! 作用: 这一行表达了热情，并标志着准备工作的结束和实际行动的开始。
+
+总结全文 朋友们在中秋节前夕聚在一起，讨论并分享了各自制作不同种类灯笼的计划。 Friends gather before the Mid-Autumn Festival to discuss and share their plans for making different kinds of lanterns.

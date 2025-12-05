@@ -1,0 +1,11 @@
+行号1 New Year's coming! 新年就要到了！ New Year's coming! 问题： "来"用英语怎么说？ 五，四，三，二，一。come <prosody rate="slow"><say-as interpret-as="spell-out">C O M E</say-as></prosody> come 原文: New Year's coming! 作用: 这一行开门见山地点明了主题，营造出一种期待的氛围。
+
+行号2 New Year is near. Our friends are here. 新年近在咫尺。我们的朋友都在这儿。 New Year is near. Our friends are here. 问题： "临近"用英语怎么说？ 五，四，三，二，一。near <prosody rate="slow"><say-as interpret-as="spell-out">N E A R</say-as></prosody> near "在这里"用英语怎么说？ 五，四，三，二，一。here <prosody rate="slow"><say-as interpret-as="spell-out">H E R E</say-as></prosody> here 原文: New Year is near. Our friends are here. 作用: 这一行描述了节日的时间紧迫感以及朋友相聚的温馨场景。
+
+行号3 Put up balloons and lights. There's a party at night. 挂起气球和彩灯。晚上有一场派对。 Put up balloons and lights. There's a party at night. 问题： "张贴"或"挂起"用英语怎么说？ 五，四，三，二，一。put up "在晚上"用英语怎么说？ 五，四，三，二，一。at night 原文: Put up balloons and lights. There's a party at night. 作用: 这一行详细描写了庆祝活动的准备工作和具体的庆祝方式。
+
+行号4 We cook good food and sing. Soon the bells will ring! 我们做美食，唱歌。钟声很快就要敲响了！ We cook good food and sing. Soon the bells will ring! 问题： "烹饪"用英语怎么说？ 五，四，三，二，一。cook <prosody rate="slow"><say-as interpret-as="spell-out">C O O K</say-as></prosody> cook "唱歌"用英语怎么说？ 五，四，三，二，一。sing <prosody rate="slow"><say-as interpret-as="spell-out">S I N G</say-as></prosody> sing "(钟/铃)鸣响"用英语怎么说？ 五，四，三，二，一。ring <prosody rate="slow"><say-as interpret-as="spell-out">R I N G</say-as></prosody> ring 原文: We cook good food and sing. Soon the bells will ring! 作用: 这一行通过描写具体的动作和即将响起的钟声，将欢乐的气氛推向高潮。
+
+行号5 Happy New Year, everyone! Let's look to the future and have fun! 大家新年快乐！让我们展望未来，尽情玩乐！ Happy New Year, everyone! Let's look to the future and have fun! 问题： "展望"或"指望"用英语怎么说？ 五，四，三，二，一。look to "玩得开心"用英语怎么说？ 五，四，三，二，一。have fun 原文: Happy New Year, everyone! Let's look to the future and have fun! 作用: 这一行表达了新年的祝福，并以积极乐观的态度展望未来，总结了全诗的情感。
+
+总结全文 这首诗描绘了新年庆祝活动的欢乐场景，包括装饰、聚会、美食以及对未来的美好展望。 This poem depicts the joyful scene of New Year celebrations, including decorations, parties, good food, and a positive outlook for the future.

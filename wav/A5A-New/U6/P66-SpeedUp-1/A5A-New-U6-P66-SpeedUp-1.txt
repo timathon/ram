@@ -1,0 +1,33 @@
+行号1 What's the Christmas tree? Barbapapa's Christmas tree. 什么是圣诞树？巴巴爸爸的圣诞树。 What's the Christmas tree? Barbapapa's Christmas tree. 问题: "圣诞树"用英语怎么说？ 五，四，三，二，一。Christmas tree 原文: What's the Christmas tree? Barbapapa's Christmas tree. 作用: 这一行是故事的标题，引出了故事的主角巴巴爸爸和核心事物圣诞树。
+
+行号2 Christmas is coming! 圣诞节快到了！ Christmas is coming! 问题: "来"用英语怎么说？ 五，四，三，二，一。come <prosody rate="slow"><say-as interpret-as="spell-out">C O M E</say-as></prosody> come 原文: Christmas is coming! 作用: 这一行交代了故事发生的时间背景，营造了节日的期待感。
+
+行号3 But Dad, we haven't got a Christmas tree. 但是爸爸，我们还没有圣诞树。 But Dad, we haven't got a Christmas tree. 问题: "拥有"用英语怎么说？ 五，四，三，二，一。have <prosody rate="slow"><say-as interpret-as="spell-out">H A V E</say-as></prosody> have 原文: But Dad, we haven't got a Christmas tree. 作用: 这一行提出了故事的冲突点，孩子们指出了缺失圣诞树的问题。
+
+行号4 I'll go to the forest and get us a tree. 我会去森林给我们弄一棵树。 I'll go to the forest and get us a tree. 问题: "去"用英语怎么说？ 五，四，三，二，一。go <prosody rate="slow"><say-as interpret-as="spell-out">G O</say-as></prosody> go "去往"用英语怎么说？ 五，四，三，二，一。go to "取；拿"用英语怎么说？ 五，四，三，二，一。get <prosody rate="slow"><say-as interpret-as="spell-out">G E T</say-as></prosody> get 原文: I'll go to the forest and get us a tree. 作用: 这一行展示了爸爸解决问题的方案，推动情节发展。
+
+行号5 This one is good. 这棵不错。 This one is good. 问题: "好的"用英语怎么说？ 五，四，三，二，一。good <prosody rate="slow"><say-as interpret-as="spell-out">G O O D</say-as></prosody> good 原文: This one is good. 作用: 这一行描绘了爸爸在森林中挑选树木的过程。
+
+行号6 Please don't cut down this tree. It's our home. 请不要砍倒这棵树。这是我们的家。 Please don't cut down this tree. It's our home. 问题: "砍倒"用英语怎么说？ 五，四，三，二，一。cut down 原文: Please don't cut down this tree. It's our home. 作用: 这一行引入了新的阻碍，动物们请求保护它们的家园。
+
+行号7 This one is good, too. 这棵也不错。 This one is good, too. 问题: "也"用英语怎么说？ 五，四，三，二，一。too <prosody rate="slow"><say-as interpret-as="spell-out">T O O</say-as></prosody> too 原文: This one is good, too. 作用: 这一行展示了爸爸尝试寻找替代方案。
+
+行号8 Please don't. 请不要。 Please don't. 问题: "请"用英语怎么说？ 五，四，三，二，一。please <prosody rate="slow"><say-as interpret-as="spell-out">P L E A S E</say-as></prosody> please 原文: Please don't. 作用: 这一行再次强调了阻碍，动物们拒绝了爸爸的第二次尝试。
+
+行号9 Why? You don't live in a tree. 为什么？你不住在树里。 Why? You don't live in a tree. 问题: "居住"用英语怎么说？ 五，四，三，二，一。live <prosody rate="slow"><say-as interpret-as="spell-out">L I V E</say-as></prosody> live "居住在"用英语怎么说？ 五，四，三，二，一。live in 原文: Why? You don't live in a tree. 作用: 这一行表达了爸爸的困惑和质疑。
+
+行号10 But I live in the forest. Animals here need these trees. 但我住在森林里。这里的动物需要这些树。 But I live in the forest. Animals here need these trees. 问题: "需要"用英语怎么说？ 五，四，三，二，一。need <prosody rate="slow"><say-as interpret-as="spell-out">N E E D</say-as></prosody> need 原文: But I live in the forest. Animals here need these trees. 作用: 这一行解释了为什么不能砍树的原因，提升了环保的主题。
+
+行号11 I see. You're right. 我明白。你说得对。 I see. You're right. 问题: "明白"用英语怎么说？ 五，四，三，二，一。see <prosody rate="slow"><say-as interpret-as="spell-out">S E E</say-as></prosody> see 原文: I see. You're right. 作用: 这一行展示了爸爸的通情达理和对动物生存权利的尊重。
+
+行号12 What should I do? The children are waiting at home. Oh! I have an idea! 我该怎么办？孩子们在家里等着呢。哦！我有个主意！ What should I do? The children are waiting at home. Oh! I have an idea! 问题: "应该"用英语怎么说？ 五，四，三，二，一。should <prosody rate="slow"><say-as interpret-as="spell-out">S H O U L D</say-as></prosody> should "等待"用英语怎么说？ 五，四，三，二，一。wait <prosody rate="slow"><say-as interpret-as="spell-out">W A I T</say-as></prosody> wait "有一个主意"用英语怎么说？ 五，四，三，二，一。have an idea 原文: What should I do? The children are waiting at home. Oh! I have an idea! 作用: 这一行是故事的高潮转折点，爸爸在困境中想到了解决办法。
+
+行号13 Then, Barbapapa transforms into a big Christmas tree. 然后，巴巴爸爸变成了一棵大圣诞树。 Then, Barbapapa transforms into a big Christmas tree. 问题: "变成"用英语怎么说？ 五，四，三，二，一。transform into 原文: Then, Barbapapa transforms into a big Christmas tree. 作用: 这一行揭示了最终的解决方案，展示了巴巴爸爸神奇的变形能力。
+
+行号14 Merry Christmas, everyone! 大家圣诞快乐！ Merry Christmas, everyone! 问题: "大家"用英语怎么说？ 五，四，三，二，一。everyone <prosody rate="slow"><say-as interpret-as="spell-out">E V E R Y O N E</say-as></prosody> everyone 原文: Merry Christmas, everyone! 作用: 这一行表达了节日的祝福，气氛转为欢乐。
+
+行号15 Dad, the Christmas tree is great! 爸爸，这棵圣诞树太棒了！ Dad, the Christmas tree is great! 问题: "很棒的"用英语怎么说？ 五，四，三，二，一。great <prosody rate="slow"><say-as interpret-as="spell-out">G R E A T</say-as></prosody> great 原文: Dad, the Christmas tree is great! 作用: 这一行展示了孩子们对爸爸变身的认可和喜悦。
+
+行号16 No one will have a tree like this. We love it, Dad! 没人会有像这样的树。我们爱它，爸爸！ No one will have a tree like this. We love it, Dad! 问题: "像"用英语怎么说？ 五，四，三，二，一。like <prosody rate="slow"><say-as interpret-as="spell-out">L I K E</say-as></prosody> like "喜爱"用英语怎么说？ 五，四，三，二，一。love <prosody rate="slow"><say-as interpret-as="spell-out">L O V E</say-as></prosody> love 原文: No one will have a tree like this. We love it, Dad! 作用: 这一行总结了故事，强调了这棵树的独特性和家庭的温情。
+
+总结全文 巴巴爸爸为了保护森林里的树木，放弃砍树，利用自己的变形能力变成了一棵独一无二的圣诞树，既保护了环境又让孩子们开心。 Barbapapa chooses to protect the forest trees by not cutting them down and instead uses his transformation ability to become a unique Christmas tree, satisfying both the need for environmental protection and his children's happiness.
